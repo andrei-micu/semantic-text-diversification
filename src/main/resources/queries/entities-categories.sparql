@@ -1,0 +1,8 @@
+PREFIX calais-pred: <http://s.opencalais.com/1/pred/>
+
+SELECT ?result
+WHERE {
+ OPTIONAL { ?subject calais-pred:name ?result }
+ OPTIONAL { ?subject calais-pred:categoryName ?result }
+ FILTER regex(str(?subject), "/SocialTag/|/cat/")
+}
