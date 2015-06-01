@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982> ;
+        c:importance     "1" ;
+        c:name           "Legal procedure" ;
+        c:originalValue  "Legal procedure" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ebdfabc-ead7-365f-a9c2-45622a965c50> .
+
+<http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982> ;
+        c:importance     "1" ;
+        c:name           "Juries" ;
+        c:originalValue  "Juries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a361383-133a-38da-87ac-2a57f217a60f> .
+
+<http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nA1D7t8W7nGho2j4HC40knAx1C0=|jVVMHs7s+ODlIRbYI3yiQA69d6WMpRpfEQd4dSTSedtXgb86IoQk5g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:59.934" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "17116890-96d2-de71-4da5-4210fe653edc" ;
+        c:docDate          "2015-05-30 09:38:00.074" ;
+        c:docTitle         "" ;
+        c:document         "In the Jury Room, 18 Days of Debate and Disagreement End in a Frustrating Mistrial. For 18 days, the jurors had sat elbow to elbow around a rectangular table inside State Supreme Court building in Lower Manhattan, trying to reach consensus on whether a man committed a notorious crime." ;
+        c:id               "http://id.opencalais.com/Ud5pkqDzOfydoPZ18sw6hQ" .
+
+<http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34aab759-3f0b-34e4-8718-e88705d70982> ;
+        c:importance     "1" ;
+        c:name           "Trial" ;
+        c:originalValue  "Trial" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88e02e3d-e15b-3f70-82c5-8b918c8c087c> .

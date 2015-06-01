@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:importance     "2" ;
+        c:name           "Military personnel" ;
+        c:originalValue  "Military personnel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3df1101-0b09-37b1-89c4-540c1143c61d> .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:importance     "1" ;
+        c:name           "Forbes family" ;
+        c:originalValue  "Forbes family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0137adf7-e827-3d2f-845a-239e3b3d498e> .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:importance     "2" ;
+        c:name           "Vladimir Putin" ;
+        c:originalValue  "Vladimir Putin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5b9e3a3c-eac9-3d3a-b91f-c7f854edc9f7> .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|niclDdkjnZU/zHd3WSdPTlIkwcU=|lAYCo/Avg//w4H827YeJjjWwrtlKcCiq74iuKIFeTfXynJ1dVAXmSw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:15.501" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dae7c3d8-0ead-dc00-14da-545f74d719b3" ;
+        c:docDate          "2015-05-30 10:42:15.642" ;
+        c:docTitle         "" ;
+        c:document         "News Analysis: A Diplomatic Victory, and Affirmation, for Putin. A visit by Secretary of State John Kerry was seen as an olive branch and an acknowledgment that Russia is too important to ignore." ;
+        c:id               "http://id.opencalais.com/EjUiij*jfEYKEXsya7ipKQ" .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:importance     "1" ;
+        c:name           "John Kerry" ;
+        c:originalValue  "John Kerry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/12487276-3cd9-372c-b525-5a3a867eb33d> .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:importance     "1" ;
+        c:name           "Dudley–Winthrop family" ;
+        c:originalValue  "Dudley–Winthrop family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c2428079-8435-3b84-a561-4446b22cfdbd> .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:importance     "2" ;
+        c:name           "Government of Russia" ;
+        c:originalValue  "Government of Russia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1150038-df2a-3261-834e-f9cc92f70b67> .
+
+<http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e8d39035-7806-32f6-8209-0e07dae71764> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:importance     "1" ;
+        c:name           "Pimlico Race Course" ;
+        c:originalValue  "Pimlico Race Course" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/48f5d6ff-a6ff-3253-8473-adea6ce1c2e7> .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:importance     "2" ;
+        c:name           "Al Michaels" ;
+        c:originalValue  "Al Michaels" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40b2b96f-1975-3c82-90e7-2f48ef220086> .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:importance     "2" ;
+        c:name           "National Basketball Association" ;
+        c:originalValue  "National Basketball Association" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6554ea2-1028-3a63-ba63-0251997bf5b1> .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:score           "0.898" .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "134f62e4-2290-cea4-14da-5464205653ed" ;
+        c:docDate          "2015-05-30 09:42:34.863" ;
+        c:docTitle         "" ;
+        c:document         "Basketball Playoffs And Preakness: The Week In Sports. The field is narrowing in both the NBA and NHL playoffs, and it's time for the Preakness Stakes. Sports correspondent Tom Goldman joins NPR's Scott Simon to talk about the week in sports." ;
+        c:id               "http://id.opencalais.com/0l3zxA49D8P4Ur5Lz0ft4g" .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:importance     "1" ;
+        c:name           "Preakness Stakes" ;
+        c:originalValue  "Preakness Stakes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0637f0a-7525-3bf9-b664-524d41dba0b8> .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:importance     "1" ;
+        c:name           "Horse racing" ;
+        c:originalValue  "Horse racing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a6aec9f-0827-39ea-9e59-e157859ee6d8> .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:importance     "2" ;
+        c:name           "Preakness" ;
+        c:originalValue  "Preakness (horse)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6aeafba6-21a9-3b22-9f68-7fabd1cdbf16> .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|kjQD1alTA4uHU+yqPS5txDYexKk=|Dx3frxF2ZTBuKMXvbRXY5t2Yy5WCFvi1cBo1thGFz+i0A750nAL48A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:34.629" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ccc83f22-3c3f-317b-a428-44a5289d917b> ;
+        c:importance     "2" ;
+        c:name           "Triple Crown of Thoroughbred Racing" ;
+        c:originalValue  "Triple Crown of Thoroughbred Racing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/19259c95-f257-313f-a047-69fb16b88f6d> .

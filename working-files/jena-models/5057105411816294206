@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "768fc521-e0e1-292b-14da-542622834709" ;
+        c:docDate          "2015-05-30 09:38:20.868" ;
+        c:docTitle         "" ;
+        c:document         "Britain's Cameron won big by selling stability over fear. LONDON (Reuters) - Prime Minister David Cameron sealed a surprise election win by persuading Britons to choose the security of modestly rising living standards over an implausible pretender many feared could become the puppet of Scottish nationalists." ;
+        c:id               "http://id.opencalais.com/x-P0dZxkr9SfDjn*xqHpcw" .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:importance     "1" ;
+        c:name           "Celtic nationalism" ;
+        c:originalValue  "Celtic nationalism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dbcaef22-219a-3f62-a231-ed43442d3cfb> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:importance     "2" ;
+        c:name           "Scottish independence" ;
+        c:originalValue  "Scottish independence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d4ed96b-be47-35e4-a3a8-20aec5b41f53> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:importance     "2" ;
+        c:name           "Government of the United Kingdom" ;
+        c:originalValue  "Government of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d45bacda-5613-3e29-a6de-b37f79a3bd80> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:importance     "2" ;
+        c:name           "Prime Minister of the United Kingdom" ;
+        c:originalValue  "Prime Minister of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f2215ce2-888d-347e-9ff5-2f019e559fd2> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United Kingdom" ;
+        c:originalValue  "Politics of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afa7f5e7-5618-3463-aa66-5a83f5de101f> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:importance     "2" ;
+        c:name           "Cameron" ;
+        c:originalValue  "Cameron (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b1ec9b4-428f-35aa-85d5-31f76405acfe> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:importance     "2" ;
+        c:name           "David Cameron" ;
+        c:originalValue  "David Cameron" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2f7fa478-7c94-3470-9d1a-a5bc838c6f8b> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ee/oT+BI9Pb/fAqaMZowmqTqQgw=|F8GNd9HMenSLAar6QvRq5Df5j8dfEs45GqQG4qn8megorLaE3zczlA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:20.712" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:importance     "1" ;
+        c:name           "Nationalism" ;
+        c:originalValue  "Nationalism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a2559054-15bf-34cf-9ba8-9de983cb3954> .
+
+<http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56bf6fea-e31a-3e61-bf13-26f374268e0d> ;
+        c:importance     "2" ;
+        c:name           "Irish nationalism" ;
+        c:originalValue  "Irish nationalism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f600df18-29b3-3d1e-a8dc-81bd18aa9990> .

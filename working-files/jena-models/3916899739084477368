@@ -1,0 +1,168 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|CnsIidhBuiBeuvy657bDxrE9hs0=|jYPdqiwpgg2YRcYFm0n2DYEV2Ed2sIq84xWTOcHYBAd2/cA26Zk5lQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:44.050" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance     "2" ;
+        c:name           "YouTube" ;
+        c:originalValue  "YouTube" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c624382-06ae-3e95-b15b-4edbcb52ad53> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "36756ede-7090-f5b4-14da-539959232955" ;
+        c:docDate          "2015-05-30 10:28:44.253" ;
+        c:docTitle         "" ;
+        c:document         "Fitness guru called fat; see her viral response. YouTube fitness star Cassey Ho responded to negative comments about her looks in a video that has gone viral." ;
+        c:id               "http://id.opencalais.com/sR7RDKsphe01pErXVqAeug" .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance     "2" ;
+        c:name           "Web 2.0" ;
+        c:originalValue  "Web 2.0" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b5386f7-28c7-39fd-8071-8290dbc329a2> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance     "2" ;
+        c:name           "Video hosting" ;
+        c:originalValue  "Video hosting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5ec1e3f9-055d-35d6-a1dc-1bb2600d8cbd> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/cat/5>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:score           "0.523" .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance     "1" ;
+        c:name           "Subtitling" ;
+        c:originalValue  "Subtitling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f4548f7a-6f11-31d6-9c54-691828252d18> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance     "2" ;
+        c:name           "Viral videos" ;
+        c:originalValue  "Viral videos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ca4adb0-9cc6-3dbc-b71b-44be342629bc> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:score           "0.917" .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance     "1" ;
+        c:name           "Free music" ;
+        c:originalValue  "Free music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c5e0890-aedb-39ce-b210-a34bc536120a> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance     "2" ;
+        c:name           "Digital media" ;
+        c:originalValue  "Digital media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/771e4d9a-b0cd-37a2-bec6-6840c4cafab3> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:score           "0.984" .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance     "1" ;
+        c:name           "World Wide Web" ;
+        c:originalValue  "World Wide Web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9234a67-1d5c-3451-83e0-fb48ce4187d8> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance     "2" ;
+        c:name           "Internet" ;
+        c:originalValue  "Internet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3f32ae31-f0e1-3522-a388-69fcd5835292> .
+
+<http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/91b51f80-cf56-3a6b-accf-404a494a5912> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .

@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6> ;
+        c:score           "0.661" .
+
+<http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6> ;
+        c:importance     "1" ;
+        c:name           "Oahu" ;
+        c:originalValue  "Oahu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6de107d-a753-39be-98e9-a6a2cb789d03> .
+
+<http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a8b96eb2-6639-60d8-14da-54b994f35464" ;
+        c:docDate          "2015-05-30 10:48:24.842" ;
+        c:docTitle         "" ;
+        c:document         "Top 10 U.S. beaches for 2015 are .... An hour's drive from Oahu's famous and often-crowded Waikiki Beach is a local's delight." ;
+        c:id               "http://id.opencalais.com/-LLTCsbQOmAqGNMvHe7mBg" .
+
+<http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cy85W0eKiTHyLvK9sarJXk1DWNk=|f3FfHc+Hvxa4tfLFBeF78voc/xRCBY3Mr2+M1+ACV6jyf6SCF+xDqA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:24.655" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fbcce500-31c3-3ee0-b02e-0160a49135f6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

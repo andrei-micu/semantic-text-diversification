@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8> ;
+        c:score           "0.993" .
+
+<http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|RE1JHnkwBpN2qtoCsfr2Rav9S34=|fbx6xLpPwdBs+YsJrnqNiXIvzeiSRmGvlm4vgJdy9cec/xs5RbW0iQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:59.461" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8> ;
+        c:importance     "1" ;
+        c:name           "Manny Ramirez" ;
+        c:originalValue  "Manny Ramirez" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf8b02a7-75fb-3d56-b70b-923ff39fa58f> .
+
+<http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8> ;
+        c:importance     "1" ;
+        c:name           "Sex education" ;
+        c:originalValue  "Sex education" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/959184c6-5d91-30df-8599-23c7649baca4> .
+
+<http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7ae6ac6f-444c-6725-14da-54a4c8535464" ;
+        c:docDate          "2015-05-30 10:46:59.788" ;
+        c:docTitle         "" ;
+        c:document         "Take It Outside: Teaching Sex Ed On The Streets Of New York. Sex education often occurs in one of two places: at home or at school. Francisco Ramirez is bringing the subject out into the open." ;
+        c:id               "http://id.opencalais.com/sNKOYzaGXF3Skz*cYBzQow" .
+
+<http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/556793a7-d1bc-32bb-8e57-d77a748958d8> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .

@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:importance     "1" ;
+        c:name           "Metropolitan Museum of Art" ;
+        c:originalValue  "Metropolitan Museum of Art" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/697559b6-0dcf-314c-9d9d-a9a7dce1d9d5> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:importance     "2" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ub4bl3T9A7mMHYmollHCds/UF8Y=|GhhMEjtX57J8A3hoS2tIAYvf1q0t+DKQQnn/sVSNmcCxlgbFURU6Eg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:04.833" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "20e061aa-c050-54fd-14da-53e7aa132955" ;
+        c:docDate          "2015-05-30 10:34:05.083" ;
+        c:docTitle         "" ;
+        c:document         "2015 Met Gala: Red carpet. Celebrities arrive for the Metropolitan Museum of Art's Costume Institute Gala in New York. See pictures from the red carpet." ;
+        c:id               "http://id.opencalais.com/G8ncVGVgS5QiAsOPLKdQQA" .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:importance     "1" ;
+        c:name           "Balls" ;
+        c:originalValue  "Balls (dance)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a3df8e3b-ad73-3164-a60d-d874718ad701> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:importance     "2" ;
+        c:name           "New York" ;
+        c:originalValue  "New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/461159b1-6be8-3031-b1dd-039ee48ba761> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:importance     "2" ;
+        c:name           "Vogue" ;
+        c:originalValue  "Vogue (magazine)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83c07e6f-558d-3768-bd92-a440d0288859> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:score           "0.935" .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:importance     "1" ;
+        c:name           "Met Ball" ;
+        c:originalValue  "Met Ball" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c344eb3-b0bd-358b-bff8-859c10d11eb9> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:importance     "2" ;
+        c:name           "Gala" ;
+        c:originalValue  "Gala (apple)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/33a7b3f9-4369-3737-85e4-73e9a1004340> .
+
+<http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc9feeac-da24-34ed-b3e6-8ae7f988a83d> ;
+        c:importance     "2" ;
+        c:name           "Red carpet" ;
+        c:originalValue  "Red carpet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6fcf8eb-32ae-32f2-a1c9-875751a7c951> .

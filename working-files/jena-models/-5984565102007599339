@@ -1,0 +1,68 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8> ;
+        c:importance     "2" ;
+        c:name           "Roger Mayweather" ;
+        c:originalValue  "Roger Mayweather" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/400f7a53-0111-3f69-883f-78c53920736d> .
+
+<http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|S9MdwLxz8EPz0/07pcQmmuQ27PM=|cWe34fCPCESdTjJdFPQIsg2Jtt8o9+Nr/TZdAF5dNMIy6wTkEeVxVg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:24:26.437" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a93ae5dd-b396-d15b-14da-535a7451df07" ;
+        c:docDate          "2015-05-30 09:24:26.656" ;
+        c:docTitle         "" ;
+        c:document         "Tragic tale of last man to beat Mayweather . When the so-called \"Fight of the Century\" finally takes place in Las Vegas on Saturday, there will be great interest in the result in a Soviet-style housing estate thousands of miles away in eastern Europe." ;
+        c:id               "http://id.opencalais.com/Dhs6LObMjTGIeBTCtfC9Mw" .
+
+<http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8> ;
+        c:importance     "1" ;
+        c:name           "Golden Boy Promotions" ;
+        c:originalValue  "Golden Boy Promotions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18182930-2963-37b2-8df5-8e7b92cdb209> .
+
+<http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8> ;
+        c:importance     "1" ;
+        c:name           "Boxing" ;
+        c:originalValue  "Boxing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7ca63f2-7de1-3e00-9675-849734b5d318> .
+
+<http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8> ;
+        c:importance     "2" ;
+        c:name           "Floyd Mayweather, Jr." ;
+        c:originalValue  "Floyd Mayweather, Jr." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c87819e1-0a82-3823-8ede-f17fa20137b4> .
+
+<http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b459c79-a955-3086-82aa-89a455a754b8> ;
+        c:importance     "1" ;
+        c:name           "Boxers" ;
+        c:originalValue  "Boxers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3efd9ea-f523-3c07-a91a-b5c6a62ab60d> .

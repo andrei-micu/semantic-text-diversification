@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a> ;
+        c:score           "0.717" .
+
+<http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a> ;
+        c:importance     "1" ;
+        c:name           "Singles" ;
+        c:originalValue  "Singles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ffe7e736-9f32-38a4-9919-05a92233aa3e> .
+
+<http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a> ;
+        c:importance     "2" ;
+        c:name           "Swift" ;
+        c:originalValue  "Swift (Deimian crater)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/654d931e-6a25-329b-a11f-d5f1619af94d> .
+
+<http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ielVbwGxT50T20Xd0xmg+9RCpcs=|jzBD+wN7aIkOL7u9F+PxhEH8rw5QnV5mOvtpnZ0pkBcN0+W6Q2YW6Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:32.322" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "83a368c9-72c8-6aaf-14da-54ca1a213c98" ;
+        c:docDate          "2015-05-30 09:49:32.447" ;
+        c:docTitle         "" ;
+        c:document         "Taylor Swift 'fine' with not being 'overtly sexy'. Taylor Swift says she's \"fine\" with her generally squeaky-clean image." ;
+        c:id               "http://id.opencalais.com/Bj0gg1JWbyvA-Kt*HtbZoA" .
+
+<http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93756bb6-249c-38aa-86f7-33bc6c6fd00a> ;
+        c:importance     "1" ;
+        c:name           "Taylor Swift" ;
+        c:originalValue  "Taylor Swift (album)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3798152-a315-3a21-affa-1e046026b7b6> .

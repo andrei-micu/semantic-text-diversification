@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance     "2" ;
+        c:name           "Aircraft" ;
+        c:originalValue  "Aircraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bb3def0c-6842-3ee7-b6d4-eae8159a0e41> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance     "1" ;
+        c:name           "Aerial firefighting" ;
+        c:originalValue  "Aerial firefighting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4090f2f7-68a1-3b48-bd7b-bf51ebd072b3> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance     "2" ;
+        c:name           "Nepalese Army" ;
+        c:originalValue  "Nepalese Army" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bbcd8ba0-d700-39ed-99d7-43953350b9c3> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c94d4b3f-d298-5795-14da-54674c932f98" ;
+        c:docDate          "2015-05-30 09:42:47.983" ;
+        c:docTitle         "" ;
+        c:document         "8 Bodies Recovered From Wreckage of Marine Helicopter, Nepal Army Says. Six Marines and two Nepali soldiers were aboard the UH-1 Huey that crashed Tuesday while assisting in earthquake relief efforts." ;
+        c:id               "http://id.opencalais.com/fqhgbFS5hqkrqiXmUQ1*mw" .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance     "1" ;
+        c:name           "Military aircraft" ;
+        c:originalValue  "Military aircraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0486c28e-a6ef-38cf-b5e0-8df87e2fafc6> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance     "2" ;
+        c:name           "Bell UH-1 Iroquois" ;
+        c:originalValue  "Bell UH-1 Iroquois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06266bac-76b6-3d64-a76c-b9049eed4d09> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance     "2" ;
+        c:name           "Wreckage" ;
+        c:originalValue  "Wreckage (Transformers)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7cf1c147-ffb1-3443-92cf-fa6b7147ea8a> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance     "2" ;
+        c:name           "Military helicopters" ;
+        c:originalValue  "Military helicopters" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7b3f88e-b98c-3611-ac26-8b8c2127a55d> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance     "2" ;
+        c:name           "Bell UH-1 Iroquois variants" ;
+        c:originalValue  "Bell UH-1 Iroquois variants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0005c3a4-a16a-32a5-b759-c729f5ef0d14> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|OkbNO+s0vi/CfN5NeMmH6e/cYUw=|kFN1qYoGuta2FPsdj8ADyvjiTSsftDvjBJiJvJBE3Iah7XD6Sevfcg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:47.625" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance     "1" ;
+        c:name           "Aviation" ;
+        c:originalValue  "Aviation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89c4a16a-35bc-3191-8c7b-2b6daa04e5d7> .
+
+<http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d70c2e-2b70-3387-9d49-481d7bdd726d> ;
+        c:importance     "2" ;
+        c:name           "Gunships" ;
+        c:originalValue  "Gunships" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae38967d-0152-3121-88fe-ffff7e12990d> .

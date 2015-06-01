@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:importance     "2" ;
+        c:name           "Military" ;
+        c:originalValue  "Military" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/628c4e54-7bba-3c87-80aa-ecabcf30215e> .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:importance     "1" ;
+        c:name           "Memorial Day" ;
+        c:originalValue  "Memorial Day" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/197a0c74-7b3f-346c-af00-59373348eb16> .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|OV57nTcCRiXqO4XgQjQUOzcPGhs=|gm8RfeMRRw0wod2FlBula6pFxd5t0tetOoRcBeAtdNzSbF80lk4Z3A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:45:09.691" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:importance     "1" ;
+        c:name           "Military personnel" ;
+        c:originalValue  "Military personnel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3df1101-0b09-37b1-89c4-540c1143c61d> .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:importance     "2" ;
+        c:name           "War" ;
+        c:originalValue  "War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c5d46f56-c274-3b29-a6ce-e7042cb0fda3> .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c> ;
+        c:importance     "1" ;
+        c:name           "Veteran" ;
+        c:originalValue  "Veteran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/be92dadf-4f31-3a23-8ec0-ac9221b26c38> .
+
+<http://d.opencalais.com/dochash-1/4ae640ba-b040-34b1-9b3b-dbdab9682d4c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c8552518-d067-b541-14da-5489fbb71d39" ;
+        c:docDate          "2015-05-30 09:45:10.018" ;
+        c:docTitle         "" ;
+        c:document         "What veterans really think about on Memorial Day. As a wounded veteran who served two tours in Iraq, I've been asked to give speeches at Memorial Day celebrations. It's one of the hardest jobs I've ever done." ;
+        c:id               "http://id.opencalais.com/5oIHPoZsU9dNiu9zY3I7iw" .

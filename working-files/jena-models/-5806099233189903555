@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:importance     "1" ;
+        c:name           "The Colbert Report" ;
+        c:originalValue  "The Colbert Report" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab7ed29b-42d2-39c2-b0ee-0cf0fbcb1ae9> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:score           "0.881" .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:importance     "2" ;
+        c:name           "Comedy" ;
+        c:originalValue  "Comedy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3af25c8d-cf06-3c61-9c63-5ffa6691ed53> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:importance     "1" ;
+        c:name           "The Daily Show" ;
+        c:originalValue  "The Daily Show" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f9c771fd-5bee-339f-85f5-66c9880732bb> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7Nl4WQSJvYNoavZpv/CnhCX0RRs=|Mr1af2oaK7woJ/A/SBZx0Vh3ZiZEok69qGDFqTR71/GvWRVU0mZ50g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:15.615" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:importance     "2" ;
+        c:name           "Cultural impact of The Colbert Report" ;
+        c:originalValue  "Cultural impact of The Colbert Report" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dd396b66-8d3b-3dc2-8f90-d457a507cdb4> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:importance     "2" ;
+        c:name           "Stephen Colbert" ;
+        c:originalValue  "Stephen Colbert" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6dde3c2b-290c-3fe6-a599-7a5c50299e80> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3c935351-57d2-dcc5-14da-54163df34709" ;
+        c:docDate          "2015-05-30 09:37:15.786" ;
+        c:docTitle         "" ;
+        c:document         "Stephen Colbert gives $800,000 to .... Comedian Stephen Colbert surprises teachers in his home state of South Carolina with a big donation." ;
+        c:id               "http://id.opencalais.com/8UpAlEFlYHkqBxeF2P9EaA" .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:score           "0.912" .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:importance     "1" ;
+        c:name           "Satire" ;
+        c:originalValue  "Satire" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b0f372c-53c2-3406-81ad-a2d71046be8e> .
+
+<http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94d30178-bde3-3975-b3bc-4c44e38ad601> ;
+        c:importance     "2" ;
+        c:name           "Stephen Colbert presidential campaign" ;
+        c:originalValue  "Stephen Colbert presidential campaign, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eb3dee58-4039-3a68-b1a8-3442a7dda77f> .

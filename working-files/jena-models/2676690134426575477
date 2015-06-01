@@ -1,0 +1,108 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:importance     "1" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:importance     "2" ;
+        c:name           "Nakamoto" ;
+        c:originalValue  "Nakamoto" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d0eb9ab-be1f-3ef5-805c-016d073acbdd> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:importance     "2" ;
+        c:name           "Computing" ;
+        c:originalValue  "Computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:importance     "2" ;
+        c:name           "Enigma machine" ;
+        c:originalValue  "Enigma machine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74fb257c-1d64-3ca6-8ca5-8a1a85cf75fa> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|g6woNGd5Cwt2bOIi0V6QjFYsCDk=|kLoPTvBrqaIvLaM43LEmkpunY90vsJxTZjOBdD0dkASjmdpVR9YLtA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:58.655" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:importance     "1" ;
+        c:name           "Bitcoin" ;
+        c:originalValue  "Bitcoin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/410251bf-464e-33e2-a5aa-997b39b330f2> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:importance     "2" ;
+        c:name           "Satoshi" ;
+        c:originalValue  "Satoshi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e83e830a-044b-317a-9bb9-538608b34071> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:importance     "2" ;
+        c:name           "Virtual currency" ;
+        c:originalValue  "Virtual currency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7431e212-e64d-325a-a202-4f1384ddd1bc> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c0fbafae-0eec-9145-14da-544cb1f653ed" ;
+        c:docDate          "2015-05-30 09:40:58.811" ;
+        c:docTitle         "" ;
+        c:document         "Decoding the Enigma of Satoshi Nakamoto and the Birth of Bitcoin. Conversations with those most deeply involved in Bitcoin yielded a quiet consensus about the possible identity of the virtual currency’s creator." ;
+        c:id               "http://id.opencalais.com/8Y4BgIWHZP1hWoRxACE2FA" .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:importance     "2" ;
+        c:name           "Cryptography" ;
+        c:originalValue  "Cryptography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b8cb663-5e8c-334e-9d7d-75233305d09b> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:importance     "1" ;
+        c:name           "Peer-to-peer computing" ;
+        c:originalValue  "Peer-to-peer computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1619a286-1112-3203-a564-ff58b4b95b30> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4200300a-1c95-3b34-86a1-a047304e39c6> ;
+        c:importance     "2" ;
+        c:name           "Consensus" ;
+        c:originalValue  "Consensus (computer science)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b6979f1-da45-3141-8464-9bb9664736d0> .

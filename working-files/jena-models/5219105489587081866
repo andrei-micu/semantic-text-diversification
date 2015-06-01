@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:score           "0.891" .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:importance     "2" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:importance     "1" ;
+        c:name           "19 Kids and Counting" ;
+        c:originalValue  "19 Kids and Counting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f580e405-2a8c-328a-bad8-e986d665d97d> .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|MLT5n/Tv4uhXZfyFDQBAKPZnYc4=|fwokbrIAOH9Fm5Oe2Hr9vhlkmiV6yepNfGh1ol4opxERt/fJQM5qLA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:08.625" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:importance     "2" ;
+        c:name           "TLC" ;
+        c:originalValue  "TLC (TV channel)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c831bee8-8f75-355b-8579-10f2e6a72526> .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:importance     "1" ;
+        c:name           "Children" ;
+        c:originalValue  "Children" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2b5eb787-8a54-3050-81f5-de3d1a00d596> .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:importance     "1" ;
+        c:name           "Discovery Communications" ;
+        c:originalValue  "Discovery Communications" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a53487f-eaee-3a20-aa4d-767530f15033> .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c> ;
+        c:importance     "2" ;
+        c:name           "Tables, Ladders, and Chairs match" ;
+        c:originalValue  "Tables, Ladders, and Chairs match" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7b2050ef-2710-308f-8bc7-cc86eebedefa> .
+
+<http://d.opencalais.com/dochash-1/44ebda53-6965-3e77-bd46-61841f04905c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "41111b7b-0fdc-d2c8-14da-547b1311df07" ;
+        c:docDate          "2015-05-30 09:44:09.093" ;
+        c:docTitle         "" ;
+        c:document         "ArtsBeat: TLC Pulls ‘19 Kids and Counting’ From Its Lineup. The show was removed following allegations that one of the show’s stars, Josh Duggar, had previously been investigated for molesting several minors." ;
+        c:id               "http://id.opencalais.com/X1ZjTZnT8favLss8ThQIZQ" .

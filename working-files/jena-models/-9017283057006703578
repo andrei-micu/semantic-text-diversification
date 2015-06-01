@@ -1,0 +1,154 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "1" ;
+        c:name           "Least developed countries" ;
+        c:originalValue  "Least developed countries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcf08f1b-940a-3655-8ccb-5900a8fdce02> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "2" ;
+        c:name           "Burma" ;
+        c:originalValue  "Burma" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9433690-412b-35de-aeeb-05630e0f606c> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "2" ;
+        c:name           "Rohingya people" ;
+        c:originalValue  "Rohingya people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/457681fa-491b-36f0-abc1-c3119945ef42> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "2" ;
+        c:name           "Religion in Burma" ;
+        c:originalValue  "Religion in Burma" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/992a77d3-fae2-3582-bffb-55ffacf42b11> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "aaf577f5-20df-f295-14da-54bfd4b1927e" ;
+        c:docDate          "2015-05-30 10:48:50.516" ;
+        c:docTitle         "" ;
+        c:document         "Rohingya Muslims found on boat rescued by Myanmar navy. ALAETHAKAW VILLAGE, Myanmar, May 24 (Reuters) - At least eight Rohingya Muslims from Myanmar were among some 200 migrants rescued from a trafficking boat by the Myanmar navy on Thursday, according to interviews conducted by Reuters, contradicting official accounts that all onboard were from Bangladesh." ;
+        c:id               "http://id.opencalais.com/sHU0N35tT9HntyUSAJ3igQ" .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "2" ;
+        c:name           "Bangladesh" ;
+        c:originalValue  "Bangladesh" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17ffbc27-cbe8-3a87-a300-36e0575c50c2> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "2" ;
+        c:name           "Ethnic groups in Pakistan" ;
+        c:originalValue  "Ethnic groups in Pakistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b3dacd1-6cfc-3862-abac-57b41a2920b6> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "2" ;
+        c:name           "Myanmar Navy" ;
+        c:originalValue  "Myanmar Navy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b09f8270-adc5-3805-aaa2-4116d30ab5ec> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|v/1HpHLBohgtMsvEOan/6m2iUBo=|jYmaqwxTFrYn9kfjhyevSdhLqhwJ0417gnyn/lesyhy1ULk5mXeqKQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:50.251" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:score           "0.878" .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance     "2" ;
+        c:name           "Member states of the United Nations" ;
+        c:originalValue  "Member states of the United Nations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e911935-f6c4-3599-ba32-e28b931005c3> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/38c23f90-5e6b-3b2a-9e0c-60678faac56a> ;
+        c:score           "0.993" .

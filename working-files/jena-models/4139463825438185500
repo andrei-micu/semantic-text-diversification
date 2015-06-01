@@ -1,0 +1,58 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "38a4f4e0-2378-14ee-14da-549545e760f9" ;
+        c:docDate          "2015-05-30 10:45:56.105" ;
+        c:docTitle         "" ;
+        c:document         "'19 Kids' off air over allegations. Reality TV star Josh Duggar issued an apology Thursday after reports surfaced that he allegedly molested girls as a teenager, saying: \"I acted inexcusably.\"" ;
+        c:id               "http://id.opencalais.com/*4BG77Ei6qtOgrqy3HMMMg" .
+
+<http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qvyRMSdkldRl9Rl+zs8SDP8nRjk=|Lu602/uNOOjaSpRj/zYaHGF2ueRNbRpk3qMzWLEzzHo4BQak4Rjr4w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:55.934" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d33c7ae8-8ad2-392f-9dd8-b45f558afebd> ;
+        c:score           "1.000" .

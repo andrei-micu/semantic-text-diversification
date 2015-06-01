@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:importance     "1" ;
+        c:name           "Laser" ;
+        c:originalValue  "Laser" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/015d5a9a-2a7a-3be3-a2c5-02f20d2f2ca6> .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:importance  "1" ;
+        c:name        "Other" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/137e79ce-d517-336c-9825-a9acdd2a517c> .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4ab557d0-5eed-16bb-14da-54ccbed23ab1" ;
+        c:docDate          "2015-05-30 10:49:43.321" ;
+        c:docTitle         "" ;
+        c:document         "Lasers target multiple passenger airplanes . Laser pointers that the FAA says can temporarily blind pilots targeted four commercial passenger jets near Farmingdale, New York. CNN's Rene Marsh reports." ;
+        c:id               "http://id.opencalais.com/HCOjr7DeAHHJVP9GISPFjg" .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Other> ;
+        c:categoryName    "Other" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:score           "0.891" .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:importance     "1" ;
+        c:name           "Laser pointer" ;
+        c:originalValue  "Laser pointer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8d1c9dc3-fd36-3b7a-aad5-5c8d62e285ff> .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:importance     "2" ;
+        c:name           "Physics" ;
+        c:originalValue  "Physics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c39764eb-3814-300c-a1c3-ad74ab22337d> .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:importance     "2" ;
+        c:name           "Farmingdale" ;
+        c:originalValue  "Farmingdale" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30ef2ff5-69f4-3488-93a0-4041e5089b39> .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:importance     "1" ;
+        c:name           "Office equipment" ;
+        c:originalValue  "Office equipment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/98ad21e9-c421-3acf-be0a-f1df3366e740> .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:importance     "2" ;
+        c:name           "Lasers and aviation safety" ;
+        c:originalValue  "Lasers and aviation safety" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26bfdeae-180e-3457-ad28-096d99c25e86> .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0b7YSA1ljKBey91wnyEnznm2A7g=|HJk5qBUljlXpLaop/OQE1Tom9+eG8YsjXh/ZV66VCFBkElxik810Jg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:43.149" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bd3c4ae-12f3-3a08-b4d2-b362ac27dd45> ;
+        c:importance     "2" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .

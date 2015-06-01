@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:importance     "2" ;
+        c:name           "Nepal" ;
+        c:originalValue  "Nepal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47cb7fb8-c179-378d-94c8-3ee216a55ec3> .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "50706e9e-e799-9357-14da-53c48f023ab1" ;
+        c:docDate          "2015-05-30 10:31:41.118" ;
+        c:docTitle         "" ;
+        c:document         "Nature seems to be against us: rain hampers Nepal rescue teams. KATHMANDU (Reuters) - Rescue teams toiled in pouring rain on Thursday in the debris left by last week's devastating earthquake in Nepal, but officials said the chances of finding any more survivors was bleak as the death toll neared 5,500.While rescue teams were out in the capital Kathmandu despite the rain, helicopters could not fly to the worst-hit areas in the countryside of the impoverished Himalayan nation.\"There may not be any more survivors,\" said Rameshwor Dandal, chief of the disaster m" ;
+        c:id               "http://id.opencalais.com/U8*cS25ONiHmlSG4dSyx*A" .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:importance     "1" ;
+        c:name           "Rescue" ;
+        c:originalValue  "Rescue" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e3d8e8fb-3a70-35cb-be41-8654f8e2e1f2> .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zlGVlnQIohWGvYk77A2Nt3dp+r4=|LcnHSaaXzxEIsjqWMAa3+DpYf1wvbohMjrjiwgy4hcF/3RV2TJm7HA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:41.040" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:importance     "1" ;
+        c:name           "Search and rescue" ;
+        c:originalValue  "Search and rescue" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe24b5-54c1-3c9b-aa0a-427bd99a28a8> .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f9766437-4d01-3df6-98e8-cc52ec9bca1d> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

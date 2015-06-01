@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|rmvzsR9fzSzT2kPTxJaNOj46t8Y=|HaxfcAuS5ejX4wKA5R+eh1fgYrll58ORwSwF33zr/W3n4cKzczJY8A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:19.489" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:importance     "2" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:importance     "2" ;
+        c:name           "Statewide opinion polling for the United States presidential election" ;
+        c:originalValue  "Statewide opinion polling for the United States presidential election, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50722d19-ea27-3a84-a156-fedefeefda80> .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:score           "0.963" .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d6ee2f37-cdb2-a6e1-4da5-3a2001719b32" ;
+        c:docDate          "2015-05-30 10:29:19.707" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Call for Baltimore 'soul searching'. US President Barack Obama has said that rioting in the city of Baltimore has highlighted a crisis in policing in some American communities." ;
+        c:id               "http://id.opencalais.com/dl4s4lyuI0fKGcMih*30ug" .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d1f817fa-5450-3cd3-860a-773fe0a0225f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

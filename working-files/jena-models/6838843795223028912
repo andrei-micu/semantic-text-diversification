@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0KcUtnWy9okJM0lWplh1juGYTZM=|VESSil8MHeq5xP6A9mR34DhR5tw6n/TpkHZzdFqpgrSq3o7Jn0omeA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:08.463" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:importance     "2" ;
+        c:name           "Black Rhinoceros" ;
+        c:originalValue  "Black Rhinoceros" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65034dfb-5d18-32a8-b615-522f3bb1d309> .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:importance     "1" ;
+        c:name           "EDGE Species" ;
+        c:originalValue  "EDGE Species" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/021011fd-460c-3c60-8484-6915663d5abf> .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:importance     "1" ;
+        c:name           "Fauna of Africa" ;
+        c:originalValue  "Fauna of Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3fbf3a94-4fb1-3808-948c-1d02201dc238> .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:score           "0.971" .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8b68e803-85e5-df6d-14da-546c62f719b3" ;
+        c:docDate          "2015-05-30 10:43:08.635" ;
+        c:docTitle         "" ;
+        c:document         "Slain rhino feeds village. The morning after he shot and killed a black rhino, Corey Knowlton returned to where the hunt ended for the final act." ;
+        c:id               "http://id.opencalais.com/VEqaOAm9Tjs-f0caerORDw" .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:importance     "2" ;
+        c:name           "Rhino" ;
+        c:originalValue  "Rhino (wrestler)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/69b960bf-20bf-36fe-93e1-3a9f86fe5fed> .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:importance     "1" ;
+        c:name           "Rhinoceroses" ;
+        c:originalValue  "Rhinoceroses" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ccc22165-b3f9-3fd1-8af5-2709c4ad4d98> .
+
+<http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f98a78ac-4fcb-3169-a6e6-9af7c170f62a> ;
+        c:score           "0.926" .

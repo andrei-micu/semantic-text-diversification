@@ -1,0 +1,108 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:importance     "1" ;
+        c:name           "Human reproduction" ;
+        c:originalValue  "Human reproduction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5d158b12-b70b-3a62-91a3-4d2ce513d659> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7bc00d89-06e9-88d6-14da-54b0f7d71d39" ;
+        c:docDate          "2015-05-30 09:47:49.638" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: 'Diblings' - the siblings created through donors. Being a 'dibling' - a child biologically connected through egg or sperm donation, can lead to a large family of half brothers and sisters, as the Victoria Derbyshire programme finds out." ;
+        c:id               "http://id.opencalais.com/VnCKMPGDCPH85he4yhi0vA" .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:importance     "2" ;
+        c:name           "Donation" ;
+        c:originalValue  "Donation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b90787c7-88f7-3dfb-a9b8-72ed320349af> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|JkJnCnLBxpyXokTxzNyEnFkbKIc=|HY84qBmJ9OUsN07P9FaqUyKNoGdcC0Kv9woqkscpbBW+IEIBRrlQpg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:49.373" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:importance     "2" ;
+        c:name           "Reproduction" ;
+        c:originalValue  "Reproduction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d3b37f8-cdc5-3ba9-aef4-b24d0106ebe2> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:importance     "2" ;
+        c:name           "Sperm bank" ;
+        c:originalValue  "Sperm bank" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/388a8631-d8c5-3d78-a5f8-858ee449813f> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:importance     "2" ;
+        c:name           "Donor Sibling Registry" ;
+        c:originalValue  "Donor Sibling Registry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07b0191c-50a8-35f5-9432-aabfcb13d183> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:importance     "1" ;
+        c:name           "Fertility medicine" ;
+        c:originalValue  "Fertility medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0a90094-94ea-382a-b12c-8bd44a82f10f> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:importance     "2" ;
+        c:name           "Sperm" ;
+        c:originalValue  "Sperm" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9e025052-d2b0-3652-8fec-e0a6565cb002> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:importance     "2" ;
+        c:name           "Semen" ;
+        c:originalValue  "Semen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a7c9f06-0c28-3ec1-82ed-07c9751760ac> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:importance     "1" ;
+        c:name           "Sperm donation" ;
+        c:originalValue  "Sperm donation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a21ea9ee-b9a2-32d9-bdb8-a2f22765fcea> .
+
+<http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/042305dc-6ca7-364e-bf0e-79702690f7a4> ;
+        c:importance     "2" ;
+        c:name           "Sibling" ;
+        c:originalValue  "Sibling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d9f68132-dcf7-3865-8cfe-e52d206532ba> .

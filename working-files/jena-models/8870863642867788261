@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1KZyhqhrsJRFU7AbFRcT/MQuriY=|A2ec0+kMj8AcFf94NEIitn+3ksB8JMZoTMaYzklAQ3+DL0H0IDEj5A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:01.728" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f> ;
+        c:importance     "2" ;
+        c:name           "Geography of North America" ;
+        c:originalValue  "Geography of North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4953ac1c-3f88-3c4f-b079-6ff903751bbf> .
+
+<http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "31971b81-60a8-80d6-14da-539daa0653ed" ;
+        c:docDate          "2015-05-30 09:29:01.899" ;
+        c:docTitle         "" ;
+        c:document         "First Draft: Today in Politics: Baltimore Riots and Same-Sex Marriage Share Center Stage. The country is waking to an extraordinary split-screen reality, as oral arguments in the landmark Supreme Court case on same-sex marriage are juxtaposing with the riots raging in Baltimore." ;
+        c:id               "http://id.opencalais.com/TxUawRwmTakRWPMSkRWa8Q" .
+
+<http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f> ;
+        c:importance     "1" ;
+        c:name           "Supreme Court of the United States" ;
+        c:originalValue  "Supreme Court of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/10b96c2a-3598-3d01-b681-ad38ab2c32bf> .
+
+<http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d7ab536d-383e-3b4b-9cd9-fa7dfd44301f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

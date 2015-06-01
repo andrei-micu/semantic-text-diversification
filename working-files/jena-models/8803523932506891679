@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:importance     "1" ;
+        c:name           "Aaron Hernandez" ;
+        c:originalValue  "Aaron Hernandez" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/456d64e4-6125-3e85-ba3f-908703f6e2b1> .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "85725384-c350-a0cb-14da-5436349760f9" ;
+        c:docDate          "2015-05-30 10:39:26.678" ;
+        c:docTitle         "" ;
+        c:document         "Ex-NFL star Hernandez charged in 2013 shooting of witness. BOSTON (Reuters) - Former New England Patriots player Aaron Hernandez, who was convicted last month of murdering an acquaintance in 2013, was charged on Monday with the non-fatal shooting of a man believed to be a witness to another murder of which Hernandez is accused." ;
+        c:id               "http://id.opencalais.com/noJzlyk3gsjcwQfn1HzzIA" .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:importance     "2" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:importance     "2" ;
+        c:name           "Murder" ;
+        c:originalValue  "Murder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4442334b-792e-34c3-9fb9-ebc855c20658> .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|D03jWnqYDJuNVBaa+X+RHItJOLY=|Sp5CQxEE80wAxR0ABFvrpgRTbr8r70ATcb2IfmZGytULLgoyEbo7Kg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:26.537" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:importance     "1" ;
+        c:name           "Shawn Hernandez" ;
+        c:originalValue  "Shawn Hernandez" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6eb03063-5277-3706-b110-31e322fc470a> .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:importance     "2" ;
+        c:name           "Sports in the United States" ;
+        c:originalValue  "Sports in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83b69fe8-2633-3e92-81cf-13fc65badac5> .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:importance     "2" ;
+        c:name           "Criminal law" ;
+        c:originalValue  "Criminal law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82be3750-fcbb-358e-9efe-8cddcd1736a3> .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:importance     "1" ;
+        c:name           "Hernández" ;
+        c:originalValue  "Hernández" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cf3b4c7-2d91-3f70-8831-677a2788af22> .
+
+<http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/387bad24-a691-3672-9ed3-5e09493f69b0> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

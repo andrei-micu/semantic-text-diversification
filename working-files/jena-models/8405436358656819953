@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8bd55c7a-c40d-8fa1-14da-53f6b0a1df07" ;
+        c:docDate          "2015-05-30 09:35:06.566" ;
+        c:docTitle         "" ;
+        c:document         "Republican Hopefuls Push a Muscular Foreign Policy. Republican presidential hopefuls gathered Saturday in South Carolina to criticize President Obama for what they described as a weak and misguided approach to international affairs." ;
+        c:id               "http://id.opencalais.com/5qgFIzuadDIH3K6ABlAI9Q" .
+
+<http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44> ;
+        c:importance     "1" ;
+        c:name           "Presidents of the United Nations Security Council" ;
+        c:originalValue  "Presidents of the United Nations Security Council" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/145d4181-39aa-36c2-b837-06a7de6bde52> .
+
+<http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44> ;
+        c:importance     "1" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .
+
+<http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|JIKStbCXE6ZHL1zNhMfEnug3Ul8=|SA/n89tle0aOkUpatz5OugF2HNuV9npgHHGOnqNde9zGfYDS74tQtg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:06.378" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63679d10-96bf-3327-9c1b-7705e12dca44> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .

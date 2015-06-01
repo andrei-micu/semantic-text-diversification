@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551> ;
+        c:importance     "1" ;
+        c:name           "Vinegar" ;
+        c:originalValue  "Vinegar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e5241b59-53ed-3dbe-ba9f-02acb3b735b0> .
+
+<http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551> ;
+        c:importance     "1" ;
+        c:name           "Fly" ;
+        c:originalValue  "Fly" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f7ec5f93-6289-3ec8-ab0e-533a90ad64f3> .
+
+<http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|o3s9eu3n4HtWnKfuK+4r8FvFDFM=|Dj9tNvqQE66BazZwzMQTABQfIuJxNsri6FRE1d0V+IPydg++JMBf6Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:29.017" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551> ;
+        c:importance     "1" ;
+        c:name           "Eucalyptus" ;
+        c:originalValue  "Eucalyptus" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/71240fad-7ceb-3a1f-8d03-9ebb836ba33c> .
+
+<http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "88de6549-5fb4-d6c3-14da-5436cf932955" ;
+        c:docDate          "2015-05-30 10:39:29.251" ;
+        c:docTitle         "" ;
+        c:document         "Exotic Vinegar Flies Invade California After World Tour. One critter traveled around the globe from Australia on a eucalyptus tree. The other hitched a ride on a Central American flower. These flies are the tip of the invasive insect iceberg in California." ;
+        c:id               "http://id.opencalais.com/9FDtjruaJiYjfrWrdhSoCw" .
+
+<http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b913e360-8e52-328c-bd25-6e409e1d3551> ;
+        c:importance     "2" ;
+        c:name           "Iceberg" ;
+        c:originalValue  "Iceberg (novel)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cb26c340-ecdf-32e5-bd32-907a8a2887f0> .

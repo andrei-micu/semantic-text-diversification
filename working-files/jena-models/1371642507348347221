@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17> ;
+        c:importance     "1" ;
+        c:name           "Macroeconomics" ;
+        c:originalValue  "Macroeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32612f14-3cee-36fa-a5ee-c4953c7af66c> .
+
+<http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17> ;
+        c:importance     "1" ;
+        c:name           "Economic growth" ;
+        c:originalValue  "Economic growth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b885f89e-094a-3773-9201-1dbafa9661c7> .
+
+<http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|arTW8lmPGW+MQnSU4nxUJfQ+1t8=|lToAjZlCrrnBZuH7/XF7+6URETB3Xy+A5U6x82Mw+Y2vTHkdZxEgbQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:30:11.873" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17> ;
+        c:score           "0.527" .
+
+<http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "613ca7d2-1c24-ee43-14da-53aeca1719b3" ;
+        c:docDate          "2015-05-30 10:30:12.107" ;
+        c:docTitle         "" ;
+        c:document         "Economic Trends: How to Make Sense of Weak Economic Growth in 2015. The American economy grew at only an 0.2 percent annual rate in the first three months of the year. The question is if it’s an aberration." ;
+        c:id               "http://id.opencalais.com/RglaIJ77ACnboKivC8Ti7A" .
+
+<http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/622138a0-5481-3902-ab99-f83d1e3fbd17> ;
+        c:importance     "2" ;
+        c:name           "Aberration of light" ;
+        c:originalValue  "Aberration of light" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c98bba23-d46a-3bb5-96b2-a026567486be> .

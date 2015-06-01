@@ -1,0 +1,68 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25> ;
+        c:score           "0.558" .
+
+<http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25> ;
+        c:importance     "1" ;
+        c:name           "Canada" ;
+        c:originalValue  "Canada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2ded082-1454-30eb-8786-7a69afffc158> .
+
+<http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25> ;
+        c:importance     "1" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|b/0/3U6BVrXssHurAB4cJfhpBBY=|IYYbMvA8C7RzV8x3S9svb5w+4qQTkep4hTsYTv35yZkPoit2QTZpHQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:26:33.809" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/25d4cfba-565d-3266-92bb-a535fee27f25>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "504ebd95-94ca-d51b-14da-53798d123ab1" ;
+        c:docDate          "2015-05-30 10:26:33.980" ;
+        c:docTitle         "" ;
+        c:document         "Canada country profile. Provides an overview of Canada, including key events and facts about the world's second-largest country" ;
+        c:id               "http://id.opencalais.com/zScG0C3l4lrL8*cSgo1wsQ" .

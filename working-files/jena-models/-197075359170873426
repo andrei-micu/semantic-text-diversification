@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a> ;
+        c:score           "0.811" .
+
+<http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|DjMk2BSO8JyKaulMrq4irtI3A6s=|hj2phrKvMV5YcXWIQB5/C1yeR0Mk32o0vydoDmDGJrLHCOV5vH5h8A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:22.570" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a> ;
+        c:importance     "1" ;
+        c:name           "Gimmick" ;
+        c:originalValue  "Gimmick" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/caa2954b-030f-35dd-8b65-040fb9c98c5c> .
+
+<http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a> ;
+        c:score           "0.730" .
+
+<http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a> ;
+        c:importance     "1" ;
+        c:name           "Marketing" ;
+        c:originalValue  "Marketing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6644e432-a711-3582-b890-01a431df8558> .
+
+<http://d.opencalais.com/dochash-1/50796bc0-8ada-3f88-a61d-361c07c3967a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b19c46ec-30ac-c5da-14da-54612da4551f" ;
+        c:docDate          "2015-05-30 09:42:22.820" ;
+        c:docTitle         "" ;
+        c:document         "Pressed For Time? Try Hiring A Body Double. A Mexican politician is trying to find a body double to attend ceremonial events in his stead. NPR's Scott Simon wonders if it might be a useful gimmick for American politicians, too." ;
+        c:id               "http://id.opencalais.com/-I9T6Q*baiROtjr6g3bGsw" .

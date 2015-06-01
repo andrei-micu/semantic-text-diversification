@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|TYKWoIqWWTf9vx6dJVZaYV2UDc4=|hibgOcr6uYGhS15/Sx4iGZypV2ReOhBv8aLe2hbPWyJ4XHjE3TXH1g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:22.334" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:importance     "1" ;
+        c:name           "Atmospheric sciences" ;
+        c:originalValue  "Atmospheric sciences" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88403548-ec7e-3011-917e-da243df51138> .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:importance     "2" ;
+        c:name           "Physical geography" ;
+        c:originalValue  "Physical geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07bc24e7-a33a-34a3-8a5c-23a4b068fccb> .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:importance     "2" ;
+        c:name           "Washington" ;
+        c:originalValue  "Washington (state)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9942845f-5b09-37f1-8419-a9cf18b9ca3a> .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:importance     "1" ;
+        c:name           "Jay Inslee" ;
+        c:originalValue  "Jay Inslee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b46d0560-544a-3cf5-808d-eedf3407b1d5> .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:importance     "2" ;
+        c:name           "Drought" ;
+        c:originalValue  "Drought" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7ac2a45f-a0ec-366b-80d7-97ae34b8bc0d> .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:importance     "2" ;
+        c:name           ".gov" ;
+        c:originalValue  ".gov" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/24e869ca-7e28-338e-af73-31a57b7cb6b3> .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f683b921-53fb-d9ad-14da-54611fe32955" ;
+        c:docDate          "2015-05-30 10:42:22.474" ;
+        c:docTitle         "" ;
+        c:document         "Washington Governor Declares Drought Emergency. Gov. Jay Inslee also warned that residents should be prepared for an active fire season." ;
+        c:id               "http://id.opencalais.com/w24DbDp6x4tiAeWWebOIrg" .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:importance     "1" ;
+        c:name           "Meteorology" ;
+        c:originalValue  "Meteorology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/897c2d6f-2365-35ef-8355-f4c70726feaa> .
+
+<http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7499daec-b7e7-3824-adfd-c698721005b1> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

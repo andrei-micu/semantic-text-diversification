@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:importance     "2" ;
+        c:name           "Spelling" ;
+        c:originalValue  "Spelling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/827366de-a27a-37bd-9096-ef7f117fe374> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:score           "0.887" .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:importance     "1" ;
+        c:name           "English language" ;
+        c:originalValue  "English language" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5fa75507-2c1b-33c5-a5e6-7529c0772ce4> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:importance     "2" ;
+        c:name           "83rd Scripps National Spelling Bee" ;
+        c:originalValue  "83rd Scripps National Spelling Bee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca20680c-a15b-3f2b-8709-09bd7b3c0299> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:importance     "2" ;
+        c:name           "Bee" ;
+        c:originalValue  "Bee (gathering)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4eb5b065-0da1-3573-9b56-9f8b663f39e1> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e8f7adf5-1b06-3f45-14da-54bd0f771d39" ;
+        c:docDate          "2015-05-30 09:48:39.137" ;
+        c:docTitle         "" ;
+        c:document         "Opinion: What's behind a tradition of spelling bee success?. The finals for the Scripps National Spelling Bee have once again produced Indian-American winners -- with Vanya Shivashankar and Gokul Venkatachalam sharing this year's prize. Since 1999, 15 of the 19 winners have been Indian-Americans." ;
+        c:id               "http://id.opencalais.com/p4Py2BOYFI4QBHpXj8iebA" .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:importance     "1" ;
+        c:name           "Spelling bee" ;
+        c:originalValue  "Spelling bee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2042600d-9ca6-3fef-a473-c26fcfb6e03b> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:importance     "2" ;
+        c:name           "82nd Scripps National Spelling Bee" ;
+        c:originalValue  "82nd Scripps National Spelling Bee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9336c60-d892-3143-89f5-5c4b7e08530c> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:importance     "2" ;
+        c:name           "Linguistics" ;
+        c:originalValue  "Linguistics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17f757ac-3e17-3efb-b04b-bde3f75a7fbf> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:importance     "1" ;
+        c:name           "Scripps National Spelling Bee" ;
+        c:originalValue  "Scripps National Spelling Bee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3dc70f1f-eee4-3a6f-beee-61bf33e5da54> .
+
+<http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d901c09b-91f6-38b2-86f4-cf0b87e46c3e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bRNSNhVbSX1bLfCYqfqZG85LYVQ=|OLds7/BY33bzFHMNGUqNgxvNN3VCi3LjhY1/SjIo6tBjaY59YuCv7w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:48:38.903" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:importance     "1" ;
+        c:name           "Counting" ;
+        c:originalValue  "Counting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b487821-b87e-39d5-88e6-9780de09a8f8> .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:score           "0.951" .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:importance     "2" ;
+        c:name           "Tennessee" ;
+        c:originalValue  "Tennessee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/483ed5d4-8236-3145-8a9e-ef75462a7e78> .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:importance     "1" ;
+        c:name           "Pittsburgh metropolitan area" ;
+        c:originalValue  "Pittsburgh metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/76785562-055f-3b26-a6a2-32a1d38d64ef> .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4ccc657b-35b0-3ac4-14da-53dbd051927e" ;
+        c:docDate          "2015-05-30 10:33:16.527" ;
+        c:docTitle         "" ;
+        c:document         "City Room: New York Today: One, Two, Tree. Monday: Counting trees, very warm weather, and echoes of Brownsville." ;
+        c:id               "http://id.opencalais.com/yvZdeYoi3wlZ79vbfDp8Eg" .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:importance     "2" ;
+        c:name           "Echoes" ;
+        c:originalValue  "Echoes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/edf34b6f-c4df-327c-8718-a64926194787> .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:importance     "1" ;
+        c:name           "Brownsville" ;
+        c:originalValue  "Brownsville" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1b88a79-9c86-3c34-928f-b875bb8ffba4> .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ad54508-1d93-3140-97b9-a0b39cd690b7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qpY8dZMMeS8gnP40idSc7CiFxn8=|hp/v9xZhluzPm+HmMG6lrrNXVq+Qdn50t83ks4Al9BhRZTzvCTqGPw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:16.293" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

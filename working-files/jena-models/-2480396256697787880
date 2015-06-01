@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance     "2" ;
+        c:name           "Tobacco" ;
+        c:originalValue  "Tobacco" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45eccb36-5f25-3a6d-b2da-97b25c64d7e2> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|85sUHvxNK6fhrqYRKw4ic0id7As=|fdvvs27U5Op3YleAxhoScMFlY8xGvSP5Fev0arer/QSRSzt94Drhqg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:29.296" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance     "1" ;
+        c:name           "Behavior" ;
+        c:originalValue  "Behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe1e19-9c21-37dc-af60-02531de42118> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance     "2" ;
+        c:name           "Parodies" ;
+        c:originalValue  "Parodies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/03bc7d74-4056-3106-bb21-bb75eb46f5e6> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance     "1" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance     "2" ;
+        c:name           "Black comedy" ;
+        c:originalValue  "Black comedy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/69e48315-4bd2-347b-a8e3-2a9ed79449c4> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f254f280-c499-2313-14da-54717901927e" ;
+        c:docDate          "2015-05-30 10:43:29.452" ;
+        c:docTitle         "" ;
+        c:document         "'Mad Men' got the smoking issue right . As a veteran of the advertising business I have been a \"Mad Man\" fan since the beginning. But when I left the agency world to run a public health foundation dedicated to ending tobacco-related illness and death, the show became a truly \"guilty pleasure.\"" ;
+        c:id               "http://id.opencalais.com/zfHMGQflSXkhTykOILtKQQ" .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance     "2" ;
+        c:name           "Smoking" ;
+        c:originalValue  "Smoking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e445679b-3275-34bf-a22d-b26ecceb8ea3> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance     "2" ;
+        c:name           "Advertising" ;
+        c:originalValue  "Advertising" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c66d03c7-10af-3b9c-bdca-db91e8d2d1df> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance     "1" ;
+        c:name           "Ethics" ;
+        c:originalValue  "Ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f579fc5-eed2-3113-a4f8-658e638275f1> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:importance     "2" ;
+        c:name           "Mad" ;
+        c:originalValue  "Mad (magazine)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2aaf358-ec0a-3821-b513-ae7516b9c212> .
+
+<http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1bac978d-f222-31d0-85dd-bd74553fa7f3> ;
+        c:score           "0.993" .

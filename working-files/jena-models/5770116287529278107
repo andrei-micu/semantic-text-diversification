@@ -1,0 +1,58 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e> ;
+        c:score           "0.639" .
+
+<http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|moAj9iPdK1JKtNtrVGDUYB8kUaQ=|afj3Z/eXbWkwF/VOfxyZsuDmVLsw0yeYfcK04ZdymiyYQKmNbQzicw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:25.629" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ee7e1b5b-a120-d8a3-14da-5461edd32f98" ;
+        c:docDate          "2015-05-30 09:42:25.847" ;
+        c:docTitle         "" ;
+        c:document         "Preakness: 5 fun facts. It's a dilemma 1960s TV character Jan Brady knew well: \"How do you stand out when you're the middle sister?\"" ;
+        c:id               "http://id.opencalais.com/MflxIRzQFQpRkEyRE-HQ0A" .
+
+<http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/977f7cf9-83dc-3d6f-8070-18df47fdeb6e> ;
+        c:score           "0.916" .

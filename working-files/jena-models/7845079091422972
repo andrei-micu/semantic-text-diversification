@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f60f49a2-107a-3679-88fb-d941af149d18>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "48f09331-4311-6068-14da-54d5d6032f98" ;
+        c:docDate          "2015-05-30 09:50:20.462" ;
+        c:docTitle         "" ;
+        c:document         "CNN's best bloopers. " ;
+        c:id               "http://id.opencalais.com/GkVL59zE--uRKPRjuySecQ" .
+
+<http://d.opencalais.com/dochash-1/f60f49a2-107a-3679-88fb-d941af149d18/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f60f49a2-107a-3679-88fb-d941af149d18> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|uhxS2yX0SjId2t4Ij8htYBB2zqE=|Wb95XRXiegODFSx7wMhECn2wKJxUjzhmE/Z9f/9gmSXw/qbWwaSOIQ==" ;
+        c:submissionDate  "2015-05-30 09:50:20.384" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f60f49a2-107a-3679-88fb-d941af149d18/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f60f49a2-107a-3679-88fb-d941af149d18> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

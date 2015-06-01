@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c587c7f3-2a34-75dd-14da-5470a2334709" ;
+        c:docDate          "2015-05-30 09:43:26.015" ;
+        c:docTitle         "" ;
+        c:document         "Hernandez already in trouble in prison. Convicted murderer Aaron Hernandez is in trouble once again, getting mixed up in a prison fight, a law enforcement source with knowledge of the incident said Tuesday." ;
+        c:id               "http://id.opencalais.com/gvS7wkAV0kFVuw17t1Ha2Q" .
+
+<http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d> ;
+        c:importance     "1" ;
+        c:name           "Sports in the United States" ;
+        c:originalValue  "Sports in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83b69fe8-2633-3e92-81cf-13fc65badac5> .
+
+<http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d> ;
+        c:importance     "1" ;
+        c:name           "Shawn Hernandez" ;
+        c:originalValue  "Shawn Hernandez" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6eb03063-5277-3706-b110-31e322fc470a> .
+
+<http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|csaSC75vgSo0IdUEZOE4EY1dcMQ=|B46TY7qBQYhYQmY9RpAK8GbjKb2GLgQyZPxj3xazMtUS6fO4GzP6Uw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:25.859" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63a53031-fae8-3207-a811-803145efa27d> ;
+        c:importance     "1" ;
+        c:name           "Aaron Hernandez" ;
+        c:originalValue  "Aaron Hernandez" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/456d64e4-6125-3e85-ba3f-908703f6e2b1> .

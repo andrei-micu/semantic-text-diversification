@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:score           "0.857" .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:importance     "2" ;
+        c:name           "Malla" ;
+        c:originalValue  "Malla (Nepal)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cb54f1b2-74fd-3008-abc4-cfee7bdb0d5c> .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:importance     "1" ;
+        c:name           "Kathmandu" ;
+        c:originalValue  "Kathmandu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7886b3bd-0443-364a-ab85-30cd8e5f26ac> .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:importance     "1" ;
+        c:name           "Newar" ;
+        c:originalValue  "Newar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7146c404-7aff-395b-a681-c65d5d963b59> .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3d6a33cb-83d4-073b-14da-543dc5c49095" ;
+        c:docDate          "2015-05-30 10:39:57.673" ;
+        c:docTitle         "" ;
+        c:document         "U.S. copter crash found in Nepal. It was spotted on the slopes of a mountain east of Kathmandu, a local army official said. FULL STORY" ;
+        c:id               "http://id.opencalais.com/oxNFOev-7VcU71BL6cBGVg" .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:importance     "2" ;
+        c:name           "Nepal" ;
+        c:originalValue  "Nepal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47cb7fb8-c179-378d-94c8-3ee216a55ec3> .
+
+<http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/12c84778-2169-378f-8120-403756397ee2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ol5PGicVG8VzhgQomGH99yX/ITI=|XEXc17jldhY+9tzMMKbS8Bjv5c6VxqjpddtJKvg54Bano9XedVsSBQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:57.532" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

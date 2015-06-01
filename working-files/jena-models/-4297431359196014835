@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:importance     "1" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:importance     "2" ;
+        c:name           "Self-care" ;
+        c:originalValue  "Self-care" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f7e7c1c-ea98-3f9f-bc49-9ed823941e5d> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9bc60d9c-39fe-650a-14da-54ccb9849095" ;
+        c:docDate          "2015-05-30 10:49:43.126" ;
+        c:docTitle         "" ;
+        c:document         "Trick your brain to avoid 'portion distortion'. It's impossible to live your healthiest life without keeping your portion sizes in check. It just comes with the territory, like putting effort into your sweat sessions and making smart choices when browsing the supermarket aisles. \"When people overeat, it leads to irregularity in blood sugar. It also leads to obesity, which is a contributing factor to heart disease, hypertension, type 2 diabetes, inflammation and certain cancers,\" says Brigitte Zeitlin, M.P.H., R.D., C.D.N, dietitian at B-Nutritious." ;
+        c:id               "http://id.opencalais.com/ZQanFkqx8Uml-0Xnc30DNw" .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bbx3dLUzpVDv0dKgA0SYD0VWGfw=|JFNP6hsChhuggRWi+qApT8sK70Jf2MSK7QU9rNflzlPJSqR3nLWcJQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:43.064" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:importance     "2" ;
+        c:name           "Body shape" ;
+        c:originalValue  "Body shape" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/374d2025-f466-3ca1-b1b5-59f4fdf60462> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:importance     "1" ;
+        c:name           "Health" ;
+        c:originalValue  "Health" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:importance     "2" ;
+        c:name           "Obesity" ;
+        c:originalValue  "Obesity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c013a490-de26-34d2-b6ed-9444f0437e22> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:score           "0.701" .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:importance     "2" ;
+        c:name           "Bariatrics" ;
+        c:originalValue  "Bariatrics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3a112044-0c18-3d1d-8e5a-418c1bf2ad01> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:importance     "1" ;
+        c:name           "Nutrition" ;
+        c:originalValue  "Nutrition" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7fdee7b-d67b-3709-bc2c-417d6721b1a4> .
+
+<http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cb0a0c91-c782-3a3c-b4f7-2347e970c955> ;
+        c:importance     "2" ;
+        c:name           "Dietitian" ;
+        c:originalValue  "Dietitian" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/237281d1-bbb0-3c05-8a1d-ee6e25034605> .

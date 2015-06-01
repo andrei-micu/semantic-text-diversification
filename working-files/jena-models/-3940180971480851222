@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6e3b3ce9-4d8d-3692-8db4-c5aeaaaeb5a7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6e3b3ce9-4d8d-3692-8db4-c5aeaaaeb5a7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|U2OAAF43ny9DhrkpGeGqLfO+D5k=|RpF0NCeIdajRInNruTtkRGKV4TlxtvPmmtzla3UaFAkN913T0ezZww==" ;
+        c:submissionDate  "2015-05-30 09:28:23.902" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6e3b3ce9-4d8d-3692-8db4-c5aeaaaeb5a7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6e3b3ce9-4d8d-3692-8db4-c5aeaaaeb5a7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/6e3b3ce9-4d8d-3692-8db4-c5aeaaaeb5a7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1a86b2e6-2eed-a5c3-14da-53946cf1df07" ;
+        c:docDate          "2015-05-30 09:28:24.012" ;
+        c:docTitle         "" ;
+        c:document         "Okinawa wants US military far away. Why Americans are unpopular on this tiny Japanese island" ;
+        c:id               "http://id.opencalais.com/-wzHYlPDpdU3ADwMYP-YOg" .

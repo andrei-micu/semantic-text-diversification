@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6> ;
+        c:importance     "1" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6> ;
+        c:importance     "2" ;
+        c:name           "Brazilian footballers" ;
+        c:originalValue  "Brazilian footballers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/64718ede-713e-3446-b055-a14d9e5ab78e> .
+
+<http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6> ;
+        c:importance     "1" ;
+        c:name           "FIFA World Cup" ;
+        c:originalValue  "FIFA World Cup" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b8559ab1-e974-3e49-ba74-d37707ac5e1b> .
+
+<http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6> ;
+        c:importance     "1" ;
+        c:name           "World championships" ;
+        c:originalValue  "World championships" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/73066b67-3ffd-3bda-922c-7792d56d1ca3> .
+
+<http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|J3guyUZSmhHmHUApXpxa+ZzpxqY=|RFIz96q4mIBcx3HWC5V9u5iggiB2yoBCAeDiBiGXN+p243mrbWCu6g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:50:29.705" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "490c705f-1c81-250c-14da-54d81c935464" ;
+        c:docDate          "2015-05-30 10:50:30.064" ;
+        c:docTitle         "" ;
+        c:document         "The Big Numbers Behind The Beautiful Game's Ugly Scandal. More than 715 million people watched the final of the World Cup in South Africa. FIFA collected $1.6 billion from its sponsors between 2011-2014." ;
+        c:id               "http://id.opencalais.com/YpgXZVjtiuOwboctGxCBkw" .
+
+<http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7218cdd-d324-3805-b507-5802c46dbdb6> ;
+        c:importance     "2" ;
+        c:name           "FIFA" ;
+        c:originalValue  "FIFA" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dfc4b251-3d7a-31ec-9fa3-a47fdd21059e> .

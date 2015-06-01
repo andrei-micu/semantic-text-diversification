@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8> ;
+        c:importance     "1" ;
+        c:name           "ESPN.com" ;
+        c:originalValue  "ESPN.com" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d914f56f-7fb5-3747-ba9e-29c801ec6f47> .
+
+<http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8> ;
+        c:importance     "2" ;
+        c:name           "Skipper" ;
+        c:originalValue  "Skipper (Barbie)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04389dcc-1882-3b65-8b56-e1f4a15e9ade> .
+
+<http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8> ;
+        c:importance     "1" ;
+        c:name           "ESPN" ;
+        c:originalValue  "ESPN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bf72ff24-66bb-3408-a905-8ef4b8888aa5> .
+
+<http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "697da6f1-a4af-6a2b-14da-5407526653ed" ;
+        c:docDate          "2015-05-30 09:36:14.752" ;
+        c:docTitle         "" ;
+        c:document         "ESPN Is Splitting With Bill Simmons, Who Offers an Uncharacteristic Word Count: Zero. John Skipper, ESPN’s president, said the company would not renew its contract with Simmons, an outspoken personality who said nothing publicly on Friday about the move." ;
+        c:id               "http://id.opencalais.com/INrME*AGQBfD2JF49bzKNg" .
+
+<http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8> ;
+        c:importance     "1" ;
+        c:name           "Bill Simmons" ;
+        c:originalValue  "Bill Simmons" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45f895fb-02a0-33cb-a54b-8dd3124e7b97> .
+
+<http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8> ;
+        c:importance     "2" ;
+        c:name           "Simmons" ;
+        c:originalValue  "Simmons (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d3999cb-eff4-3bec-be45-5d3e7cec8837> .
+
+<http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ea1dbbf5-a9e9-358a-b326-5e9c71034ac8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XmeZNrLihXp9fB5A9Nzpkqpjiv8=|NEmFa8R9KhgIGrOxUtp6YlbtPd9YccCr6Of+5GOQnXyPnKYd1/ctmA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:14.502" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

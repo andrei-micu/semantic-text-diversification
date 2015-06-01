@@ -1,0 +1,146 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance     "2" ;
+        c:name           "Andrews Cargo Module" ;
+        c:originalValue  "Andrews Cargo Module" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/791f09f3-8651-3cee-a7b4-3a445da3a68b> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance     "2" ;
+        c:name           "Spacecraft" ;
+        c:originalValue  "Spacecraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8218776a-fbb0-3147-8907-0b12e54ecb1a> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance     "2" ;
+        c:name           "Astronautics" ;
+        c:originalValue  "Astronautics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/613f3ed0-7e24-3d3f-954d-a14c95c2088a> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|/+tPabxlz6pBIK7oDmdINuPPhgg=|fMdHI/+Mrdw2sKcW0kNnPL1Aq0V2or/B59NJ/50xZrJCtkxSqhuIIg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:37.170" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance     "1" ;
+        c:name           "Human spaceflight" ;
+        c:originalValue  "Human spaceflight" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b444eba2-7e6a-3422-ba65-8036a4ae5bb2> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance     "2" ;
+        c:name           "Cygnus" ;
+        c:originalValue  "Cygnus (spacecraft)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bfc38cd2-a9b4-3d37-91fb-1b81a3ad0aec> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance     "1" ;
+        c:name           "Progress spacecraft" ;
+        c:originalValue  "Progress spacecraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0df3d073-18c5-33b2-8c69-962a4f0606ab> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance     "2" ;
+        c:name           "International Space Station" ;
+        c:originalValue  "International Space Station" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4375f374-cd9a-360c-abd9-b1fd4bb198c8> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:score           "0.590" .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance     "1" ;
+        c:name           "Spaceflight" ;
+        c:originalValue  "Spaceflight" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a047fab-a818-39e0-b940-49bc12ce74f3> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance     "2" ;
+        c:name           "NASA" ;
+        c:originalValue  "NASA" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c755f73-5eb2-310c-8100-f5eadf7b4ae0> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "df590be9-5bc9-afd0-14da-5397ab271d39" ;
+        c:docDate          "2015-05-30 09:28:37.373" ;
+        c:docTitle         "" ;
+        c:document         "Spacecraft spins out of control. Russia is continuing efforts to make contact with an unmanned cargo spacecraft that took off on a resupply mission to the International Space Station but is now spinning out of control, NASA said Wednesday." ;
+        c:id               "http://id.opencalais.com/R0G5t5aXnHciQ6*Y*9RSVQ" .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:score           "0.993" .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0c56f274-64ff-3d6c-af4f-16d8df461ee4> ;
+        c:importance     "2" ;
+        c:name           "Unmanned resupply spacecraft" ;
+        c:originalValue  "Unmanned resupply spacecraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/24a546a5-d6e9-3321-838e-4e04246c4266> .

@@ -1,0 +1,43 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/728f9bd0-d19d-38f7-b0e7-a2ba29b9cf4d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/728f9bd0-d19d-38f7-b0e7-a2ba29b9cf4d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/728f9bd0-d19d-38f7-b0e7-a2ba29b9cf4d/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/728f9bd0-d19d-38f7-b0e7-a2ba29b9cf4d> ;
+        c:importance  "2" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/728f9bd0-d19d-38f7-b0e7-a2ba29b9cf4d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a7e074f4-7909-ec28-14da-53d70d535464" ;
+        c:docDate          "2015-05-30 10:32:56.914" ;
+        c:docTitle         "" ;
+        c:document         "Seeing God in the face of Freddie Gray . Freddie Gray, Walter Scott, Eric Garner, Michael Brown, Tamir Rice, John Crawford, Jonathan Ferrell, Jordan Davis, Trayvon Martin ... Emmett Till." ;
+        c:id               "http://id.opencalais.com/fMa-0cSZWSYi*EJHEdn*LA" .
+
+<http://d.opencalais.com/dochash-1/728f9bd0-d19d-38f7-b0e7-a2ba29b9cf4d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/728f9bd0-d19d-38f7-b0e7-a2ba29b9cf4d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Vli3Coht8yS9Z4ZFVDkWfA5me2I=|LGieXTgmBtbrIZPYf0qTqFFmvc1UsRJWf/xL2fqGNCUFEFERqjHDUQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:56.789" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/728f9bd0-d19d-38f7-b0e7-a2ba29b9cf4d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/728f9bd0-d19d-38f7-b0e7-a2ba29b9cf4d> ;
+        c:score           "0.791" .

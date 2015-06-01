@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a> ;
+        c:importance     "1" ;
+        c:name           "Faves.com" ;
+        c:originalValue  "Faves.com" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c39e2507-5c04-377d-abd9-3b9e064d929d> .
+
+<http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a> ;
+        c:importance     "2" ;
+        c:name           "Aximili-Esgarrouth-Isthill" ;
+        c:originalValue  "Aximili-Esgarrouth-Isthill" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c456dd67-de13-331e-9aac-8fe0e41da535> .
+
+<http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qd1n+x2s6b50iGGZiwf1jlU9D6k=|g1fxp2lBzPr9kF9kvJEjKowZewRpTK4gq/+gS2I1S40xN1VZWBml9Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:05.000" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a> ;
+        c:importance     "1" ;
+        c:name           "Social bookmarking" ;
+        c:originalValue  "Social bookmarking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b9f978f7-1dfd-3eda-9200-5eca8c60041c> .
+
+<http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a> ;
+        c:importance     "1" ;
+        c:name           "Social information processing" ;
+        c:originalValue  "Social information processing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f76e7ee2-dea7-3a33-8bf8-4df8dd73b4f4> .
+
+<http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/179baea5-c61a-3a10-8f6b-74e822227d7a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4df17d92-85ae-f2ee-14da-53bbc2823ab1" ;
+        c:docDate          "2015-05-30 10:31:05.281" ;
+        c:docTitle         "" ;
+        c:document         "'Revenge' is canceled -- what about your other TV faves?. View this list of canceled TV shows to see which ones have gotten the ax." ;
+        c:id               "http://id.opencalais.com/rAjI6NEegkl-zgkCOwA5Dg" .

@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6e630baf-e1b5-b011-4da5-3e31da32f984" ;
+        c:docDate          "2015-05-30 09:33:46.420" ;
+        c:docTitle         "" ;
+        c:document         "Damaged Art Memorializes Violent Vietnam Era. Today is the 45th anniversary of the killing of four students by National Guard troops on the campus of Kent State University." ;
+        c:id               "http://id.opencalais.com/BplnLCTbBjbcYdN3xVkfqg" .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance     "2" ;
+        c:name           "North Central Association of Colleges and Schools" ;
+        c:originalValue  "North Central Association of Colleges and Schools" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bda033c5-62a1-3361-a0e2-e8d4cb752f6d> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance     "2" ;
+        c:name           "Military history by country" ;
+        c:originalValue  "Military history by country" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/087763f8-a6c8-3617-900c-aab09427f17b> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Hlz8ZXuR2gEL3HJ54HPpNNxJgLA=|VwusadtMEd+SPc9S7YxpuavHRjQP3+euVQSxmzi/BNXTyXMoeKBxzg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:33:46.202" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance     "1" ;
+        c:name           "Ohio" ;
+        c:originalValue  "Ohio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/53d95399-e665-3041-a398-e1e23d24cb7a> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance     "2" ;
+        c:name           "Kent, Ohio" ;
+        c:originalValue  "Kent, Ohio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/08f90c5c-1768-3a30-a26e-68a83d0d7502> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance     "2" ;
+        c:name           "Vietnam War" ;
+        c:originalValue  "Vietnam War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3505c48d-ccce-3625-848c-82afffae1347> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance     "2" ;
+        c:name           "Association of Public and Land-Grant Universities" ;
+        c:originalValue  "Association of Public and Land-Grant Universities" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a06b0d5-6adb-37be-9683-ce9d8367255d> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance     "1" ;
+        c:name           "Kent State shootings" ;
+        c:originalValue  "Kent State shootings" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3d4a6e0a-6428-3237-a441-d7f59e2a6d13> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance     "2" ;
+        c:name           "Mid-American Conference" ;
+        c:originalValue  "Mid-American Conference" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e1e48bc-e502-3bef-af6c-97c88c173806> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance     "1" ;
+        c:name           "Portage County, Ohio" ;
+        c:originalValue  "Portage County, Ohio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/39e1919f-b72b-3c0d-a646-2afcf01970c9> .
+
+<http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45e17b18-3474-3fec-9194-25f4dacceebe> ;
+        c:importance     "2" ;
+        c:name           "Kent State University" ;
+        c:originalValue  "Kent State University" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a428d92-99f6-3f8e-b417-87ed21685899> .

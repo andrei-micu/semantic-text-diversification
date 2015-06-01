@@ -1,0 +1,97 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:importance     "1" ;
+        c:name           "Adrift" ;
+        c:originalValue  "Adrift (Stargate Atlantis)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/46de286c-d43d-3bc1-bace-0a419096c134> .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e04e8e9d-3480-647b-14da-5446f5c4551f" ;
+        c:docDate          "2015-05-30 09:40:35.335" ;
+        c:docTitle         "" ;
+        c:document         "Latest News: Asian Migrants Adrift, B.B. King Dies and More. Here’s what you need to know to start your day." ;
+        c:id               "http://id.opencalais.com/gl7vF32p*fE*K4tpQAhzIw" .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:importance     "1" ;
+        c:name           "B.B. King" ;
+        c:originalValue  "B.B. King" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43f0188d-5b8f-32b8-9c45-d4fe6a686bb1> .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yZ0kUONt8uXELsdfGZa+TL88rPk=|P8XcvnndSBrKy/wobC/0rySSsuVZL1e0HKnadteVvxbAaFZvZHw1Qg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:35.164" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:importance     "1" ;
+        c:name           "Blues" ;
+        c:originalValue  "Blues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/90d37ee3-e4fe-3548-b839-feade09154b2> .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/481b9905-dfca-3737-a74c-488e8727a5e2> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

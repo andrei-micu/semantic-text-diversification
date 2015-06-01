@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:importance     "1" ;
+        c:name           "Employment compensation" ;
+        c:originalValue  "Employment compensation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2389f7b-f3ad-3337-9e93-670bd108a205> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:score           "0.889" .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:importance     "2" ;
+        c:name           "Personal finance" ;
+        c:originalValue  "Personal finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e43d5378-edca-370e-b12f-6bb11863aeef> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|VEpl9CLnweSowAwbb5AHe0jEVLo=|P3DxpQdOOGX09cW33jUl6/Gmqwc41yezRz1BvJEQ96UugyypnpoAGA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:40.886" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:importance     "1" ;
+        c:name           "Investment" ;
+        c:originalValue  "Investment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f974021-59af-3718-a6ea-cdb8151cb2c1> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:importance     "1" ;
+        c:name           "Financial services" ;
+        c:originalValue  "Financial services" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9bd1187-830d-372f-8dec-c942e29efca2> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:importance     "2" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:importance     "2" ;
+        c:name           "Pension" ;
+        c:originalValue  "Pension" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d7f03f5-a625-387a-9bef-112e344faa07> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/f0c463b8-dd53-3b3b-9b4e-61234b9d86d9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2ad2e81f-51f1-13c3-14da-53f077623ab1" ;
+        c:docDate          "2015-05-30 10:34:40.964" ;
+        c:docTitle         "" ;
+        c:document         "Greece defies euro zone on pension, labor reform. ATHENS/BRUSSELS (Reuters) - Greece defied its international creditors on Thursday, refusing to cut pensions or ease layoffs to meet their demands, dimming prospects of progress next week toward securing desperately needed financial aid." ;
+        c:id               "http://id.opencalais.com/4QiYClQvW-yelbymarVMJQ" .

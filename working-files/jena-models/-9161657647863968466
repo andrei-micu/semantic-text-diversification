@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dd1acb86-f7d3-3a31-a7cd-8368fe667502/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dd1acb86-f7d3-3a31-a7cd-8368fe667502> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bGABg3JWHK1R744x1JeQ+hthv5I=|KQvxgLIk4ZvvZNBrISzzJ1x4ymp/Ibhs5yMXSnfuMJ87HOvPVQtEIg==" ;
+        c:submissionDate  "2015-05-30 09:48:01.638" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dd1acb86-f7d3-3a31-a7cd-8368fe667502>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "af62f9d4-a359-eb11-14da-54b3f5632f98" ;
+        c:docDate          "2015-05-30 09:48:01.716" ;
+        c:docTitle         "" ;
+        c:document         "The element that made the 20th Century shine. The element that made the modern era gleam" ;
+        c:id               "http://id.opencalais.com/uG8xoIv*fmSv2cLnn0R3GA" .
+
+<http://d.opencalais.com/dochash-1/dd1acb86-f7d3-3a31-a7cd-8368fe667502/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dd1acb86-f7d3-3a31-a7cd-8368fe667502> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

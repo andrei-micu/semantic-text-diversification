@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12> ;
+        c:importance     "2" ;
+        c:name           "Afghanistan" ;
+        c:originalValue  "Afghanistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad4fd6ae-b9fe-3ab7-a2be-a5a59ab4b1a3> .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12> ;
+        c:importance     "1" ;
+        c:name           "War in Afghanistan" ;
+        c:originalValue  "War in Afghanistan (2001–present)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d48818c-2a09-3d5e-9bd7-8532d3afdcbd> .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12> ;
+        c:importance     "1" ;
+        c:name           "Commando" ;
+        c:originalValue  "Commando" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1254bdf-a173-3e67-a187-22deeac41eef> .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fc28ca20-5661-8275-14da-538c12432955" ;
+        c:docDate          "2015-05-30 10:27:49.840" ;
+        c:docTitle         "" ;
+        c:document         "With The U.S. In The Background, Afghan Commandos Step It Up. With fighting expected to pick up this spring, Afghanistan's security is heavily dependent on elite forces like the commandos. NPR's Tom Bowman profiles the top enlisted man." ;
+        c:id               "http://id.opencalais.com/ScP75G7ppKvHnTFyUpeblA" .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12> ;
+        c:score           "0.762" .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fiF200Z0eUCBjHAOa9bYVQbI6IQ=|J7SkQQm3fq10sbfPSzP0nit9ADIHCjt2p8oOPoFI+ht9o+Q38wVVXA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:49.668" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/826df687-7275-3f3f-867f-6e358867ba12> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .

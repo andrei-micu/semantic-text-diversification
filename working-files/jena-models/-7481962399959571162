@@ -1,0 +1,153 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance     "2" ;
+        c:name           "Dinosaurs" ;
+        c:originalValue  "Dinosaurs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f45f029-8037-3575-8573-f4c018704100> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance     "2" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|z+yY6APWrdl9hZa+xKCnlnmqBuU=|E6YIrH4YpeI2UnBj8w6muGed7p8wUfs6M9O6CaenEQX24dyOWU0fpw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:26.624" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:score           "0.522" .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance     "2" ;
+        c:name           "Animal flight" ;
+        c:originalValue  "Animal flight" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b5f01ed3-3c5b-3c75-a389-8a454b256505> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:score           "0.929" .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance     "1" ;
+        c:name           "Paleozoology" ;
+        c:originalValue  "Paleozoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/be3bbd48-1667-33b4-87ed-4419282fe89d> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance     "2" ;
+        c:name           "Origin of birds" ;
+        c:originalValue  "Origin of birds" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9438a035-eacc-32ba-94b7-63f8f01cbbeb> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7fa72650-b45a-9db2-14da-54622c071d39" ;
+        c:docDate          "2015-05-30 09:42:26.889" ;
+        c:docTitle         "" ;
+        c:document         "'Bizarre' bat-winged dinosaur discovered in China. Chinese scientists say they have discovered a new dinosaur species, with bat-like wings, that sheds light on how dinosaurs may have evolved into birds." ;
+        c:id               "http://id.opencalais.com/7SMOwUtKFs6unCzJIu5iRg" .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:score           "0.954" .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance     "1" ;
+        c:name           "Paleontology" ;
+        c:originalValue  "Paleontology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/efcbf641-1c9c-3af7-8958-04b37b664010> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance     "2" ;
+        c:name           "Bat" ;
+        c:originalValue  "Bat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d07c5766-2b21-3822-a369-fa556eda3f03> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7d126e2-69cd-3f60-a961-952915f215c0> ;
+        c:importance     "2" ;
+        c:name           "Feathered dinosaurs" ;
+        c:originalValue  "Feathered dinosaurs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/838fe101-e794-3a18-8b34-ff60a018c2a9> .

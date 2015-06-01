@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98> ;
+        c:importance     "1" ;
+        c:name           "Gorkha District" ;
+        c:originalValue  "Gorkha District" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a77e59d6-94f1-345f-87c4-abc2bab000ad> .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98> ;
+        c:importance     "1" ;
+        c:name           "Nepal" ;
+        c:originalValue  "Nepal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47cb7fb8-c179-378d-94c8-3ee216a55ec3> .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bEJE9/Rc3wPh/ZrEuNnYpq8oVck=|cbqS26MnnCj8zaXBf/tcqRjU64gBiYX+xrlGKKZSYjXdjbwMhFgJiQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:58.228" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b6bbed29-2f89-a0ce-14da-538e29432f98" ;
+        c:docDate          "2015-05-30 09:27:58.555" ;
+        c:docTitle         "" ;
+        c:document         "Villages Near Nepal Earthquake’s Epicenter Are Desperate as Death Toll Tops 3,800. Residents of Gorkha district say houses collapsed, food is running out and so far no one has arrived with aid." ;
+        c:id               "http://id.opencalais.com/Cz3UuVTZ6d35F7nkXIPufg" .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/647c0b21-8df3-3775-877f-8fd5b4e6ac98> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

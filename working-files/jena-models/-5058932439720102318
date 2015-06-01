@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:importance     "2" ;
+        c:name           "Climate change" ;
+        c:originalValue  "Climate change" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cedbc608-58fa-3bfe-8652-a58d735c6f75> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "902a385b-f086-bd99-14da-53b2322653ed" ;
+        c:docDate          "2015-05-30 09:30:26.060" ;
+        c:docTitle         "" ;
+        c:document         "California Governor Orders New Target for Emissions Cuts. Gov. Jerry Brown issued an executive order Wednesday dramatically ramping up the state’s already ambitious program aimed at curbing greenhouse gas emissions." ;
+        c:id               "http://id.opencalais.com/8fm*muuuJdi38gGisrCuxQ" .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:importance     "1" ;
+        c:name           "United Nations Framework Convention on Climate Change" ;
+        c:originalValue  "United Nations Framework Convention on Climate Change" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/da731a20-80a3-3adc-97b7-03161a7fda43> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:importance     "2" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:importance     "2" ;
+        c:name           "Environment" ;
+        c:originalValue  "Environment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:importance     "1" ;
+        c:name           "Climate change policy" ;
+        c:originalValue  "Climate change policy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/488c21ec-477e-3376-9252-55cfbdf29f53> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:importance     "2" ;
+        c:name           "Sustainability" ;
+        c:originalValue  "Sustainability" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d7114f4a-07d8-33f5-b7f2-915f6a038b6b> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:importance     "1" ;
+        c:name           "Carbon finance" ;
+        c:originalValue  "Carbon finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8385b3b7-ca7e-383e-9173-ef0ba6786f45> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:importance     "2" ;
+        c:name           "Carbon dioxide" ;
+        c:originalValue  "Carbon dioxide" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bb8f20c6-f261-3707-8c5b-f444f0435801> .
+
+<http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a162dc47-bb61-3d03-96ef-ee7aa255a77a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|AnkgYCPU3cVi0jNCWDinburkIbw=|Lm6T/hSaeZW/dSln7KpFYCozRtBsFRfba/2Rb7KXt+SVRX1F/rr7OA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:25.842" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

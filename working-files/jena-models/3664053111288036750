@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zjOPUR+dRQVAxcky9e0ztkjzlIM=|HbhLGWC9EdoQtBc79GfxcPl7Jc+GU+aZf9klPhWexnt0BmICdo3LSQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:33:29.392" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a> ;
+        c:importance     "2" ;
+        c:name           "Benzoates" ;
+        c:originalValue  "Benzoates" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9160da9-acb2-3bb6-9757-b7f6dd85d52c> .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a> ;
+        c:importance     "1" ;
+        c:name           "Pharmacology" ;
+        c:originalValue  "Pharmacology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2874b53c-b34a-3e63-9a9e-99728b6ede62> .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a> ;
+        c:importance     "2" ;
+        c:name           "Stimulants" ;
+        c:originalValue  "Stimulants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/84dd8968-8020-35ee-aab1-bcb9a26f7e2d> .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a> ;
+        c:importance     "1" ;
+        c:name           "Chemistry" ;
+        c:originalValue  "Chemistry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/176cb94d-bc36-3769-9f04-7f867181dd40> .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a> ;
+        c:importance     "2" ;
+        c:name           "Cocaine" ;
+        c:originalValue  "Cocaine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2f498f62-e8cf-3176-b1c5-dc2e0662f4a6> .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "589ad6d4-0203-9f9b-14da-53df0304551f" ;
+        c:docDate          "2015-05-30 09:33:29.735" ;
+        c:docTitle         "" ;
+        c:document         "NYC pizzeria cocaine ring smashed. US and Italian agents dismantle a cocaine trafficking network run from a New York pizzeria, making several arrests." ;
+        c:id               "http://id.opencalais.com/xHIZfdi8VogIVKQXl4x*6w" .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a> ;
+        c:importance     "2" ;
+        c:name           "Anorectics" ;
+        c:originalValue  "Anorectics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ec422c25-350f-39e8-bc69-495b2b3fbb27> .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a> ;
+        c:importance     "1" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8a264ad-0293-3e4f-a0b2-dd55d2067e6a> ;
+        c:importance     "2" ;
+        c:name           "Otologicals" ;
+        c:originalValue  "Otologicals" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/deb0fe92-0e3b-38ed-abfb-f4fd3cc2e451> .

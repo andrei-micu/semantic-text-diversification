@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:importance     "2" ;
+        c:name           "Unemployment" ;
+        c:originalValue  "Unemployment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8e13850c-ff41-323c-9577-1c6f5a054fa5> .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:importance     "1" ;
+        c:name           "Economic history" ;
+        c:originalValue  "Economic history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82248aca-dcd6-3def-bd89-fc24fb5cdf7a> .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:score           "0.968" .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|BzLfrRKZg35prRdSl75GYrJB6lQ=|bUKhNsBlsGvlVer2s6V1Q/5S+BlFOPmi9OdNnZnL7PPylfSchuDlAg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:34.637" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:importance     "2" ;
+        c:name           "Federal funds rate" ;
+        c:originalValue  "Federal funds rate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8147ceed-95e1-34e7-aae0-dbc90fedee8d> .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b8d28c6e-1308-e74f-14da-540c3cd13c98" ;
+        c:docDate          "2015-05-30 09:36:34.793" ;
+        c:docTitle         "" ;
+        c:document         "U.S. job growth recovers, keeps 2015 Fed rate rise in play. WASHINGTON (Reuters) - U.S. job growth rebounded last month and the unemployment rate dropped to a near seven-year low of 5.4 percent, suggesting underlying strength in the economy at the start of the second quarter that could keep alive prospects for a Federal Reserve rate hike later this year." ;
+        c:id               "http://id.opencalais.com/LvoMhvBhRhsRqJ70jB6bjQ" .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:importance     "1" ;
+        c:name           "Recessions" ;
+        c:originalValue  "Recessions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a39cc77c-5c3b-35c4-ab33-aa94a41438bd> .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174c6e77-4444-34ca-8f39-1b86a10d0093> ;
+        c:importance     "2" ;
+        c:name           "Federal Reserve System" ;
+        c:originalValue  "Federal Reserve System" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/058dac68-01cb-39fd-b500-6ff0cadde7a7> .

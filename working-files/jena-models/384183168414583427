@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:importance     "2" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:importance     "1" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6df4c2d8-7ae6-438c-14da-53d1c4d760f9" ;
+        c:docDate          "2015-05-30 10:32:35.336" ;
+        c:docTitle         "" ;
+        c:document         "Put down that energy drink!. You don't need it with these tips on how to stay energized throughout the day from CNN Chief Medical Correspondent Dr. Sanjay Gupta." ;
+        c:id               "http://id.opencalais.com/W2fymUwRZLk4lz3B8ZcU4w" .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:importance     "1" ;
+        c:name           "Sanjay" ;
+        c:originalValue  "Sanjay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2edb9b10-21bb-3c88-83af-695ad565fdf7> .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|H9xwnWRF5HNsTwQr4sbnjtMf7uU=|emdoHiuURVvYonZGSgDXe7H16p4YRA/PdiWzc1kF/mktNHHkkDgb/w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:35.149" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:importance     "2" ;
+        c:name           "Gupta" ;
+        c:originalValue  "Gupta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e514ce22-721b-3f73-87ff-a80fc16aa09c> .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:score           "0.941" .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:importance     "1" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/588b305e-cf68-34ee-a561-2d2ccd213130> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .

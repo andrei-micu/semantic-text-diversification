@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d> ;
+        c:importance     "2" ;
+        c:name           "Freddie Mac" ;
+        c:originalValue  "Freddie Mac" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b1d712c8-b7e3-3153-80e3-5e58c30e6b21> .
+
+<http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Wp0Ra+27sP2z7goujIOIV7FQuEI=|ja8cth/kE14TI4OiRQxMpw3bxttX3bBOvJxtcnlVpDUmkHVga4uC6g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:04.742" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d> ;
+        c:importance     "1" ;
+        c:name           "Economy of the United States" ;
+        c:originalValue  "Economy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c04552-e625-3a39-93f8-3544f0172fe0> .
+
+<http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d> ;
+        c:importance     "1" ;
+        c:name           "Fannie Mae" ;
+        c:originalValue  "Fannie Mae" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/234e4055-7a78-3547-8e6b-1b314ed92c73> .
+
+<http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5cad2aed-33c0-99b3-14da-5430e2649095" ;
+        c:docDate          "2015-05-30 10:39:04.835" ;
+        c:docTitle         "" ;
+        c:document         "Judge’s Ruling Against 2 Banks Finds Misconduct in ’08 Crash. Judge Denise L. Cote of Federal District Court in Manhattan ruled on Monday that Nomura and the Royal Bank of Scotland misled Fannie Mae and Freddie Mac." ;
+        c:id               "http://id.opencalais.com/c0Nd2YAwMLC-d7uiXk4orQ" .
+
+<http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d> ;
+        c:score           "0.538" .
+
+<http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a500e288-5cd4-38df-90ce-dd7e40cd869d> ;
+        c:importance     "1" ;
+        c:name           "Mortgage industry of the United States" ;
+        c:originalValue  "Mortgage industry of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0f246d3-9d88-30ed-992a-d5f459429aea> .

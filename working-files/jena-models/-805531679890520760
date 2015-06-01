@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|R3i3fBd5E2QzUWGjOS9sFUwjx7I=|Vp8vX/yYUBEBOW8f/iIjCIuqmRyKKU7gXeZXxFtFbNNIci1OuBEI1A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:44.612" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f> ;
+        c:importance     "2" ;
+        c:name           "Indonesia" ;
+        c:originalValue  "Indonesia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1f9a82db-e988-3242-9834-689358d46e2c> .
+
+<http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f> ;
+        c:importance     "1" ;
+        c:name           "Cilacap Regency" ;
+        c:originalValue  "Cilacap Regency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6831511c-7575-3d9d-bdc1-3df1b035c8cf> .
+
+<http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f> ;
+        c:importance     "1" ;
+        c:name           "Capital punishment" ;
+        c:originalValue  "Capital punishment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47a29b10-9dfe-3cd8-9d95-8cda59bc4410> .
+
+<http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c05ffc8d-9a07-72ed-14da-538ad6449095" ;
+        c:docDate          "2015-05-30 10:27:44.690" ;
+        c:docTitle         "" ;
+        c:document         "Indonesia rebuffs last-ditch bids to delay drug-convict executions. CILACAP, Indonesia/SYDNEY (Reuters) - Indonesia said the execution of nine drug traffickers would go ahead this week, rebuffing last-minute appeals from Australia and the Philippines to spare their nationals and ignoring a decision by the Constitutional Court to hear a final challenge." ;
+        c:id               "http://id.opencalais.com/3KpKsTIlqe*skA6kinp4LQ" .
+
+<http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fbba271c-67ef-379a-b9ff-8ece24bda88f> ;
+        c:importance     "1" ;
+        c:name           "Cilacap" ;
+        c:originalValue  "Cilacap" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7b4e2ec8-7546-32db-b14c-60c6fcd470c3> .

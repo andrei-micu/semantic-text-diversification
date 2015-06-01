@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:importance     "1" ;
+        c:name           "Mount Everest" ;
+        c:originalValue  "Mount Everest" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aef1297c-0c88-39a2-be7d-8fca5cbbf918> .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:importance     "2" ;
+        c:name           "Everest" ;
+        c:originalValue  "Everest (film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/09602d68-0827-3566-a759-b0d418e574c7> .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:score           "0.953" .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:importance     "1" ;
+        c:name           "Physical geography" ;
+        c:originalValue  "Physical geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07bc24e7-a33a-34a3-8a5c-23a4b068fccb> .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:importance     "1" ;
+        c:name           "Geography of Tibet" ;
+        c:originalValue  "Geography of Tibet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60acdf2e-d043-33da-9b75-d1cbfaf62aad> .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3K03kfxHifZq22mRYWriJdgwHao=|U8kVZuWhcuLzS+r/HKO2KcYNiocUJUvQ6ZBGRkNQrsRHT9ocALPWNA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:29.220" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6cdb9801-e94a-a0cb-14da-5428364719b3" ;
+        c:docDate          "2015-05-30 10:38:29.330" ;
+        c:docTitle         "" ;
+        c:document         "Climber survives post-earthquake avalanche on Everest. Jost Kobusch talks to CNN's Poppy Harlow about how he survived an avalanche on Mount Everest." ;
+        c:id               "http://id.opencalais.com/OdOaFUoCm0HejKRmbRZlyg" .
+
+<http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3af91ba0-dcea-3d51-97f4-0bae542c6478> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

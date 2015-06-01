@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:score           "0.957" .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:importance     "1" ;
+        c:name           "Mad Max" ;
+        c:originalValue  "Mad Max" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65945d8c-feea-39ac-ba17-7320fcee40b1> .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:importance     "2" ;
+        c:name           "Fury" ;
+        c:originalValue  "Fury (Marvel Comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c8c7f88-c1b0-3896-a9e2-fa9084acbaa3> .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:score           "0.954" .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "81ff6def-fe6e-ff3e-14da-5441f1832955" ;
+        c:docDate          "2015-05-30 10:40:14.803" ;
+        c:docTitle         "" ;
+        c:document         "'Mad Max: Fury Road' driving critics wild. Hollywood's appetite for sequels and reboots shows no sign of weakening, but \"Mad Max: Fury Road\" is one instance in which that's a very good thing, critics agree." ;
+        c:id               "http://id.opencalais.com/-Gw9Of8DTbouGoLmEhobGQ" .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:importance     "2" ;
+        c:name           "Mad" ;
+        c:originalValue  "Mad (magazine)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2aaf358-ec0a-3821-b513-ae7516b9c212> .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|6NKLaquibTFcUKB9SpDuR5lLq7U=|fHj4meiyxSOJKHcN8bsb4xAlELcxGtJOoxmhqj88rib0JuXEWzqxrA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:14.616" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:importance     "1" ;
+        c:name           "Cinema of Australia" ;
+        c:originalValue  "Cinema of Australia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b9233416-415e-3021-9d2a-bce34a3acdd1> .
+
+<http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2aa4bdb3-6a9e-33aa-9aec-29f10589bafa> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

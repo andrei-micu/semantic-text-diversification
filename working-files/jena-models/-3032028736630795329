@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:importance     "2" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|mwan5jR2VBWDJ3duEsl9W+J/fB4=|ffScXpEklW1w5fPF1RGAZmLu909gbo0MUNddL3/W2I611wMTCV6j0Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:58.936" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:importance     "1" ;
+        c:name           "Singing" ;
+        c:originalValue  "Singing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/485e2391-18a1-32c5-991d-83f095dc726e> .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:importance     "1" ;
+        c:name           "Music competitions" ;
+        c:originalValue  "Music competitions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7eaab92b-b610-3208-8395-759c7f3fab02> .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:importance     "2" ;
+        c:name           "American Idol" ;
+        c:originalValue  "American Idol" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e04c24db-8e3d-3565-97ee-b9e662092573> .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f9d59869-ac27-f902-14da-545b6984551f" ;
+        c:docDate          "2015-05-30 09:41:59.076" ;
+        c:docTitle         "" ;
+        c:document         "'Idol' picks winner, gets ready for final season. In a star-studded season 14 finale, Nick Fradiani was anointed the latest \"American Idol.\"" ;
+        c:id               "http://id.opencalais.com/ZN3*Xj5b8XqB*C*kw-C5Ow" .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:importance     "1" ;
+        c:name           "Talent shows" ;
+        c:originalValue  "Talent shows" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d48eac79-9125-389b-964a-040d25dbfa89> .
+
+<http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de0c1cd1-bd8b-3ddb-b375-390ffb1b6892> ;
+        c:importance     "2" ;
+        c:name           "Idol" ;
+        c:originalValue  "Idol (TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/385335ed-1f21-306c-b967-c9bb9bedcd06> .

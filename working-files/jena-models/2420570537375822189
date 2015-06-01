@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance     "2" ;
+        c:name           "Contemporary history" ;
+        c:originalValue  "Contemporary history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5967e0cf-86e5-39d2-9bef-db5533141edd> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance     "2" ;
+        c:name           "Saleh" ;
+        c:originalValue  "Saleh (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e4f2700-f39c-31a5-a1dc-3d636e44be6d> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2BeEh/2UvLcEpZdHIb8INIL/eEw=|CW57SdSoo639Lrrc8rikp2+XNHBHRuyp/kyIi9MJ/Y2oD9DZpW6GkQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:45.815" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance     "2" ;
+        c:name           "Shia insurgency in Yemen" ;
+        c:originalValue  "Shia insurgency in Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/66191814-0fbd-3108-a6f9-6620f9b5a105> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "78d204aa-7f2b-5883-14da-541d9d7653ed" ;
+        c:docDate          "2015-05-30 09:37:46.018" ;
+        c:docTitle         "" ;
+        c:document         "Houthi Rebels Agree to 5-Day Cease-Fire in Yemen. The Houthis’ acceptance of the cease-fire came as a Saudi-led coalition bombed the residence of Ali Abdullah Saleh, Yemen’s former president and a Houthi ally." ;
+        c:id               "http://id.opencalais.com/Dm*4Mb94nlF6jGTeoqDxpA" .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance     "2" ;
+        c:name           "Houthis" ;
+        c:originalValue  "Houthis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f1274c61-4ab9-380e-b2bc-709aabd9c467> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance     "2" ;
+        c:name           "Operation Blow to the Head" ;
+        c:originalValue  "Operation Blow to the Head" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7358842d-a1d4-384d-9f6e-49ebc7742257> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance     "1" ;
+        c:name           "Yemen" ;
+        c:originalValue  "Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c6207b9-0507-3acd-bfb3-5586f8fb81ac> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance     "2" ;
+        c:name           "Ali Abdullah Saleh" ;
+        c:originalValue  "Ali Abdullah Saleh" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/112e14ea-84fc-3d2e-9248-62fef222d543> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance     "1" ;
+        c:name           "Terrorism in Yemen" ;
+        c:originalValue  "Terrorism in Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6cb1897e-85f7-3250-b2ff-3e05e49cc840> .
+
+<http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8eb1afce-5d52-38c9-8a4f-bee4440468cb> ;
+        c:importance     "2" ;
+        c:name           "Zaydi" ;
+        c:originalValue  "Zaydi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7056295-c3e2-3004-8f54-955d2a373197> .

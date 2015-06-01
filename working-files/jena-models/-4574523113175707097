@@ -1,0 +1,146 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "2" ;
+        c:name           "Honda" ;
+        c:originalValue  "Honda" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d0cca71a-7fdd-3eb9-b627-80ef1b80ceb5> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3iSSVERs45KU3FwOoXBp35rCQG8=|Ix+sJxREtx5sS+xhhtpnYEvwsMNC8VSO3c9LCetmwv+JVnNZ05hwqA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:45.115" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "2" ;
+        c:name           "Honda Fit" ;
+        c:originalValue  "Honda Fit" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/127b40a3-ab35-3a15-aff4-f7475efb381f> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "1" ;
+        c:name           "Land transport" ;
+        c:originalValue  "Land transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8308731b-55d1-3560-b0ee-c6f580e9a2f6> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "2" ;
+        c:name           "Coupes" ;
+        c:originalValue  "Coupes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa889359-a11d-3c8a-876a-634de023c331> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "2" ;
+        c:name           "Sedans" ;
+        c:originalValue  "Sedans" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3a8f9e9b-d395-3325-a42a-81ea9c1b6668> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "1" ;
+        c:name           "Private transport" ;
+        c:originalValue  "Private transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e650ddd3-88f7-3174-a8bd-9cbdad432794> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "2" ;
+        c:name           "Honda Civic" ;
+        c:originalValue  "Honda Civic" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b986c8de-0fce-3975-8f7a-121ce4555829> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c9d65959-0807-ba00-14da-545809b32f98" ;
+        c:docDate          "2015-05-30 09:41:45.240" ;
+        c:docTitle         "" ;
+        c:document         "Honda exec says latest air bag-linked recall may impact Japan sales. TOKYO (Reuters) - Honda Motor Co could see an impact on sales in Japan from its plans to recall some 5 million cars to replace potentially fatal air bags made by Japan's Takata Corp, a top executive said on Friday." ;
+        c:id               "http://id.opencalais.com/V7S7VLf1xGZ0WKX5cL7reg" .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "1" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "2" ;
+        c:name           "Subcompact cars" ;
+        c:originalValue  "Subcompact cars" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91aaebf7-270a-36a8-870f-9e2c8e1902b9> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "2" ;
+        c:name           "Hatchbacks" ;
+        c:originalValue  "Hatchbacks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6daab630-3499-3f28-afa8-2cdb14721209> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:importance     "2" ;
+        c:name           "Takata" ;
+        c:originalValue  "Takata" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c1876f6d-4c80-34b3-9853-bcfd927efd92> .
+
+<http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aec210f7-e006-391c-9c97-ec22dffdd706> ;
+        c:score           "1.000" .

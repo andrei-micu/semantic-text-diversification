@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:importance     "1" ;
+        c:name           "Land reclamation" ;
+        c:originalValue  "Land reclamation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a6c75a21-80b9-34e3-aff3-b494ec518d98> .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:importance     "2" ;
+        c:name           "Water" ;
+        c:originalValue  "Water" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0b0866c-a4aa-349c-811e-975ff48aaad8> .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:importance     "2" ;
+        c:name           "Victoria Harbour" ;
+        c:originalValue  "Victoria Harbour" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/375de6fb-569e-3414-a1d0-9c488bbdaa82> .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:score           "0.987" .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2659770c-7483-8ee1-4da5-4c3d87354646" ;
+        c:docDate          "2015-05-30 10:49:06.976" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: US calls halt to land reclamation. The United States has called for an immediate and lasting halt to reclamation works by all claimants in disputed waters in the South China Sea." ;
+        c:id               "http://id.opencalais.com/zRzx37kVhEjq026YPxDlwQ" .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:importance     "1" ;
+        c:name           "Riparian" ;
+        c:originalValue  "Riparian" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07cb9a9d-6138-3f89-96d4-0dc5b2b51728> .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:importance     "1" ;
+        c:name           "Environmental soil science" ;
+        c:originalValue  "Environmental soil science" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6abefda6-ff30-34f3-a536-eb3a5a0a0eb6> .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8ilSv+aonkBIZTh5aAp0gWs7sto=|fBdczgBvDh/+F4mISZufqF2F+hQPYPJCBQ/Cj3gwk9/RIPGum1czDA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:06.695" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2780a12-5a98-3ede-a366-dcb8895b6a7e> ;
+        c:importance     "2" ;
+        c:name           "Environment" ;
+        c:originalValue  "Environment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

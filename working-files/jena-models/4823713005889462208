@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d> ;
+        c:importance     "1" ;
+        c:name           "David Letterman" ;
+        c:originalValue  "David Letterman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54eef261-5ad0-34ea-935b-60819ce936b6> .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d> ;
+        c:importance     "2" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d> ;
+        c:importance     "2" ;
+        c:name           "Funnyman" ;
+        c:originalValue  "Funnyman (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65b0c9cb-6ac7-3df5-9d17-2a69a5afdf2e> .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d> ;
+        c:importance     "1" ;
+        c:name           "Late night television in the United States" ;
+        c:originalValue  "Late night television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ccad346b-d3af-3b98-acff-1186b6d1b2cd> .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d> ;
+        c:importance     "1" ;
+        c:name           "Fresh Air" ;
+        c:originalValue  "Fresh Air" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89321be6-af9b-3434-91d0-ac66e66a7419> .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b1cb8a6b-3f7f-44e1-14da-53d9c26760f9" ;
+        c:docDate          "2015-05-30 10:33:07.971" ;
+        c:docTitle         "" ;
+        c:document         "Last Days Of Dave: Paying Homage To Letterman's Weird And Quirky Legacy. The off-beat funnyman retires this month after 33 years hosting late-night television. Fresh Air's David Bianculli says that David Letterman's humor \"provided a new blueprint for the TV talk show.\"" ;
+        c:id               "http://id.opencalais.com/3WpdXrSwDWwjs3vX3Vt9pg" .
+
+<http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6539708d-f72b-3dd0-9772-45867699e36d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|vO2iC56AB61ZyQSwNMR+3etTokw=|T5JigKP8lcvvkFeGkrGTMjriE09yQiAQP7rmBVB9M23TyfbubxbH/g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:07.878" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

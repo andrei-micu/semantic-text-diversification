@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0t2rMaS3AxiEUK4K0Y9zyvHn3G0=|QW80vyavsoW3OhlZ85mwikDeCKRaTZhA1/lD4rBViGGntWwwZwVENw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:59.587" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652> ;
+        c:importance     "2" ;
+        c:name           "Africa" ;
+        c:originalValue  "Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40ba53c0-c97b-3a8d-9376-dccf9e54b90e> .
+
+<http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e1f8020f-aa92-2dcd-14da-53abca34551f" ;
+        c:docDate          "2015-05-30 09:29:59.759" ;
+        c:docTitle         "" ;
+        c:document         "200 girls in terror camps saved. Nigerian troops rescued 200 girls and 93 women Tuesday in the Sambisa Forest, the Nigerian Armed Forces announced on its official Twitter account." ;
+        c:id               "http://id.opencalais.com/j4ZLSXJDV8xdQGYH2xIyCg" .
+
+<http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652> ;
+        c:importance     "2" ;
+        c:name           "Nigeria" ;
+        c:originalValue  "Nigeria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9885ef1e-d0a4-36b5-a5fa-01ffc4c2d4ba> .
+
+<http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b2e3a8bb-e1c1-3508-bca8-901c51d79652> ;
+        c:importance     "1" ;
+        c:name           "Nigerian Armed Forces" ;
+        c:originalValue  "Nigerian Armed Forces" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab7efb9a-999b-3ae1-90d0-148f7cc31950> .

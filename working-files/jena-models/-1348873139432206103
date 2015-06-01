@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "646a47de-a748-efd9-14da-53c63fe1927e" ;
+        c:docDate          "2015-05-30 10:31:48.153" ;
+        c:docTitle         "" ;
+        c:document         "U2’s Flight to Now (Turbulence Included). After trouble on the runway, the band’s “Innocence and Experience” tour is taking off." ;
+        c:id               "http://id.opencalais.com/1fcdrbKHHy6cl7HedxjltA" .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe> ;
+        c:importance     "2" ;
+        c:name           "U2" ;
+        c:originalValue  "U2" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9fdc897d-bbfd-3bc8-a1b4-414d24d0b686> .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe> ;
+        c:importance     "1" ;
+        c:name           "Airport infrastructure" ;
+        c:originalValue  "Airport infrastructure" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/830cb4dd-0443-34fb-b4d1-a0926359e46a> .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GJOlT51kSANeqnq4FIW3+uU5Tbs=|VNos5e0U26CaygLKkNIRZfIR1J1vDeyCrD+Aq0fEU6Iue5VCU6ApKw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:47.966" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe> ;
+        c:importance     "2" ;
+        c:name           "Turbulence" ;
+        c:originalValue  "Turbulence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b380285-4868-348c-b113-e96911b6b18e> .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe> ;
+        c:importance     "1" ;
+        c:name           "Runway" ;
+        c:originalValue  "Runway" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4455c65b-8e8b-3a2f-a626-c5c6bcbf4d3b> .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe> ;
+        c:importance     "1" ;
+        c:name           "Aerospace engineering" ;
+        c:originalValue  "Aerospace engineering" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a903e535-9cff-396f-8e1d-81de574d019f> .
+
+<http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a49cbc18-9ada-3cda-8507-f994b8dcccbe> ;
+        c:importance     "2" ;
+        c:name           "Wake turbulence" ;
+        c:originalValue  "Wake turbulence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1015436c-36c5-36f7-9a91-8a0329d4da0d> .

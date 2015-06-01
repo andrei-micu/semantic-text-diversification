@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20> ;
+        c:importance     "1" ;
+        c:name           "Capital punishment in Florida" ;
+        c:originalValue  "Capital punishment in Florida" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/171f91d7-5b29-31d1-907a-7d6268dc58d2> .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|W5u4SvBX2pQBaIp/sQX5UwP9xqQ=|AF8Vp7JbekHC3XRfIbAh8iUHhS9Oc8oRVm7zN1l79XSznvYetOh3XA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:54.181" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20> ;
+        c:importance     "1" ;
+        c:name           "Capital punishment" ;
+        c:originalValue  "Capital punishment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47a29b10-9dfe-3cd8-9d95-8cda59bc4410> .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7a391e83-034d-1fa5-14da-53c7c4549095" ;
+        c:docDate          "2015-05-30 10:31:54.290" ;
+        c:docTitle         "" ;
+        c:document         "Lethal injection case exposes U.S. top court's death penalty divide. WASHINGTON (Reuters) - Tensions on the Supreme Court over America's use of the death penalty boiled over on Wednesday as the justices appeared badly split in a case challenging Oklahoma's lethal injection method as a breach of the Constitution's ban on cruel and unusual punishment." ;
+        c:id               "http://id.opencalais.com/Z15f*ly7AdZA0MVlelgIOA" .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20> ;
+        c:importance     "2" ;
+        c:name           "Baze v. Rees" ;
+        c:originalValue  "Baze v. Rees" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4872474f-db61-3ef7-a876-5918843b1847> .
+
+<http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3f9ba567-cb0b-3c97-99a5-7540a89b8f20> ;
+        c:importance     "1" ;
+        c:name           "Lethal injection" ;
+        c:originalValue  "Lethal injection" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afd86c8e-6eb0-3dc8-add2-2e87d42d8ccd> .

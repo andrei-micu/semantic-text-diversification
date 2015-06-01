@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:importance     "1" ;
+        c:name           "Ethics" ;
+        c:originalValue  "Ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f579fc5-eed2-3113-a4f8-658e638275f1> .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:importance     "2" ;
+        c:name           "Privacy" ;
+        c:originalValue  "Privacy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/94857759-3b73-3d3f-94f3-57faee48426a> .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8fbaf147-469b-37f6-14da-5407a25653ed" ;
+        c:docDate          "2015-05-30 09:36:15.953" ;
+        c:docTitle         "" ;
+        c:document         "Airport Security Advances Clash With Privacy Issues. New technologies that could ease scanning or locate wayward passengers are bumping into privacy protections and efforts to cut federal spending." ;
+        c:id               "http://id.opencalais.com/F2T49jwhgM21YM-BqgYm9g" .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:score           "0.930" .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:importance     "1" ;
+        c:name           "Identity management" ;
+        c:originalValue  "Identity management" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1f8ad226-220b-3269-b09c-7ac5a7da4b6a> .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Ol7qIvck1DSW0ocRixN1lVJqWJU=|N2QL4CKNOZK6hZxlHTl7kpC0e2qQcsGpTRslLOgmR5BTtnRo5J+Gig==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:15.781" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a137c9b5-99be-3f9a-aa91-a39e9213cb19> ;
+        c:importance     "2" ;
+        c:name           "Internet privacy" ;
+        c:originalValue  "Internet privacy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40733283-4825-3293-b340-fb211a200e73> .

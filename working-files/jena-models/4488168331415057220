@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2b9f2bae-6eff-6562-14da-53be88c32f98" ;
+        c:docDate          "2015-05-30 09:31:16.691" ;
+        c:docTitle         "" ;
+        c:document         "US economic growth slows to 0.2%. The US economy \"all but stagnated\" in the first three months of the year growing at an annual rate of just 0.2%, official figures show." ;
+        c:id               "http://id.opencalais.com/vaqjGck-sWBwYPLHgnRwNg" .
+
+<http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd> ;
+        c:importance     "1" ;
+        c:name           "Economic growth" ;
+        c:originalValue  "Economic growth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b885f89e-094a-3773-9201-1dbafa9661c7> .
+
+<http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cayisH+cIAlGncZDmVf2fvWEM+U=|VMisGu9ZZ9h5FBBrncpMSmJVr4xlfpmBb8LjWxGMYUuDsMIdzx7+WA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:16.364" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd> ;
+        c:importance     "1" ;
+        c:name           "Macroeconomics" ;
+        c:originalValue  "Macroeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32612f14-3cee-36fa-a5ee-c4953c7af66c> .
+
+<http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e81f7164-1563-3771-b31a-d328f862b9cd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

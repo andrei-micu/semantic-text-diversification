@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:importance     "2" ;
+        c:name           "Sports in the United States" ;
+        c:originalValue  "Sports in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83b69fe8-2633-3e92-81cf-13fc65badac5> .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:importance     "1" ;
+        c:name           "Hernández" ;
+        c:originalValue  "Hernández" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cf3b4c7-2d91-3f70-8831-677a2788af22> .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Elw05e2U71W0ZBVu/0W7d6vByH8=|c6TqwXDF8HrOQFU7zf50aNK1RYIpogasqOXm7CvOkUeOS6a+1NSLiQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:29.370" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:importance     "2" ;
+        c:name           "Football" ;
+        c:originalValue  "Football" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26795aa6-cc7c-33c4-9784-1c66d3a0e7f1> .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:importance     "1" ;
+        c:name           "American football" ;
+        c:originalValue  "American football" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9c727346-bd99-385f-b4a0-0bdb32f19148> .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:score           "0.913" .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "55733b39-dc6e-42b6-14da-54283fa34709" ;
+        c:docDate          "2015-05-30 09:38:29.542" ;
+        c:docTitle         "" ;
+        c:document         "NFL's Aaron Hernandez 'shot witness'. Former New England Patriots player and convicted killer Aaron Hernandez is charged with witness intimidation, say prosecutors." ;
+        c:id               "http://id.opencalais.com/Ivo2XtLp5sUUUHCCMOMNFA" .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:importance     "1" ;
+        c:name           "Aaron Hernandez" ;
+        c:originalValue  "Aaron Hernandez" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/456d64e4-6125-3e85-ba3f-908703f6e2b1> .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/36ff1235-f704-3ff4-a366-46f5d9fe3dc1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

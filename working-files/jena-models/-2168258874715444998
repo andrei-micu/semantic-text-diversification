@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013> ;
+        c:importance     "2" ;
+        c:name           "Derby" ;
+        c:originalValue  "Derby (horse race)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b870e1b1-bf19-3d3a-8c03-86b85e1ad76d> .
+
+<http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zo9EM4NGMXEFbBIcdzkcCKrdVcA=|ChAzh15JyllSqhXdLKOKcKxxh7OSHU2cLw17u8j0hp0vfsf6FgPv+A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:03.294" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013> ;
+        c:importance     "1" ;
+        c:name           "Kentucky Derby" ;
+        c:originalValue  "Kentucky Derby" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b020ef78-d201-3d08-9fd0-9496e4eef6cb> .
+
+<http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013> ;
+        c:importance     "1" ;
+        c:name           "Horse racing" ;
+        c:originalValue  "Horse racing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a6aec9f-0827-39ea-9e59-e157859ee6d8> .
+
+<http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fc8535c8-b73b-9167-14da-53c9fde760f9" ;
+        c:docDate          "2015-05-30 10:32:03.356" ;
+        c:docTitle         "" ;
+        c:document         "American Pharoah wins Kentucky Derby. The favourite American Pharoah lands victory in the Kentucky Derby at Churchill Downs for jockey Victor Espinoza." ;
+        c:id               "http://id.opencalais.com/MqSYbXMh6iy9Amjm7behrA" .
+
+<http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013> ;
+        c:importance     "2" ;
+        c:name           "Gustavo Ávila" ;
+        c:originalValue  "Gustavo Ávila" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52d174e2-3f94-3f6d-9f37-f94af7ffa403> .
+
+<http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013> ;
+        c:importance     "2" ;
+        c:name           "Triple Crown of Thoroughbred Racing" ;
+        c:originalValue  "Triple Crown of Thoroughbred Racing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/19259c95-f257-313f-a047-69fb16b88f6d> .
+
+<http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013> ;
+        c:importance     "1" ;
+        c:name           "Churchill Downs" ;
+        c:originalValue  "Churchill Downs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/332356ee-d60e-3246-86b2-890b94267e86> .
+
+<http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fae3f0e3-baa2-342e-9751-b118cf485013> ;
+        c:importance     "2" ;
+        c:name           "Donald Brumfield" ;
+        c:originalValue  "Donald Brumfield" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/120a18a0-58ec-30d7-ac88-305cf1ffcd36> .

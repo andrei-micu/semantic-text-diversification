@@ -1,0 +1,97 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:importance     "1" ;
+        c:name           "Indianapolis 500" ;
+        c:originalValue  "Indianapolis 500" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b7b484c-2998-37c2-a6de-693e7f01fb00> .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "47fcff9c-391c-cac9-14da-54a2f7d4551f" ;
+        c:docDate          "2015-05-30 09:46:52.201" ;
+        c:docTitle         "" ;
+        c:document         "Pre-Race Day, Indy 500 Struggles With Flying Cars. Leading up to the premier race is a series of unpredictable airborne crashes — and no one can explain why. Officials have mandated a lower driving speed, while engineers work to find some solution." ;
+        c:id               "http://id.opencalais.com/TmuJeFOsuHqnShIVXdjj-w" .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:score           "0.722" .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:score           "0.962" .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:importance     "1" ;
+        c:name           "Motorsport" ;
+        c:originalValue  "Motorsport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b1865e3-34db-3fe7-8c10-7951e69783bb> .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:score           "0.851" .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|CUiNOxBZ6u5rc7NKQLSGMk/uCPM=|RFFlc5tb/zvgFD1ROQtAbhQD5VcChodS3dfYmSIBCprWHKpa6qib/w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:52.029" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/30ab6b26-b6f6-3e65-b12b-9badd5df6ab3> ;
+        c:importance     "1" ;
+        c:name           "Auto racing" ;
+        c:originalValue  "Auto racing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a460d065-c375-3b6f-a487-65db14538170> .

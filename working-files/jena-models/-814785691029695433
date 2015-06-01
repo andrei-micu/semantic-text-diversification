@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|jDULlljgPv9/UaWSdyLokFzxEcE=|epYHdY+N4Sl4S6mHinQqjFPR3S9by344CsAtWMrQ96qX3DHxBRVxgg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:15.069" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance     "2" ;
+        c:name           "Jean Nidetch" ;
+        c:originalValue  "Jean Nidetch" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f27f78a-5dd0-3d8b-8aff-f4d671099289> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance     "2" ;
+        c:name           "Adirondack Beverages" ;
+        c:originalValue  "Adirondack Beverages" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8aadbfd6-e0a2-3192-9cb0-a4132efec366> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance     "1" ;
+        c:name           "Health" ;
+        c:originalValue  "Health" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance     "2" ;
+        c:name           "Watcher" ;
+        c:originalValue  "Watcher (Buffy the Vampire Slayer)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf155668-6013-35dd-b9e6-869e14920437> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance     "2" ;
+        c:name           "Weight Watchers" ;
+        c:originalValue  "Weight Watchers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0de45aa2-05de-3540-a8ad-99ca052c2aae> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2f4ebcb9-f282-5ef4-14da-53be37d32f98" ;
+        c:docDate          "2015-05-30 09:31:15.209" ;
+        c:docTitle         "" ;
+        c:document         "Founder of Weight Watchers dies. The founder of international dieting company Weight Watchers, Jean Nidetch, dies at home in Florida, aged 91." ;
+        c:id               "http://id.opencalais.com/k3csE-ryv4MqH5a25k8WPA" .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:score           "0.887" .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance     "1" ;
+        c:name           "Nutrition" ;
+        c:originalValue  "Nutrition" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7fdee7b-d67b-3709-bc2c-417d6721b1a4> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance     "2" ;
+        c:name           "Thilo Semmelbauer" ;
+        c:originalValue  "Thilo Semmelbauer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b78d54b-12fc-3a1d-bc52-b21ce33890e3> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance     "1" ;
+        c:name           "Obesity" ;
+        c:originalValue  "Obesity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c013a490-de26-34d2-b6ed-9444f0437e22> .
+
+<http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d2fc2979-565c-3b4a-a921-a984f856a9aa> ;
+        c:importance     "2" ;
+        c:name           "Dieting" ;
+        c:originalValue  "Dieting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f499222b-1caa-36b1-beb7-45a2a77f8cd1> .

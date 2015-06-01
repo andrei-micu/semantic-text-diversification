@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c9f5340c-d825-82fb-14da-53e90174551f" ;
+        c:docDate          "2015-05-30 09:34:10.576" ;
+        c:docTitle         "" ;
+        c:document         "Raising a flag the size of a yacht. Mike Rowe visits Fort McHenry, which inspired Francis Scott Key to write the national anthem. \"Somebody's Gotta Do It\" airs Thursdays at 9 p.m. ET/PT." ;
+        c:id               "http://id.opencalais.com/ai0BBxdWm6LiuQunQ8OW4w" .
+
+<http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc> ;
+        c:importance     "2" ;
+        c:name           "Mike Rowe" ;
+        c:originalValue  "Mike Rowe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2927dd60-2f92-333f-80db-5b325d27429e> .
+
+<http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc> ;
+        c:importance     "2" ;
+        c:name           "Shrines" ;
+        c:originalValue  "Shrines" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/92bece95-731f-3681-b873-34eef34ac603> .
+
+<http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc> ;
+        c:importance     "1" ;
+        c:name           "Maryland in the American Civil War" ;
+        c:originalValue  "Maryland in the American Civil War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26557284-3ef6-3f06-913b-c49a438ae5d9> .
+
+<http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|L9DjunH/39P2nkBVMRxBdv9HT5U=|WYYM/lHj09I7OEsM8I/vahOhkkwuZMxSUjyqp/mhWTr6xCHQhhAPjg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:10.342" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc> ;
+        c:importance     "1" ;
+        c:name           "Maryland" ;
+        c:originalValue  "Maryland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36be6429-3aa3-342a-bbd8-c647cc7fb217> .
+
+<http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc> ;
+        c:importance     "2" ;
+        c:name           "Francis Scott Key" ;
+        c:originalValue  "Francis Scott Key" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f1ee697e-305b-33f3-b7be-34c21a35e7a2> .
+
+<http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc> ;
+        c:importance     "2" ;
+        c:name           "Fort McHenry" ;
+        c:originalValue  "Fort McHenry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/39929965-b492-32f8-abc8-b005c669f7de> .
+
+<http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/324119c9-da70-3236-8373-b504e1db62fc> ;
+        c:importance     "1" ;
+        c:name           "Southern United States" ;
+        c:originalValue  "Southern United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a75e48b2-58ef-371f-b774-ac82ec51bc27> .

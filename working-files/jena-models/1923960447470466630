@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance     "2" ;
+        c:name           "Reuven Rivlin" ;
+        c:originalValue  "Reuven Rivlin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5ab040cb-b132-3edb-b67c-76a2b64f4dd9> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance     "2" ;
+        c:name           "International reaction to the Gaza War" ;
+        c:originalValue  "International reaction to the Gaza War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c50f8bb3-daab-311a-865e-8379da0a4847> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "444dde73-63c9-1593-14da-53dc4b013c98" ;
+        c:docDate          "2015-05-30 09:33:18.474" ;
+        c:docTitle         "" ;
+        c:document         "Israeli President Calls for Calm After Anti-Discrimination Protests in Tel Aviv. President Reuven Rivlin said that demonstrations by Ethiopian-Israelis had “revealed an open and raw wound at the heart of Israeli society,” but he condemned the violence." ;
+        c:id               "http://id.opencalais.com/22ZoksFCtFwjWTclr*y44w" .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:score           "0.961" .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance     "1" ;
+        c:name           "Western Asia" ;
+        c:originalValue  "Western Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/631fb2b9-52dc-3d33-b119-8bf56d76a361> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance     "2" ;
+        c:name           "Rivlin" ;
+        c:originalValue  "Rivlin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/314e3c2c-84cb-39bd-b327-8d1c0e185836> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance     "2" ;
+        c:name           "Israel" ;
+        c:originalValue  "Israel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45ba9d00-4371-3c07-96f6-771d79d791a7> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance     "1" ;
+        c:name           "Zionism" ;
+        c:originalValue  "Zionism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ba71057-5dcb-39e2-bae8-c4c98f0327e6> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:importance     "2" ;
+        c:name           "Israeli social justice protests" ;
+        c:originalValue  "2011 Israeli social justice protests" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1824acdf-d5a8-3f0a-8e5d-287d9b8b78da> .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wC78LQ6V4/AaNex6Q+2qdZ7txwg=|TXAuUdibBUzGciRLSmhHh3Cy4TRMzScoFQnVe5MH51/VgwAaNQGzbw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:33:18.256" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a81ab30d-8ac3-3ecd-bcae-3984e26572bc> ;
+        c:score           "0.990" .

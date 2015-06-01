@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d> ;
+        c:importance     "2" ;
+        c:name           "Stephen Hawking in popular culture" ;
+        c:originalValue  "Stephen Hawking in popular culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2f9d8088-297e-3b7c-ac0a-191a51e348ee> .
+
+<http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "79bc0954-c201-06a6-14da-5383ae532955" ;
+        c:docDate          "2015-05-30 10:27:15.442" ;
+        c:docTitle         "" ;
+        c:document         "Stephen Hawking solves One Direction problem. Physicist Stephen Hawking shares his thoughts on the possibilities after Zayn Malik leaves \"One Direction.\"" ;
+        c:id               "http://id.opencalais.com/Fv-Y6xstrIgUEJvsR6h4Kg" .
+
+<http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d> ;
+        c:importance     "1" ;
+        c:name           "Science" ;
+        c:originalValue  "Science" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/709e26da-54e6-3bf9-a8f8-1dc0f42a2a5a> .
+
+<http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|EXKtWUSvm3oELYPs2usEsb3zbb8=|LFo2SmMx3Fz4d+b84OYC4W0vlCg5XmKyGDN5+1QdL94d/XUpuO9CyA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:15.301" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d> ;
+        c:importance     "2" ;
+        c:name           "Physics" ;
+        c:originalValue  "Physics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c39764eb-3814-300c-a1c3-ad74ab22337d> .
+
+<http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d> ;
+        c:importance     "1" ;
+        c:name           "Hawking" ;
+        c:originalValue  "Hawking (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9af43907-f0ff-3d2b-a389-1cf1d16c74bb> .
+
+<http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d> ;
+        c:importance     "2" ;
+        c:name           "Hawking radiation" ;
+        c:originalValue  "Hawking radiation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1fe7c7ee-6ea1-3d8e-868d-04253fafd78a> .
+
+<http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d> ;
+        c:importance     "2" ;
+        c:name           "Black holes" ;
+        c:originalValue  "Black holes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa5c0c11-45db-36fb-9650-30f8cff856c1> .
+
+<http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/faf4b80d-f2da-3f1d-99c5-18f6e5bab06d> ;
+        c:importance     "1" ;
+        c:name           "British people" ;
+        c:originalValue  "British people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/504d852b-86a3-321f-96e2-df8194075afc> .

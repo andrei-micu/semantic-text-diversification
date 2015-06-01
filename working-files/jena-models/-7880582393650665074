@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23> ;
+        c:importance     "2" ;
+        c:name           "Clinton" ;
+        c:originalValue  "Clinton (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eebbb422-e423-387d-b64e-eac39cde1fa8> .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "384b9a43-cdc1-229a-14da-53f55ab1927e" ;
+        c:docDate          "2015-05-30 10:35:01.110" ;
+        c:docTitle         "" ;
+        c:document         "State Department will not review Clinton ethics pledge breaches. (Reuters) - The U.S. State Department will not review the breaches of the 2008 ethics agreement Hillary Clinton signed in order to become secretary of state after her family's charities admitted in March that they had not complied, a spokesman said on Thursday." ;
+        c:id               "http://id.opencalais.com/Q1FPiqy9-1QgjgThKLcv*g" .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23> ;
+        c:importance     "1" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7OwF2AGySa4Pm0mH9oOQIoeLFxU=|AESLdLopY0mz96HugQcqi1LzsuNfyRDEI6T2zHDGLH5C2jr2HkQ/tw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:00.907" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23> ;
+        c:importance     "1" ;
+        c:name           "Presidents of the United Nations Security Council" ;
+        c:originalValue  "Presidents of the United Nations Security Council" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/145d4181-39aa-36c2-b837-06a7de6bde52> .
+
+<http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fc08c003-9dd0-36b2-8296-77aa75585e23> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .

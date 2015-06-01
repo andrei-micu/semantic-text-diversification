@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XpxqY5RRgY/bjWZaNP8HZqpeSq0=|JLiR3PRIQdEZTtG9tuCIPmGNxkEd+8roF8mhvaaylDLrVBRaN9J6ag==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:36.829" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce> ;
+        c:importance     "1" ;
+        c:name           "Economy of the United States" ;
+        c:originalValue  "Economy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c04552-e625-3a39-93f8-3544f0172fe0> .
+
+<http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce> ;
+        c:importance     "1" ;
+        c:name           "Late-2000s recession in Europe" ;
+        c:originalValue  "Late-2000s recession in Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a24150be-43cb-3416-9a1b-489d5360de3c> .
+
+<http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "65a7e332-2dfc-d4e0-14da-54cb33d32f98" ;
+        c:docDate          "2015-05-30 09:49:37.047" ;
+        c:docTitle         "" ;
+        c:document         "US economy shrank in first quarter. US economy contracts 0.7% after higher imports and lower investment taken into account." ;
+        c:id               "http://id.opencalais.com/sru-c4EZVDQ7TDYAWoPtmw" .
+
+<http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/018c33b2-2b31-3264-80a0-7284a54183ce> ;
+        c:importance     "1" ;
+        c:name           "Economy of the United Kingdom" ;
+        c:originalValue  "Economy of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a2e9dfe3-fb25-3578-976c-9301b270d969> .

@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:score           "0.977" .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:importance     "2" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:importance     "1" ;
+        c:name           "Marathon" ;
+        c:originalValue  "Marathon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d322de36-9af4-3ba9-abae-790f9b39acf9> .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6c71f2df-6ca0-2241-4da5-460cef32955e" ;
+        c:docDate          "2015-05-30 10:42:21.211" ;
+        c:docTitle         "" ;
+        c:document         "Dzhokhar Tsarnaev Given Death Penalty in Boston Marathon Bombing. The federal jury that convicted Mr. Tsarnaev last month in the Boston Marathon bombing rejected the defense’s case that his brother, Tamerlan, had held a malevolent sway over him and had led him to commit the crimes." ;
+        c:id               "http://id.opencalais.com/OHA2O-X7vGmVwcd6Qysdvg" .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:importance     "1" ;
+        c:name           "Road running" ;
+        c:originalValue  "Road running" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cb113c5d-fe63-3dc0-aa9f-a13e11cd93d1> .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:importance     "1" ;
+        c:name           "Juries" ;
+        c:originalValue  "Juries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a361383-133a-38da-87ac-2a57f217a60f> .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4813322d-7ef0-3546-b0f6-7b0f060b5ce6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ki9CSY/iEVO3sR2juYghiMGOzf4=|PT3ERnMZUWMcDmUkXZOrJC+ZNFNBz/tidb5wFwNLcwhQ/PhJfsStAQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:21.039" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

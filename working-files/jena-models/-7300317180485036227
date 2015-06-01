@@ -1,0 +1,144 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LtNCgCZySI9BBN5xCAO/Ryy0uk4=|PrxtRkal/u/BHxjRHB91jlLNBaRhsD++OzNRfQudggk3dasHo6dKxQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:42.820" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:score           "0.838" .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "de06e83d-0985-bb56-14da-54af5d434709" ;
+        c:docDate          "2015-05-30 09:47:43.085" ;
+        c:docTitle         "" ;
+        c:document         "Rain breaks records; more on the way. A firefighter died early Sunday while performing a high water rescue operation in Claremore, Oklahoma, an emergency management official said. FULL STORY" ;
+        c:id               "http://id.opencalais.com/ZkFSxCCc3ciuxwYX6pwBEA" .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance     "1" ;
+        c:name           "Geography of Oklahoma" ;
+        c:originalValue  "Geography of Oklahoma" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a5db4f33-8bec-34e2-9380-a3e6078934cc> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance     "2" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:score           "0.927" .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance     "2" ;
+        c:name           "Public safety" ;
+        c:originalValue  "Public safety" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db6fb8a-c9ac-3a49-a453-ad0eda49d665> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:score           "0.975" .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance     "2" ;
+        c:name           "Emergency management" ;
+        c:originalValue  "Emergency management" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f420ddef-600c-3810-9921-879e94aa181b> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance     "2" ;
+        c:name           "Firefighter" ;
+        c:originalValue  "Firefighter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3a5ef004-a6dc-35b5-a6c8-8392f957d01b> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance     "1" ;
+        c:name           "Tulsa Metropolitan Area" ;
+        c:originalValue  "Tulsa Metropolitan Area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b8697b6b-3ed1-3b82-afc2-e8afae9c446c> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74b72d3e-f8a2-3f39-b463-4f2e5aaa2970> ;
+        c:importance     "1" ;
+        c:name           "Claremore, Oklahoma" ;
+        c:originalValue  "Claremore, Oklahoma" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e8e46eef-3629-3f57-a47d-a65b0a391ec4> .

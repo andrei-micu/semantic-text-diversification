@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:score           "0.809" .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3c8655ff-70a2-0ca9-14da-53c69ec719b3" ;
+        c:docDate          "2015-05-30 10:31:49.609" ;
+        c:docTitle         "" ;
+        c:document         "Supreme Court Gay Marriage Remarks Show Outdated Definition Of Parents. NPR's Robert Siegel interviews Joanna L. Grossman, professor of family law at Hofstra University, who says the arguments on gay marriage shed light on outdated ideas about family formation." ;
+        c:id               "http://id.opencalais.com/aC-tt5QEeIrqkMBlUivOlw" .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:importance     "1" ;
+        c:name           "Corporation for Public Broadcasting" ;
+        c:originalValue  "Corporation for Public Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf557537-f416-3883-8d46-4f8009b2b6cb> .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3RNCWTFDLVWl68OhKXGAmvw3HTI=|XNjX0Tza2XL0dI0uETYsOyPf4dUbf0oDrKnq3YM1U93oEQOUe5+2Vw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:49.484" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:importance     "2" ;
+        c:name           "Radio" ;
+        c:originalValue  "Radio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d716e304-d6f8-379b-8369-e49ba5bb361b> .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:importance     "1" ;
+        c:name           "NPR" ;
+        c:originalValue  "NPR" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0410c98-2061-3c90-8b44-3a246fbc5541> .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:score           "0.871" .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f17cb8a9-676c-3946-b8d6-567b82ed4d4f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

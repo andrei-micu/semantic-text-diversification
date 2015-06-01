@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348> ;
+        c:importance     "2" ;
+        c:name           "Interest rates" ;
+        c:originalValue  "Interest rates" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1557619a-489a-3c90-8cf0-157114d88918> .
+
+<http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348> ;
+        c:importance     "1" ;
+        c:name           "Federal Reserve" ;
+        c:originalValue  "Federal Reserve" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3959f620-6680-3b38-a0cd-da243346338c> .
+
+<http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|MVjwTRlNGh6fQHtosF1g8vPQv/A=|eOJMD13DDZnF87LEODEbRtI75uJsmyLTrXusMFJtpOLTlVrzQS4KaQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:22.767" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c751d3df-f85c-9f23-14da-547e86f34709" ;
+        c:docDate          "2015-05-30 09:44:22.938" ;
+        c:docTitle         "" ;
+        c:document         "Fed officials see June rate hike as unlikely: minutes. WASHINGTON (Reuters) - Federal Reserve officials believed it would be premature to hike interest rates in June even though most felt the U.S. economy was set to rebound from a dismal start to the year, according to minutes from their April policy meeting released on Wednesday." ;
+        c:id               "http://id.opencalais.com/mZLscGS7Yvzhl1r98orgDg" .
+
+<http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348> ;
+        c:importance     "1" ;
+        c:name           "Banking" ;
+        c:originalValue  "Banking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/047b8853-fcba-3734-8d19-77fe1b1a6268> .
+
+<http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81f45bb0-4a70-3e9d-8c3e-a03f7547e348> ;
+        c:importance     "1" ;
+        c:name           "Federal Reserve System" ;
+        c:originalValue  "Federal Reserve System" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/058dac68-01cb-39fd-b500-6ff0cadde7a7> .

@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/653800ea-b9d8-37ca-87d1-98f0a4eff5eb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/653800ea-b9d8-37ca-87d1-98f0a4eff5eb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/653800ea-b9d8-37ca-87d1-98f0a4eff5eb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/653800ea-b9d8-37ca-87d1-98f0a4eff5eb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|JYaqiMlgRMbL3p+I4U323Hxwsc8=|csfqVWqxuuvgzpfHW96p+aNP5wZWo4KMHoNOrNhSjpHIZ7UgE2U8cw==" ;
+        c:submissionDate  "2015-05-30 09:46:56.419" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/653800ea-b9d8-37ca-87d1-98f0a4eff5eb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5de20d33-84b9-bd07-14da-54a40a31df07" ;
+        c:docDate          "2015-05-30 09:46:56.497" ;
+        c:docTitle         "" ;
+        c:document         "Mariah: This was 'worst experience of my life'. " ;
+        c:id               "http://id.opencalais.com/LXS0otLe-FQL2cKWVecgQQ" .

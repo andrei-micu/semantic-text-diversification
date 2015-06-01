@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:importance     "1" ;
+        c:name           "American film directors" ;
+        c:originalValue  "American film directors" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a883354c-9d65-36ca-9c6f-a86372616b29> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:importance     "2" ;
+        c:name           "Eric Da Re" ;
+        c:originalValue  "Eric Da Re" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6422224e-6ff8-3824-a767-38466ced7228> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|pDQhJ3k6EBdRTeiiJKAHqbka5yA=|BSU9+e6Z7576WjCkonbafdoph3lz1kRPiSJhg9dLd+IcYPciVkTw2w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:41:08.060" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:importance     "1" ;
+        c:name           "Cinema of the United States" ;
+        c:originalValue  "Cinema of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9089feca-c264-3451-b0cf-257f8c8b0635> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a2316371-376e-2208-14da-544efdc49095" ;
+        c:docDate          "2015-05-30 10:41:08.231" ;
+        c:docTitle         "" ;
+        c:document         "David Lynch rejoins Twin Peaks show. Film Director David Lynch announces that he will direct the sequel of the cult classic Twin Peaks after a month-long deadlock over budget concerns." ;
+        c:id               "http://id.opencalais.com/BgaVa0xLnyr*gfTFM4vabQ" .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:importance     "2" ;
+        c:name           "Twin Peaks" ;
+        c:originalValue  "Twin Peaks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd9f6c5e-c40b-3954-a928-6d9655a143b0> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:importance     "2" ;
+        c:name           "Mary Sweeney" ;
+        c:originalValue  "Mary Sweeney" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c3d91b2-1efc-3d8b-a44c-fd4c46155aa2> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:importance     "2" ;
+        c:name           "Pilot" ;
+        c:originalValue  "Pilot (Twin Peaks)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83c6d926-d49f-3950-8892-8815692b688a> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11f8f3ae-03b4-3823-9157-0218b34fc002> ;
+        c:importance     "2" ;
+        c:name           "David Lynch" ;
+        c:originalValue  "David Lynch" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7460e473-50db-3587-a2a2-2069cb646c67> .

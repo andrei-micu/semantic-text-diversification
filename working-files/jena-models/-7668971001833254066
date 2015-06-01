@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Hlf03ygQrudmu7d5VsYuYCUu3Kk=|hrlChPxbLw7PpAXxvd7S9Ul84XtJiSZ4SVLA1YKB+vFe+KoNaoqEbQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:29.247" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:score           "0.824" .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "519db5c1-29b7-91e5-14da-542837f23ab1" ;
+        c:docDate          "2015-05-30 10:38:29.434" ;
+        c:docTitle         "" ;
+        c:document         "Mom's photo leads to horrifying discovery. An Illinois mother says she discovered her son had cancer after taking a picture of him with her camera phone. CNN affiliate WREX reports." ;
+        c:id               "http://id.opencalais.com/aKpTuyOTe73yT-8wrpxOAQ" .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:importance     "1" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:score           "0.595" .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:importance     "2" ;
+        c:name           "Camera phone" ;
+        c:originalValue  "Camera phone" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6454cfcf-99c4-3442-a8a7-2ed7c3be4517> .
+
+<http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b775b7a7-9e0d-3f86-9baa-29ec84f4bde0> ;
+        c:importance     "1" ;
+        c:name           "WREX" ;
+        c:originalValue  "WREX" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b7490790-d14b-3712-81c9-9e732354ab62> .

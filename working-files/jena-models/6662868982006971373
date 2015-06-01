@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance     "1" ;
+        c:name           "Management" ;
+        c:originalValue  "Management" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2abff66a-f5dc-3df6-a0b4-c699abb7f2d9> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance     "2" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance     "1" ;
+        c:name           "Late-2000s financial crisis" ;
+        c:originalValue  "Late-2000s financial crisis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/955811b2-1532-31d8-8315-82773defa889> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance     "2" ;
+        c:name           "Systemic risk" ;
+        c:originalValue  "Systemic risk" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f6cb966c-0e49-3887-b07d-335a811b4547> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HwDDo2pdkIz4/wr63z3s9Q7WVHs=|MuZHGlKOISmfjqRQNV+SU4viAiRk9WjR5lh5emIpS/POFhZr83iiFA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:38.029" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance     "2" ;
+        c:name           "111th United States Congress" ;
+        c:originalValue  "111th United States Congress" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0348a47-4e8e-3d33-b3a5-1369a0128ab5> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance     "2" ;
+        c:name           "Financial economics" ;
+        c:originalValue  "Financial economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bb9859-75e0-3b28-acdb-61f6b786cc4c> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance     "1" ;
+        c:name           "United States federal banking legislation" ;
+        c:originalValue  "United States federal banking legislation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa6bc7c9-a2d0-3232-98b0-24dd08f652d4> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance     "2" ;
+        c:name           "Executive pay" ;
+        c:originalValue  "Executive pay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f9d029a5-ac4e-3085-b3c4-97dc0948bde8> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:score           "0.955" .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dda75dc1-5f52-24ed-14da-53c3d2d23ab1" ;
+        c:docDate          "2015-05-30 10:31:38.279" ;
+        c:docTitle         "" ;
+        c:document         "SEC Rule Would Link Executive Pay To Performance. The rule, which grew out of the Dodd-Frank financial overhaul bill, would make it easier for shareholders to see whether salaries are in line with a company's financial performance." ;
+        c:id               "http://id.opencalais.com/bwKHYumPzh5z8ofgzBEWng" .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance     "2" ;
+        c:name           "Dodd–Frank Wall Street Reform and Consumer Protection Act" ;
+        c:originalValue  "Dodd–Frank Wall Street Reform and Consumer Protection Act" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/791daf23-782a-3b09-8a00-7394329148ca> .
+
+<http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ddce3d5d-3823-3ab1-9b21-3762721fd404> ;
+        c:importance     "2" ;
+        c:name           "Say on pay" ;
+        c:originalValue  "Say on pay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e5c36ebb-0195-34f6-80dc-6af761757d9b> .

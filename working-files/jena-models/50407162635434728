@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:importance     "2" ;
+        c:name           "Good Morning America" ;
+        c:originalValue  "Good Morning America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0c87a9eb-7f50-3de0-83a4-af0b7c97a6d2> .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3OZZ0QvB5aMPIjX3OBdJggzvTi8=|FDKoAPsIqLEDjJQ+vfQhJi58Ep9XjiWe1iVyFvV4r4uxxKw/wNx8JQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:11.622" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:importance     "1" ;
+        c:name           "George Stephanopoulos" ;
+        c:originalValue  "George Stephanopoulos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b2b88e8-9edb-3202-a278-fc5db2ff2d7b> .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "14d3c032-04ca-f2ea-14da-544fdc632f98" ;
+        c:docDate          "2015-05-30 09:41:11.887" ;
+        c:docTitle         "" ;
+        c:document         "First Draft: George Stephanopoulos Apologizes to Viewers on Clinton Donations. George Stephanopoulos told “Good Morning America” viewers that it was a “mistake” for him to donate $75,000 over the last three years to the Clinton Foundation, and he apologized for not disclosing the contribution." ;
+        c:id               "http://id.opencalais.com/Ivf9JsJ2cAoFOZ8Fz3G-kw" .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:importance     "2" ;
+        c:name           "Stephanopoulos" ;
+        c:originalValue  "Stephanopoulos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/daf1f709-68e8-3ecf-a0fe-dab4705b4d06> .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:importance     "1" ;
+        c:name           "ABC News" ;
+        c:originalValue  "ABC News" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dd4b7eaf-1f23-326c-bd99-a6bc6609bcef> .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67a6065e-ea21-3e4b-9285-0a099270e576> ;
+        c:score           "1.000" .

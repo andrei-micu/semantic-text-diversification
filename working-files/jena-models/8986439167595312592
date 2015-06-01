@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6> ;
+        c:importance     "1" ;
+        c:name           "STUN" ;
+        c:originalValue  "STUN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ebf3291-5aa4-3caf-96e5-ebb5c87b5244> .
+
+<http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6> ;
+        c:score           "0.987" .
+
+<http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fb7b60e6-586d-ce23-14da-5430764719b3" ;
+        c:docDate          "2015-05-30 10:39:03.184" ;
+        c:docTitle         "" ;
+        c:document         "Mentally Ill Inmates Are Routinely Physically Abused, Study Says. A Human Rights Watch review finds that mistreatment by guards, including the use of chemical sprays and electronic stun guns, has led to a number of deaths." ;
+        c:id               "http://id.opencalais.com/UXW6riqQ7fIg7oOnT5k5hw" .
+
+<http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|rGl9Qnn5NBG5NnmsCSL8C12X4XY=|eC2yY7GWsWwWNr5XVBnkXHs1dQkCAZKajiUM2kZZ60NAne9LwaWEzw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:03.012" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6> ;
+        c:importance     "1" ;
+        c:name           "Abuse" ;
+        c:originalValue  "Abuse" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4bc2e38b-5502-3f7c-bbe5-b6209ad13411> .
+
+<http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/90f163b6-9813-36fc-9fd7-d21d210ab0d6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:importance     "2" ;
+        c:name           "State governments of the United States" ;
+        c:originalValue  "State governments of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf4c3516-1d6d-3066-8fe6-5658d2ac1df9> .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:importance     "2" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:score           "0.784" .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:importance     "1" ;
+        c:name           "African American women in politics" ;
+        c:originalValue  "African American women in politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d5d42996-a63f-354b-bf7a-6d99cc0938d8> .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:importance     "2" ;
+        c:name           "Local government in the United States" ;
+        c:originalValue  "Local government in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/92b023bc-820a-3e24-995f-5e36103f7ff3> .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|UlZn2omSwvJlHvUKksaMYTYtDTE=|TqV4HgaqhN8VAh+iIo8dKcrcC/tMhlFkKEVuPoE/wyu9OYOvZPZ2jQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:00.180" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:importance     "2" ;
+        c:name           "Governor of Maryland" ;
+        c:originalValue  "Governor of Maryland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3331f42f-6d55-39b9-9879-ee25c9dca85c> .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "127653e4-a217-e052-14da-539d49471d39" ;
+        c:docDate          "2015-05-30 09:29:00.367" ;
+        c:docTitle         "" ;
+        c:document         "Maryland Governor Calls Night of Relative Calm in Baltimore a ‘Turning Point’. Gov. Larry Hogan and Mayor Stephanie Rawlings-Blake of Baltimore, however, remained concerned about a renewal of the unrest set off by the death of a man in police custody." ;
+        c:id               "http://id.opencalais.com/hnpuHZgp2S*upLWrz*h*PQ" .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:importance     "1" ;
+        c:name           "Stephanie Rawlings-Blake" ;
+        c:originalValue  "Stephanie Rawlings-Blake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aff689a6-83fe-396e-b8ca-a7877be8787a> .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/171b1476-4f07-31da-98bd-fcb7123130cb> ;
+        c:importance     "1" ;
+        c:name           "Maryland" ;
+        c:originalValue  "Maryland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36be6429-3aa3-342a-bbd8-c647cc7fb217> .

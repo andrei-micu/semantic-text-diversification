@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30> ;
+        c:importance     "2" ;
+        c:name           "Iraqi insurgency" ;
+        c:originalValue  "Iraqi insurgency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/21e18d4a-5c56-31de-9a44-b846fcbc2f98> .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30> ;
+        c:score           "0.890" .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c752c360-6710-0d61-4da5-46d2dd347095" ;
+        c:docDate          "2015-05-30 09:43:11.974" ;
+        c:docTitle         "" ;
+        c:document         "Ramadi rings 'alarm bells' for Obama. The fall of Ramadi prompts new questions about the effectiveness of the president's strategy in dealing with the Islamic State and who bears the ultimate responsibility for the region's chaos." ;
+        c:id               "http://id.opencalais.com/MZdt9iG3UpLnmdoXb0j4aw" .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|thuPW0NVMNMyZ1lC8vBbp7qeVKQ=|g3f1YWvnkotNWeyxvF4LBDeWjY8ThfTnaW5z6Sggjl1gyuXw7Bj8LQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:11.709" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30> ;
+        c:importance     "1" ;
+        c:name           "Ramadi" ;
+        c:originalValue  "Ramadi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a14fe0e-d3e7-3c2c-9a6b-129bc843d4ed> .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30> ;
+        c:importance     "2" ;
+        c:name           "Battle of Ramadi" ;
+        c:originalValue  "Battle of Ramadi (2006)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9001f61-aa79-388b-8978-f0fdb88b3bdc> .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/be043a1c-ca23-3910-8396-61f79d6cdf30> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

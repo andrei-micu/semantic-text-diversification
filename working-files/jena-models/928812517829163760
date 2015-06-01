@@ -1,0 +1,43 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9b66d19b-43ba-33a7-abc6-b6f9fac481a2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b66d19b-43ba-33a7-abc6-b6f9fac481a2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9b66d19b-43ba-33a7-abc6-b6f9fac481a2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b66d19b-43ba-33a7-abc6-b6f9fac481a2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|PHOmNHEYSQrWMWWbbaisoPZQ30U=|Nzhx4E0PMRRFqGoC5PrcCXdGJvMKV+R1mvgP7m/Sft9t703QgeWgvw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:49.261" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9b66d19b-43ba-33a7-abc6-b6f9fac481a2/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b66d19b-43ba-33a7-abc6-b6f9fac481a2> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/9b66d19b-43ba-33a7-abc6-b6f9fac481a2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "de9810e3-47ca-3931-14da-5467b2d34709" ;
+        c:docDate          "2015-05-30 09:42:49.448" ;
+        c:docTitle         "" ;
+        c:document         "Man arrested for shooting at George Zimmerman near Orlando. MIAMI (Reuters) - A Florida man involved in a roadway shooting earlier this week involving George Zimmerman, the man acquitted of murder in the 2012 death of unarmed black 17-year-old Trayvon Martin, was arrested and charged on Friday, police said." ;
+        c:id               "http://id.opencalais.com/BdWUFRl*GQ6l5BrZIjkDuQ" .
+
+<http://d.opencalais.com/dochash-1/9b66d19b-43ba-33a7-abc6-b6f9fac481a2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9b66d19b-43ba-33a7-abc6-b6f9fac481a2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

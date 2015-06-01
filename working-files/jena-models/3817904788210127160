@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512> ;
+        c:importance     "1" ;
+        c:name           "Gender" ;
+        c:originalValue  "Gender" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68502b1e-12f9-3466-ac94-9d9ca76df055> .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512> ;
+        c:importance     "2" ;
+        c:name           "Tweet" ;
+        c:originalValue  "Tweet (singer)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83ab3e67-7021-349f-9b71-49e099f3471e> .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512> ;
+        c:importance     "2" ;
+        c:name           "Sociology" ;
+        c:originalValue  "Sociology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa1414f0-8e54-3eba-bbfe-e4e5b4dcb745> .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9f053acf-ae3d-8981-14da-54a9ce51df07" ;
+        c:docDate          "2015-05-30 09:47:20.333" ;
+        c:docTitle         "" ;
+        c:document         "Feminist yearbook quote goes viral. A lesbian California teenager used the gender pay gap as the basis for her yearbook quote, and a tweet of it has been retweeted more than 10,000 times." ;
+        c:id               "http://id.opencalais.com/pl*N6c60i1ZqJ2B1PTVPlw" .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512> ;
+        c:importance     "1" ;
+        c:name           "Social philosophy" ;
+        c:originalValue  "Social philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a5a5ecc8-fb68-3779-ac9b-57bfd93cebf3> .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512> ;
+        c:importance     "2" ;
+        c:name           "Feminism" ;
+        c:originalValue  "Feminism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ccf0e1fa-ed07-3221-ab74-247dbd589bdc> .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512> ;
+        c:importance     "2" ;
+        c:name           "Women's rights" ;
+        c:originalValue  "Women's rights" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7bac7b61-4325-3892-b284-d07011579175> .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qFdbQQBL7Q+uKvWba+TX/8silL8=|jWhVS6H2pRpfLjiOXWsgZv4e50MtU1aYPSo8jP/wFJyfMe3TFbc7ng==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:20.037" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512> ;
+        c:importance     "1" ;
+        c:name           "Knowledge" ;
+        c:originalValue  "Knowledge" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9acd56fd-8228-3b51-a940-ca773c57c896> .
+
+<http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/878a0ba0-2d7d-39c8-b155-46df15526512> ;
+        c:importance     "2" ;
+        c:name           "Yearbook" ;
+        c:originalValue  "Yearbook" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a28ac364-25d4-3a37-9221-babb4ce6a7c1> .

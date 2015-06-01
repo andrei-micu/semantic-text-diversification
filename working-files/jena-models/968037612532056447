@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:importance     "1" ;
+        c:name           "United States Senate" ;
+        c:originalValue  "United States Senate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01c05ea8-5d0c-3cc6-bc97-ab1e0b48a8bc> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:importance     "2" ;
+        c:name           "National Security Agency" ;
+        c:originalValue  "National Security Agency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b017771-03c4-3b59-adff-c4fa0413c51f> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:importance     "2" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4699e359-151c-98e8-14da-54082cb760f9" ;
+        c:docDate          "2015-05-30 10:36:18.167" ;
+        c:docTitle         "" ;
+        c:document         "Deadline may force compromise on U.S. surveillance law. WASHINGTON (Reuters) - U.S. Senate Republican leaders insist that spy agencies continue to have access to data on Americans' telephone calls despite a court ruling that the practice is illegal, but aides said on Friday they may have to compromise on proposed reforms of the program before it expires on June 1." ;
+        c:id               "http://id.opencalais.com/7xnYNM27hULZ*n9a1xosFQ" .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:importance     "1" ;
+        c:name           "Privacy of telecommunications" ;
+        c:originalValue  "Privacy of telecommunications" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c03029e8-5a21-32d4-bc71-5bec6984fa6b> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:importance     "2" ;
+        c:name           "Privacy" ;
+        c:originalValue  "Privacy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/94857759-3b73-3d3f-94f3-57faee48426a> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:importance     "2" ;
+        c:name           "Mass surveillance" ;
+        c:originalValue  "Mass surveillance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae4ce460-57b6-398b-acfc-6b00f824ca71> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:importance     "2" ;
+        c:name           "Surveillance" ;
+        c:originalValue  "Surveillance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2899486a-eede-357a-8feb-cc555eede3ea> .
+
+<http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3d2f6f3f-6511-3b18-a8f8-8dd0cb92e72e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ocXq/av6k6pcItCK/KOc+wg7Gu0=|kRtx2QWFOmlrtrlYEdDSTKzwaZkBapryl9dNyV48dmfd41NGx54uAg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:17.995" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

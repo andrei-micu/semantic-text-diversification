@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1a3fccb8-3c6c-329a-a563-f5aa534547b4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1a3fccb8-3c6c-329a-a563-f5aa534547b4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/1a3fccb8-3c6c-329a-a563-f5aa534547b4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1a3fccb8-3c6c-329a-a563-f5aa534547b4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Lff42Ass1Y9tG2M+1MEyJjQiBTw=|FdebR98UaSPYZ0pZA787Dw1zJr4qMeBLcU01vhgi0UBemJxXXJJiXA==" ;
+        c:submissionDate  "2015-05-30 09:46:19.251" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1a3fccb8-3c6c-329a-a563-f5aa534547b4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "de9e211f-e340-3c9b-14da-549af7371d39" ;
+        c:docDate          "2015-05-30 09:46:19.314" ;
+        c:docTitle         "" ;
+        c:document         "Can California learn to live with drought?. Can California learn to live with drought?" ;
+        c:id               "http://id.opencalais.com/*Zbr1w*ccTIKiai-nFDRDw" .

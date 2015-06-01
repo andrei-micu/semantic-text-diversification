@@ -1,0 +1,73 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c7452711-fec3-f3d6-14da-53d64e1760f9" ;
+        c:docDate          "2015-05-30 10:32:54.009" ;
+        c:docTitle         "" ;
+        c:document         "Nepalis in New York Improvise a Relief Effort for Earthquake Victims. The small but fast-growing population, despite a lack of well-established community institutions, has used technology and social media to help its homeland." ;
+        c:id               "http://id.opencalais.com/TJ-YOO*dP8o78OdVMCRONw" .
+
+<http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2p6Zn9JAPkVz3+gn8/1aDnwhY7U=|Nmk7FJagqM4OdheNxKwboiNRh5gyZ9SvlvIAetSrCbMMtPuKisHpMw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:53.729" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf> ;
+        c:score           "0.946" .
+
+<http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/da3a4daa-a025-369a-9405-d3f17e6e8baf> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

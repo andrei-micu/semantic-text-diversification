@@ -1,0 +1,139 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "2" ;
+        c:name           "Sump" ;
+        c:originalValue  "Sump" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2facc9c7-e3cc-3837-8cbb-ac5b98fa1e67> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "2" ;
+        c:name           "Bird anatomy" ;
+        c:originalValue  "Bird anatomy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/149c0b1c-b38b-3572-9fbe-304374ba2a1e> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a51b3b79-dad5-45f6-14da-54d848413c98" ;
+        c:docDate          "2015-05-30 09:50:30.575" ;
+        c:docTitle         "" ;
+        c:document         "The Secret Of The Syrinx: Why Birdsongs Sound Like They Do. Birds can sound like sump-pumps, outboard motors or crazed squirrels, but of course their songs can also be sublime. NPR's Scott Simon talks with Ray Brown from the show Talkin' Birds." ;
+        c:id               "http://id.opencalais.com/bC2MR8WXjeXReIFAq05DjA" .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "2" ;
+        c:name           "Syrinx" ;
+        c:originalValue  "Syrinx (bird anatomy)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a33bdfc0-9765-36a8-957f-2a46f1469699> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "2" ;
+        c:name           "Ornithology" ;
+        c:originalValue  "Ornithology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/53bff01d-23ab-327a-b06b-654eb4cef34e> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:score           "0.904" .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "1" ;
+        c:name           "Ethology" ;
+        c:originalValue  "Ethology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4fbc4bc-144a-3f1d-bd78-7d93cf65019f> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "2" ;
+        c:name           "Animal identification" ;
+        c:originalValue  "Animal identification" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a6b30db3-84c6-3dfa-8efa-d50fb6208e3a> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|93bj6cObrSaoL4bq8AerQ9oEYog=|X7IoyOx93sZLFWsOih2vUpLLtuR7c/7jXQ7H2H+OKMOlB2Q4gQAfcg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:30.404" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "2" ;
+        c:name           "Bird" ;
+        c:originalValue  "Bird" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d770afd1-38b2-39ce-9b60-6933fe7585da> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "1" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "2" ;
+        c:name           "Zoomusicology" ;
+        c:originalValue  "Zoomusicology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3937682-aad5-3870-82dd-46ac9db8f8d2> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "2" ;
+        c:name           "Neuroethology" ;
+        c:originalValue  "Neuroethology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b741e82f-b0d3-324e-bfc2-270cf7e0bda8> .
+
+<http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4abca69e-4f3d-3f8e-8fd5-a5bb96f722b0> ;
+        c:importance     "2" ;
+        c:name           "Bird vocalization" ;
+        c:originalValue  "Bird vocalization" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/02ff6d36-1f8a-37e2-a6b7-780d54b33b5e> .

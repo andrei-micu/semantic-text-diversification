@@ -1,0 +1,143 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5ae09384-fde7-b987-14da-544f50613c98" ;
+        c:docDate          "2015-05-30 09:41:09.570" ;
+        c:docTitle         "" ;
+        c:document         "Top Stories: B.B. King Dies; Missing U.S. Chopper Found. Also: Hundreds of migrants are towed to shore in Indonesia; Burundi arrests generals in an attempted coup; and the Minnesota Orchestra becomes the first major U.S. orchestra to play in Cuba in years." ;
+        c:id               "http://id.opencalais.com/Lwzm1mZscWsMIbSIA4s4rw" .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:importance     "1" ;
+        c:name           "Chopper" ;
+        c:originalValue  "Chopper (Judge Dredd character)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c537bd9-085c-35bd-947a-3a6f644ae4ac> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/cat/5>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:score           "0.698" .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:importance     "2" ;
+        c:name           "Geopolitics" ;
+        c:originalValue  "Geopolitics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d35282c6-2be7-34c7-a163-d68d81cec327> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4CmqOp5czeGsneiJ9wQGRfodCcI=|A5/ECRJ8f7GZeBckmCZpKvxxOvk92o0uOmGOjUtBymmz+nQWEyWfVQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:09.382" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:score           "0.995" .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:importance     "2" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:importance     "1" ;
+        c:name           "Burundi" ;
+        c:originalValue  "Burundi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/073f4153-2172-3d30-a0b1-2b2570997313> .
+
+<http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/08f96f82-7b70-3e70-9eb8-7d8b559d1110> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

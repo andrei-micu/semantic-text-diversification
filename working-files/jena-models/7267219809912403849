@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance     "2" ;
+        c:name           "Environment" ;
+        c:originalValue  "Environment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d2d4813d-542d-e30f-14da-53d43e523ab1" ;
+        c:docDate          "2015-05-30 10:32:45.488" ;
+        c:docTitle         "" ;
+        c:document         "E.P.A. Emissions Plan Will Save Thousands of Lives, Study Finds. The carbon emissions standards, proposed last year for the nation’s coal-fired power plants, could prevent more than 3,000 premature deaths per year, according to a new study." ;
+        c:id               "http://id.opencalais.com/IjOiJKkg0WVKQzR2mA1AHA" .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ejJ1CLrUHPXisqBcBCsxmd6IU0c=|ZlBjRnTjibj67eCu4xyKPXO9LjlQBHBdTE1ZDxV+MO40rURbNKYoiw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:45.285" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance     "1" ;
+        c:name           "Chemistry" ;
+        c:originalValue  "Chemistry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/176cb94d-bc36-3769-9f04-7f867181dd40> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance     "2" ;
+        c:name           "Fuels" ;
+        c:originalValue  "Fuels" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a67c1ef-c810-3364-9398-add561b400bc> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance     "2" ;
+        c:name           "Coal mining" ;
+        c:originalValue  "Coal mining" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/39556a0f-8a4c-3e8b-a857-eb292b089909> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance     "2" ;
+        c:name           "Black carbon" ;
+        c:originalValue  "Black carbon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/78fc1b51-1a8b-3d17-a671-04f4d09b596f> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance     "1" ;
+        c:name           "Climate change policy" ;
+        c:originalValue  "Climate change policy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/488c21ec-477e-3376-9252-55cfbdf29f53> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance     "2" ;
+        c:name           "Climate change" ;
+        c:originalValue  "Climate change" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cedbc608-58fa-3bfe-8652-a58d735c6f75> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance     "2" ;
+        c:name           "Economic geology" ;
+        c:originalValue  "Economic geology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b1d1b6ff-6faf-3a64-9460-b6364a2c2757> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance     "2" ;
+        c:name           "Fossil-fuel phase-out" ;
+        c:originalValue  "Fossil-fuel phase-out" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51f47c15-c9be-3fee-8605-d724e33447a4> .
+
+<http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74fcaf37-e941-3a8b-b22a-47168331bf04> ;
+        c:importance     "1" ;
+        c:name           "Coal" ;
+        c:originalValue  "Coal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/561f03a0-71c2-3289-8bfd-5d70c53ecd3a> .

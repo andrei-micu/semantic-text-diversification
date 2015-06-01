@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e> ;
+        c:importance     "1" ;
+        c:name           "Hindu Kush earthquake" ;
+        c:originalValue  "2005 Hindu Kush earthquake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1e12b68a-a0f2-3b35-b9e9-5502ac932180> .
+
+<http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e> ;
+        c:importance     "1" ;
+        c:name           "Earthquakes" ;
+        c:originalValue  "2011 earthquakes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb2159cc-7945-3b7b-b917-9c03b5901009> .
+
+<http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0Aq6/YXVJCdDc+c1OZTOO1VOiAQ=|d8/rioETI1H4EV+Lu1ZCbO2R4KZ7WENtWqtOl6ysaYQlF0r8Qg2B1g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:51.634" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cebf831c-4947-2abb-14da-542daf223ab1" ;
+        c:docDate          "2015-05-30 10:38:51.790" ;
+        c:docTitle         "" ;
+        c:document         "Magnitude 7.1 Quake Strikes in Nepal-USGS. A strong earthquake shook Nepal on Tuesday, sending people in the capital Kathmandu rushing out on to the streets weeks after a devastating quake killed more than 8,000 people and destroyed hundreds of thousands of homes, eyewitnesses said." ;
+        c:id               "http://id.opencalais.com/9uuHyq6V9eJccYWBjkSUrQ" .
+
+<http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e> ;
+        c:importance     "1" ;
+        c:name           "Sikkim earthquake" ;
+        c:originalValue  "2011 Sikkim earthquake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fc73d2f4-561d-3c37-a62e-d271babff59c> .
+
+<http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1f1c3e67-f979-3e52-9945-d0874274728e> ;
+        c:score           "1.000" .

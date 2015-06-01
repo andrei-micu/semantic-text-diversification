@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:importance     "2" ;
+        c:name           "Recessions" ;
+        c:originalValue  "Recessions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a39cc77c-5c3b-35c4-ab33-aa94a41438bd> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:importance     "2" ;
+        c:name           "Subprime mortgage crisis" ;
+        c:originalValue  "Subprime mortgage crisis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/862e9ab6-b0dc-3d25-9c8b-3fc07a42ad7a> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:importance     "1" ;
+        c:name           "Central bank" ;
+        c:originalValue  "Central bank" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/71d37543-fbe5-33a9-8856-59a348f85d06> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:importance     "2" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:importance     "2" ;
+        c:name           "Macroeconomics" ;
+        c:originalValue  "Macroeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32612f14-3cee-36fa-a5ee-c4953c7af66c> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:importance     "1" ;
+        c:name           "Interest rate" ;
+        c:originalValue  "Interest rate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87074648-1eaa-32de-ac40-f2487a034520> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:importance     "2" ;
+        c:name           "Late-2000s recession in Europe" ;
+        c:originalValue  "Late-2000s recession in Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a24150be-43cb-3416-9a1b-489d5360de3c> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|QTnqNpjyShe2mjUWoIbLZzP5q4w=|dBp86C2wv1K9jp9KUJEtV8mllEQiL17ZEqBu0dWabnLsRmBq5mYb4w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:26.591" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:importance     "1" ;
+        c:name           "Monetary policy" ;
+        c:originalValue  "Monetary policy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/533488e9-c5b7-3de1-a8e4-c5158a758f74> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7> ;
+        c:importance     "2" ;
+        c:name           "Economic history" ;
+        c:originalValue  "Economic history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82248aca-dcd6-3def-bd89-fc24fb5cdf7a> .
+
+<http://d.opencalais.com/dochash-1/6a03b5d2-dc02-32e7-8301-3592463063d7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "90c6cfdf-2cba-8e84-14da-540a45f71d39" ;
+        c:docDate          "2015-05-30 09:36:26.825" ;
+        c:docTitle         "" ;
+        c:document         "China Cuts Interest Rates to Lift its Economy. The central bank cut its benchmark lending rate by a quarter percentage point to 5.1 percent, the third reduction since November, seeking to support a slowing economy." ;
+        c:id               "http://id.opencalais.com/JPltzhCwwytABpFcoENHng" .

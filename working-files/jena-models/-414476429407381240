@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:importance     "2" ;
+        c:name           "Greater Yellowstone Ecosystem" ;
+        c:originalValue  "Greater Yellowstone Ecosystem" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f8e375fd-915a-3459-a515-c12a48b1e59c> .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:score           "0.948" .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:importance     "1" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:importance     "2" ;
+        c:name           "Fort Yellowstone" ;
+        c:originalValue  "Fort Yellowstone" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/102d6bd5-b41d-3443-91b1-3f96de0579c2> .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:importance     "2" ;
+        c:name           "Bears" ;
+        c:originalValue  "Bears" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7ad1b87b-aba9-311c-9940-4645c7261ccf> .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:importance     "1" ;
+        c:name           "Yellowstone National Park" ;
+        c:originalValue  "Yellowstone National Park" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1afce45-0a32-327a-8ea3-b5c22f655eec> .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "846e7a73-13d7-10cb-14da-542308023ab1" ;
+        c:docDate          "2015-05-30 10:38:08.234" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Black bears charge at tourists in US. Tourists at Yellowstone National Park in the US have been chased over a bridge by a family of black bears." ;
+        c:id               "http://id.opencalais.com/0maq*xx3GIfbIqyaEMkjBQ" .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nx6wajgaL86gPo8pUEp7zqQg1zk=|lfTH8pIJFAq+TZJZoRXxZByrP7dYpcWbT0ymcnsb4Iq+r6Geryms3g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:08.000" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:importance     "1" ;
+        c:name           "Wyoming" ;
+        c:originalValue  "Wyoming" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d004ed01-5453-3ec2-9fa9-ca0341bbde07> .
+
+<http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/930fea72-2dc1-32e8-bf92-e21cae981111> ;
+        c:importance     "2" ;
+        c:name           "Animals of Yellowstone" ;
+        c:originalValue  "Animals of Yellowstone" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7b0f2319-cbf4-352b-8051-a5f355f285ac> .

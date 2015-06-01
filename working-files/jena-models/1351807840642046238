@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ee1cf407-d0cf-f88b-14da-5444f4e4551f" ;
+        c:docDate          "2015-05-30 09:40:27.130" ;
+        c:docTitle         "" ;
+        c:document         "Muppets return to prime time. It's time to play the music; it's time to light the lights ... Tuesday nights at 8 ET, to be exact." ;
+        c:id               "http://id.opencalais.com/DuWDYmywjUUUXcU3UYq*Og" .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:importance     "1" ;
+        c:name           "The Jim Henson Company" ;
+        c:originalValue  "The Jim Henson Company" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6873a538-929f-3bc9-b7a2-5e9317af20d3> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:importance     "2" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:importance     "2" ;
+        c:name           "Puppetry" ;
+        c:originalValue  "Puppetry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b649f37-ee27-3ec8-a331-70c042a74673> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:score           "0.511" .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:importance     "1" ;
+        c:name           "The Muppets" ;
+        c:originalValue  "The Muppets" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b71427b0-ea58-30ca-90fa-1a52272b831d> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:importance     "2" ;
+        c:name           "Lew Zealand" ;
+        c:originalValue  "Lew Zealand" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18e16eec-b5e9-303f-97ad-6abb9290d1f6> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:importance     "1" ;
+        c:name           "Disney" ;
+        c:originalValue  "Disney" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/75ed7648-405b-3c65-bf52-be24c22bb321> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:importance     "2" ;
+        c:name           "Muppet films" ;
+        c:originalValue  "Muppet films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c7c4f9c-a9d3-3e9f-b731-4e480f9a83ab> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2ab0eaa6-fdaa-3a59-8a25-4e3588605532> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wXl9W0k5WeMt3hE1K2I0G7kNJXM=|kHYHD8gAB0s7ghzjftEll42E37gWXk5/KoobE2EEdYIlxov6hmdt1w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:26.958" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

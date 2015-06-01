@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:importance     "1" ;
+        c:name           "Application software" ;
+        c:originalValue  "Application software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3dd160c1-2ca0-3913-8fe9-4dca175b0bee> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:importance     "2" ;
+        c:name           "Video games with variable translation control" ;
+        c:originalValue  "Video games with variable translation control" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e5273f2a-a5f8-319c-a7f7-267acd8a87b3> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hSSI6waNvTkTtpF8AZ91ADhKSkw=|N9KZVNFcu5i1LJZAExIaVi9aWBF0w6TuNT9nakh56JIv0iNvefCmzw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:26:58.110" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:importance     "1" ;
+        c:name           "Digital media" ;
+        c:originalValue  "Digital media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/771e4d9a-b0cd-37a2-bec6-6840c4cafab3> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:importance     "2" ;
+        c:name           "Multiplayer online games" ;
+        c:originalValue  "Multiplayer online games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/003368f3-fdf5-36cc-9090-f63977aee529> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:importance     "2" ;
+        c:name           "Amiga games" ;
+        c:originalValue  "Amiga games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d92572e0-82b1-3150-a7f7-479d0ba9389b> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:importance     "1" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:importance     "2" ;
+        c:name           "Quake" ;
+        c:originalValue  "Quake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b539ba79-f6f4-3b1b-8a4d-49b6037ca637> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7c25796a-9a3d-75a0-14da-537f7be32955" ;
+        c:docDate          "2015-05-30 10:26:58.235" ;
+        c:docTitle         "" ;
+        c:document         "Situation in remote areas of Nepal disturbingly murky. Rescue and aid workers in Nepal struggle to gain the upper hand against the devastation dealt by Saturday's powerful quake. LIVE BLOG | SURVIVORS | VOICES | QUAKE WAS EXPECTED | HOW TO HELP" ;
+        c:id               "http://id.opencalais.com/EsT4shKSducRaUdFo45RKg" .
+
+<http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87268511-5315-39ae-b3de-31b18ba9de9c> ;
+        c:importance     "2" ;
+        c:name           "Linux games" ;
+        c:originalValue  "Linux games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36466ee7-d629-38b2-9cb5-afc70aaa0f6b> .

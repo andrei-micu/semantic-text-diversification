@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:importance     "1" ;
+        c:name           "Electrical phenomena" ;
+        c:originalValue  "Electrical phenomena" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/085d21a6-67a1-3272-8c63-d74beb39db05> .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:importance     "2" ;
+        c:name           "John S. Mosby" ;
+        c:originalValue  "John S. Mosby" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59fce9aa-2b44-3747-8bce-6dc8079ed8f0> .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fd7114f5-50e5-8bc1-14da-54280d123ab1" ;
+        c:docDate          "2015-05-30 10:38:28.826" ;
+        c:docTitle         "" ;
+        c:document         "Marilyn Mosby under fire after appearance. The applause she received for charging the six Baltimore police officers involved in the arrest of Freddie Gray seemed short-lived. Since then, Marilyn Mosby has been a lightning rod." ;
+        c:id               "http://id.opencalais.com/wmH541T-WLEGn8qhAwl6qA" .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:importance     "2" ;
+        c:name           "United States Army Rangers" ;
+        c:originalValue  "United States Army Rangers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/976a7ab3-5cd9-34d3-9deb-7bab5ea64577> .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:score           "0.887" .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:importance     "1" ;
+        c:name           "Lightning" ;
+        c:originalValue  "Lightning" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f980efb-7f22-306c-a4c2-10c9dab4c88b> .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:importance     "2" ;
+        c:name           "Astrophysics" ;
+        c:originalValue  "Astrophysics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d13ad300-2b9f-3cc6-b939-2ecae10fff00> .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|SAdwvWe5S+xYgTQ5dwdwbcPas4I=|b6I3flu4WW3bC3ZAiaXcYZuT/e2CNyIIt/bFj2lfZXZaAGd7q0s78Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:28.561" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:importance     "2" ;
+        c:name           "Physics" ;
+        c:originalValue  "Physics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c39764eb-3814-300c-a1c3-ad74ab22337d> .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:importance     "1" ;
+        c:name           "Storm" ;
+        c:originalValue  "Storm" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17b57b79-c90b-36a2-b44b-120839361ed3> .
+
+<http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceeda377-250a-38cb-8331-161443fa4fef> ;
+        c:importance     "2" ;
+        c:name           "43rd Battalion Virginia Cavalry" ;
+        c:originalValue  "43rd Battalion Virginia Cavalry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c678eb6-b899-3c99-b10a-f0a3a7a64496> .

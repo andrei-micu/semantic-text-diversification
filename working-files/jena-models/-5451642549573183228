@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:importance     "1" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:importance     "2" ;
+        c:name           "Ethics" ;
+        c:originalValue  "Ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f579fc5-eed2-3113-a4f8-658e638275f1> .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8dd0e190-0a73-0cb2-14da-53c71b41927e" ;
+        c:docDate          "2015-05-30 10:31:51.725" ;
+        c:docTitle         "" ;
+        c:document         "New York City Underreported School Violence to State, Audit Shows. An examination by the state comptroller of 10 schools found that almost a third of the violent episodes were not reported, as required." ;
+        c:id               "http://id.opencalais.com/S0zNeD9o2dFrVCqSitFoWA" .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:importance     "2" ;
+        c:name           "School violence" ;
+        c:originalValue  "School violence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7676b50f-da6e-3edc-b97b-c51ff6711f46> .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:importance     "1" ;
+        c:name           "Comptroller" ;
+        c:originalValue  "Comptroller" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f833951c-3492-3f65-8a66-c9c668a7273a> .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:importance     "2" ;
+        c:name           "Management" ;
+        c:originalValue  "Management" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2abff66a-f5dc-3df6-a0b4-c699abb7f2d9> .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:importance     "2" ;
+        c:name           "Violence" ;
+        c:originalValue  "Violence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c7ad1ef-3465-32b8-a576-ea3a2515bdb2> .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gFqEmWwNCEOcnlAGKxsSSQ/ihHA=|IoT8z984eTD60dKH+R5ROX0U/fFoVQLJ6gMr51XN26vFfWhKMvTPrg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:51.476" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:importance     "1" ;
+        c:name           "Audit" ;
+        c:originalValue  "Audit" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b163bdc-2431-364b-991b-1d77cc9db7c0> .
+
+<http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34eba174-3c5b-3353-a425-f18c6c30c505> ;
+        c:importance     "2" ;
+        c:name           "Social issues" ;
+        c:originalValue  "Social issues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fefd283a-09b9-3942-ac63-43ba0902e764> .

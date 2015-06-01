@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:importance     "1" ;
+        c:name           "New York" ;
+        c:originalValue  "New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/461159b1-6be8-3031-b1dd-039ee48ba761> .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:importance     "2" ;
+        c:name           "Lieutenant Governor of New York" ;
+        c:originalValue  "Lieutenant Governor of New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d4e1127-abf4-3c29-9a61-cf16bc7caa8e> .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|UUIuTJkK9qgipmPwiUo3MIRnMJ8=|YJtkwgQn4FF1IDRusgaOvGryfrtEPjh6m4MJT2+oe4y0lCT6BIQk7w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:21.590" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:importance     "1" ;
+        c:name           "Pataki" ;
+        c:originalValue  "Pataki (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/084d9e80-9cc5-31e0-8347-b95368a26fd0> .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "65e3e986-3755-0fbf-14da-54c77b623ab1" ;
+        c:docDate          "2015-05-30 10:49:21.824" ;
+        c:docTitle         "" ;
+        c:document         "Pataki makes bid for POTUS. George Pataki, the Republican who won the governorship three times in heavily Democratic New York, is running for President in 2016." ;
+        c:id               "http://id.opencalais.com/NWdZmO-th0g7*ghv8m1Ggg" .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:importance     "1" ;
+        c:name           "George Pataki" ;
+        c:originalValue  "George Pataki" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9cfb47b0-4ad5-37d7-98d4-556d1dce9997> .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:importance     "2" ;
+        c:name           "New York gubernatorial election" ;
+        c:originalValue  "New York gubernatorial election, 1994" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/12da9922-e588-37e0-94e4-8a318e014175> .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:score           "0.637" .
+
+<http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f3893f6-c617-3119-86ab-2a882f437a40> ;
+        c:importance     "2" ;
+        c:name           "Year of birth missing" ;
+        c:originalValue  "Year of birth missing (living people)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3412379a-c58d-3f2e-b182-3e92b0b33f05> .

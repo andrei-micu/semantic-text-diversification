@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487> ;
+        c:importance     "1" ;
+        c:name           "Telegraphy" ;
+        c:originalValue  "Telegraphy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2166152-c5af-3bbd-b945-83353b4ae56e> .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487> ;
+        c:importance     "2" ;
+        c:name           "Cable & Wireless Worldwide" ;
+        c:originalValue  "Cable & Wireless Worldwide" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3824e6f-d1d9-3877-9e34-f15a03463713> .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487> ;
+        c:score           "0.570" .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487> ;
+        c:importance     "1" ;
+        c:name           "Economy of the United States" ;
+        c:originalValue  "Economy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c04552-e625-3a39-93f8-3544f0172fe0> .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "54cacc2a-a16a-0864-14da-54385ae1df07" ;
+        c:docDate          "2015-05-30 09:39:35.779" ;
+        c:docTitle         "" ;
+        c:document         "For the Highest-Paid C.E.O.s, the Party Goes On. Four chief executives at five companies with ties to John C. Malone, who built a cable and communications empire, were awarded more than $350 million last year." ;
+        c:id               "http://id.opencalais.com/GKCqCTW1SlZVPGjIwZCS4g" .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qLn33q56yrWtuxGnlQWKggH7RWU=|OaMxZdH2ItyL/0dO6EChFDNNxKkS14V1501kaKJM/huSIxLSUuMDGw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:39:35.342" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487> ;
+        c:importance     "1" ;
+        c:name           "John C. Malone" ;
+        c:originalValue  "John C. Malone" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/99506ebb-9806-3d62-9db0-5531fb2127c6> .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487> ;
+        c:importance     "2" ;
+        c:name           "Tele-Communications Inc." ;
+        c:originalValue  "Tele-Communications Inc." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba9b294c-4bc3-3416-879e-5eb22896a91e> .
+
+<http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fd886c9c-2d63-305f-95ef-c224cf501487> ;
+        c:score           "1.000" .

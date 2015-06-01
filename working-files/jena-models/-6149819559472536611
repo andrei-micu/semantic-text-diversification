@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988> ;
+        c:importance     "2" ;
+        c:name           "Rock music" ;
+        c:originalValue  "Rock music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e5c6e1b-e8d0-3a19-8a76-4d603de5cff2> .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988> ;
+        c:importance     "1" ;
+        c:name           "NPR" ;
+        c:originalValue  "NPR" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0410c98-2061-3c90-8b44-3a246fbc5541> .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988> ;
+        c:importance     "2" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988> ;
+        c:importance     "2" ;
+        c:name           "Jim James" ;
+        c:originalValue  "Jim James" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee912359-f971-3980-8126-2b94e093c73b> .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "61f123de-fe12-dada-14da-53897784551f" ;
+        c:docDate          "2015-05-30 09:27:39.343" ;
+        c:docTitle         "" ;
+        c:document         "NPR Music Webcast: My Morning Jacket Live In Concert, May 7 . On Thursday, May 7, audiences everywhere can watch live as Jim James and his bandmates play songs from their just-released album, The Waterfall." ;
+        c:id               "http://id.opencalais.com/HBy6wxDZxgf4T6usQf1vcA" .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988> ;
+        c:importance     "1" ;
+        c:name           "My Morning Jacket" ;
+        c:originalValue  "My Morning Jacket" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ef5b28e8-519f-3691-ac35-9a0d628ed3d6> .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1f6867dd-58ed-3b39-98ea-94203d443988> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|noRrOZtX15I5XDd+KSSw2pLXZZg=|WSjqUv//UiK96auXTXwvcMC9QuoKL0FQyB9d6YVe1+HokTxvBYEwYg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:39.000" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

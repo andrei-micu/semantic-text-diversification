@@ -1,0 +1,51 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8db02014-ce72-ec41-4da5-45745c32f984" ;
+        c:docDate          "2015-05-30 09:41:42.120" ;
+        c:docTitle         "" ;
+        c:document         "Shares set for weekly gain as bonds stabilize. LONDON (Reuters) - Global shares were on track for a weekly rise on Friday, with Europe following Asia higher, as bond-market jitters eased after a rollercoaster unwind of bets linked to the European Central Bank's stimulus plan." ;
+        c:id               "http://id.opencalais.com/6LLAJBc5SMS0v-j6WmRMJw" .
+
+<http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d> ;
+        c:importance     "1" ;
+        c:name           "Bond" ;
+        c:originalValue  "Bond (finance)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa27325e-823a-3134-9798-dfd4ac989711> .
+
+<http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7a11460e-37ac-3a02-9121-2f5ac048d17d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|CUjHxOkIojtdRAylZKR83gY235c=|likNGWxFfEiDH6m9wm5m6lH94WR0pxnGWVKqgkZyud/nIzoAbXScPw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:41.995" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8> ;
+        c:importance     "1" ;
+        c:name           "Gary Condit" ;
+        c:originalValue  "Gary Condit" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b7f09bd0-b462-3f3f-8e1d-6665cc853f25> .
+
+<http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8> ;
+        c:score           "0.651" .
+
+<http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2234f62e-74fd-0a89-14da-54a0d2e4551f" ;
+        c:docDate          "2015-05-30 09:46:43.496" ;
+        c:docTitle         "" ;
+        c:document         "New Trial Expected for Man Convicted in Chandra Levy Death. A man convicted of killing Washington intern Chandra Levy is expected to get a new trial after government attorneys withdrew their opposition to one." ;
+        c:id               "http://id.opencalais.com/WaB4oQjBer-vB8AaQZ1MQQ" .
+
+<http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8> ;
+        c:importance     "1" ;
+        c:name           "Joyce Chiang" ;
+        c:originalValue  "Joyce Chiang" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/297c8d9e-dcfe-37da-936d-8344432fe1d5> .
+
+<http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8> ;
+        c:importance     "1" ;
+        c:name           "Chandra Levy" ;
+        c:originalValue  "Chandra Levy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d81a6868-1981-3d78-9f67-015753b10c8f> .
+
+<http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FfKhtHy5JVlhaOXFieqxdzv8DyM=|lPzwkpNbPfdaQOqepeBYLpd4Iyt0J+x0CngPWDciNYHRl5fqQPswoA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:43.246" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3035e2a5-2a4c-37f4-9920-f1e9954b04c8> ;
+        c:score           "1.000" .

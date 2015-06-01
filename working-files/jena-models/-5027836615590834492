@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:importance     "2" ;
+        c:name           "Yellen" ;
+        c:originalValue  "Yellen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9cd37e14-e7f3-35fc-b8d7-c4f161e25b18> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:importance     "2" ;
+        c:name           "Lagarde" ;
+        c:originalValue  "Lagarde" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/42d7e0de-1cd1-34e1-ba83-dd6a3713b545> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:importance     "1" ;
+        c:name           "French people" ;
+        c:originalValue  "French people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f95c41ad-e7aa-363b-ac9c-a73a417d3106> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:importance     "2" ;
+        c:name           "International Monetary Fund" ;
+        c:originalValue  "International Monetary Fund" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c201c98-3824-33b7-98ae-06d550b920fb> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fEirqxBz/sQ5y7qoUmyuTYytotk=|RE+fLobamp1uTqZ5y1wqi5PjElohfyGxKqcriSLxozDn9MzXoiOEDA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:52.729" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:importance     "2" ;
+        c:name           "Janet Yellen" ;
+        c:originalValue  "Janet Yellen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b4be050-d2ca-39e7-81c4-8471eb4a1835> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:importance     "2" ;
+        c:name           "Federal Reserve System" ;
+        c:originalValue  "Federal Reserve System" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/058dac68-01cb-39fd-b500-6ff0cadde7a7> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:importance     "1" ;
+        c:name           "International economics" ;
+        c:originalValue  "International economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1aa19897-17a6-383d-b88c-03620358aaa2> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:importance     "2" ;
+        c:name           "Christine Lagarde" ;
+        c:originalValue  "Christine Lagarde" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5db5ea8f-1380-31da-ac4f-b95861f5b1bb> .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4ec065ef-2ca5-3b48-a729-fe591c73584a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e03c9501-540d-a97e-14da-54020191df07" ;
+        c:docDate          "2015-05-30 09:35:52.885" ;
+        c:docTitle         "" ;
+        c:document         "US Fed chief warns of share 'danger'. Federal Reserve chief Janet Yellen told IMF managing director Christine Lagarde there are \"potential dangers\" in high stock market valuations." ;
+        c:id               "http://id.opencalais.com/sOyzhH7W6JMNHcE2m5G20Q" .

@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:importance     "1" ;
+        c:name           "Counterclaim" ;
+        c:originalValue  "Counterclaim" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/688f46b6-4c30-3c78-baaf-6a77c33498b7> .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:importance     "2" ;
+        c:name           "Computer law" ;
+        c:originalValue  "Computer law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b130a763-e51f-3c80-bd9b-c1a5e107e079> .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6d061f0a-7b75-285e-14da-53f80fa1df07" ;
+        c:docDate          "2015-05-30 09:35:12.213" ;
+        c:docTitle         "" ;
+        c:document         "Jameis Winston Files Counterclaims Against Accuser. Jameis Winston filed counterclaims against the woman who has accused him of rape, responding to her lawsuit Friday in federal court in Orlando, Fla." ;
+        c:id               "http://id.opencalais.com/40E0LxzmzZuF2MX3hplYkQ" .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:importance     "2" ;
+        c:name           "Cause of action" ;
+        c:originalValue  "Cause of action" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/975dfada-f18e-3572-9c21-38b2e29dc655> .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|477u+iQZsZtS5+wQzAtcQ1oJG/U=|L0ew1uHrvrDMXiMzs1DRKPQ923BinAYhTK07EqfLhZUD0XTvlOmZNA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:11.994" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:importance     "1" ;
+        c:name           "Civil law" ;
+        c:originalValue  "Civil law (common law)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/10fc1ad5-640c-39af-89ce-01d2a5020c68> .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:importance     "2" ;
+        c:name           "Intellectual property law" ;
+        c:originalValue  "Intellectual property law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7dbe7e7b-84c0-3e04-ba97-1f2c576b1fd1> .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:importance     "2" ;
+        c:name           "Lawsuit" ;
+        c:originalValue  "Lawsuit" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ff0bc07-ffb9-339c-9a84-6a8d2c929a0c> .
+
+<http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ef21eb65-8fd1-3832-98df-b18cde7e053b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

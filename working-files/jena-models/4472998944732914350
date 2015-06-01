@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:importance     "2" ;
+        c:name           "Public health" ;
+        c:originalValue  "Public health" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9e257252-45c6-3253-b712-665f6dc210e5> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "178cb494-4f1c-ed6a-14da-542166a34709" ;
+        c:docDate          "2015-05-30 09:38:01.509" ;
+        c:docTitle         "" ;
+        c:document         "Monsoons Near, Nepal Focuses on Sanitation to Stem Illness After Quake. Two weeks after a devastating earthquake, Nepal’s government and charitable groups are racing to provide clean water and toilets to minimize contamination into local water supplies." ;
+        c:id               "http://id.opencalais.com/4fPVv7ONyhfUHje*09pedg" .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:importance     "1" ;
+        c:name           "Health" ;
+        c:originalValue  "Health" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:importance     "2" ;
+        c:name           "Water supply" ;
+        c:originalValue  "Water supply" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60c88c60-4a9a-3948-a9a8-bbebd0a0f526> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:importance     "2" ;
+        c:name           "Sanitation" ;
+        c:originalValue  "Sanitation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d35841e-5453-3f19-928d-59934d1de2da> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:importance     "1" ;
+        c:name           "Hygiene" ;
+        c:originalValue  "Hygiene" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ecb79a20-6a01-3f79-b064-21127e8b5f03> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|E7k12LjrJsbusZKLexe61qp8B4w=|J6N09hH852Jp1I7vJx0TNf29J9gBoku1gjtbX2iOa6ElHaBvBaJBvQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:01.322" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:importance     "2" ;
+        c:name           "Earthquake" ;
+        c:originalValue  "Earthquake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/13c4213b-7756-38ea-9416-46addff402a3> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:importance     "1" ;
+        c:name           "Millennium Development Goals" ;
+        c:originalValue  "Millennium Development Goals" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/31126b36-87fa-3234-9165-d3021eb60303> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:importance     "2" ;
+        c:name           "Sewerage" ;
+        c:originalValue  "Sewerage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a315fa9-6bcc-330f-93d8-3b103452c42a> .
+
+<http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/32cad4c0-0b2e-3754-bf4c-8b4d767437aa> ;
+        c:score           "1.000" .

@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|iOdwnML2s4dcYmDqgRMm7J5S/l0=|T1mjsL6BTQDFK19lZVTY0uB0Wjo9GXAgXzSZa53EMlAuHgxLJ1dyzg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:50.347" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf> ;
+        c:importance     "1" ;
+        c:name           "Swiss people" ;
+        c:originalValue  "Swiss people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f6f16a4-6471-3c06-9037-b1b2c7b352e3> .
+
+<http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ac9d5137-5eb1-9772-14da-541012b719b3" ;
+        c:docDate          "2015-05-30 10:36:50.550" ;
+        c:docTitle         "" ;
+        c:document         "5 dead after shooting in Swiss town . Five people died in the northern Swiss town of Wuerenlingen after residents heard shots fired late Saturday, federal police said." ;
+        c:id               "http://id.opencalais.com/YZn6fTcqeQaDga2g6xe2Zw" .
+
+<http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf> ;
+        c:importance     "2" ;
+        c:name           "Switzerland" ;
+        c:originalValue  "Switzerland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56b82237-c8f4-31c7-b0bb-7a41ec233ece> .
+
+<http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf> ;
+        c:importance     "1" ;
+        c:name           "Celtic people" ;
+        c:originalValue  "Celtic people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a8c6f7ea-8741-3824-908d-9f8bd4e107a1> .
+
+<http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf> ;
+        c:score           "0.804" .
+
+<http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7ab069b-2710-3ea5-9a0a-da131c9bbecf> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .

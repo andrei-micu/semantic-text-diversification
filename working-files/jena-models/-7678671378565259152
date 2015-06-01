@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:importance     "2" ;
+        c:name           "Josh Trank" ;
+        c:originalValue  "Josh Trank" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50b7327e-2ede-3626-b14e-477a022bdec7> .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:score           "0.965" .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:importance     "1" ;
+        c:name           "Cinema of the United States" ;
+        c:originalValue  "Cinema of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9089feca-c264-3451-b0cf-257f8c8b0635> .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:importance     "2" ;
+        c:name           "Star Wars" ;
+        c:originalValue  "Star Wars" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab5278ae-517c-3f93-bed6-b7def8997216> .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|QIEcNJ9mpaBplm8X0Hfe6Tqt0dM=|C+5QfusnbycAFNhI8XsFtU6TwY00vA3NtaM/XUjFr5BLXML8WldikQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:18.230" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:importance     "1" ;
+        c:name           "Epic films" ;
+        c:originalValue  "Epic films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cbebbae8-14c4-3187-a9b8-18e900826f2e> .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/3d3d5086-1202-39dc-8141-272fdb11f9c3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "61d0c40f-038c-e367-14da-53cda3623ab1" ;
+        c:docDate          "2015-05-30 10:32:18.433" ;
+        c:docTitle         "" ;
+        c:document         "'Star Wars' director pulls out. A new batch of planned \"Star Wars\" movies suffered a setback after director Josh Trank pulled out of the project." ;
+        c:id               "http://id.opencalais.com/Wy4F5Qt*JtWqhmOYIc6rJQ" .

@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:importance     "1" ;
+        c:name           "Political philosophy" ;
+        c:originalValue  "Political philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77603a14-4820-3d0d-824b-af4fcd03b8bb> .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:score           "0.885" .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:importance     "1" ;
+        c:name           "Uber" ;
+        c:originalValue  "Uber (company)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ac19371-a8ee-3c81-9723-4c8806e8fded> .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:importance     "2" ;
+        c:name           "China national badminton team" ;
+        c:originalValue  "China national badminton team" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/728d1d71-299d-33f3-a43f-b58cf18154fd> .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cbc6b455-250c-6afd-14da-53db2d132955" ;
+        c:docDate          "2015-05-30 10:33:13.852" ;
+        c:docTitle         "" ;
+        c:document         "People's Republic Of Uber: Driving For Connections In China. Uber is becoming more popular in China, but many drivers say they don't do it for the money. They say they like the human connection and the freedom." ;
+        c:id               "http://id.opencalais.com/cFwPNH6Jb67l8iKeGCjsRw" .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:score           "0.749" .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:importance     "1" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:importance     "2" ;
+        c:name           "Badminton" ;
+        c:originalValue  "Badminton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7ac6dad2-9369-3f32-b554-75bd19911356> .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cs9UKpjMLJlGX7NMZxv1AWSzqXI=|EPeBi9g1ZsaaU6RnFxrlbwXFXM0rubuswLp7uo450wG1g4SJVFwzNA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:13.681" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/169fc0e8-49f6-33f3-9f02-384894487e80> ;
+        c:score           "0.579" .

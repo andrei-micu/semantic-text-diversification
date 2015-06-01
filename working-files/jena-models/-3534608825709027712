@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:importance     "2" ;
+        c:name           "Iraq" ;
+        c:originalValue  "Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/33ecfc09-2dca-3a72-9cc0-81d284a7bd4f> .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:importance     "1" ;
+        c:name           "Iraq War" ;
+        c:originalValue  "Iraq War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30f6b3bb-177a-3ed7-89cb-1f573d732616> .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|21xodWstVUmlpkJqKy8LndY4GFU=|WVeKflQdVzUK+ejB4uUp0FiBWBt4+DFca+XlecF/AflRrola2KSW2w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:48:05.691" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:importance     "2" ;
+        c:name           "Iraq–United States relations" ;
+        c:originalValue  "Iraq–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c94883e-2a3b-3d03-a3f2-ad42f9533e2d> .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5f08efbd-fa96-8ff6-14da-54b4f2b13c98" ;
+        c:docDate          "2015-05-30 09:48:06.018" ;
+        c:docTitle         "" ;
+        c:document         "Back to Iraq? GOP dithers. Pressing to send a new wave of U.S. combat troops into Iraq would have amounted to political suicide for White House hopefuls just a few years ago." ;
+        c:id               "http://id.opencalais.com/UGj*dbpeyxBkgB3xBwUK4Q" .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c629d00-3ba7-3835-a494-e62138149cdc> ;
+        c:importance     "1" ;
+        c:name           "Occupation of Iraq" ;
+        c:originalValue  "Occupation of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3825fb7d-8a38-39a5-864b-fbcbfcba7d70> .

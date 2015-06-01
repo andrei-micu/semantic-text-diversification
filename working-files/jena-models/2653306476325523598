@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:importance     "1" ;
+        c:name           "Marsden" ;
+        c:originalValue  "Marsden" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/76ff956a-6256-350b-b531-6094e7b0d8c0> .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|H3/KgOoxerYDLB6dEF8CyyWDY+8=|kbcm+C5u59yC/pBgBiixCSSoG088YBYDJMVKmeYMSWY8TmAPSv0lvg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:51.360" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:importance     "2" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:importance     "1" ;
+        c:name           "Hunk" ;
+        c:originalValue  "Hunk (film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f0607437-f3c1-353e-bc34-44c281f71435> .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:importance     "1" ;
+        c:name           "Computing" ;
+        c:originalValue  "Computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169> .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "90dfc20a-eeff-411f-14da-53f30601927e" ;
+        c:docDate          "2015-05-30 10:34:51.641" ;
+        c:docTitle         "" ;
+        c:document         "'The D Train' Rumbles On With Another Hunk/Schlub Comedy. James Marsden and Jack Black play two men whose lives have taken very different paths after high school." ;
+        c:id               "http://id.opencalais.com/MQrMkRcLh-Lx03zhh2djAg" .
+
+<http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7ec65f72-1e7c-3bbe-ab0e-d59926df6f20> ;
+        c:importance     "2" ;
+        c:name           "Diff" ;
+        c:originalValue  "Diff" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3a47a876-90fd-3db2-8572-e9cf5fd4d53f> .

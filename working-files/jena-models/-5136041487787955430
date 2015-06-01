@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a> ;
+        c:importance     "1" ;
+        c:name           "Private equity" ;
+        c:originalValue  "Private equity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a366e1d-5973-354f-b860-6092d855f8f3> .
+
+<http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a> ;
+        c:importance     "1" ;
+        c:name           "Uber" ;
+        c:originalValue  "Uber (company)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ac19371-a8ee-3c81-9723-4c8806e8fded> .
+
+<http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2f70b767-1312-6e08-14da-54051c113c98" ;
+        c:docDate          "2015-05-30 09:36:05.643" ;
+        c:docTitle         "" ;
+        c:document         "Uber Fund-Raising Points to $50 Billion Valuation. The new capital will not be used primarily for expansion purposes, unlike Uber’s previous financing rounds — instead, the funding is strategic, with an eye on partnerships." ;
+        c:id               "http://id.opencalais.com/biyC218IMGH3bj0OgvIJWQ" .
+
+<http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a> ;
+        c:importance     "2" ;
+        c:name           "Venture capital" ;
+        c:originalValue  "Venture capital" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6c6a267-a115-3674-8e2a-6de4bacd6695> .
+
+<http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a> ;
+        c:importance     "1" ;
+        c:name           "Finance" ;
+        c:originalValue  "Finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/acd44d54-d8f3-3c36-a78c-2da2af5a2ae8> .
+
+<http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Y8PNj5/iUYPEdi8w+WtvkfXPjBk=|aGiM9UNRnv743hLDoTNLkK/1o5cYLTLE1Z9/Uggxo4+7Vr70E5Uhsg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:05.441" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8d57e326-2c71-3d43-90a3-912810c50c2a> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .

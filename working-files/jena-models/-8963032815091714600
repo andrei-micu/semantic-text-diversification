@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b> ;
+        c:importance     "1" ;
+        c:name           "Run the World" ;
+        c:originalValue  "Run the World (Girls)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c84cdf65-7240-3e97-adf2-c5e5be1a68ac> .
+
+<http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "760f88e8-b5ee-ac47-14da-54ce8af760f9" ;
+        c:docDate          "2015-05-30 10:49:50.589" ;
+        c:docTitle         "" ;
+        c:document         "Mob burns teen girl alive. A large crowd stands by as a teenage girl -- beaten and bloodied -- writhes on the ground, her body engulfed in flames." ;
+        c:id               "http://id.opencalais.com/JhcJd0J5mRVATxu9nnnNXA" .
+
+<http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fK/Zs1+WYEjXP54AquYvDxH+kII=|R0CGf6cftxBWQMIyxKwclq+qtHsTNlM26C2h9Q4NIE9uhDNTcaeoTw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:50.511" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c87f9856-daad-36f4-b0ec-7cd4e202bc8b> ;
+        c:importance     "1" ;
+        c:name           "Singles" ;
+        c:originalValue  "Singles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ffe7e736-9f32-38a4-9919-05a92233aa3e> .

@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:importance     "2" ;
+        c:name           "Goatee" ;
+        c:originalValue  "Goatee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a42ffab-41b8-3331-8bed-7680e01cb0fa> .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GvlFhiMfT3Kywv8E4NU1+/sQ3SE=|FLrB4Hw4rXIAuufDvdazUQKSTY4jOBnwf/FFtb4noiHNCpJ9hiVoRg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:55.998" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:importance     "1" ;
+        c:name           "Linguistics" ;
+        c:originalValue  "Linguistics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17f757ac-3e17-3efb-b04b-bde3f75a7fbf> .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:score           "0.930" .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:importance     "2" ;
+        c:name           "Science" ;
+        c:originalValue  "Science" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/709e26da-54e6-3bf9-a8f8-1dc0f42a2a5a> .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:importance     "1" ;
+        c:name           "Logic" ;
+        c:originalValue  "Logic" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ea6ec907-1631-3c2f-b286-452574ba10c0> .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a14121d3-f5d0-a7d0-14da-546957e23ab1" ;
+        c:docDate          "2015-05-30 10:42:56.138" ;
+        c:docTitle         "" ;
+        c:document         "Arrested biker is a former cop. Much like his black-and-white goatee, Marty Lewis represents a dichotomy. FULL STORY" ;
+        c:id               "http://id.opencalais.com/pBCpDJux5bffuVX3THEW9A" .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:importance     "1" ;
+        c:name           "Dichotomy" ;
+        c:originalValue  "Dichotomy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/33f97229-bbfd-31d4-b882-e7c92eefd9c0> .
+
+<http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/840fa076-5230-3961-855f-6ee02220f5c7> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

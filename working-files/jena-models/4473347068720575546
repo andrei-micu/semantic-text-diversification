@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa> ;
+        c:importance     "1" ;
+        c:name           "Mess" ;
+        c:originalValue  "Mess" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a049a0cf-9bc4-3f9e-a1d0-a6e4f321b0a7> .
+
+<http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa> ;
+        c:importance     "1" ;
+        c:name           "Southern United States" ;
+        c:originalValue  "Southern United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a75e48b2-58ef-371f-b774-ac82ec51bc27> .
+
+<http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa> ;
+        c:importance     "1" ;
+        c:name           "Alabama" ;
+        c:originalValue  "Alabama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b20e83dc-ca49-3ffe-bf0f-506b9a3a4a2c> .
+
+<http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GEOVo7Ls3ggmrYCraHyQfHn0vV8=|T9dpmiL3MsJeM0b5UT+D6PGW41Zx/LoZ3wgccKY4NGhartD79SQzLg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:34.351" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1221175e-168a-3cfa-8433-13b929d259aa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cf6ac381-5e21-6195-14da-538854f4551f" ;
+        c:docDate          "2015-05-30 09:27:34.710" ;
+        c:docTitle         "" ;
+        c:document         "Alabama Shakes Opens New Territory On 'Sound & Color'. Over the course of Sound & Color, Alabama Shakes messes with what had already, after its first album, become its signature sound. Fresh Air rock critic Ken Tucker has this review." ;
+        c:id               "http://id.opencalais.com/ujTG6iaef6qXnFeCudvBlQ" .

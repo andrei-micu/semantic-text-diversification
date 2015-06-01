@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26> ;
+        c:importance     "1" ;
+        c:name           "Jeopardy!" ;
+        c:originalValue  "Jeopardy!" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b804ea3b-68fd-360b-9941-6491fffce4c7> .
+
+<http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26> ;
+        c:importance     "1" ;
+        c:name           "Jeopardy! in merchandising" ;
+        c:originalValue  "Jeopardy! in merchandising" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f5300777-230b-3be3-b41a-98041ca26376> .
+
+<http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KHB7HUhX3aRM8nGH1lW8/QYOw7E=|eE49YONVEs4Om4erKKfumDqV0VGBwOtqQ/O3rPvJDtcwFQf+wVK9Rw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:52.412" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26> ;
+        c:importance     "2" ;
+        c:name           "Larissa Kelly" ;
+        c:originalValue  "Larissa Kelly" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1f3f7b13-17b8-3fb6-b05c-1d1a61973dc3> .
+
+<http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e1c78406-bbf4-bd97-14da-54cf01c653ed" ;
+        c:docDate          "2015-05-30 09:49:52.646" ;
+        c:docTitle         "" ;
+        c:document         "'Jeopardy!' answer is hilariously wrong. See this great answer from \"Jeopardy!\" contestant Choyon Manjrekar." ;
+        c:id               "http://id.opencalais.com/oy5886mrzYUsVQZs2k4eGw" .
+
+<http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2f577e67-c5ea-35ce-a46c-44a94a59ad26> ;
+        c:score           "1.000" .

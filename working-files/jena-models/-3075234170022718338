@@ -1,0 +1,58 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fec33121-a840-1310-14da-53ffb564551f" ;
+        c:docDate          "2015-05-30 09:35:43.474" ;
+        c:docTitle         "" ;
+        c:document         "Why Germans love to get naked. Forget buttoned up stereotypes, Germans are nakedly ahead when it comes to stripping off." ;
+        c:id               "http://id.opencalais.com/nCR-05Xrm9dtjtV3qBQ1mw" .
+
+<http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc> ;
+        c:score           "0.627" .
+
+<http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7k1wCSchMTOAXfY3eXl+gZcZpzM=|XPhlTrbbR44ZoUWS5B9p7DdTIzhFzerk1KNoPXa0v/ejNBmvb93ONg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:43.318" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/03bea835-db8a-3ffd-9345-54b62fd0d5bc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

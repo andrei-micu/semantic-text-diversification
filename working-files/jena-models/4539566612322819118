@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:importance     "2" ;
+        c:name           "Bonhams" ;
+        c:originalValue  "Bonhams" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/985d740e-c54b-3fd6-93fe-9a3b0a98d449> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:importance     "1" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:importance     "2" ;
+        c:name           "Bugatti Type 57S Atalante" ;
+        c:originalValue  "Bugatti Type 57S Atalante (57502)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2a59d8-398f-35cf-af16-759e1d2c5f90> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5b97fc4c-dbd7-98f1-14da-540507632f98" ;
+        c:docDate          "2015-05-30 09:36:05.422" ;
+        c:docTitle         "" ;
+        c:document         "Classic Aston Martins to fetch millions . Over 50 cars, from timeless classic to track-ready racers, are up for auction on 9 May at the Aston Martin Works sale by Bonhams." ;
+        c:id               "http://id.opencalais.com/5OMal5UTY7IOW2kd-KAl1Q" .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:score           "0.700" .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|q2OMkOt1bgccRcHLi0vV16cG3TU=|c6xwE6tQOyHVckYd7vaxOSKI6zA67haC8IdDb8A6WNxzgBxTFARC3A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:05.125" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:importance     "1" ;
+        c:name           "Auto racing" ;
+        c:originalValue  "Auto racing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a460d065-c375-3b6f-a487-65db14538170> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:importance     "2" ;
+        c:name           "Aston" ;
+        c:originalValue  "Aston" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f494ed4-8bee-3841-a9c5-b2e204a2938d> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:importance     "2" ;
+        c:name           "Motorsport" ;
+        c:originalValue  "Motorsport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b1865e3-34db-3fe7-8c10-7951e69783bb> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:importance  "2" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:score           "0.672" .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:importance     "1" ;
+        c:name           "Aston Martin" ;
+        c:originalValue  "Aston Martin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8178849a-6053-33f3-bd5a-66ec0edc2419> .
+
+<http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8cc4b7-5419-3dfa-b473-461ecb6f4e50> ;
+        c:importance     "2" ;
+        c:name           "Coupes" ;
+        c:originalValue  "Coupes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa889359-a11d-3c8a-876a-634de023c331> .

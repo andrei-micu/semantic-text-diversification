@@ -1,0 +1,146 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "2" ;
+        c:name           "Inverted river delta" ;
+        c:originalValue  "Inverted river delta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/517770f4-297d-38dd-8131-567e326a6e7d> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:score           "0.672" .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "1" ;
+        c:name           "Geography of California" ;
+        c:originalValue  "Geography of California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/637c5164-c035-34de-88dc-88bc9287ec8f> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "2" ;
+        c:name           "San Joaquin River" ;
+        c:originalValue  "San Joaquin River" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/839f26cb-9c6f-38b2-b629-6d66fc5413f2> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:score           "0.913" .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "2" ;
+        c:name           "Sacramento Valley" ;
+        c:originalValue  "Sacramento Valley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0c083cdc-29e0-3d55-9628-8cfe5547e46f> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "2" ;
+        c:name           "Sacramento metropolitan area" ;
+        c:originalValue  "Sacramento metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8eba5ab-13a3-3045-86df-41cfa5c2ef5f> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|z7Bswjpnl6bKd3OBXRU9Rg5jdOw=|J3J04yJoYP40FO6/cIdKxkVzmcuDGAN9xhazh+YZBmfFVV5xenxHKQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:54.187" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "2" ;
+        c:name           "Sacramento River" ;
+        c:originalValue  "Sacramento River" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68f4e7cf-38e8-39d2-b1ea-75c67f660d3b> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "2" ;
+        c:name           "Sacramento-San Joaquin Delta" ;
+        c:originalValue  "Sacramento-San Joaquin Delta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07912a54-0301-3879-afea-82b7a9fa1927> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5dc187c8-72c5-c8c3-14da-54a37eb35464" ;
+        c:docDate          "2015-05-30 10:46:54.422" ;
+        c:docTitle         "" ;
+        c:document         "Farmers Agree to Water Cuts in California. State officials accepted an offer from growers in the Sacramento-San Joaquin River Delta to give up a quarter of their water this season." ;
+        c:id               "http://id.opencalais.com/pC92Apw1soS1l*hcktSQTw" .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "1" ;
+        c:name           "Central Valley" ;
+        c:originalValue  "Central Valley (California)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/db4dc070-5187-375c-af4f-15a19361385d> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "2" ;
+        c:name           "Sacramento, California" ;
+        c:originalValue  "Sacramento, California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9e3c86fa-c226-3ae4-8a23-e09e32ac3df6> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "1" ;
+        c:name           "San Joaquin Valley" ;
+        c:originalValue  "San Joaquin Valley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d952c29-58d9-354c-8f7d-0b973228f326> .
+
+<http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbb8909a-f166-32d3-8658-fbba8d5ea540> ;
+        c:importance     "2" ;
+        c:name           "Sacramento–San Joaquin River Delta" ;
+        c:originalValue  "Sacramento–San Joaquin River Delta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2a6ac22c-44b6-3832-bf03-9321d6c406a1> .

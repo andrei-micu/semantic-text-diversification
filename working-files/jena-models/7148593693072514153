@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:importance     "2" ;
+        c:name           "Parenting" ;
+        c:originalValue  "Parenting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9dd6c34f-5301-3a0e-9c46-e6b0520a9855> .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KJzdueUbzJmAHZfrHCx0qAiaYUI=|fvCeNQuyWXJ+YxzrOHViCujozDGFS8ylpUAG1We0pFgY4RNAwNWSDg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:30:34.022" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:importance     "1" ;
+        c:name           "Childhood" ;
+        c:originalValue  "Childhood" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dbdf567d-416b-39bb-8e2e-d407dfc63651> .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:importance     "2" ;
+        c:name           "Parent" ;
+        c:originalValue  "Parent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5549b452-399b-3c21-a771-48125bb7b950> .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:score           "0.806" .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:importance     "1" ;
+        c:name           "Marriage" ;
+        c:originalValue  "Marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/621eb398-770c-3b6c-a1df-e12645171754> .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7cb69ced-1125-a6bc-14da-53b43261927e" ;
+        c:docDate          "2015-05-30 10:30:34.115" ;
+        c:docTitle         "" ;
+        c:document         "These Parents Make Lovely Lunch Bag Art. Not Everyone Is Pleased. Elaborately illustrated napkins. Famous paintings recreated using food. Depending on your viewpoint, these lunch projects are an expression of parental love or another salvo in the parenting wars." ;
+        c:id               "http://id.opencalais.com/e4Eo*bU-0zjpoaE7SQgMOg" .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:importance     "1" ;
+        c:name           "Human development" ;
+        c:originalValue  "Human development" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ed9e0e9-3cda-3652-9c45-e7ec11a9ec74> .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:importance     "2" ;
+        c:name           "Family" ;
+        c:originalValue  "Family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/411e09d1-56b8-3992-8707-01aa3bb15cfd> .
+
+<http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/39e3f560-0313-3655-b984-afc1953a5b37> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

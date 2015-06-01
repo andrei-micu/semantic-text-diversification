@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6e44161d-0d07-3f73-b56f-b862d6bed40b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "637eaa92-ce58-8354-14da-541659c35464" ;
+        c:docDate          "2015-05-30 10:37:16.107" ;
+        c:docTitle         "" ;
+        c:document         "'Mom, we smell pot': What to say to your kids. " ;
+        c:id               "http://id.opencalais.com/AswemfQLv8CUoTH7fKYovw" .
+
+<http://d.opencalais.com/dochash-1/6e44161d-0d07-3f73-b56f-b862d6bed40b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6e44161d-0d07-3f73-b56f-b862d6bed40b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/6e44161d-0d07-3f73-b56f-b862d6bed40b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6e44161d-0d07-3f73-b56f-b862d6bed40b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|oC0Ip1N155oKt5ko6ZLxk9df0ZY=|RNyLkIQgt/0Ot9xAC4r+n40GxZNs6AL8zfG6t7tMNp9CGm5dNrQJiA==" ;
+        c:submissionDate  "2015-05-30 10:37:16.060" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

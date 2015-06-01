@@ -1,0 +1,104 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8d6985ca-b1a9-4a54-14da-5489d9971d39" ;
+        c:docDate          "2015-05-30 09:45:09.254" ;
+        c:docTitle         "" ;
+        c:document         "The difference between Memorial Day and Veterans Day. We are here to make sure you don't embarrass yourself." ;
+        c:id               "http://id.opencalais.com/lGtRcC0zrZEQzBkwHvFSag" .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:importance     "1" ;
+        c:name           "Embarrass" ;
+        c:originalValue  "Embarrass" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eb64f4ba-ec81-31f8-82cf-16bb281fadfa> .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7uvihOOYYs0PUGKWLTQHq/0lzKs=|IUVfNsBwhYsJdhRiyrhQdzPOjbeJHmxOauNej+3BHmR2mfoCW7nohw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:45:09.145" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:importance     "1" ;
+        c:name           "Veteran" ;
+        c:originalValue  "Veteran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/be92dadf-4f31-3a23-8ec0-ac9221b26c38> .
+
+<http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/475f9095-18ba-3ede-bbe1-ee17ce26863f> ;
+        c:score           "0.988" .

@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:importance     "1" ;
+        c:name           "WPTV-TV" ;
+        c:originalValue  "WPTV-TV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0b4f1456-548e-32dd-b268-a29a2d695a5d> .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:importance     "2" ;
+        c:name           "Shark" ;
+        c:originalValue  "Shark" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c8fcc2f-f295-373d-8d37-f5c66a3cbdfc> .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:importance     "1" ;
+        c:name           "WPTV" ;
+        c:originalValue  "WPTV (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/adcd05de-5867-37a5-95b7-7b0475cf1873> .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|WkdPwVzJ0pS/IpQ1jLOLCaGkP+U=|PLh6yfMoJwBMdkSzwX9APyQQ23V9/ksFBA5+df/bXtM1sFibrv1Tzg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:14.424" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:importance     "1" ;
+        c:name           "Fish" ;
+        c:originalValue  "Fish" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/928daed4-cdce-3bf3-9226-5a5649330527> .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9a86ffd1-13b0-cd28-14da-5499c98719b3" ;
+        c:docDate          "2015-05-30 10:46:14.533" ;
+        c:docTitle         "" ;
+        c:document         "Fossilized shark teeth found on beach. After a beach renourishment project ended in Palm Beach, Florida, beachgoers found hundreds of fossilized shark teeth. CNN affiliate WPTV reports." ;
+        c:id               "http://id.opencalais.com/nd26v8OTY74W5bDEcVmknA" .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:importance     "2" ;
+        c:name           "Shark tooth" ;
+        c:originalValue  "Shark tooth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c8f4694-8324-385d-9131-1583f31b2de5> .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:score           "0.875" .
+
+<http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9c20215b-fbc5-324c-9e3c-428d63d3f26e> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .

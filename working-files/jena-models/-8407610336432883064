@@ -1,0 +1,160 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ef534873-451b-f5d6-14da-53cb503760f9" ;
+        c:docDate          "2015-05-30 10:32:08.988" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Lava overflow from Hawaii volcano. There have been stunning scenes at Hawaii's Kilauea volcano which has been overflowing lava." ;
+        c:id               "http://id.opencalais.com/BpPmIvUcse8nM9*YSXd0hQ" .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance     "1" ;
+        c:name           "Volcanology" ;
+        c:originalValue  "Volcanology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f8dcfe94-3c64-337d-92b8-99e96fd174ca> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance     "2" ;
+        c:name           "Lava lake" ;
+        c:originalValue  "Lava lake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3476e865-a399-3d22-a8d0-23e78fab3f08> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4vg8XupEGEFdYyJExj0VhfJWTM4=|NkBgKhtcAPVXA82LUZX5arR44uxAQaTQRRVDIVP6bH6JXvhz7GX5dA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:08.707" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:score           "0.939" .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance     "1" ;
+        c:name           "Geology" ;
+        c:originalValue  "Geology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50886f7c-2736-373c-a012-77807af06b06> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance     "2" ;
+        c:name           "Hawaii" ;
+        c:originalValue  "Hawaii (island)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74624e73-fb81-3015-9d1d-d185b7b1b844> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:score           "0.944" .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance     "2" ;
+        c:name           "Kīlauea" ;
+        c:originalValue  "Kīlauea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c27a42e8-2c35-3b84-8dfa-51be6ffc08b3> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance     "2" ;
+        c:name           "Lava" ;
+        c:originalValue  "Lava" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3cde8d9d-cdbf-30f8-859a-f74390ac163d> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance     "2" ;
+        c:name           "Hawaiʻi Volcanoes National Park" ;
+        c:originalValue  "Hawaiʻi Volcanoes National Park" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afc80afc-ee5e-3d92-9644-7984b96f77fd> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance     "1" ;
+        c:name           "Volcanism" ;
+        c:originalValue  "Volcanism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf448189-4738-334d-b818-d3c2d37e8158> .
+
+<http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df4bb471-c959-3a62-b419-0c3129f06c85> ;
+        c:importance     "2" ;
+        c:name           "Lava Flow Hazard Zones" ;
+        c:originalValue  "Lava Flow Hazard Zones" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cdbfc0df-d690-3051-a4e2-4eb83767df24> .

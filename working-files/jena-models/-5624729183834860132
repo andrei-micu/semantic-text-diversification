@@ -1,0 +1,108 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:importance     "2" ;
+        c:name           "Gender role" ;
+        c:originalValue  "Gender role" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ad99f70-1309-3add-aa96-f6963136343f> .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:importance     "2" ;
+        c:name           "Silicon Valley" ;
+        c:originalValue  "Silicon Valley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2937d49f-78a7-3b5a-95fb-f06f634e7b9b> .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:importance     "1" ;
+        c:name           "Gender studies" ;
+        c:originalValue  "Gender studies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ac5ccb9f-ba2d-3c71-9ab1-2edc2194d508> .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:importance     "2" ;
+        c:name           "San Francisco Bay Area" ;
+        c:originalValue  "San Francisco Bay Area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/034d23a0-b8f1-3776-b283-add77bf68df8> .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|mJflPj55L4U3sTeil5osO5o4mrI=|SREm+6pQ2ZgiD/TGyWSv1RdQfEVzV/L3nxHoFjD9geyOmhuuvHVVhg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:00.042" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b00375f7-b67f-de11-14da-549645b653ed" ;
+        c:docDate          "2015-05-30 09:46:00.229" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Closing the tech gender gap. In Silicon Valley men traditionally dominate, but all-women projects to help support and mentor entrepreneurs are having an impact." ;
+        c:id               "http://id.opencalais.com/pfJnUU5ya7yKE2x*7goDsw" .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:importance     "2" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:score           "0.586" .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:importance     "1" ;
+        c:name           "Gender" ;
+        c:originalValue  "Gender" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68502b1e-12f9-3466-ac94-9d9ca76df055> .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:importance     "2" ;
+        c:name           "Behavior" ;
+        c:originalValue  "Behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe1e19-9c21-37dc-af60-02531de42118> .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:importance     "1" ;
+        c:name           "Geography of California" ;
+        c:originalValue  "Geography of California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/637c5164-c035-34de-88dc-88bc9287ec8f> .
+
+<http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be48a578-375f-3e31-abd8-06604160aad1> ;
+        c:importance     "2" ;
+        c:name           "Social psychology" ;
+        c:originalValue  "Social psychology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32066238-7c1a-30df-89a5-d406aa065d76> .

@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:importance     "2" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:importance     "2" ;
+        c:name           "Joss Whedon" ;
+        c:originalValue  "Joss Whedon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/55f25fac-3b44-3616-bf0c-f771e2a5bd03> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7d042841-d5f0-29e1-4da5-386bdb354646" ;
+        c:docDate          "2015-05-30 10:27:27.913" ;
+        c:docTitle         "" ;
+        c:document         "How good is 'Avengers: Age of Ultron'?. The powers of Marvel's all-star superheroes go a bit wobbly in \"Avengers: Age of Ultron.\" Faced with the daunting prospect of topping the surprise and excitement of 2012's The Avengers, the third highest-grossing film of all time, writer-director Joss Whedon mixes some brooding down-time in with the abundant spectacle. To be sure, series junkies will get their fix from the sheer massiveness of the exploits, but at least two of the big action scenes are lackluster, while the climax and resolution could have been worked out in more complex, less rote ways, so as to further increase intrigue and anticipation for \"Avengers: Infinity War Parts 1 and 2,\" already scheduled for release in May of 2018 and 2019, respectively. Not that any of this will matter much, since the pent-up excitement among the enormous international fan base is so intense that nothing will keep the summer's presumed biggest franchise blockbuster from soaring to and beyond the one-billion dollar threshold internationally." ;
+        c:id               "http://id.opencalais.com/83ibC3puGFQ8fqG3etwI*w" .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|AKdz51CCjuyZQYbWh2PIuqMJ4r8=|RS2A51dIlxHKtdQASaATcs7fDUltvbCp5FU/MNfwXoJlVsnD7QwEkA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:27.835" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:score           "0.617" .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:importance     "1" ;
+        c:name           "Comics" ;
+        c:originalValue  "Comics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/938baa31-4207-3ab2-a934-e29b3cd1e3a8> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:importance     "2" ;
+        c:name           "Ultron" ;
+        c:originalValue  "Ultron" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d07b8c8-7d39-3fbf-9293-dadb1cfddfe1> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:importance     "2" ;
+        c:name           "Captain America in other media" ;
+        c:originalValue  "Captain America in other media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d54ebaba-4b81-3b66-b01a-65b0605f7f2e> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:importance     "1" ;
+        c:name           "Thor (Marvel Comics) in other media" ;
+        c:originalValue  "Thor (Marvel Comics) in other media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c80a2916-fdae-3943-af38-33414b2afc13> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:importance     "2" ;
+        c:name           "Marvel Cinematic Universe" ;
+        c:originalValue  "Marvel Cinematic Universe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/37a2f82c-8355-3c7e-ad85-c1e9f4dcd32f> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:importance     "1" ;
+        c:name           "Marvel Comics" ;
+        c:originalValue  "Marvel Comics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/be1560b4-e03f-3367-9e46-e24a4e32be22> .
+
+<http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37609659-beea-391f-8b94-e3d9b16dd53d> ;
+        c:importance     "2" ;
+        c:name           "Avengers" ;
+        c:originalValue  "Avengers (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7fef82c8-b691-3671-b4a3-b60539826bb4> .

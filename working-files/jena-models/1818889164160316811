@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "568ec535-85da-e241-4da5-4d990532955e" ;
+        c:docDate          "2015-05-30 10:50:35.856" ;
+        c:docTitle         "" ;
+        c:document         "U.S. warns G7 of global economy 'accident' without Greece deal. DRESDEN, Germany (Reuters) - The United States warned on Friday of a possible accident for the world economy if Greece and its creditors miss their June deadlines to avert a debt default." ;
+        c:id               "http://id.opencalais.com/4JAhE3ShqIZG-6pWUI7gjQ" .
+
+<http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|DObfZMYhSQUSoKzCCk/tlPz/rU0=|kkQ3Xqs4DERgYDe+LmnP3RY4Izh63NRyaVIGS6tNpyHUvU3mYvEVyg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:50:35.653" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6> ;
+        c:importance     "1" ;
+        c:name           "G7" ;
+        c:originalValue  "G7" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f2c06b4d-abfe-396c-a71f-f88ed3fd76f7> .
+
+<http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6> ;
+        c:importance     "1" ;
+        c:name           "Greece" ;
+        c:originalValue  "Greece" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40d563ce-39a3-38f7-9bf1-745f4622e3b6> .
+
+<http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d86b9861-1996-38f3-b388-2966a6e8dfe6> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .

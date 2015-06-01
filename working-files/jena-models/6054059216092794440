@@ -1,0 +1,52 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56> ;
+        c:score           "0.566" .
+
+<http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GpB8eDlOal8/SOzrPszgILUPUiw=|aUQdueAMiY88dzSYi3QI3JitinVveWQWrtG6SWttojDY2sDLunQ3nQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:59.789" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56> ;
+        c:importance     "1" ;
+        c:name           "James B. Comey" ;
+        c:originalValue  "James B. Comey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51ac51c8-fb2f-33bc-89bb-7f304e1adb9e> .
+
+<http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8acc2df5-45ae-ead7-14da-53f514d35464" ;
+        c:docDate          "2015-05-30 10:34:59.899" ;
+        c:docTitle         "" ;
+        c:document         "FBI warned local police gunman had interest in Texas cartoon event. WASHINGTON (Reuters) - The FBI warned police in Garland, Texas, about three hours before a shooting at a weekend exhibit of caricatures of the Prophet Mohammad that one of the gunmen who launched the failed attack was interested in the event, FBI Director James Comey said on Thursday." ;
+        c:id               "http://id.opencalais.com/TNt0JhVpnsnHUlmb5OIPhg" .
+
+<http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56> ;
+        c:importance     "1" ;
+        c:name           "Federal Bureau of Investigation" ;
+        c:originalValue  "Federal Bureau of Investigation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4e3add3-1d4a-307d-bbd0-27107d78bbf7> .
+
+<http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/751b5e8a-d438-3403-87c8-b13243910b56> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

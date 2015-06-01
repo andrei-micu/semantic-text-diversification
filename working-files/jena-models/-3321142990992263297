@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a> ;
+        c:importance     "1" ;
+        c:name           "Prize" ;
+        c:originalValue  "Prize (marketing)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b7bc21f0-7b77-38dc-ac88-4b937792abfd> .
+
+<http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9c271135-add0-537e-14da-54be46771d39" ;
+        c:docDate          "2015-05-30 09:48:44.082" ;
+        c:docTitle         "" ;
+        c:document         "Is the key to a long life in your cereal bowl?. There's good news for those of you who wake up to a bowl of cereal every morning, especially if your go-to choice is high in fiber. Hidden in that favorite box may be a prize better than a plastic toy. It just might hold the key to a longer life, according to a new study." ;
+        c:id               "http://id.opencalais.com/PwQ1TgxnkUrHqcWOM2oZkQ" .
+
+<http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a> ;
+        c:importance     "1" ;
+        c:name           "Marketing" ;
+        c:originalValue  "Marketing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6644e432-a711-3582-b890-01a431df8558> .
+
+<http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a> ;
+        c:score           "0.881" .
+
+<http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a> ;
+        c:importance     "1" ;
+        c:name           "Breakfast cereal" ;
+        c:originalValue  "Breakfast cereal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d4cadc7-3735-3c5c-946e-07c2c611722d> .
+
+<http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wWfeagyDbBfzpxPbkocrxhQzZHg=|J2tDQkOeBWF9i9G0ynQOtocUf+wKXFWG8Zma0elKRAhuLqOOeDBMfQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:48:43.879" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c10502aa-a284-3601-9e1c-b8319af5615a> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

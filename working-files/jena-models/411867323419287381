@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:importance     "2" ;
+        c:name           "Moscow Victory Day Parade" ;
+        c:originalValue  "2010 Moscow Victory Day Parade" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89280018-a8ab-39ef-a46f-e144cf79d31d> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:importance     "2" ;
+        c:name           "Moscow" ;
+        c:originalValue  "Moscow" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8fe23ef7-8536-392d-b1db-368927c4b037> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:score           "0.953" .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:importance     "2" ;
+        c:name           "Aftermath of World War II" ;
+        c:originalValue  "Aftermath of World War II" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d57744b7-ab13-3e8d-8995-fb50c5a12ba4> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:importance     "2" ;
+        c:name           "Russia" ;
+        c:originalValue  "Russia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87ff9554-70dc-3dbe-b969-71a7fa36a20f> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:importance     "1" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|pzigXf5/gyYhggW3rKLzfVkiSfw=|fZ9RTT5eXjKVTAAaWbzTs2CzZLA1IRYmZXWhxzxMcV2SlEaX2OzYZw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:51.627" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862> ;
+        c:importance     "2" ;
+        c:name           "Military parades" ;
+        c:originalValue  "Military parades" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4404361-8242-3f44-84d7-7991bce91ecc> .
+
+<http://d.opencalais.com/dochash-1/359cc48a-037e-3160-b440-fd6b87949862>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "605b35e4-ea74-30a3-14da-541062b49095" ;
+        c:docDate          "2015-05-30 10:36:51.829" ;
+        c:docTitle         "" ;
+        c:document         "Russia's newest tank rolls through Moscow. Russia marked 70 years since the victory over Nazi Germany on Saturday with a spectacular parade in Moscow featuring some 16,000 soldiers, 200 armored vehicles and 150 planes and helicopters." ;
+        c:id               "http://id.opencalais.com/MdcDPJqd6drAbPRQ2NMAig" .

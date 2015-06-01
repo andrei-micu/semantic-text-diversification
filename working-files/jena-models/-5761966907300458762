@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:importance     "1" ;
+        c:name           "Chris Christie" ;
+        c:originalValue  "Chris Christie" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c15e789-dfca-3520-9afd-1da661d158b5> .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:score           "0.969" .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "19e8cffe-2048-d114-da54-b09094551f6c" ;
+        c:docDate          "2015-05-30 09:47:47.846" ;
+        c:docTitle         "" ;
+        c:document         "Lee: Christie 'should be ashamed' . The chief Republican sponsor of the Senate bill to reform the Patriot Act slammed fellow Republican Gov. Chris Christie for saying \"You can't enjoy your civil liberties if you're in a coffin.\"" ;
+        c:id               "http://id.opencalais.com/CJYFX0KrfeGWQtEzIhd8eA" .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:importance     "2" ;
+        c:name           "New Jersey" ;
+        c:originalValue  "New Jersey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcbd9947-1ad7-3f29-bf02-a1588634c720> .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:importance     "1" ;
+        c:name           "Christie" ;
+        c:originalValue  "Christie (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d5b716bd-af9a-3815-9137-979dd4c4ce76> .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XiCrDtcGmG7xDsaIm+MLqREejSQ=|X/JRtQfqfxV2BHLEcvfiHklHKCk7CzSazDOVNN/5miVDn1Gh8OcgMQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:47.721" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:importance     "2" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/75c3469c-7dcc-39c9-93ab-eca41684b277> ;
+        c:importance     "1" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .

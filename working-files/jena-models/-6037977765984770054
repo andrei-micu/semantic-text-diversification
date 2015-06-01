@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:importance     "2" ;
+        c:name           "Mediterranean Lingua Franca" ;
+        c:originalValue  "Mediterranean Lingua Franca" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9db6d78e-3e3a-373e-91c0-347f979198fa> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:importance     "1" ;
+        c:name           "Lepidoptera" ;
+        c:originalValue  "Lepidoptera" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcbf54ec-0a05-3e78-b80d-ce58b39e22b6> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:importance     "2" ;
+        c:name           "Butterflies" ;
+        c:originalValue  "Butterflies (Van Gogh series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dfd82c25-b26b-39a9-bf9a-42530b1a7005> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:importance     "1" ;
+        c:name           "Linguistics" ;
+        c:originalValue  "Linguistics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17f757ac-3e17-3efb-b04b-bde3f75a7fbf> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:importance     "2" ;
+        c:name           "Lingua franca" ;
+        c:originalValue  "Lingua franca" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4292a6f3-7688-3783-916e-2a92c7c671d6> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:importance     "2" ;
+        c:name           "Pollinators" ;
+        c:originalValue  "Pollinators" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cd058344-197d-3b18-b7ce-80a5839df0f8> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HpzpLdpY3dWEzmXOVTdDSQmgYRE=|KrgcAkw1jUIUjxpQO20ucAjvQ6U9iPMjlwWvHTIG+G3MYsUwBB4bhw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:39.492" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:importance     "1" ;
+        c:name           "Languages" ;
+        c:originalValue  "Languages" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/af0701d0-1978-3ab1-8d90-3466628942ae> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f> ;
+        c:importance     "2" ;
+        c:name           "Niagara Parks Butterfly Conservatory" ;
+        c:originalValue  "Niagara Parks Butterfly Conservatory" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/550d96e5-fa65-30a4-9bdb-d8a6342a569e> .
+
+<http://d.opencalais.com/dochash-1/39a8d811-59c8-3365-838b-73952be9282f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "33b0c0d9-cb2d-505f-14da-5473f64719b3" ;
+        c:docDate          "2015-05-30 10:43:39.679" ;
+        c:docTitle         "" ;
+        c:document         "Amid Butterflies, a Bit of a Lingua Franca at the Natural History Museum. Holly Tooker, a longtime guide at the Butterfly Conservatory, can say “butterfly” in nearly 150 languages after years of asking foreign museum visitors." ;
+        c:id               "http://id.opencalais.com/vy4cJNqDUmuve-ARVApvUQ" .

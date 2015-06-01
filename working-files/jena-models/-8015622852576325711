@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:score           "0.874" .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance     "2" ;
+        c:name           "Twitter" ;
+        c:originalValue  "Twitter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1deb7db-1a06-3168-8430-de8619280a93> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance     "1" ;
+        c:name           "Social media" ;
+        c:originalValue  "Social media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26585b85-a498-31bb-abc9-70fdd3d7fb7c> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance     "2" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:score           "0.695" .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance     "1" ;
+        c:name           "World Wide Web" ;
+        c:originalValue  "World Wide Web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9234a67-1d5c-3451-83e0-fb48ce4187d8> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance     "2" ;
+        c:name           "Websites" ;
+        c:originalValue  "Websites" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3931fdf-998e-30e4-a4f0-508fe1a86861> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance     "2" ;
+        c:name           "Text messaging" ;
+        c:originalValue  "Text messaging" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0c080dea-11c7-38e5-a235-cb22b6b65c27> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance     "1" ;
+        c:name           "Real-time web" ;
+        c:originalValue  "Real-time web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e7c49d2f-35bc-34f2-9c94-519bc7cd9cde> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:importance     "2" ;
+        c:name           "Shower" ;
+        c:originalValue  "Shower" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/af368685-7bb5-3b05-93ec-40e7887366c9> .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "82bf3723-0afd-d735-14da-544a9d9653ed" ;
+        c:docDate          "2015-05-30 09:40:50.387" ;
+        c:docTitle         "" ;
+        c:document         "City Room: New York Today: Basking in the Spring Sun. Friday and the weekend: Where to sunbathe, showers coming, and a shark starring on Twitter." ;
+        c:id               "http://id.opencalais.com/1Fbskhv6DTvt1uTgaJN2DQ" .
+
+<http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5417b2f6-62ec-322c-a260-9f0c427d686f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|F2y1i+QIDH9iLfk8bU8V+YVDRwM=|Kpcn5xeESIAD1mpMFNiHvQpyyAUMQ8yjCtJCHTsE73wLbw9ln3VXgw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:50.137" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

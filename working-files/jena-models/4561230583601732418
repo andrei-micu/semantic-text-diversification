@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e826b776-96b1-3d90-9d6b-22b7003529e4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e826b776-96b1-3d90-9d6b-22b7003529e4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/e826b776-96b1-3d90-9d6b-22b7003529e4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e826b776-96b1-3d90-9d6b-22b7003529e4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|huhgSMP5ZZnEO0Fj90JxWE+nuPk=|F/KINM1pM7jZSXwZ7/Pz4y914NJf3bePEySNhSPK09W6pbnPHwPMFA==" ;
+        c:submissionDate  "2015-05-30 10:32:34.168" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e826b776-96b1-3d90-9d6b-22b7003529e4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f7984f81-a915-53ad-14da-53d187835464" ;
+        c:docDate          "2015-05-30 10:32:34.231" ;
+        c:docTitle         "" ;
+        c:document         "What's it like living under a curfew?. What's it like living under a curfew in a big city?" ;
+        c:id               "http://id.opencalais.com/R5Ah8QSDNaMlcBAIqsLc3Q" .

@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance     "1" ;
+        c:name           "Digital media" ;
+        c:originalValue  "Digital media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/771e4d9a-b0cd-37a2-bec6-6840c4cafab3> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance     "2" ;
+        c:name           "Linux games" ;
+        c:originalValue  "Linux games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36466ee7-d629-38b2-9cb5-afc70aaa0f6b> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance     "2" ;
+        c:name           "Quake" ;
+        c:originalValue  "Quake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b539ba79-f6f4-3b1b-8a4d-49b6037ca637> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance     "2" ;
+        c:name           "Kathmandu" ;
+        c:originalValue  "Kathmandu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7886b3bd-0443-364a-ab85-30cd8e5f26ac> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance     "1" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance     "2" ;
+        c:name           "Multiplayer online games" ;
+        c:originalValue  "Multiplayer online games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/003368f3-fdf5-36cc-9090-f63977aee529> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance     "2" ;
+        c:name           "First-person shooters" ;
+        c:originalValue  "First-person shooters" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0b0c2566-49f6-379e-94b5-0c01a3f940bd> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "56b47054-9783-64e0-14da-5388fd871d39" ;
+        c:docDate          "2015-05-30 09:27:37.297" ;
+        c:docTitle         "" ;
+        c:document         "Fearing for Families After Nepal Quake, Thousands Return to Isolated Villages. Across the countryside outside Katmandu, people are making desperate journeys, anxious to find out what happened to their relatives and homes in the quake." ;
+        c:id               "http://id.opencalais.com/OSClUOjtRsZCWyC-VqpnMg" .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8VrWQVNTL9YW9YE2DsqiIhTqQD0=|ADjdHf61SgOPLHjImSc7S9XorYZTH7/BxTVaZL6qbFLU11oBfwG2Lg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:37.048" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance     "1" ;
+        c:name           "Application software" ;
+        c:originalValue  "Application software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3dd160c1-2ca0-3913-8fe9-4dca175b0bee> .
+
+<http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bc2467a-4100-3d03-8be8-12105c19c0f0> ;
+        c:importance     "2" ;
+        c:name           "Video games with variable translation control" ;
+        c:originalValue  "Video games with variable translation control" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e5273f2a-a5f8-319c-a7f7-267acd8a87b3> .

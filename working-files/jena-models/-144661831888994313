@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:importance     "2" ;
+        c:name           "East Asia Summit" ;
+        c:originalValue  "East Asia Summit" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e3577f65-4bd5-3e96-8378-c6d87126dc94> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Ia2L9FRP1zrN8H5gg2ZQgOGosZY=|htMffVFYj1HxMwztf/0nS/cupZKAoG89yDIgWctmK8r6x9AUoKjs6A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:04.012" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:score           "0.700" .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:importance     "2" ;
+        c:name           "Klang Valley" ;
+        c:originalValue  "Klang Valley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/489a284d-13a3-34e9-80a2-a9f865576abc> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:importance     "2" ;
+        c:name           "South China Sea" ;
+        c:originalValue  "South China Sea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee225378-329b-3ead-bb63-6915310827d1> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:importance     "1" ;
+        c:name           "Organizations associated with the Association of Southeast Asian Nations" ;
+        c:originalValue  "Organizations associated with the Association of Southeast Asian Nations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c524bd72-b4ac-3c27-b1da-9c30cab8e0f8> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:importance     "2" ;
+        c:name           "Southeast Asia" ;
+        c:originalValue  "Southeast Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/66c1c264-e9e7-3532-8972-7d2cb73c8b0b> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:importance     "2" ;
+        c:name           "Kuala Lumpur" ;
+        c:originalValue  "Kuala Lumpur" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e71f542b-3773-36a1-9efc-413612f6ba69> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ff0389e1-c92e-e3b8-14da-538f92c1927e" ;
+        c:docDate          "2015-05-30 10:28:04.105" ;
+        c:docTitle         "" ;
+        c:document         "China maritime tensions dominate Southeast Asia summit. KUALA LUMPUR (Reuters) - Southeast Asian leaders edged closer to open criticism of China's land reclamation in the disputed South China Sea at a regional summit on Monday, as the Philippines drew the ire of Beijing which called its objections to the work \"unreasonable\"." ;
+        c:id               "http://id.opencalais.com/VO1dWOsoJiWCR0GUeyxk8A" .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:importance     "1" ;
+        c:name           "East Asia" ;
+        c:originalValue  "East Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2eb70a8c-b602-316d-89b3-f5cc2b3fc563> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/397947fe-e097-3eee-b79b-06ee1a87f3c2> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

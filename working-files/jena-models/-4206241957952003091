@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5> ;
+        c:importance     "1" ;
+        c:name           "Geography of Colorado" ;
+        c:originalValue  "Geography of Colorado" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b792f607-97e9-33af-b5c3-5867e111a122> .
+
+<http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8bf038a1-63d5-2a07-14da-540768b71d39" ;
+        c:docDate          "2015-05-30 09:36:15.031" ;
+        c:docTitle         "" ;
+        c:document         "#IWishMyMotherKnew: Elementary students open up. A few weeks ago, a Denver teacher did something that really got our attention." ;
+        c:id               "http://id.opencalais.com/SvlyvnMlfK7rHARnyq0X2Q" .
+
+<http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5> ;
+        c:importance     "2" ;
+        c:name           "Colorado" ;
+        c:originalValue  "Colorado" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/575cae24-a67e-30ed-bb1e-88a1b139c3c0> .
+
+<http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5> ;
+        c:importance     "1" ;
+        c:name           "Denver" ;
+        c:originalValue  "Denver" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/80963a66-9d8a-342e-a8f6-07c44f890227> .
+
+<http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|UO+6E9wwl/tY9Mk49leNm+n4QP8=|HAJCICGnZDcvjVv1pI11GWoFIHVrHCNOgDTY89bVs3UzBngmOIYJJg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:14.859" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eb5ce416-ce11-3bf9-a8de-a80ec0a3f2c5> ;
+        c:importance     "1" ;
+        c:name           "Denver metropolitan area" ;
+        c:originalValue  "Denver metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f937e6dc-3d3d-3ba0-b983-463147ebb297> .

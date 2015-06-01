@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:importance     "2" ;
+        c:name           "Batman" ;
+        c:originalValue  "Batman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e18afcf9-bfc6-32aa-86d6-00ebe7f85342> .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cfqr1nsAj3n/ZJLCu5y+qz3mu50=|bgvb97QNnxflQV9eNS9dZEg4coUSJiztrB/NdLuAghVkWIayd5rWEw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:04.248" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:importance     "1" ;
+        c:name           "Fiction" ;
+        c:originalValue  "Fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8802cc97-e83a-3d7d-b3b5-b3efb8e1d8de> .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c73f5525-66ce-e2a1-4da5-380fb81927e3" ;
+        c:docDate          "2015-05-30 10:27:04.482" ;
+        c:docTitle         "" ;
+        c:document         "'Batman' massacre trial to start. James Holmes will stand trial Monday in the Aurora, Colorado, movie theater shooting where he allegedly killed 12 people and injured 58 more in 2012. The trial could last until autumn." ;
+        c:id               "http://id.opencalais.com/*Zw16QJn2XQckixIgb-q1w" .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:importance     "1" ;
+        c:name           "American culture" ;
+        c:originalValue  "American culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/baf292da-508c-364b-9db4-176762c16fe3> .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:score           "0.873" .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:importance     "1" ;
+        c:name           "Comics" ;
+        c:originalValue  "Comics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/938baa31-4207-3ab2-a934-e29b3cd1e3a8> .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8bc76b88-3e52-39d7-901f-47de9fc2fcf1> ;
+        c:score           "1.000" .

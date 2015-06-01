@@ -1,0 +1,58 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "435ed463-1b13-432c-14da-5395c6034709" ;
+        c:docDate          "2015-05-30 09:28:29.579" ;
+        c:docTitle         "" ;
+        c:document         "Angry mom smacks protesting son. A mom furious at her son for apparently taking part in the Baltimore riots has become a sensation online." ;
+        c:id               "http://id.opencalais.com/kN75Hd0uhJyKk7Lh-L7t6A" .
+
+<http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cPXHWyY1bkyIQDLrXlGj4uGEUgY=|B2KxDKwYws66BZ+2vrNyZs7MNxdvIZFuGoyfyAy6AxHYMMpQDGnReg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:29.408" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/111c32f1-61b2-3a35-85a8-44f3eaca98ff> ;
+        c:score           "1.000" .

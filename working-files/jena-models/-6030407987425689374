@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FoMW03OOzPXLT37E+KZy9NTUo8E=|Bc/XItDREo6KIGjwrQq/3hycUpyC0CQc6ZJ7J+4e9I55LNwjq0MHJQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:46.749" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b> ;
+        c:importance     "1" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .
+
+<http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b> ;
+        c:importance     "2" ;
+        c:name           "Geography of North America" ;
+        c:originalValue  "Geography of North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4953ac1c-3f88-3c4f-b079-6ff903751bbf> .
+
+<http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5b10838e-034c-ef0f-14da-53c5f3d1927e" ;
+        c:docDate          "2015-05-30 10:31:46.843" ;
+        c:docTitle         "" ;
+        c:document         "Health Problems Take Root in a West Baltimore Neighborhood That Is Sick of Neglect. In Upton-Druid Heights — one of Baltimore’s poorest neighborhoods and the scene of some of its most vocal protests — residents die from nearly every major disease at substantially higher rates than the city as a whole." ;
+        c:id               "http://id.opencalais.com/X3C3WaQchI2t0AAFZqOAVQ" .
+
+<http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7027b6d-bcd0-3204-9359-eafbbd22fa9b> ;
+        c:importance     "1" ;
+        c:name           "Upton" ;
+        c:originalValue  "Upton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ac2e318f-69c2-36a8-b5ad-99f92299d32d> .

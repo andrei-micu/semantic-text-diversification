@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b> ;
+        c:importance     "2" ;
+        c:name           "Psychedelic pop" ;
+        c:originalValue  "Psychedelic pop" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e8a96044-7ad1-3c7d-b051-c49cf7f3de8d> .
+
+<http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b> ;
+        c:importance     "1" ;
+        c:name           "Psychedelia" ;
+        c:originalValue  "Psychedelia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8086edb1-e555-323f-810f-9bb43c72e188> .
+
+<http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3+XTFR6Ro/L3AnfilJstBGNafQM=|AYGCjz3Rb7k/dOCQrUfsKL5brA4iCv3nZEZSEtjg8cKq267r63FXTQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:54.918" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b> ;
+        c:importance     "1" ;
+        c:name           "Soul music" ;
+        c:originalValue  "Soul music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4f99b8a-3b6b-370f-b4cf-740eb143e746> .
+
+<http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c3a134c7-d0f3-157e-14da-538d5a635464" ;
+        c:docDate          "2015-05-30 10:27:55.199" ;
+        c:docTitle         "" ;
+        c:document         "World Cafe Next: Monophonics. Hear two tracks from the San Francisco-based psychedelic soul band's new album, Sound of Sinning." ;
+        c:id               "http://id.opencalais.com/AcPt0Sq0Y1f3aIpfHJHDUQ" .
+
+<http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8b29989e-aa05-3c61-9bfc-668aaf1c225b> ;
+        c:importance     "1" ;
+        c:name           "Psychedelic music" ;
+        c:originalValue  "Psychedelic music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/649c8306-5927-38d6-82cb-cf15ed0a3274> .

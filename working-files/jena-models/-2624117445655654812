@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance     "2" ;
+        c:name           "Law enforcement" ;
+        c:originalValue  "Law enforcement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93510f9c-4514-3e82-ad67-c26d91124e44> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance     "2" ;
+        c:name           "Waco, Texas" ;
+        c:originalValue  "Waco, Texas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6083e9b9-ec7f-30eb-885d-09245d71c033> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance     "1" ;
+        c:name           "Gangs in Canada" ;
+        c:originalValue  "Gangs in Canada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0146e406-d29f-3187-aa56-5d75a7390626> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance     "2" ;
+        c:name           "Urban decay" ;
+        c:originalValue  "Urban decay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52fa4f1a-710e-39cb-a0f3-f403e5f61a38> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|TdBM0wW5zspNsptdJBUFdHOXolQ=|RHGO92VHoZiNzPXv/JJ1B0pzlnol7/eUv9rAxbtGRkKzrW+Y/x8AeA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:31.937" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance     "2" ;
+        c:name           "Structure" ;
+        c:originalValue  "Structure" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/348713fc-e23f-345e-9921-23f372113c2a> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance     "1" ;
+        c:name           "Criminology" ;
+        c:originalValue  "Criminology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61f9a7b8-b7ca-3548-8b6d-e695a3d84b51> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance     "2" ;
+        c:name           "Outlaw motorcycle club" ;
+        c:originalValue  "Outlaw motorcycle club" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6feef094-042e-38d4-a97e-37235692e25e> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance     "2" ;
+        c:name           "Gang" ;
+        c:originalValue  "Gang" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72885e85-702b-360e-893c-602d7a4fdfe2> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance     "1" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c8c338c5-ec43-8d5c-14da-5480c4149095" ;
+        c:docDate          "2015-05-30 10:44:32.155" ;
+        c:docTitle         "" ;
+        c:document         "Officials: Biker gangs target cops. Texas law enforcement officials are investigating what they say are new threats against officers from biker gangs in the wake of a recent shootout in Waco." ;
+        c:id               "http://id.opencalais.com/54To6gUikN-xw1r8Ci0Iiw" .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:importance     "2" ;
+        c:name           "Shootout" ;
+        c:originalValue  "Shootout" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89f021f5-2f47-368e-961a-e948625f40db> .
+
+<http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/934b6333-1d12-3953-8020-5a8fbc9ade30> ;
+        c:score           "0.989" .

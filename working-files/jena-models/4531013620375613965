@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1> ;
+        c:importance     "1" ;
+        c:name           "Juries" ;
+        c:originalValue  "Juries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a361383-133a-38da-87ac-2a57f217a60f> .
+
+<http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1> ;
+        c:importance     "1" ;
+        c:name           "Etan Patz" ;
+        c:originalValue  "Etan Patz" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45ec7c56-aaa7-3e9a-a7e9-54821497ea64> .
+
+<http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1440e835-8754-ec21-4da5-40b7c032f984" ;
+        c:docDate          "2015-05-30 09:36:31.739" ;
+        c:docTitle         "" ;
+        c:document         "Jurors in Etan Patz Case Fall One Vote Shy of a Conviction. A judge declared a mistrial in the Etan Patz case on Friday, and jurors later said a lone holdout would not vote to convict Pedro Hernandez." ;
+        c:id               "http://id.opencalais.com/crFUcwuh9k4yKT-zZ8s7Hg" .
+
+<http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1> ;
+        c:importance     "2" ;
+        c:name           "Etan" ;
+        c:originalValue  "Etan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b51299b9-11aa-32ee-82b0-13bde5704529> .
+
+<http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1> ;
+        c:importance     "1" ;
+        c:name           "Missing people" ;
+        c:originalValue  "Missing people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1773585-bc93-37c5-a821-d6585d899f78> .
+
+<http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1> ;
+        c:importance     "2" ;
+        c:name           "East Timor and Indonesia Action Network" ;
+        c:originalValue  "East Timor and Indonesia Action Network" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/499d22ef-e6d5-37a3-8b09-082d0009a8ba> .
+
+<http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6ff713ad-a232-354b-b179-7aa534aa12e1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LtvF7pR65Rf8jyZYhOiBjD7SiLo=|kQjw+KljfC0SUBubzmLKR0To3P0LE+rNqLOtSV6jb5asIY5lgFhxvQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:31.552" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

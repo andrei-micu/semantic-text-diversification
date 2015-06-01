@@ -1,0 +1,124 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e38b8958-3a86-c1ec-14da-548ac77760f9" ;
+        c:docDate          "2015-05-30 10:45:13.263" ;
+        c:docTitle         "" ;
+        c:document         "Who Let The Dogs In? We Did, About 30,000 Years Ago. A new study suggests that canis familiaris split from wolves much earlier than the 11,000 to 16,000 years ago that was long assumed." ;
+        c:id               "http://id.opencalais.com/wiLWdVTzIbHWx-zfIK9VAg" .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "1" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "2" ;
+        c:name           "Canidae" ;
+        c:originalValue  "Canidae" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1f50e69-6633-3de8-9532-7b5c5b0cc6ae> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XNdWnI6iKk3d07zWXv0m9tVN93I=|cfxh3CJ7sr5NtbIf0Vkvm8SLctNbBKh9EoQ3pVQC+RATKVZ+e6aqFw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:12.951" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "2" ;
+        c:name           "Canines" ;
+        c:originalValue  "Canines" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/978ff3fc-547a-3b7e-a6f9-af72e98008c0> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "2" ;
+        c:name           "Wolves" ;
+        c:originalValue  "Wolves" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8abeb4c4-7b81-35a4-9a10-c70468d62e98> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "2" ;
+        c:name           "Canis lupus dingo" ;
+        c:originalValue  "Canis lupus dingo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1f4e2dff-792f-3fed-9301-8dc44ea02827> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "2" ;
+        c:name           "Canis" ;
+        c:originalValue  "Canis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c260988-8c18-3105-9373-41e444f1d55a> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "2" ;
+        c:name           "Dog" ;
+        c:originalValue  "Dog" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9158cf0d-ee41-35f2-9d40-b2b85c6ed6da> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "2" ;
+        c:name           "New Guinea Singing Dog" ;
+        c:originalValue  "New Guinea Singing Dog" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8d70af22-3b1d-3232-8a47-2da2f1ad646b> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "1" ;
+        c:name           "Scavengers" ;
+        c:originalValue  "Scavengers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70685469-f968-363f-a56a-f9de703fc960> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "2" ;
+        c:name           "Gray wolf" ;
+        c:originalValue  "Gray wolf" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/729a63f4-eea1-3c8d-b834-b8841a2c2887> .
+
+<http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76efee65-ccc6-3806-a7ac-ca6cf651acbb> ;
+        c:importance     "2" ;
+        c:name           "Feral dogs" ;
+        c:originalValue  "Feral dogs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01027173-259c-3958-9569-099b6ae656bb> .

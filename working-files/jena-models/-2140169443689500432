@@ -1,0 +1,169 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "1" ;
+        c:name           "Star Trek" ;
+        c:originalValue  "Star Trek" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad3eddd5-17b6-3d3c-a9ed-6c45fef15c9e> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "2" ;
+        c:name           "Janice" ;
+        c:originalValue  "Janice (given name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/62dab466-b6fb-31a7-b81e-74b78e2d3d5c> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "2" ;
+        c:name           "Fan films" ;
+        c:originalValue  "Fan films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/825a7d36-c912-35a8-8025-7f0a29150907> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:score           "0.507" .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "2" ;
+        c:name           "The Way to Eden" ;
+        c:originalValue  "The Way to Eden" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4639c2fc-7d37-3625-9820-80d73e459389> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "2" ;
+        c:name           "Grace Lee Whitney" ;
+        c:originalValue  "Grace Lee Whitney" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65480bb8-eb6c-31f1-98e8-aa20e720beb0> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:score           "0.918" .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "2" ;
+        c:name           "Miri" ;
+        c:originalValue  "Miri (Star Trek: The Original Series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3a41c36-c99b-3d67-bebf-ffd0ba9c86d4> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "2" ;
+        c:name           "Janice Rand" ;
+        c:originalValue  "Janice Rand" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3762d270-a296-3e50-acbd-2bfa00162f27> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0bmEksUAtNiwSh7BAaAYGdA3whE=|UTY4GLKFAXMTJIy388h9wt/WHi0WKgccUg55W2/Jznomi6QRcWZmIA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:32:43.054" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "2" ;
+        c:name           "Star Trek: The Original Series" ;
+        c:originalValue  "Star Trek: The Original Series" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0fe14436-9a85-3632-887c-2177387c007a> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a19d1e3f-e980-266a-14da-53d3b2e653ed" ;
+        c:docDate          "2015-05-30 09:32:43.304" ;
+        c:docTitle         "" ;
+        c:document         "'Star Trek' yeoman dead at 85. Grace Lee Whitney, who played Yeoman Janice Rand in the original \"Star Trek\" series and a handful of movies based on the series, died Friday. She was 85." ;
+        c:id               "http://id.opencalais.com/JHkK4Q*TNYjF7O6L7Z0TQQ" .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "1" ;
+        c:name           "Series" ;
+        c:originalValue  "Series" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c3129ea-61d5-3170-bf84-d23a3db08ab8> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:importance     "2" ;
+        c:name           "Star Trek fan productions" ;
+        c:originalValue  "Star Trek fan productions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ffb66b-6954-3b3f-bf09-7878d52fe8c1> .
+
+<http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/778b21d4-a6ed-3a5a-90ad-4264b451bcd8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

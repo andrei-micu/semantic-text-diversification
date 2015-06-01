@@ -1,0 +1,154 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "2" ;
+        c:name           "Communism" ;
+        c:originalValue  "Communism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56a3a62c-153a-3cb2-86fb-b9988a9c197a> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cE2ry/8tDajsLDm+9pQ6h7JhFqQ=|GtzJDoif+4U+FkXZDK/hbCNoBAuHIG9+sor1UQyKZrZIPz5zrCf2fQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:55.473" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "2" ;
+        c:name           "Terrorism" ;
+        c:originalValue  "Terrorism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40a9c015-726f-3150-9f22-32a3e3640244> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:score           "0.940" .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "2" ;
+        c:name           "Political philosophy" ;
+        c:originalValue  "Political philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77603a14-4820-3d0d-824b-af4fcd03b8bb> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "2" ;
+        c:name           "United States Department of State" ;
+        c:originalValue  "United States Department of State" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a47ae86b-a26d-3c5e-9593-760d60d01d4b> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "1" ;
+        c:name           "State Sponsors of Terrorism" ;
+        c:originalValue  "State Sponsors of Terrorism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30254b0f-7838-3531-9705-9ec95a04cff5> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "2" ;
+        c:name           "Cuba" ;
+        c:originalValue  "Cuba" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8d03a57-9280-36f5-8166-8678edc3b07e> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f927a128-9fc5-ce69-14da-54cfc1123ab1" ;
+        c:docDate          "2015-05-30 10:49:55.707" ;
+        c:docTitle         "" ;
+        c:document         "U.S. Removes Cuba From State-Sponsored Terrorism List. The decision to remove Cuba from a list of state sponsors of terrorism is a crucial step in normalizing ties between Washington and Havana." ;
+        c:id               "http://id.opencalais.com/rpoOHdG8YmJ831CQbvRnIg" .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "2" ;
+        c:name           "United States embargo against Cuba" ;
+        c:originalValue  "United States embargo against Cuba" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a6430bb-07c7-334c-85a6-f43da11a6001> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "1" ;
+        c:name           "Socialism" ;
+        c:originalValue  "Socialism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/094957d2-880e-3193-8e42-dd16b5462f0b> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "2" ;
+        c:name           "State-sponsored terrorism" ;
+        c:originalValue  "State-sponsored terrorism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f4954c31-0416-3390-932d-b035199c8550> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "2" ;
+        c:name           "Foreign relations of Cuba" ;
+        c:originalValue  "Foreign relations of Cuba" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c02ef4cb-2220-354b-a7f1-2eddd4e4227b> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "1" ;
+        c:name           "Gulf of Mexico" ;
+        c:originalValue  "Gulf of Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d0f2c1c5-3dfc-3647-a128-db87f282a8c5> .
+
+<http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/855fdb94-1088-374e-a8ba-76ea82daa268> ;
+        c:importance     "2" ;
+        c:name           "Havana" ;
+        c:originalValue  "Havana" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2fe6941-cf10-34f0-a32c-461c70e78778> .

@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|VfiMEEnFOn9h23m89IRbqKATWJg=|FuSClFj4jhF6IBwkd53a0YVs8eYUvf3Axtd1lfxIW8shtjaIXL/0iw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:26.828" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18> ;
+        c:importance     "1" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18> ;
+        c:importance     "2" ;
+        c:name           "Gray" ;
+        c:originalValue  "Gray (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6f60dba-32b4-3fbf-9dff-8115eb057753> .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c4f40865-dfe8-0e30-14da-53867ec49095" ;
+        c:docDate          "2015-05-30 10:27:27.046" ;
+        c:docTitle         "" ;
+        c:document         "City Room: New York Today: The Artist Was Present. Monday: A Park Slope mystery solved, a gray day, and Ulysses S. Grant’s birthday." ;
+        c:id               "http://id.opencalais.com/ehtEORCxqJpf6TNV5f-szw" .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18> ;
+        c:importance     "2" ;
+        c:name           "Fiction" ;
+        c:originalValue  "Fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8802cc97-e83a-3d7d-b3b5-b3efb8e1d8de> .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18> ;
+        c:importance     "1" ;
+        c:name           "Ulysses S. Grant" ;
+        c:originalValue  "Ulysses S. Grant" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/78cf61c3-7df2-3748-9195-1a5d3c101819> .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18> ;
+        c:score           "0.896" .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18> ;
+        c:importance     "2" ;
+        c:name           "Park Slope, Brooklyn" ;
+        c:originalValue  "Park Slope, Brooklyn" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/db273ad4-c8b1-3dfe-aa17-1719856b26c6> .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/11eeeae2-9894-34ed-8196-b9649f863c18> ;
+        c:importance     "1" ;
+        c:name           "Ulysses" ;
+        c:originalValue  "Ulysses (novel)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7e3267d5-90a9-3be8-888c-eb4a87056d1c> .

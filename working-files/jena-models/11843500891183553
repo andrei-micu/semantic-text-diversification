@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|eRnVjdu8IEiVgwLHaDixyo2ebJM=|cipg3GXJzr35p8eDe/Kkga8EE7iTlOSJJftwK80RsW8JbAKkr2USzA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:05.791" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:importance     "2" ;
+        c:name           "Sampling" ;
+        c:originalValue  "Sampling (statistics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/651bbd7d-e0c8-338e-bee1-d5015fa237c5> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:importance     "1" ;
+        c:name           "Psychometrics" ;
+        c:originalValue  "Psychometrics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/966f98bd-5b2d-31ce-8e5b-490daf897960> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:importance     "2" ;
+        c:name           "Gordon Brown" ;
+        c:originalValue  "Gordon Brown" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7fdef57f-044e-3929-b279-5162e5f60c52> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:importance     "1" ;
+        c:name           "Statistics" ;
+        c:originalValue  "Statistics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d524974b-0e3d-3b73-9645-e28429500244> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:importance     "2" ;
+        c:name           "Survey methodology" ;
+        c:originalValue  "Survey methodology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32c1941e-6c95-3a77-ac46-815c7bd24780> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f74aea48-a449-3231-4da5-3f68bf23ab15" ;
+        c:docDate          "2015-05-30 10:35:05.979" ;
+        c:docTitle         "" ;
+        c:document         "How did UK election polls get it so wrong?. Pre-election polls in Britain's general election suggested the two main parties would be almost neck-and-neck after the May 7 vote, likely meaning a hung-parliament and days of political haggling to form a government." ;
+        c:id               "http://id.opencalais.com/RpvxpIezcJtNUq1Sw-NJRQ" .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:importance     "2" ;
+        c:name           "Public opinion" ;
+        c:originalValue  "Public opinion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e23e3ca9-313b-340b-adbf-a6ce29a7e01f> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:importance     "2" ;
+        c:name           "United Kingdom general election" ;
+        c:originalValue  "United Kingdom general election, 1992" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/55e1262b-4af7-3bb0-90cf-b555b4004580> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:importance     "1" ;
+        c:name           "Opinion poll" ;
+        c:originalValue  "Opinion poll" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae08831f-390b-3850-998e-be5b6d23367b> .
+
+<http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eb4513b-fbc0-3fc7-a9f2-b8fa2c908431> ;
+        c:importance     "2" ;
+        c:name           "Elections in the United Kingdom" ;
+        c:originalValue  "Elections in the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3397810b-538c-37cb-998f-3a1db194ad52> .

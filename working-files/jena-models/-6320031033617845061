@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:importance     "1" ;
+        c:name           "Academia" ;
+        c:originalValue  "Academia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/edd007cf-7e4e-3ec4-9974-d0761c6c97ba> .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8a6d0380-7279-5d03-14da-54147971927e" ;
+        c:docDate          "2015-05-30 10:37:08.656" ;
+        c:docTitle         "" ;
+        c:document         "School director scolds 'all the black people'. The director of a Georgia school apologized for calling out \"all the black people\" who left a graduation ceremony during the valedictorian's speech." ;
+        c:id               "http://id.opencalais.com/kBqys2Fv6SZb-kyovohW1w" .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:importance     "1" ;
+        c:name           "Education" ;
+        c:originalValue  "Education" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:importance     "2" ;
+        c:name           "Graduation" ;
+        c:originalValue  "Graduation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/84d8ade5-6dac-3818-9034-ca18ea8d44cc> .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:importance     "2" ;
+        c:name           "Qualifications" ;
+        c:originalValue  "Qualifications" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e559fa5-b895-3555-9e9f-2ae5daae407f> .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ukvEScMpfTPHR6W/XpJVMykC+P4=|OihDFQxjsZWORm9jmEa7Bmo3QXCPZMtaVgnT6agU9J5nDsT+5VmmtA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:37:08.375" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:importance     "1" ;
+        c:name           "Knowledge" ;
+        c:originalValue  "Knowledge" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9acd56fd-8228-3b51-a940-ca773c57c896> .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f29a329b-2105-3494-a6a3-74e91e479c15> ;
+        c:importance     "2" ;
+        c:name           "Valedictorian" ;
+        c:originalValue  "Valedictorian" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dbb8bb45-cbc4-331c-895e-2d6c3f06dd8e> .

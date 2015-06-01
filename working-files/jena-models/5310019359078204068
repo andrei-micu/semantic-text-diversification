@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:importance     "2" ;
+        c:name           "Nonpoint source water pollution regulations in the United States" ;
+        c:originalValue  "Nonpoint source water pollution regulations in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dbb0f8f5-1315-3b38-9fee-a1ffdb0bbbd1> .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:score           "0.935" .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "acfb3c1c-5de2-af81-14da-548763523ab1" ;
+        c:docDate          "2015-05-30 10:45:02.384" ;
+        c:docTitle         "" ;
+        c:document         "Obama Set to Strengthen Federal Role in Clean Water Regulation. The administration is to soon announce new executive action that would restore its authority to limit water pollution. Republicans are trying to block the president." ;
+        c:id               "http://id.opencalais.com/damzCv-IDQ9WwTwp98Girw" .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0JxyvxYn7DKPzQrqkn7tt4J+AMA=|ZP+BiMVVOriFC2V0N3Vk8tNMGCID1psxlisGiCHJSdGetgFOX2S8AQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:59.061" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:importance     "2" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:importance     "2" ;
+        c:name           "Environmental policy of the United States" ;
+        c:originalValue  "Environmental policy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5639a8fd-4f57-326f-9a3f-fd440bc2dd2f> .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/60a5e9ee-de5c-340a-9d8f-ef6eaa292225> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

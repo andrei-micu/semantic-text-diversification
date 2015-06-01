@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:importance     "1" ;
+        c:name           "Crime prevention" ;
+        c:originalValue  "Crime prevention" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab11aca4-5989-35f1-be71-e5b8f364fb31> .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:importance     "2" ;
+        c:name           "Public safety" ;
+        c:originalValue  "Public safety" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db6fb8a-c9ac-3a49-a453-ad0eda49d665> .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:importance     "2" ;
+        c:name           "Surveillance" ;
+        c:originalValue  "Surveillance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2899486a-eede-357a-8feb-cc555eede3ea> .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:importance     "2" ;
+        c:name           "Police" ;
+        c:originalValue  "Police" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a182b6c-ea20-3768-948c-2d3aa60d757a> .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:importance     "1" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|za+M9Kp8lNCcbTKQq1PvV0rG2VE=|Gvjf/QIalnMYMXgH75heDqlqJ9RZs4SU8TwRjj+wjfCMBMJwGvIZew==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:25.255" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7cd7f086-7b3d-8c4b-14da-53eca6723ab1" ;
+        c:docDate          "2015-05-30 10:34:25.395" ;
+        c:docTitle         "" ;
+        c:document         "What Happens When A Police Officer Doesn't Shoot?. An officer's body camera captured his decision not to shoot a possibly armed suspect. He was praised for brave self-restraint, but some law enforcement officers say his reluctance was irresponsible." ;
+        c:id               "http://id.opencalais.com/dlpKN3Z*-Ae67f8hMI-*0w" .
+
+<http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f0ba377-5ef4-39de-918b-ed832620d2ea> ;
+        c:importance     "2" ;
+        c:name           "Law enforcement" ;
+        c:originalValue  "Law enforcement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93510f9c-4514-3e82-ad67-c26d91124e44> .

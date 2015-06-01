@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bd1dc670-1a96-f13a-14da-542a20b49095" ;
+        c:docDate          "2015-05-30 10:38:37.208" ;
+        c:docTitle         "" ;
+        c:document         "'Graduate' and '9 to 5' actress dies at 94. Elizabeth Wilson, a longtime character actress who appeared in such films as \"The Graduate,\" \"9 to 5\" and \"Quiz Show,\" died Saturday. She was 94." ;
+        c:id               "http://id.opencalais.com/qEai0TlVir5k7IzrHvKC0Q" .
+
+<http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327> ;
+        c:importance     "1" ;
+        c:name           "Elizabeth Wilson" ;
+        c:originalValue  "Elizabeth Wilson" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae2fc9c0-24b7-38bb-8409-55af06433a7f> .
+
+<http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hMN67DzJIYI5LlSdlrO7C7j3h7k=|N0dobBP/ypA1R7W0IJ24Yksk4mSIJb7egb14u1g9Q5vSm7HK2v185w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:37.067" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ba3be3b-4798-3774-86ee-6fa0480b0327> ;
+        c:importance     "1" ;
+        c:name           "Nationality" ;
+        c:originalValue  "Nationality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b44aebf-d341-3c29-99c8-2088e1ee35e9> .

@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:importance     "2" ;
+        c:name           "Organized crime" ;
+        c:originalValue  "Organized crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4788ccf9-0ffb-3c9c-ade7-acb8f7fe85aa> .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:importance     "1" ;
+        c:name           "Michoacán" ;
+        c:originalValue  "Michoacán" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/13f73a6e-0159-340d-bdae-2b30c393bcce> .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FWtBAQvimVTV+hXppv3J38wNoHs=|UUIBJ5g/HjVMdXwhZgp35EyKllCRQk8WvTgfqCPhXdXtIL1glt9t1Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:51.675" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:score           "0.974" .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:importance     "2" ;
+        c:name           "Sinaloa Cartel" ;
+        c:originalValue  "Sinaloa Cartel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/293b1b6e-961d-3b97-ac5d-babdf16414f4> .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:importance     "1" ;
+        c:name           "Mexico" ;
+        c:originalValue  "2008 in Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e30aa82-5812-3639-ad43-762891af3a64> .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "83a19376-7991-bb5f-14da-54a2e1b35464" ;
+        c:docDate          "2015-05-30 10:46:51.940" ;
+        c:docTitle         "" ;
+        c:document         "40 Are Killed in Gun Battle in Mexico. Most of the dead were civilians in a confrontation after the ambush of a police convoy in an area known for drug gangs bordering Michoacán and Jalisco States." ;
+        c:id               "http://id.opencalais.com/7HpTn07d2M5BGHiLDtnG3A" .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:importance     "2" ;
+        c:name           "La Familia Michoacana" ;
+        c:originalValue  "La Familia Michoacana" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/de5a9b25-3dc5-3acf-85db-b5039298115a> .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:importance     "1" ;
+        c:name           "Mexican Drug War" ;
+        c:originalValue  "Mexican Drug War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ccf31ec-6316-3d1b-afad-1956fa1c685b> .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:importance     "2" ;
+        c:name           "Operation Michoacán" ;
+        c:originalValue  "Operation Michoacán" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ac2a4873-39ea-394c-8837-ff579ee6dce4> .
+
+<http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/443cdc83-f2ca-3b02-adac-04623cff7f7d> ;
+        c:importance     "2" ;
+        c:name           "Crime in Mexico" ;
+        c:originalValue  "Crime in Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2eb3ae2d-7c4d-3c8d-bb79-29da0d7f2a7a> .

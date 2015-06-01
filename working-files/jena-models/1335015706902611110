@@ -1,0 +1,43 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6089dfc7-19e2-3a73-8742-fccb9f3030f2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2cb0840c-72cf-ba90-14da-53f28bd653ed" ;
+        c:docDate          "2015-05-30 09:34:49.826" ;
+        c:docTitle         "" ;
+        c:document         "Let's Talk About Death Over Dinner. Over the last two years, more than 70,000 people around the world have gathered to dine and discuss their own deaths, and the end-of-life decisions that entails. We eavesdrop on one such gathering." ;
+        c:id               "http://id.opencalais.com/KJR26hFmuyIJHFzM4WL*vg" .
+
+<http://d.opencalais.com/dochash-1/6089dfc7-19e2-3a73-8742-fccb9f3030f2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6089dfc7-19e2-3a73-8742-fccb9f3030f2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|RSv/VAGkkUr7NCrf0rHqM0dLzvs=|gFAkIzDMKqwRr0USvsQ8oYiTTqMhOPrxjW1279tKBgtfQ463epLkNQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:49.405" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6089dfc7-19e2-3a73-8742-fccb9f3030f2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6089dfc7-19e2-3a73-8742-fccb9f3030f2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6089dfc7-19e2-3a73-8742-fccb9f3030f2/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6089dfc7-19e2-3a73-8742-fccb9f3030f2> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/6089dfc7-19e2-3a73-8742-fccb9f3030f2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6089dfc7-19e2-3a73-8742-fccb9f3030f2> ;
+        c:score           "0.987" .

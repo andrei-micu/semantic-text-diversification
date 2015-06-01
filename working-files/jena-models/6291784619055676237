@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:score           "0.939" .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:importance     "1" ;
+        c:name           "Amazing" ;
+        c:originalValue  "Amazing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/276ab688-8afa-3f9c-b217-b06155ec27f6> .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c980a2e5-4f98-634b-14da-54cb4b4760f9" ;
+        c:docDate          "2015-05-30 10:49:37.407" ;
+        c:docTitle         "" ;
+        c:document         "What a shot! 40 amazing sports photos. Take a look at 40 amazing sports photos from May 19 through May 25." ;
+        c:id               "http://id.opencalais.com/uRIuK9xGuAuHR9IDZf2GpQ" .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:importance     "2" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:importance     "1" ;
+        c:name           "Spider-Man films" ;
+        c:originalValue  "Spider-Man films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e49c93ce-fe74-3315-af8d-e79c19fea49f> .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nax04PD4tXkmMr+4OHc9dJMi0pM=|E0fAGVLeB+0/nYcS9l8pt/Wlo06PivMQVJFPSu61vq1wApkkRWLAzw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:37.204" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:importance     "2" ;
+        c:name           "The Gauntlet and Grim Hunt" ;
+        c:originalValue  "The Gauntlet and Grim Hunt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/123c4455-4bf1-3a5b-badc-ba404f43c90f> .
+
+<http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b1cc9bd-4de6-38f2-93e5-5b7d95c83e09> ;
+        c:importance     "1" ;
+        c:name           "The Amazing Race" ;
+        c:originalValue  "The Amazing Race (U.S. TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/37c83ae3-57d9-37a0-9b3a-fac5f3483da8> .

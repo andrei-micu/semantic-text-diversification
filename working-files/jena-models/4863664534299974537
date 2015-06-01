@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:importance     "1" ;
+        c:name           "Atmospheric sciences" ;
+        c:originalValue  "Atmospheric sciences" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88403548-ec7e-3011-917e-da243df51138> .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zLMH836Wa9HVAaSBKuIdOXBNCHs=|b6vx12nXad+wfWGRVYAPtAADkfFYjUKfXE3e8hlCw2v4t4GXAePwKg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:22.915" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:importance     "2" ;
+        c:name           "Hydrology" ;
+        c:originalValue  "Hydrology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0240c005-845a-302f-ad2d-e020b04b0861> .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:importance     "2" ;
+        c:name           "Droughts" ;
+        c:originalValue  "Droughts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b46a609-67d0-3035-b9bd-766c43209784> .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:importance     "1" ;
+        c:name           "Meteorology" ;
+        c:originalValue  "Meteorology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/897c2d6f-2365-35ef-8355-f4c70726feaa> .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:importance     "2" ;
+        c:name           "Water" ;
+        c:originalValue  "Water" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0b0866c-a4aa-349c-811e-975ff48aaad8> .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:importance     "2" ;
+        c:name           "Climatology" ;
+        c:originalValue  "Climatology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/557e8ffa-8f1b-3dfb-a29b-62aae852918f> .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "38c84aa2-95f6-13c1-4da5-4aa823347095" ;
+        c:docDate          "2015-05-30 09:47:23.133" ;
+        c:docTitle         "" ;
+        c:document         "California farmers agree water deal. California regulators accept an offer from farmers to reduce water usage by 25% in an effort to avoid deeper cuts in the state's battle with drought." ;
+        c:id               "http://id.opencalais.com/RnEvFhoQYrstfNWeUxf9Hw" .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:importance     "1" ;
+        c:name           "Matter" ;
+        c:originalValue  "Matter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ad6e547-20fb-317d-9022-abccb7b30758> .
+
+<http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/78798548-dd11-3f2c-b8df-1ea8677003ac> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

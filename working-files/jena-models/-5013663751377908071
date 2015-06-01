@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:importance     "2" ;
+        c:name           "Religion" ;
+        c:originalValue  "Religion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c9f8418-419c-3a9b-92db-f387fc4fb3d7> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|X3bI8i+M63XoKGR+R3NSHQcnJzw=|J3S6BYOMJBHxnmhhgBGmaEedz1hPStNU75PyJe+X3I5kWCs/tqL/ew==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:06.774" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:importance     "1" ;
+        c:name           "Catholic liturgy" ;
+        c:originalValue  "Catholic liturgy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91251ac2-0094-3af9-8eca-498578d8c335> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:importance     "2" ;
+        c:name           "Conscription in the United States" ;
+        c:originalValue  "Conscription in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bb9fde73-0aa6-393b-b941-65d96f61c961> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:score           "0.568" .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:importance     "2" ;
+        c:name           "Good Friday" ;
+        c:originalValue  "Good Friday" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/169e8ecc-20c4-3779-b86d-0e4e6d2a9709> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:importance     "1" ;
+        c:name           "Fasting" ;
+        c:originalValue  "Fasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83ff47ab-4156-3f67-af35-cef271b5c47b> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:importance     "2" ;
+        c:name           "United States Senate" ;
+        c:originalValue  "United States Senate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01c05ea8-5d0c-3cc6-bc97-ab1e0b48a8bc> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:importance     "1" ;
+        c:name           "Christianity" ;
+        c:originalValue  "Christianity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/20b1bcbb-ca9a-3aaf-b1e7-02cf6c770dc5> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:importance     "2" ;
+        c:name           "Holy Week" ;
+        c:originalValue  "Holy Week" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0dd9d4f-4701-3e89-aefc-a99f75ef3a66> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cfcc8e83-a325-b5a2-14da-5489456719b3" ;
+        c:docDate          "2015-05-30 10:45:07.117" ;
+        c:docTitle         "" ;
+        c:document         "First Draft: Today in Politics: No Time for a Lazy Summer as Campaigns Ramp Up. Good Friday morning from Washington, where the Senate still has some work to do, even if the House has already left for the holiday." ;
+        c:id               "http://id.opencalais.com/N9x*N9ajZ089k3uNknJptg" .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:score           "0.975" .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0aa88402-ec99-323d-be8f-fe72c7f53c08> ;
+        c:importance     "2" ;
+        c:name           "Friday" ;
+        c:originalValue  "Friday" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/541042f5-d5db-3aa4-a75d-ebfdb4254b09> .

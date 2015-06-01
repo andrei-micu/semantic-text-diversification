@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/624a6cd3-ba64-33ce-9022-a2af5432c00f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/624a6cd3-ba64-33ce-9022-a2af5432c00f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KTEns8Zt8Swad4gFvNhNLL6qaMk=|QtMQlLjY6z6DIHRP5zIJx1mh7URc99pOdZbJrfDc6rdW+f3M4bIbNg==" ;
+        c:submissionDate  "2015-05-30 10:44:26.760" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/624a6cd3-ba64-33ce-9022-a2af5432c00f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/624a6cd3-ba64-33ce-9022-a2af5432c00f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/624a6cd3-ba64-33ce-9022-a2af5432c00f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9e458447-dd6c-4fd1-4da5-47f808719b32" ;
+        c:docDate          "2015-05-30 10:44:26.807" ;
+        c:docTitle         "" ;
+        c:document         "Can social media save water?. Outing water cheats in California" ;
+        c:id               "http://id.opencalais.com/l*56igy51B1vUGXnF6035A" .

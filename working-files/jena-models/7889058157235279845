@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:importance     "1" ;
+        c:name           "Anatomy" ;
+        c:originalValue  "Anatomy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8e621d1f-1237-3fa5-ae59-46a66458acf5> .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:importance     "2" ;
+        c:name           "Facial expressions" ;
+        c:originalValue  "Facial expressions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f36abdea-5fab-3134-a507-2c098e8f21bc> .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:importance     "2" ;
+        c:name           "Facial hair" ;
+        c:originalValue  "Facial hair" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ce5e4439-cfc4-37b6-b809-43980c4d5863> .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3Vq8YwuGc0Y2VNShBcfpuN8FdbI=|ETYwZrKuts/k3qP328ECMPXq0GJmyNFPRSZYSVTsgEg1wgUm0C25FQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:24.705" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:score           "0.938" .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:importance     "1" ;
+        c:name           "Human anatomy" ;
+        c:originalValue  "Human anatomy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b92bdc9-ae55-3e16-879f-645212d1bf10> .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7bfe59a5-0cff-3a54-14da-54705a14551f" ;
+        c:docDate          "2015-05-30 09:43:24.939" ;
+        c:docTitle         "" ;
+        c:document         "Seeing humanity in farm animals. You can tell a lot about a person from their expressions. Perplexed eyebrows, pursed lips." ;
+        c:id               "http://id.opencalais.com/*Zy1Em5CG*r*v-h7z5p3NQ" .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:importance     "2" ;
+        c:name           "Lip" ;
+        c:originalValue  "Lip" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7cf8244d-67f3-346e-8b6f-424f8178489d> .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:importance     "1" ;
+        c:name           "Eyebrow" ;
+        c:originalValue  "Eyebrow" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e9164bd-673b-3b8a-96d7-c2f90553be5a> .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8cff61d5-a769-3548-9920-eaae2db37d17> ;
+        c:score           "1.000" .

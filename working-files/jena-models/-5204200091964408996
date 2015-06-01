@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c> ;
+        c:score           "0.876" .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c> ;
+        c:importance     "1" ;
+        c:name           "Idealism" ;
+        c:originalValue  "Idealism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d347b553-692d-313e-a371-b0dc189497fb> .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7f34632b-2c77-4069-14da-544e15d71d39" ;
+        c:docDate          "2015-05-30 09:41:04.583" ;
+        c:docTitle         "" ;
+        c:document         "They Built It. No One Came.. In Pennsylvania, two men with 63 acres and a communal vision of utopia learn the hard way that not everyone follows the leader." ;
+        c:id               "http://id.opencalais.com/cMpj2QarpYR5ABuPcneCQQ" .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c> ;
+        c:importance     "2" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c> ;
+        c:importance     "1" ;
+        c:name           "Utopia" ;
+        c:originalValue  "Utopia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68ec1b90-79a3-3c58-99bf-66e56b5a4a9a> .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c> ;
+        c:importance     "1" ;
+        c:name           "Intentional communities" ;
+        c:originalValue  "Intentional communities" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7d7a13f3-b380-3860-9013-1e07bba5a38c> .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c> ;
+        c:importance     "2" ;
+        c:name           "Fiction" ;
+        c:originalValue  "Fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8802cc97-e83a-3d7d-b3b5-b3efb8e1d8de> .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1FXNpU8DvbM/TfjmzIS6FkQ6zJQ=|ET3pAg7jOrHwJtA/RQ/kb9HMBN0rkdjsm6TWO+g+3KpnVBtpmNXzTQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:04.349" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66a88e79-331d-3be0-a394-7f6e794f568c> ;
+        c:importance     "2" ;
+        c:name           "Opera" ;
+        c:originalValue  "Opera" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/02583639-c574-3894-9e11-8c8cd28a884c> .

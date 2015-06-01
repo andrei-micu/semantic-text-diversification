@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7de75c0f-6651-3b0b-a8c1-8f80dc07e84c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7de75c0f-6651-3b0b-a8c1-8f80dc07e84c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|rU3w589iRK4wzSMmTo3mQBul1Ik=|aVmpz3ZYykhgGVjO4XllWoORdas2gm1Yu5zg6xvsYEOUmz3RzTfzJQ==" ;
+        c:submissionDate  "2015-05-30 09:30:04.339" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7de75c0f-6651-3b0b-a8c1-8f80dc07e84c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7de75c0f-6651-3b0b-a8c1-8f80dc07e84c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/7de75c0f-6651-3b0b-a8c1-8f80dc07e84c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "582836f7-fd46-2044-14da-53acf3313c98" ;
+        c:docDate          "2015-05-30 09:30:04.417" ;
+        c:docTitle         "" ;
+        c:document         "The Vietnam War . " ;
+        c:id               "http://id.opencalais.com/KXxaYHi1mRzsF75aHF6oKA" .

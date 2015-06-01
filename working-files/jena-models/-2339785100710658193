@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:importance     "2" ;
+        c:name           "Tables, Ladders, and Chairs match" ;
+        c:originalValue  "Tables, Ladders, and Chairs match" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7b2050ef-2710-308f-8bc7-cc86eebedefa> .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dd91ba4a-37d2-95cc-14da-5474f151df07" ;
+        c:docDate          "2015-05-30 09:43:43.852" ;
+        c:docTitle         "" ;
+        c:document         "Reality TV plagued by scandal. TLC says it is pulling all episodes of \"19 Kids and Counting\" currently set to air. CNN's Brian Stelter reports that TLC has previously yanked hit shows due to scandal." ;
+        c:id               "http://id.opencalais.com/1uZKf0zSryC8Ow4vV0p4-g" .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:importance     "2" ;
+        c:name           "Reality television" ;
+        c:originalValue  "Reality television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2a707f73-2f04-3cd9-a0fc-29663ab6b027> .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:importance     "2" ;
+        c:name           "19 Kids and Counting" ;
+        c:originalValue  "19 Kids and Counting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f580e405-2a8c-328a-bad8-e986d665d97d> .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:importance     "1" ;
+        c:name           "TLC" ;
+        c:originalValue  "TLC (TV channel)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c831bee8-8f75-355b-8579-10f2e6a72526> .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|AZHxf1wFK1mnzeje338EFX/PM+I=|Xr9xOdeL2j2MvmfgWB53wSxn/yVEnWrTV/RZm1yBFVDZ7QMur9Uduw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:43.524" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:importance     "1" ;
+        c:name           "Discovery Communications" ;
+        c:originalValue  "Discovery Communications" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a53487f-eaee-3a20-aa4d-767530f15033> .
+
+<http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b676ece-178f-3947-966e-ffa569c190c6> ;
+        c:importance     "2" ;
+        c:name           "Brian Stelter" ;
+        c:originalValue  "Brian Stelter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/382d6d48-598e-3ef2-a3c3-7b37949837b5> .

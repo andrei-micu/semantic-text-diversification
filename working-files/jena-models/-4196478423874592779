@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance     "2" ;
+        c:name           "Violence" ;
+        c:originalValue  "Violence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c7ad1ef-3465-32b8-a576-ea3a2515bdb2> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance     "2" ;
+        c:name           "Crimes" ;
+        c:originalValue  "Crimes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c04c23b0-9081-3ca4-a3d4-57396fc80739> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance     "2" ;
+        c:name           "Ethics" ;
+        c:originalValue  "Ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f579fc5-eed2-3113-a4f8-658e638275f1> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HSBNLqaR1L18BKeEW8SVIm8lxvo=|dpbQp/Ai2+SJfG2pN5eQupqnK6xEJidToEpOLmdImA9ZJdTQJkejFQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:05.581" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance     "1" ;
+        c:name           "Gender-based violence" ;
+        c:originalValue  "Gender-based violence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d214164-7aa5-31e7-a75f-8a69923ba946> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance     "2" ;
+        c:name           "Sexual assault" ;
+        c:originalValue  "Sexual assault" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b2a92a8-e40c-31a8-bbd5-f5fbb50f7e53> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance     "1" ;
+        c:name           "Sex crimes" ;
+        c:originalValue  "Sex crimes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/113eb67e-55cf-3cee-bd16-a2c6d0db1d20> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:score           "0.897" .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance     "2" ;
+        c:name           "Laws regarding rape" ;
+        c:originalValue  "Laws regarding rape" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04aacf5b-cd47-30d2-8c79-f7d031e1e0da> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1b784f22-afed-f1d5-14da-5413cad653ed" ;
+        c:docDate          "2015-05-30 09:37:05.847" ;
+        c:docTitle         "" ;
+        c:document         "Jameis Winston sues woman who accused him of rape. Ex-Florida State quarterback Jameis Winston has filed a counterlawsuit against Erica Kinsman, the woman who accused the football star of rape." ;
+        c:id               "http://id.opencalais.com/E1vcpFp5CK7dP3kh0HdSqA" .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:score           "0.978" .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance     "1" ;
+        c:name           "Rape" ;
+        c:originalValue  "Rape" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32236527-525d-3c1e-a5de-b2f5734631f7> .
+
+<http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9168967-6394-3c09-a822-7ae9855110f8> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .

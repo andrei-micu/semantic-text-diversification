@@ -1,0 +1,144 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance     "1" ;
+        c:name           "Violence" ;
+        c:originalValue  "Violence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c7ad1ef-3465-32b8-a576-ea3a2515bdb2> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance     "1" ;
+        c:name           "Ethics" ;
+        c:originalValue  "Ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f579fc5-eed2-3113-a4f8-658e638275f1> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance     "1" ;
+        c:name           "Climate change" ;
+        c:originalValue  "Climate change" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cedbc608-58fa-3bfe-8652-a58d735c6f75> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f336cd83-95c7-ac3e-14da-546e48a4551f" ;
+        c:docDate          "2015-05-30 09:43:16.421" ;
+        c:docTitle         "" ;
+        c:document         "Declare war on climate change?. We have a tendency to view certain public policy issues as wars. As in \"the war on ... \" fill in the blank: drugs, cancer, poverty." ;
+        c:id               "http://id.opencalais.com/fYJSz9aqvud-LP06dYWa-Q" .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance     "2" ;
+        c:name           "Environmental ethics" ;
+        c:originalValue  "Environmental ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1a53d69-3eb2-34a0-8b45-9d591e15b3ba> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:score           "0.987" .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance     "2" ;
+        c:name           "Environment" ;
+        c:originalValue  "Environment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance     "2" ;
+        c:name           "Global warming" ;
+        c:originalValue  "Global warming" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/27b9426a-d468-3239-ae5e-4ce8f4ca0d67> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|R5fcd+LJ3uKYOwQ11aQgpfjK65s=|ZYt+lJwWhDL7pnAMMjppqw9PAuRPSSzBqmT9EXq7Dd3yC0ELgFsqrQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:16.234" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36954df1-dee5-3f50-8178-8f959f5733f5> ;
+        c:importance     "2" ;
+        c:name           "War" ;
+        c:originalValue  "War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c5d46f56-c274-3b29-a6ce-e7042cb0fda3> .

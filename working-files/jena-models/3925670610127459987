@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:importance     "2" ;
+        c:name           "Poverty" ;
+        c:originalValue  "Poverty" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/729e9264-c8f1-3857-8f50-0462f7f00bd3> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:importance     "1" ;
+        c:name           "Socioeconomics" ;
+        c:originalValue  "Socioeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a2df6d2-5d17-33e9-939c-305e2d9fc018> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|M1pjvV+dI1VDwTTTMH3o0ZlnrKc=|EG6gQMw4CO5tg31QE0IdwoRyUGUrs+o2k1dJ8Sctx2lhpbiGPSYZlw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:07.812" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:importance     "2" ;
+        c:name           "Humanitarian aid" ;
+        c:originalValue  "Humanitarian aid" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f92437e-46ba-3a4b-8df3-7311bea50c2b> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "947ae258-f73b-c335-14da-5422fc4653ed" ;
+        c:docDate          "2015-05-30 09:38:07.968" ;
+        c:docTitle         "" ;
+        c:document         "Counting Poor Students Is Getting Harder. Changes to the Free and Reduced-Price Lunch program undermine a long-used measurement for child poverty." ;
+        c:id               "http://id.opencalais.com/zwuOhuglV0sJFybwuZLLCg" .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:importance     "1" ;
+        c:name           "Development" ;
+        c:originalValue  "Development" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/55dde289-0d89-3607-ac2e-7814687524c4> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:importance     "2" ;
+        c:name           "Child poverty" ;
+        c:originalValue  "Child poverty" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e1fa790-4863-3c91-bd0f-7f21e536fa86> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/04dd37f1-fd2f-327b-baaa-71e4b60d0cee> ;
+        c:score           "0.988" .

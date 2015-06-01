@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0> ;
+        c:importance     "1" ;
+        c:name           "Bipolar disorder" ;
+        c:originalValue  "Bipolar disorder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e4b92f0-573e-3881-923f-b52cb77d9314> .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8535796d-cbbd-f639-14da-53b4b5213c98" ;
+        c:docDate          "2015-05-30 09:30:36.286" ;
+        c:docTitle         "" ;
+        c:document         "A Story Of Bipolar And A Daughter's Search For Answers. In the 1920s and '30s, Dr. Perry Baird was a rising star in the medical world, but his struggle with bipolar disorder hampered his life." ;
+        c:id               "http://id.opencalais.com/MPVE-IjDKAp9gYpv3tjFmA" .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0> ;
+        c:importance     "1" ;
+        c:name           "Bipolar spectrum" ;
+        c:originalValue  "Bipolar spectrum" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1cd9d1de-0234-335b-bad9-69c44ed54c02> .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|lk7YUTH8VLEo48uOJyjKyXAO6I4=|YKz/ATjfiF+dEdF4flZUMat1CBc9pEsWz+IZPFgLHeqEUtScWWmHRg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:36.114" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0> ;
+        c:score           "0.968" .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0> ;
+        c:importance     "1" ;
+        c:name           "Mood disorders" ;
+        c:originalValue  "Mood disorders" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7413b54-40a6-3aed-8bf3-1eff88192c64> .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0> ;
+        c:importance     "2" ;
+        c:name           "Treatment of bipolar disorder" ;
+        c:originalValue  "Treatment of bipolar disorder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/79f19fad-5c7b-3e11-8181-f7798a3537e5> .
+
+<http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d99a9613-4416-3ff0-8daf-6076443c93d0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

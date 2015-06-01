@@ -1,0 +1,76 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0> ;
+        c:score           "0.524" .
+
+<http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|kEeA8QVCBG2VRrt06v8bS33KRLE=|br0E7nVhxPI1tMDORZ518EYr25dArGI5do9cRZCkvH178e2i8Zxoew==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:01.330" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0> ;
+        c:importance     "1" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0> ;
+        c:importance     "1" ;
+        c:name           "Lanzhou" ;
+        c:originalValue  "Lanzhou" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/49b6150a-4919-3d08-97f8-7eda2e616bd9> .
+
+<http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0> ;
+        c:importance     "2" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0> ;
+        c:importance     "1" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "760ef201-909a-52ad-14da-544d5821df07" ;
+        c:docDate          "2015-05-30 09:41:01.611" ;
+        c:docTitle         "" ;
+        c:document         "Horrifying wall collapse caught on camera. Two people were killed and seven others seriously wounded after a 20-meter long wall suddenly toppled over in the western Chinese city of Lanzhou. CNN's Robyn Curnow reports." ;
+        c:id               "http://id.opencalais.com/m7uXhv97LeWwBhjcBbgRPg" .
+
+<http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1dec0f48-dd4a-3edb-936c-9c29ae1532c0> ;
+        c:importance     "2" ;
+        c:name           "Digital media" ;
+        c:originalValue  "Digital media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/771e4d9a-b0cd-37a2-bec6-6840c4cafab3> .

@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:importance     "1" ;
+        c:name           "Numismatics" ;
+        c:originalValue  "Numismatics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/95d90dcb-8907-3115-a792-5274ca5b95cc> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:importance     "2" ;
+        c:name           "Culture-bound syndromes" ;
+        c:originalValue  "Culture-bound syndromes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/592d13e2-e217-3c00-8ae2-011ff5a62bf3> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:importance     "2" ;
+        c:name           "Money" ;
+        c:originalValue  "Money" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f1af9688-5498-363e-9052-be898dce559c> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:score           "0.979" .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:importance     "1" ;
+        c:name           "Pound sterling" ;
+        c:originalValue  "Pound sterling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/66b921e6-5c98-33af-abbc-5ab796c235e1> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fRxUMFWFjTMljPjdW2frnm3UuvY=|MURA/WnIapWElkRn0DFMB0rEH58ne3r5jh0SXWTizNbJwxTqOITEng==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:48.257" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:importance     "1" ;
+        c:name           "Currency" ;
+        c:originalValue  "Currency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9261a51d-b9b9-3c5b-b3fc-5e57613d7751> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:importance     "2" ;
+        c:name           "Eating disorders" ;
+        c:originalValue  "Eating disorders" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf0a495c-5f16-3756-8f10-8f6009a3db9b> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:score           "0.893" .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33> ;
+        c:importance     "2" ;
+        c:name           "Anorexia" ;
+        c:originalValue  "Anorexia (symptom)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54e843dd-f536-35df-a966-d60fdf8fc780> .
+
+<http://d.opencalais.com/dochash-1/eba9c8ec-cafe-3d27-8418-f91ad9b1db33>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f4158551-581b-6834-14da-54b0b211927e" ;
+        c:docDate          "2015-05-30 10:47:48.444" ;
+        c:docTitle         "" ;
+        c:document         "40-pound woman's desperate plea goes viral. Rachael Farrokh, 37, weighs roughly 40 pounds, suffering from a severe form of anorexia for more than 10 years." ;
+        c:id               "http://id.opencalais.com/lk6aEd0p4Mhtzf00en*Jnw" .

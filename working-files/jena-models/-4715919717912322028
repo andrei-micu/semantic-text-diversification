@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|lpD4Dy29fyEdZ5iWwZ45uF//qGE=|T2ORG8fJ4StOOiQfBwqOuGejZ01an/BD6XmiVOZHIaks61HmD3c5Zw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:20.911" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:importance     "1" ;
+        c:name           "Star Wars" ;
+        c:originalValue  "Star Wars" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab5278ae-517c-3f93-bed6-b7def8997216> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:importance     "2" ;
+        c:name           "Yoda" ;
+        c:originalValue  "Yoda" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bc2ab71-afcc-3d78-98b7-70c6fbca4d87> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:importance     "2" ;
+        c:name           "Star Wars Day" ;
+        c:originalValue  "Star Wars Day" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3436c1f3-2673-33d8-8d1e-3841a0592595> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cd86f43f-42ef-edc8-14da-53dcf0f1927e" ;
+        c:docDate          "2015-05-30 10:33:21.129" ;
+        c:docTitle         "" ;
+        c:document         "May The Fourth Be With You: 'Star Wars' Fans Celebrate A Faraway Galaxy. Yoda, Chewbacca and a phalanx of stormtroopers are all over the Internet today, as fans celebrate Star Wars Day — drawn from a pun on May 4. We've collected some of our favorite postings." ;
+        c:id               "http://id.opencalais.com/h3eCPY*Z2BcteqU-iEJTTQ" .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:importance     "1" ;
+        c:name           "Epic films" ;
+        c:originalValue  "Epic films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cbebbae8-14c4-3187-a9b8-18e900826f2e> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:importance     "2" ;
+        c:name           "Star Wars Episode IV: A New Hope" ;
+        c:originalValue  "Star Wars Episode IV: A New Hope" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/587f1cc0-49e7-3b4c-9a51-a324af1a7d7b> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:score           "0.673" .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:importance     "2" ;
+        c:name           "Chewbacca" ;
+        c:originalValue  "Chewbacca" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fe0c4ca6-3317-32d4-b215-d47abcd3b840> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/81c0bb9c-79d5-3c08-9617-ba3108b12485> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

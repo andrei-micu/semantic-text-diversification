@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance     "2" ;
+        c:name           "Beslan school hostage crisis" ;
+        c:originalValue  "Beslan school hostage crisis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/915b3034-290f-3120-8a65-511f504d9543> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance     "1" ;
+        c:name           "Moscow theater hostage crisis" ;
+        c:originalValue  "Moscow theater hostage crisis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e104a9f-162c-34c1-a830-e6354491ec81> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|sdM2ubiIqUQwiZPRKuWpIfeyuYw=|iPEceab8vbWoJ9k0bLObKk6jTK8QF8rkNxP6eWeu/XWxJDIpdHnrTg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:30.390" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance     "1" ;
+        c:name           "Russian Orthodox Christians" ;
+        c:originalValue  "Russian Orthodox Christians" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/822c385d-dd2c-3b94-9d48-0d100d88664e> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance     "2" ;
+        c:name           "Grand Croix of the Légion d'honneur" ;
+        c:originalValue  "Grand Croix of the Légion d'honneur" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cd903dae-e0e4-33b4-9d55-1807e8135733> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance     "2" ;
+        c:name           "Foreign relations of Russia" ;
+        c:originalValue  "Foreign relations of Russia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7e376343-3322-3746-bd53-57fd7a016989> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance     "2" ;
+        c:name           "Vladimir Putin" ;
+        c:originalValue  "Vladimir Putin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5b9e3a3c-eac9-3d3a-b91f-c7f854edc9f7> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance     "2" ;
+        c:name           "Russia and the Arab–Israeli conflict" ;
+        c:originalValue  "Russia and the Arab–Israeli conflict" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1c1cd090-a986-357d-a21c-9613cc5a1aee> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance     "2" ;
+        c:name           "Politics of Russia" ;
+        c:originalValue  "Politics of Russia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1566f999-40e6-3331-b882-a4bc61a75ec5> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462> ;
+        c:importance     "1" ;
+        c:name           "Government of Russia" ;
+        c:originalValue  "Government of Russia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1150038-df2a-3261-834e-f9cc92f70b67> .
+
+<http://d.opencalais.com/dochash-1/527c60b7-94f1-3a76-99e8-0b06a6c1b462>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7543e722-df2d-b763-14da-5437256719b3" ;
+        c:docDate          "2015-05-30 10:39:30.515" ;
+        c:docTitle         "" ;
+        c:document         "Putin, Kerry to discuss Ukraine, Syria, Iran, U.S. says. WASHINGTON/MOSCOW (Reuters) - U.S. Secretary of State John Kerry will meet Russian President Vladimir Putin in Sochi, Russia, on Tuesday to discuss Ukraine and other issues, the United States said on Monday in a statement that made no mention of their deep disagreements." ;
+        c:id               "http://id.opencalais.com/UGJU9KFDPbM3e*FSt9fGyA" .

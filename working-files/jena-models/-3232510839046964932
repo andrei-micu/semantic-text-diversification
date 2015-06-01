@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gPEr0ypq7VGHgF/UmGMwvCMZJIo=|SzEYXtmrhp6+s/VqSvST6jrwqqpwBBxG+g4XGu4ZzN9jL5/PibFBuA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:30.030" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance     "2" ;
+        c:name           "LGBT history" ;
+        c:originalValue  "LGBT history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e1c91fe-8db5-315a-add1-e4a80dba6e2a> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance     "1" ;
+        c:name           "Gender" ;
+        c:originalValue  "Gender" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68502b1e-12f9-3466-ac94-9d9ca76df055> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance     "2" ;
+        c:name           "Homosexuality" ;
+        c:originalValue  "Homosexuality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59d6665a-acff-3b49-b4f2-3e2e02c59a5e> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "efb33b9e-1b7d-694f-14da-538746e4551f" ;
+        c:docDate          "2015-05-30 09:27:30.248" ;
+        c:docTitle         "" ;
+        c:document         "Lawyers Seek Sea Change on Gay Rights at Supreme Court. Those arguing against states’ bans on same-sex marriage hope the justices will reach a bold verdict that would transform the status of gay Americans." ;
+        c:id               "http://id.opencalais.com/*VHCLW0XEeaOR3zGMDgHrQ" .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance     "1" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance     "2" ;
+        c:name           "LGBT social movements" ;
+        c:originalValue  "LGBT social movements" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68a4b568-2b67-370f-8556-0aa76eaf2805> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage in the United States" ;
+        c:originalValue  "Same-sex marriage in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bdcd460c-629a-331e-b2c6-af5d5447ab33> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance     "2" ;
+        c:name           "Egalitarianism" ;
+        c:originalValue  "Egalitarianism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/31811aff-da3b-35fb-9a72-0b81afb9be44> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance     "2" ;
+        c:name           "Public opinion of same-sex marriage in the United States" ;
+        c:originalValue  "Public opinion of same-sex marriage in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d13c270-c4ae-3594-91fc-ae929b1a76d7> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance     "1" ;
+        c:name           "Human sexuality" ;
+        c:originalValue  "Human sexuality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/131825b8-da79-3da3-b023-ea477cd9dc15> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3022335e-426f-362b-a634-fcd4a92889b4> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

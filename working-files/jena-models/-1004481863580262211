@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cf26b40b-a03a-8641-14da-546ac4c32f98" ;
+        c:docDate          "2015-05-30 09:43:02.242" ;
+        c:docTitle         "" ;
+        c:document         "American Ballet Theater Turns 75. Over the ABT's three-quarters of a century, the company has stuck to its mission of presenting classics like Swan Lake along with works of contemporary choreographers." ;
+        c:id               "http://id.opencalais.com/6oSH4c5bRrhxDGAwrcAC9Q" .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:importance     "1" ;
+        c:name           "Ballets by Marius Petipa" ;
+        c:originalValue  "Ballets by Marius Petipa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f59a3a5-216a-3a0e-bd88-0f4491312e2d> .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:importance     "2" ;
+        c:name           "Susan Jaffe" ;
+        c:originalValue  "Susan Jaffe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/caee1158-1faf-39c9-8e2b-be14add1357f> .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5w31WWXocF4VvwZ2dc15fzGtx40=|XJYOY/IxHSwdTIEoY+vXrp/BGTVNvB6LhrSxh1JZBHI8IkPwoutawQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:01.836" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:importance     "2" ;
+        c:name           "American Ballet Theatre" ;
+        c:originalValue  "American Ballet Theatre" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/19dcf935-65b6-38da-bb2d-96a02ebf885f> .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:importance     "1" ;
+        c:name           "Dance" ;
+        c:originalValue  "Dance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/857b6ce7-8144-3069-915c-a65772ddd6ed> .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:importance     "1" ;
+        c:name           "Ballet" ;
+        c:originalValue  "Ballet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/117c508d-2119-3834-a11d-4ceef406cdd7> .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:importance     "2" ;
+        c:name           "Swan Lake" ;
+        c:originalValue  "Swan Lake (1895)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff42cdee-addf-3ba0-a3c7-b4e10262b876> .
+
+<http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45ebcab9-1fbd-3978-89cf-639904b581a8> ;
+        c:importance     "2" ;
+        c:name           "Danseurs" ;
+        c:originalValue  "Danseurs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0386fc1-309c-3df9-9a84-b012034e7c4b> .

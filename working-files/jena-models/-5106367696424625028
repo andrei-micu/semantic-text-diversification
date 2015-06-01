@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7> ;
+        c:importance     "1" ;
+        c:name           "Days of our Lives characters" ;
+        c:originalValue  "Days of our Lives characters" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36e149e9-1556-3255-8a12-d56616f0433c> .
+
+<http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7> ;
+        c:importance     "1" ;
+        c:name           "Brady" ;
+        c:originalValue  "Brady" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d4bed0c5-2b10-38d4-bebf-3fe80e7c573a> .
+
+<http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7> ;
+        c:importance     "2" ;
+        c:name           "Genealogy" ;
+        c:originalValue  "Genealogy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0b2871b-261d-31aa-8c32-9f8bc296989f> .
+
+<http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9d3c297a-369f-d8cd-14da-53ba0381df07" ;
+        c:docDate          "2015-05-30 09:30:58.036" ;
+        c:docTitle         "" ;
+        c:document         "Father defends Brady over report. Tom Brady Sr criticises a report claiming his son was \"aware\" of a plan to under-inflate balls, calling it \"Frame-gate\"." ;
+        c:id               "http://id.opencalais.com/sH*2L1IlJ8juav-jbQr1sA" .
+
+<http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7> ;
+        c:importance     "1" ;
+        c:name           "Surnames" ;
+        c:originalValue  "Surnames" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b552912d-28a6-395a-bafb-1e4217204132> .
+
+<http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LB2P8bIATyhJYBc228+mK1K+QtA=|JbQXIyrZ1VRFsd4oIFAw6ThP1kmRKG/rGAz+c+rAL7En5cDFehroVQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:57.864" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/822f8e28-59bc-3976-ac86-45246610d2d7> ;
+        c:importance     "2" ;
+        c:name           "American football" ;
+        c:originalValue  "American football" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9c727346-bd99-385f-b4a0-0bdb32f19148> .

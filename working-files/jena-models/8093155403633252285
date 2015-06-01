@@ -1,0 +1,100 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|pLMjn+a3Bmib/6vKsBL7hkjmF7o=|hj4tqvHTE392+MUuhqNpcnJ1g3lD91Nr80IHRYBsl6rZqQsqFVPB9g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:52.435" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:importance     "1" ;
+        c:name           "Steve Carell" ;
+        c:originalValue  "Steve Carell" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f20c60f5-50be-326f-8d93-29141db79822> .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:importance     "2" ;
+        c:name           "Nationality" ;
+        c:originalValue  "Nationality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b44aebf-d341-3c29-99c8-2088e1ee35e9> .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "18265ae2-c230-4a6b-14da-5485c5349095" ;
+        c:docDate          "2015-05-30 10:44:52.529" ;
+        c:docTitle         "" ;
+        c:document         "'Foxcatcher': The crazy du Pont next door . Add a fake nose, a few tics and mad acting skills and Steve Carell is John du Pont, the Boo Radley of my childhood." ;
+        c:id               "http://id.opencalais.com/yQgwyfwyIgO-ShXcHgiEjw" .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:importance     "1" ;
+        c:name           "Du Pont family" ;
+        c:originalValue  "Du Pont family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9bb8baa-2385-390c-8acb-2662d0039faf> .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:importance     "2" ;
+        c:name           "Tic" ;
+        c:originalValue  "Tic" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/802664ed-6b58-37e2-b5c4-05ca9620eeb5> .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:importance     "2" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:importance     "2" ;
+        c:name           "Cinema of the United States" ;
+        c:originalValue  "Cinema of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9089feca-c264-3451-b0cf-257f8c8b0635> .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:importance     "1" ;
+        c:name           "John Eleuthère du Pont" ;
+        c:originalValue  "John Eleuthère du Pont" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/29ebf4e9-c9c1-3ab7-a2b8-10b6da052bc9> .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:importance     "2" ;
+        c:name           "Carell" ;
+        c:originalValue  "Carell" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e79aa4a-4543-3fe4-b77d-24a09cbcb654> .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c076b4d-c667-31d9-94b7-12deef309865> ;
+        c:importance     "2" ;
+        c:name           "Boo" ;
+        c:originalValue  "Boo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eb9f3ad3-49ce-3fba-9957-7765733ca27a> .

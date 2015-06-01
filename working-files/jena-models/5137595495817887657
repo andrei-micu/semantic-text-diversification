@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|RlSbRzJyFtK9oounKONmCFY2ftE=|jYSYaNxegRlWPF0O1JbkTONAfV0HHoryE2Wmc5TQuOKsfpPhSUXMfw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:36.989" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:importance     "1" ;
+        c:name           "Broadway theatre" ;
+        c:originalValue  "Broadway theatre" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5497c242-1f26-3e1c-b0e9-49297a33411b> .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:importance     "2" ;
+        c:name           "84th Academy Awards" ;
+        c:originalValue  "84th Academy Awards" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2778c2d0-7cca-3c70-9305-41de3ef91bc3> .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:importance     "1" ;
+        c:name           "Tony Award" ;
+        c:originalValue  "Tony Award" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2c74267-c8f9-35d8-84e4-bbb12a38ded6> .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:importance     "1" ;
+        c:name           "Culture of New York City" ;
+        c:originalValue  "Culture of New York City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/76d096c3-0a3f-376d-90d1-51d29489e453> .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:importance     "2" ;
+        c:name           "ARIA Music Awards" ;
+        c:originalValue  "ARIA Music Awards of 2010" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1c753351-ec06-3d62-8e45-b3de02eee930> .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e5cb9880-1c2c-7b3b-14da-53979fd34709" ;
+        c:docDate          "2015-05-30 09:28:37.145" ;
+        c:docTitle         "" ;
+        c:document         "Tony Awards nominations announced. The nominations for the 69th Annual Tony Awards were announced Tuesday morning." ;
+        c:id               "http://id.opencalais.com/SKrnjOcR*03d-6Z3k08EOg" .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "2012 in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c95f0abd-e13a-3b9d-8315-8037bc2f78b9> ;
+        c:score           "1.000" .

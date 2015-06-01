@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:importance     "1" ;
+        c:name           "Bank" ;
+        c:originalValue  "Bank" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd03394e-719b-3719-a44c-b8452d3840a4> .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:score           "0.889" .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:importance     "1" ;
+        c:name           "Foreign exchange market" ;
+        c:originalValue  "Foreign exchange market" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18c71a26-c2b4-33b8-befd-58ac7b74f5eb> .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:importance     "2" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:importance     "1" ;
+        c:name           "Currency" ;
+        c:originalValue  "Currency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9261a51d-b9b9-3c5b-b3fc-5e57613d7751> .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0nCFn1+aGTBA4m84h7FqYth5VgE=|lICLiQOoPuDM/6FcCwgGVWn/MnMAYPzbcgwNoRsGln0o35/T1ixRyA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:55.236" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2eeabb75-c914-4292-14da-546928434709" ;
+        c:docDate          "2015-05-30 09:42:55.376" ;
+        c:docTitle         "" ;
+        c:document         "Record fines for currency market fix. Five of the world's largest banks are to pay fines totalling $5.7bn for charges including manipulating the foreign exchange market." ;
+        c:id               "http://id.opencalais.com/C0o-4daAwAyg3TjHES-rBg" .
+
+<http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9c57fe2-4332-3583-b322-54a9a1e763c8> ;
+        c:importance     "2" ;
+        c:name           "International economics" ;
+        c:originalValue  "International economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1aa19897-17a6-383d-b88c-03620358aaa2> .

@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:importance     "1" ;
+        c:name           "Nevada" ;
+        c:originalValue  "Nevada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/127f5006-1146-3c86-98e9-e7f736cefa88> .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7eca11e9-80a2-2ed1-4da5-38bdfd23ab15" ;
+        c:docDate          "2015-05-30 10:27:48.985" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: The $50,000 a night Las Vegas hotel room. The richest fight in the history of boxing takes place on Saturday in Las Vegas." ;
+        c:id               "http://id.opencalais.com/ES65JIBdfCA2gXu91i1hrg" .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:importance     "2" ;
+        c:name           "Sports in the Las Vegas metropolitan area" ;
+        c:originalValue  "Sports in the Las Vegas metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff9cee2b-6a50-36c4-ab9b-f54189698b3d> .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:importance     "1" ;
+        c:name           "Las Vegas Strip" ;
+        c:originalValue  "Las Vegas Strip" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e729b81d-3e3a-3380-bc2b-7df532c7a0f8> .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fHhWzIgL0BzA3CMvG9np50XqA9U=|Fwmrqk/21ORVmu/kivLEfpFkWgVIPbisfQv2+m0uwrIGxdDie4T07w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:48.861" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:score           "0.958" .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:importance     "2" ;
+        c:name           "LVH - Las Vegas Hotel & Casino" ;
+        c:originalValue  "LVH - Las Vegas Hotel & Casino" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/69c8316a-695b-38de-89ed-4aba681dd276> .
+
+<http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cae0905f-f9bd-3dbc-94c5-04e42c8462c4> ;
+        c:importance     "1" ;
+        c:name           "Las Vegas, Nevada" ;
+        c:originalValue  "Las Vegas, Nevada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0866bd0b-ab1b-3415-8793-7d775f6f73f5> .

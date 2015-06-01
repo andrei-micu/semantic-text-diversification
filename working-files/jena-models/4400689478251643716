@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3> ;
+        c:score           "0.948" .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3> ;
+        c:importance     "1" ;
+        c:name           "Political philosophy" ;
+        c:originalValue  "Political philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77603a14-4820-3d0d-824b-af4fcd03b8bb> .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8fcRdCpZIvBV6/lbpCHTdxZ4BLc=|Try1gPscsGHeH4Gcp0B29+aXGQF2UnUEsBrsa1bYYIqhoedMPVKThQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:02.460" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3> ;
+        c:importance     "1" ;
+        c:name           "Socialism" ;
+        c:originalValue  "Socialism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/094957d2-880e-3193-8e42-dd16b5462f0b> .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3> ;
+        c:importance     "2" ;
+        c:name           "Shinzō Abe" ;
+        c:originalValue  "Shinzō Abe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d1ab934-0b32-36a1-b6e8-dd91b479ff45> .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "591f68f0-3423-61af-14da-538f31c71d39" ;
+        c:docDate          "2015-05-30 09:28:02.554" ;
+        c:docTitle         "" ;
+        c:document         "Obama says he shares Japan's concern over China's maritime conduct. WASHINGTON (Reuters) - President Barack Obama told Prime Minister Shinzo Abe he shared Japan's concerns about China's assertive behavior in maritime disputes with its neighbors and assured him of the U.S. commitment to defending Japanese territory, including tiny islands that Beijing claims." ;
+        c:id               "http://id.opencalais.com/z-Gkl4or3y*nI6z2eozLjg" .
+
+<http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84975f7e-f18c-39d3-8491-4db62349cfb3> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .

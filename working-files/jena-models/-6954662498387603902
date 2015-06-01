@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d62022a8-f992-4ec5-14da-5453b5232f98" ;
+        c:docDate          "2015-05-30 09:41:27.503" ;
+        c:docTitle         "" ;
+        c:document         "Camané: Tiny Desk Concert. A major star of fado music in his native Portugal, Camané sings with a silky baritone — and the weight of the world's sadness on his shoulders." ;
+        c:id               "http://id.opencalais.com/wxUfcQvRLRw5-4rhzhEaNw" .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f> ;
+        c:importance     "2" ;
+        c:name           "Baritone" ;
+        c:originalValue  "Baritone" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ca5e9a5-697e-353f-9eba-9e6b0428a99b> .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f> ;
+        c:importance     "1" ;
+        c:name           "Fado" ;
+        c:originalValue  "Fado" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b3136b09-5f4d-3b92-88aa-bfe1208e404a> .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f> ;
+        c:importance     "1" ;
+        c:name           "Camané" ;
+        c:originalValue  "Camané" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ed9804a4-7395-3e79-8c49-e257fd6cab99> .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|MSyZc4ncVgxE0yMn8tvmKkfOiec=|Ci6PUK0aPFScBuA1NNv6zzN5mORvGRsifvasGb4yxCUt1NyvDA8tBQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:27.378" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f> ;
+        c:importance     "2" ;
+        c:name           "Waves" ;
+        c:originalValue  "Waves" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a02331de-0319-372b-a166-92bdee51ba31> .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f> ;
+        c:importance     "2" ;
+        c:name           "Sound" ;
+        c:originalValue  "Sound" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/80435c63-f02b-314f-9d16-076a525e63f2> .
+
+<http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef55ba81-2985-300c-8d13-21bf9121fa1f> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .

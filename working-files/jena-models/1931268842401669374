@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c> ;
+        c:importance     "1" ;
+        c:name           "Criticism of Islam" ;
+        c:originalValue  "Criticism of Islam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/faa92df4-a75f-3b4a-a09c-9f4b61590725> .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|EqjDHGGixMhcjpaIuzVK7atv63M=|O4uivjX5nuihYprPXysiDtZUe6MFh23kdKodTICPxWPKFiun5zsyQg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:23.098" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c> ;
+        c:score           "0.926" .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c> ;
+        c:importance     "1" ;
+        c:name           "Anti-Islam" ;
+        c:originalValue  "Anti-Islam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70a89e46-4356-3a71-9bc4-bf64aeca6b53> .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "11362bdc-de8d-b4bb-14da-54d67fa4551f" ;
+        c:docDate          "2015-05-30 09:50:23.176" ;
+        c:docTitle         "" ;
+        c:document         "Crowds gather for anti-Islam demonstration outside Phoenix mosque. PHOENIX (Reuters) - More than 200 protesters, some armed, berated Islam and its Prophet Mohammed outside an Arizona mosque on Friday in a provocative protest that was denounced by counterprotesters shouting \"Go home, Nazis,\" weeks after an anti-Muslim event in Texas came under attack by two gunmen." ;
+        c:id               "http://id.opencalais.com/XaGqSEgpr1mIitPPoFAQsA" .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c> ;
+        c:importance     "1" ;
+        c:name           "Freedom of expression" ;
+        c:originalValue  "Freedom of expression" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c5968f8-04c2-3539-93bb-6614bd2c48e8> .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372c470c-f0f0-3381-bdb2-e33cfaa4a13c> ;
+        c:importance     "2" ;
+        c:name           "Jyllands-Posten Muhammad cartoons controversy" ;
+        c:originalValue  "Jyllands-Posten Muhammad cartoons controversy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e40d83d7-b745-33e7-8a8d-983bd97f538f> .

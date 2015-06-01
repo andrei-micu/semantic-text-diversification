@@ -1,0 +1,73 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "85dfe9e2-f9c0-bd7e-14da-537c41f49095" ;
+        c:docDate          "2015-05-30 10:26:45.020" ;
+        c:docTitle         "" ;
+        c:document         "Why don't Americans mark their Civil War like the British do WW2?. Why don't Americans mark Civil War like British do WW2?" ;
+        c:id               "http://id.opencalais.com/kFfrlfaaS5WNCltRlG*TLg" .
+
+<http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964> ;
+        c:score           "0.688" .
+
+<http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wWt5wpwadEpGLLLAKO5c41cXZDU=|HQrs8t9qfX9ezr6VTv7qXGhWsvd50VVntpo8WNkvQxCbhujMVW8www==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:26:44.895" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6f05b23d-4f3b-3604-9211-81380f848964> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

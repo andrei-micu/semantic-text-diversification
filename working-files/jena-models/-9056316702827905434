@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:importance     "1" ;
+        c:name           "Israeli–Palestinian conflict" ;
+        c:originalValue  "Israeli–Palestinian conflict" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c8d6379-5fe6-32ad-a436-54853b946455> .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:importance     "2" ;
+        c:name           "Jerusalem" ;
+        c:originalValue  "Jerusalem" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68ffb6c5-5179-3d19-94bb-102b77a1cdba> .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f9b5a9f4-88ce-9ae4-14da-5480d1132f98" ;
+        c:docDate          "2015-05-30 09:44:32.301" ;
+        c:docTitle         "" ;
+        c:document         "Netanyahu Cancels Palestinian-Only Bus Plan Just Before Scheduled Start. NPR's Robert Siegel talks to Lahav Harkov, Knesset reporter for the Jerusalem Post, about the politics around a plan to require Palestinian laborers from the West Bank to ride Palestinian-only buses." ;
+        c:id               "http://id.opencalais.com/7uMuqKTp8SRVSy2ZyKQ9sQ" .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:importance     "1" ;
+        c:name           "Geography of Asia" ;
+        c:originalValue  "Geography of Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45c50930-6538-3a50-99a2-7746fd3b3a5b> .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:score           "0.949" .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:importance     "2" ;
+        c:name           "Judaism" ;
+        c:originalValue  "Judaism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b3f0af6-dc4e-3900-bf30-c26b69920631> .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a3f6e13a-ea33-3a1a-ba3b-27336df61e4f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|c+qY9U/S8cp6QHH8COHHYAyJ6Pc=|TS+N1nwLB6gYygFRbzjWlllTssxH+tNopeOxoU1olQ1Nnrci0pqfPA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:32.145" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

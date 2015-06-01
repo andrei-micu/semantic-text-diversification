@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ZdOP6K41j2Us7mP4DPykUdY/aZ8=|QUmNtXDbg5mUQf72nsRFAGZTHex+uvVs06Qfb1DUF5XLFmA1dL4gqA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:18.036" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d> ;
+        c:importance     "1" ;
+        c:name           "Saudi Arabia" ;
+        c:originalValue  "Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/287525b4-3bb6-30f6-a8b8-1757b06a0b54> .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d> ;
+        c:score           "0.958" .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ef04d135-2999-b96b-14da-548c05435464" ;
+        c:docDate          "2015-05-30 10:45:18.145" ;
+        c:docTitle         "" ;
+        c:document         "Young Saudis, Bound by Conservative Strictures, Find Freedom on Their Phones. Confronted with an austere version of Islam and strict social codes, they increasingly rely on apps and social media for self-expression and liberation." ;
+        c:id               "http://id.opencalais.com/Fx6iDChYScn3Fu0XRDtgJQ" .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d> ;
+        c:importance     "1" ;
+        c:name           "Western Asia" ;
+        c:originalValue  "Western Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/631fb2b9-52dc-3d33-b119-8bf56d76a361> .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/74529019-1d1e-34a2-9f18-ce3f0a50397d> ;
+        c:importance     "2" ;
+        c:name           "Conservatism" ;
+        c:originalValue  "Conservatism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f8b0a81-5b19-322c-b977-78df72aa62db> .

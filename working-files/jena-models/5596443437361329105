@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:score           "0.941" .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b92a0d3c-f704-0d01-14da-54bd48d49095" ;
+        c:docDate          "2015-05-30 10:48:39.930" ;
+        c:docTitle         "" ;
+        c:document         "Arab air strikes hit military bases in Yemen. CAIRO (Reuters) - Saudi-led air strikes hit three military bases in the Yemeni capital Sanaa on Saturday and the Yemeni government in exile expressed reservations about United Nations-led talks aimed at ending the eight-week war." ;
+        c:id               "http://id.opencalais.com/BBetFAyTnFo7O6fN1eQwyQ" .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:importance     "2" ;
+        c:name           "Shia insurgency in Yemen" ;
+        c:originalValue  "Shia insurgency in Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/66191814-0fbd-3108-a6f9-6620f9b5a105> .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:importance     "2" ;
+        c:name           "Sana'a" ;
+        c:originalValue  "Sana'a" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9470deac-271a-31a0-8657-8cb59ccf0ebb> .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XnmN7AUzOEz9J0VVShqTzMzFoaE=|fYyBJVrUihjV2/7e086rRb64+sd2tqsWl+n9bJ8bqs0K7YJj+KDv6A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:39.821" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:importance     "1" ;
+        c:name           "Sanaa" ;
+        c:originalValue  "Sanaa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67b6f064-88cd-3db1-a0a1-bda179050825> .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:importance     "2" ;
+        c:name           "Israel–Yemen relations" ;
+        c:originalValue  "Israel–Yemen relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f5963e7-acdc-327f-b190-b16368da5836> .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:importance     "2" ;
+        c:name           "Yemen" ;
+        c:originalValue  "Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c6207b9-0507-3acd-bfb3-5586f8fb81ac> .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4343b926-8ae9-3289-a63d-9b548c14b3f5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

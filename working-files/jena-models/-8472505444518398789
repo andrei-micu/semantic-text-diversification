@@ -1,0 +1,100 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:importance     "2" ;
+        c:name           "Nationality" ;
+        c:originalValue  "Nationality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b44aebf-d341-3c29-99c8-2088e1ee35e9> .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "19f95fd9-928c-f27a-14da-53f35211927e" ;
+        c:docDate          "2015-05-30 10:34:52.842" ;
+        c:docTitle         "" ;
+        c:document         "Arnold Schwarzenegger Gets Serious About Fatherhood And Zombies. In Maggie, the former governor plays a father trying to prevent his daughter from \"turning\" after she's caught up in an attack of the undead." ;
+        c:id               "http://id.opencalais.com/lK7m7iaY02rE-fH9-CaomA" .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:importance     "1" ;
+        c:name           "Arnold Schwarzenegger" ;
+        c:originalValue  "Arnold Schwarzenegger" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d5b9acea-0d87-342b-ad63-efba7c2513af> .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:score           "0.587" .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:importance     "2" ;
+        c:name           "Zombie" ;
+        c:originalValue  "Zombie (fictional)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a2800e78-1999-3bc4-ac6a-c48747ea46e4> .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:importance     "1" ;
+        c:name           "Kennedy family" ;
+        c:originalValue  "Kennedy family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/85e5a243-efde-3667-a5f4-668e9a5d7c79> .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:importance     "2" ;
+        c:name           "Fiction" ;
+        c:originalValue  "Fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8802cc97-e83a-3d7d-b3b5-b3efb8e1d8de> .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|WyWQcJxN3McAdCbswfhed8APkME=|Tpi/StRFaH7dQfS+DVdZJEkuXCyNGAmTd9J2Y7opKPVykma7IhFstA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:52.577" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:importance     "1" ;
+        c:name           "Horror fiction" ;
+        c:originalValue  "Horror fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0afbcb47-9765-3d0b-804c-fa9be5ee4755> .
+
+<http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2f5cd7d-f904-3bc0-b39b-6cd1a848aa79> ;
+        c:importance     "2" ;
+        c:name           "Undead" ;
+        c:originalValue  "Undead (Kamen Rider)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7928c87c-6702-3e1e-96a7-b1b6e446ee6f> .

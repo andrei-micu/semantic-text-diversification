@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wUCla9GWhHPxVR7arAzWbnxjW2g=|d1DKZujuAjeDVOtYznhoklzcUCKOy8r5EnH8Rik8DmZVFgoifJsHag==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:01.903" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79> ;
+        c:score           "0.922" .
+
+<http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79> ;
+        c:importance     "2" ;
+        c:name           "Academia" ;
+        c:originalValue  "Academia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/edd007cf-7e4e-3ec4-9974-d0761c6c97ba> .
+
+<http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9f5145fe-cfae-a13a-14da-54b406f23ab1" ;
+        c:docDate          "2015-05-30 10:48:02.012" ;
+        c:docTitle         "" ;
+        c:document         "John F. Nash Jr., Mathematician Whose Life Story Inspired ‘A Beautiful Mind,’ Dies at 86. The narrative of Mr. Nash’s brilliant rise, the lost years of severe mental illness, and the eventual awarding of a Nobel Prize captured the public mind." ;
+        c:id               "http://id.opencalais.com/-d7xCEmnprsK7CkfRbjyWg" .
+
+<http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79> ;
+        c:importance     "1" ;
+        c:name           "John Forbes Nash, Jr." ;
+        c:originalValue  "John Forbes Nash, Jr." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/def5d979-8449-3ff3-92ea-0d70f024fb66> .
+
+<http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79> ;
+        c:importance     "2" ;
+        c:name           "Nobel Prize" ;
+        c:originalValue  "Nobel Prize" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40105015-e8e7-30dd-80a6-da56741e024b> .
+
+<http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37f79d90-e52f-3269-ab2b-9f26a88e9e79> ;
+        c:importance     "1" ;
+        c:name           "A Beautiful Mind" ;
+        c:originalValue  "A Beautiful Mind (book)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40eea369-6df3-3998-96b3-4c6412449cc6> .

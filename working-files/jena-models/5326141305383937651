@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:importance     "1" ;
+        c:name           "Iranian seizure of Royal Navy personnel" ;
+        c:originalValue  "2007 Iranian seizure of Royal Navy personnel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/73283dfb-3422-3bd7-9b40-8ce5986fb468> .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4466c200-4c6e-b285-14da-539dbd0719b3" ;
+        c:docDate          "2015-05-30 10:29:02.110" ;
+        c:docTitle         "" ;
+        c:document         "U.S. says Iranian forces fire on and board cargo ship in Gulf. DUBAI/WASHINGTON (Reuters) - Iranian forces boarded a Marshall Islands-flagged cargo ship in the Gulf on Tuesday after patrol boats fired warning shots across its bow and ordered it deeper into Iranian waters, the Pentagon said." ;
+        c:id               "http://id.opencalais.com/Ix790MpoKAmhhbgvLMgUSw" .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:importance     "1" ;
+        c:name           "Iran–United States relations" ;
+        c:originalValue  "Iran–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cc4f0d1-5a61-38ff-9a0d-6996481b513d> .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:importance     "2" ;
+        c:name           "U.S.–Iranian naval dispute" ;
+        c:originalValue  "2008 U.S.–Iranian naval dispute" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6bc95217-95af-3c94-a3af-0480134cb2ec> .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:score           "0.901" .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:importance     "1" ;
+        c:name           "Iran–Iraq War" ;
+        c:originalValue  "Iran–Iraq War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9725f4c7-caf3-3568-9c94-1918591454ea> .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|O1QZzhVbTklaBBe7lua60SRW9tg=|RdF76okP8bAwpDU9DTOlE2JEN9YTs5QXnpCaS7knfBP1pWKa8Jkj4w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:02.032" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7dd8afb0-13b0-3f55-a205-68b96984ac9a> ;
+        c:score           "0.610" .

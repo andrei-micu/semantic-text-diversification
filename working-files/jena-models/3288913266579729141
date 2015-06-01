@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234> ;
+        c:importance     "1" ;
+        c:name           "Economy of the United States" ;
+        c:originalValue  "Economy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c04552-e625-3a39-93f8-3544f0172fe0> .
+
+<http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234> ;
+        c:importance     "2" ;
+        c:name           "Economic history of Russia" ;
+        c:originalValue  "Economic history of Russia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52fafda1-e93a-3a6d-b499-a6bbf9a8b2c3> .
+
+<http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234> ;
+        c:importance     "1" ;
+        c:name           "Gross domestic product" ;
+        c:originalValue  "Gross domestic product" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0b89d7b-90a3-3a84-a4fb-a9b5bcb3b113> .
+
+<http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ff2f74da-309d-e11b-14da-53b29a449095" ;
+        c:docDate          "2015-05-30 10:30:27.585" ;
+        c:docTitle         "" ;
+        c:document         "Shares fall on U.S. GDP data, weak earnings; dollar slides. NEW YORK (Reuters) - Stock markets worldwide slumped on Wednesday after a batch of weaker-than-expected corporate results and data showing U.S. economic growth braked more sharply than expected in the first quarter, while the dollar plunged to a nine-week low." ;
+        c:id               "http://id.opencalais.com/00rX09dCIlE84sIpvzG9Gw" .
+
+<http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234> ;
+        c:importance     "2" ;
+        c:name           "Financial crises" ;
+        c:originalValue  "Financial crises" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f84e1e8c-5df5-3b4a-9d02-c73262121d76> .
+
+<http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234> ;
+        c:importance     "1" ;
+        c:name           "Stock market crashes" ;
+        c:originalValue  "Stock market crashes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1409c71f-4afd-3be5-aa93-72b19911a21a> .
+
+<http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0N2/mp8ZpVwBrJcln2wZgTW2ENs=|ggu2xIybFmKYJC8NiI+FfzVz3F2JYMGFoEeKukbgizLJcdX7WlbRhA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:30:27.492" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fe44758a-82ee-302f-b214-8c2ed6b24234> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

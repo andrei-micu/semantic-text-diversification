@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance     "2" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance     "1" ;
+        c:name           "War on Terror" ;
+        c:originalValue  "War on Terror" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff2ebef8-8f60-3bf7-b43d-ee429c20752f> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance     "2" ;
+        c:name           "Privacy of telecommunications" ;
+        c:originalValue  "Privacy of telecommunications" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c03029e8-5a21-32d4-bc71-5bec6984fa6b> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8cbd11a3-df47-3eed-14da-54a87611927e" ;
+        c:docDate          "2015-05-30 10:47:14.639" ;
+        c:docTitle         "" ;
+        c:document         "U.S. Senate tries to bridge gaps on domestic surveillance. WASHINGTON (Reuters) - The chairman of the U.S. Senate Intelligence Committee released a proposal meant to bridge divides among lawmakers on how to handle the June 1 expiration of domestic spying programs, with no clear outcome in sight late on Friday." ;
+        c:id               "http://id.opencalais.com/57FPXUUDJlchoHIUbok9dA" .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance     "1" ;
+        c:name           "Surveillance" ;
+        c:originalValue  "Surveillance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2899486a-eede-357a-8feb-cc555eede3ea> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance     "2" ;
+        c:name           "NSA electronic surveillance program" ;
+        c:originalValue  "NSA electronic surveillance program" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6b5cd75-6414-35a6-9e13-d621d6d76fdf> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance     "1" ;
+        c:name           "National Security Agency" ;
+        c:originalValue  "National Security Agency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b017771-03c4-3b59-adff-c4fa0413c51f> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance     "2" ;
+        c:name           "Counter-terrorism" ;
+        c:originalValue  "Counter-terrorism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ce54731-6399-31c6-b3f8-d2309879377a> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:score           "0.653" .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yg2SFVjMpGgLsc4J/5J1G8vZJTY=|Jd67WJLrUsVVFhitimUVuFmVHCNOqMEH/hWlZgzy6a2anSKtxsMgjw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:14.529" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance     "2" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b3063f8a-604f-35f9-a6e1-9fd7cd474f8a> ;
+        c:score           "0.987" .

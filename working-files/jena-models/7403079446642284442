@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2US/y6ZlGUdnEDDWzZfLs5Fx+mI=|NgaM1JdKhWNrFdHNLbHwP8nOMLYMnVb+8rGoByAzpK390YFGqJI25w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:52.053" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7933fbe3-890d-b1f8-14da-5401d7532f98" ;
+        c:docDate          "2015-05-30 09:35:52.287" ;
+        c:docTitle         "" ;
+        c:document         "Cop shown kicking man in head. Police in Dover, Delaware, have released dashcam video showing one of their officers kicking a man in the head, allegedly \"rendering him unconscious.\"" ;
+        c:id               "http://id.opencalais.com/lDoSI5tdD5FXraYcSuq4ew" .
+
+<http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5> ;
+        c:score           "0.958" .
+
+<http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5> ;
+        c:importance     "1" ;
+        c:name           "Delaware" ;
+        c:originalValue  "Delaware" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bc10c06e-0fcb-3070-bbff-02e8fccbc793> .
+
+<http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad6e632c-1130-3f07-b835-b5390eac4ed5> ;
+        c:score           "0.898" .

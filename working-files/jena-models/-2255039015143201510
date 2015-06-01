@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:importance     "2" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:importance     "2" ;
+        c:name           "Fox Broadcasting Company" ;
+        c:originalValue  "Fox Broadcasting Company" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d75770b-bff9-3637-b111-2dfc3a2e8437> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:importance     "2" ;
+        c:name           "Network change" ;
+        c:originalValue  "Network change" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/66e74028-56d0-38ec-839a-4e23e8ac98df> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|u1iaQ92nAYLfPZYnkAGi5VE+mBk=|FDZvGCLswKmj5gkhkawRWLyM/mY/7CKrOjaHwaNSqA2Hs3Ji3BokSA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:02.792" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:importance     "2" ;
+        c:name           "CBS" ;
+        c:originalValue  "CBS" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/af31cc5f-5bd0-32af-845c-850ee48f36ea> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4ec8c8d6-c533-b06b-14da-544db4832f98" ;
+        c:docDate          "2015-05-30 09:41:02.964" ;
+        c:docTitle         "" ;
+        c:document         "What you'll see on TV this fall. If you think networks like Fox, ABC and CBS are driving a superhero trend on TV, they've got nothing on the CW." ;
+        c:id               "http://id.opencalais.com/miL0NuHBnX2BmbfizCeQbA" .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:importance     "1" ;
+        c:name           "The CW Television Network" ;
+        c:originalValue  "The CW Television Network" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2a64b168-fc9f-3a3c-8cd2-93ac523e9365> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:importance     "2" ;
+        c:name           "The WB Television Network" ;
+        c:originalValue  "The WB Television Network" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50a30af7-e228-311c-9b0d-1051e8f2fb2a> .
+
+<http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e5508fe-5e6b-3b90-b29a-63a2d3ad6d04> ;
+        c:importance     "1" ;
+        c:name           "Joint ventures" ;
+        c:originalValue  "Joint ventures" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91c80544-ef34-3c99-85a5-8ae8afba4e65> .

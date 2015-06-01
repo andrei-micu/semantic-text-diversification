@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:importance     "2" ;
+        c:name           "Iconography" ;
+        c:originalValue  "Iconography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9917243e-6bb8-3bcf-82c4-8222e4de7e08> .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:importance     "1" ;
+        c:name           "Islam" ;
+        c:originalValue  "Islam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a1906a7-789f-31cd-8bd9-993b383e794a> .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:importance     "2" ;
+        c:name           "Everybody Draw Mohammed Day" ;
+        c:originalValue  "Everybody Draw Mohammed Day" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c368149-6de1-37e2-b026-4d6fba25542c> .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:importance     "2" ;
+        c:name           "Idolatry" ;
+        c:originalValue  "Idolatry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cafcb3f4-89e2-3646-8744-81ed33041a06> .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "53d1a29b-c881-38d5-14da-53cd9a049095" ;
+        c:docDate          "2015-05-30 10:32:18.236" ;
+        c:docTitle         "" ;
+        c:document         "Why images of Mohammed offend many. Violence over depictions of the Prophet Mohammed may mystify many non-Muslims, but it speaks to a central tenet of Islam: the worship of God alone." ;
+        c:id               "http://id.opencalais.com/2qpumFDiTClI5XM6Ej1w2g" .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:importance     "1" ;
+        c:name           "Depictions of Muhammad" ;
+        c:originalValue  "Depictions of Muhammad" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8166cb9b-81f8-3092-b71f-663678db9a9b> .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5+DNU5r0738rkmsDy2XHR54QsBE=|KcPCJTxtt8ijDg7aiPQxXu4OWrQbz8UOA0NHRT3ln7EQZRdnLlp0mA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:18.080" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:importance     "1" ;
+        c:name           "Religion" ;
+        c:originalValue  "Religion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c9f8418-419c-3a9b-92db-f387fc4fb3d7> .
+
+<http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/97f32c09-d34c-364c-9105-5810fd48a846> ;
+        c:importance     "2" ;
+        c:name           "Muhammad" ;
+        c:originalValue  "Muhammad" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9e7bf077-1d0e-36da-a15a-6959ce99c4bc> .

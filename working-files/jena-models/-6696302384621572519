@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d> ;
+        c:importance     "2" ;
+        c:name           "Homicide: Life on the Street" ;
+        c:originalValue  "Homicide: Life on the Street (season 1)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60649326-d76e-30bb-a753-418ed89cf271> .
+
+<http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|WgE/L0x5XBreh1tf0AGEzWIKB/w=|ZRv8RNYyeBnsFstk0ySgujd7rvw7gDCprtBMMEgGnQhFvyb5IaqevQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:02.130" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d> ;
+        c:importance     "1" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "562c7296-c518-284e-14da-546ad72760f9" ;
+        c:docDate          "2015-05-30 10:43:02.286" ;
+        c:docTitle         "" ;
+        c:document         "Law enforcement: $40,000 dropped off at home. Investigators believe money was a prime motive of whoever perpetrated the quadruple homicide inside a Washington D.C. mansion, which was also set ablaze. CNN's Pamela Brown reports." ;
+        c:id               "http://id.opencalais.com/Me0xichLHjcxlcEaj-iEvg" .
+
+<http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0869df35-60af-39e9-9aea-2eadc246956d> ;
+        c:score           "1.000" .

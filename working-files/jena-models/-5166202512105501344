@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:importance     "1" ;
+        c:name           "Johnny Depp" ;
+        c:originalValue  "Johnny Depp" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a921dcdd-4e09-31f6-a4af-77300153b45b> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:importance     "2" ;
+        c:name           "Films" ;
+        c:originalValue  "2003 films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa43c959-9228-3a22-998d-873ce33bc634> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:score           "0.633" .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:importance     "2" ;
+        c:name           "Jerry Bruckheimer films" ;
+        c:originalValue  "Jerry Bruckheimer films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f126f467-94c5-3afb-b8d0-a94e804e5210> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:importance     "1" ;
+        c:name           "Jack Sparrow" ;
+        c:originalValue  "Jack Sparrow" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aff990a9-b327-387d-875e-6ff57ebc3a77> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:importance     "2" ;
+        c:name           "Pirates of the Caribbean: The Curse of the Black Pearl" ;
+        c:originalValue  "Pirates of the Caribbean: The Curse of the Black Pearl" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a174d0f6-9501-32e3-886a-0773689c8f55> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:importance     "1" ;
+        c:name           "Cinema of the United States" ;
+        c:originalValue  "Cinema of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9089feca-c264-3451-b0cf-257f8c8b0635> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:importance     "2" ;
+        c:name           "Sparrow" ;
+        c:originalValue  "Sparrow (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5175fb50-fd71-3a5a-a049-9ebed7a03acb> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dd638887-071d-8341-4da5-43f79949095c" ;
+        c:docDate          "2015-05-30 10:40:04.755" ;
+        c:docTitle         "" ;
+        c:document         "Depp's dogs flying back to America. Johnny Depp may have been a success as swashbuckling Capt. Jack Sparrow, but any potential smuggling career of his own has hit a large rock in the shape of Australia." ;
+        c:id               "http://id.opencalais.com/YWt01*FEJ1Fj5chHZJ5Gsw" .
+
+<http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4f00a894-fe52-3122-8050-162f882f8b68> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|kcJHJ5atFeIfcsvi864M6Q+Mric=|PPUjP8tcN0T9/nKNubdVjSuL1lp14AktwW6qp7MsA4Vbx1b4B803Ig==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:04.505" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

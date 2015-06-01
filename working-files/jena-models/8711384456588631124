@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:importance     "1" ;
+        c:name           "Cannabis laws" ;
+        c:originalValue  "Cannabis laws" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cf48bbc-182b-3ba4-a695-69e9d8ea8ed6> .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:importance     "2" ;
+        c:name           "Neurochemistry" ;
+        c:originalValue  "Neurochemistry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cbaf630-be58-3dff-8ecc-8cc2586fc80e> .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:importance     "1" ;
+        c:name           "Legality of cannabis" ;
+        c:originalValue  "Legality of cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b37aede-a197-36eb-a2f6-55fa59e108a4> .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b4a4b60e-0096-9f63-14da-53e91061927e" ;
+        c:docDate          "2015-05-30 10:34:10.690" ;
+        c:docTitle         "" ;
+        c:document         "Talking to kids about legal marijuana . My kids are in elementary school -- a little young for the \"weed talk\" -- but I wonder whether the fact that recreational pot use is now legal in a handful of states will complicate things once we start having those conversations." ;
+        c:id               "http://id.opencalais.com/zPN*WFQFEdKecMietpa4tg" .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:score           "0.871" .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:importance     "2" ;
+        c:name           "Neuropsychology" ;
+        c:originalValue  "Neuropsychology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c5e7ac54-175e-3ba7-b552-b8bb12306c3d> .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|vS0o9D0s3af8Wk9ZwPeBi3fe7L0=|LWQLdvTka8K056wXwvIqkFpzMN1nzC6CgQDOkQsL22KpDtLsVS/s7Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:10.566" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83cf5814-cbd6-3a58-b598-4895fd1329e3> ;
+        c:importance     "1" ;
+        c:name           "Cannabis" ;
+        c:originalValue  "Cannabis (drug)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0408b99-6c30-3a92-b818-7e4de9a9f531> .

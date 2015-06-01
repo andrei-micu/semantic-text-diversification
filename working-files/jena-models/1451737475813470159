@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b2f1aaea-4a8e-3aa6-a75f-1881dcd44452>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8c78d0c9-d529-c3f7-14da-53f768c760f9" ;
+        c:docDate          "2015-05-30 10:35:09.386" ;
+        c:docTitle         "" ;
+        c:document         "Flood, fire and drought: Examples of severe weather. Photo gallery: Sameple of severe weather" ;
+        c:id               "http://id.opencalais.com/NoTBOPZf6F51724BCkLlTA" .
+
+<http://d.opencalais.com/dochash-1/b2f1aaea-4a8e-3aa6-a75f-1881dcd44452/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b2f1aaea-4a8e-3aa6-a75f-1881dcd44452> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/b2f1aaea-4a8e-3aa6-a75f-1881dcd44452/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b2f1aaea-4a8e-3aa6-a75f-1881dcd44452> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0g2jlUzWQEYVWTGZU55HaaW8iws=|b2JNtLLOESf8t0Zv2TUepdIIqN2In0H9LiVQrnYY7I1VdBC+Djeolw==" ;
+        c:submissionDate  "2015-05-30 10:35:09.324" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

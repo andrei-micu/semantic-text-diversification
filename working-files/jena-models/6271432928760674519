@@ -1,0 +1,43 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c13ea423-002e-31a6-be08-7858c87b0c18>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c8b20585-4b7a-ede5-14da-54a62b7653ed" ;
+        c:docDate          "2015-05-30 09:47:05.424" ;
+        c:docTitle         "" ;
+        c:document         "Kamasi Washington's 'The Epic' In Concert. The music of the saxophonist's three-CD, nearly three-hour work comes to life in its full glory, assisted by his long-time working band, a choir, strings and plenty of special guests." ;
+        c:id               "http://id.opencalais.com/9LvmAz4jcwP*jc064vFwww" .
+
+<http://d.opencalais.com/dochash-1/c13ea423-002e-31a6-be08-7858c87b0c18/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c13ea423-002e-31a6-be08-7858c87b0c18> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c13ea423-002e-31a6-be08-7858c87b0c18/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c13ea423-002e-31a6-be08-7858c87b0c18> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/c13ea423-002e-31a6-be08-7858c87b0c18/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c13ea423-002e-31a6-be08-7858c87b0c18> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c13ea423-002e-31a6-be08-7858c87b0c18/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c13ea423-002e-31a6-be08-7858c87b0c18> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cqi6sjMWd0jsDi1ZHMR6DJTQkqg=|gInvgY8c2+rEtv0vDcZ12xkAlO0nF3Aix+y4nlDuts/SrUa6cJgMGA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:05.143" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:importance     "1" ;
+        c:name           "Geography of California" ;
+        c:originalValue  "Geography of California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/637c5164-c035-34de-88dc-88bc9287ec8f> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:importance     "2" ;
+        c:name           "Supermodel" ;
+        c:originalValue  "Supermodel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7d359d01-49ad-38e1-8167-14dac2cbbbc4> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:importance     "2" ;
+        c:name           "Bill Cosby" ;
+        c:originalValue  "Bill Cosby" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/141fec70-76f4-3b98-b3dc-f015ae26c724> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:importance     "2" ;
+        c:name           "SS Tahoe" ;
+        c:originalValue  "SS Tahoe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7aef89db-1197-3792-ba81-8b2e81598661> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:importance     "2" ;
+        c:name           "Lake Tahoe" ;
+        c:originalValue  "Lake Tahoe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcba79b7-280d-3e62-a5fd-c7b14b5e2fca> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:importance     "1" ;
+        c:name           "Nevada" ;
+        c:originalValue  "Nevada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/127f5006-1146-3c86-98e9-e7f736cefa88> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b7329d5c-2a7d-3acf-14da-546fa311927e" ;
+        c:docDate          "2015-05-30 10:43:21.980" ;
+        c:docTitle         "" ;
+        c:document         "Ex-supermodel sues Bill Cosby. In November, supermodel Janice Dickinson said in an interview that Bill Cosby sexually assaulted her in 1982 after the two had dinner in Lake Tahoe, Nevada." ;
+        c:id               "http://id.opencalais.com/41kBeoTB26TccnJND7SMRQ" .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:score           "0.999" .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FH/j917nQ3P27SESPYJlQxislTQ=|iKqjOTQC5Yc8/ZR5PV+7bQ7KIew7lAVsBrUQdzecYgaCWdEgq9TBKw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:21.777" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:importance     "2" ;
+        c:name           "Janice Dickinson" ;
+        c:originalValue  "Janice Dickinson" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67dc5b71-9c97-39ab-b0b4-c675d5bd25a4> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40588366-43bb-3ad4-a541-d84139fbacdd> ;
+        c:importance     "2" ;
+        c:name           "Cosby" ;
+        c:originalValue  "Cosby (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/766b0dec-75d8-3f5b-9496-ea5238392a88> .

@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "847ce266-dd4e-06d3-14da-5418d0134709" ;
+        c:docDate          "2015-05-30 09:37:26.316" ;
+        c:docTitle         "" ;
+        c:document         "Rare tiger encounter caught on camera. The World Wildlife Fund captured two rare Sumatran tigers courting on trap cameras." ;
+        c:id               "http://id.opencalais.com/tWFA4r4RFDOLWRt-A2mCpg" .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:importance     "2" ;
+        c:name           "Sumatran tiger" ;
+        c:originalValue  "Sumatran tiger" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5778e310-9991-3ce2-98fd-41f8742c56c0> .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|SFAw4yTgMkm2wMKKVtjmxGOcnqY=|iQxsPD9PIl41DB7E+zdfzQYJ5ytqMmW0G8fkkkQNhm6h6ZYr+6jRwQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:26.145" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:importance     "1" ;
+        c:name           "Eurasia" ;
+        c:originalValue  "Eurasia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6eacdf67-ad6d-39ff-905b-93243c5ba747> .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:importance     "1" ;
+        c:name           "Fauna of Asia" ;
+        c:originalValue  "Fauna of Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2a8eea6-98b4-35c3-b399-6c90bb00f519> .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:importance     "2" ;
+        c:name           "Camera trap" ;
+        c:originalValue  "Camera trap" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b1361d17-c0d9-39aa-808a-e6bdeb16162f> .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:importance     "2" ;
+        c:name           "Tigers" ;
+        c:originalValue  "Tigers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a6e4c55-4b6a-34f1-9bda-19138a3b36ca> .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:score           "0.995" .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/494bd812-b0e3-395c-bdfc-ebffa78848b1> ;
+        c:importance     "2" ;
+        c:name           "Javan tiger" ;
+        c:originalValue  "Javan tiger" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3909f43-376a-3e33-a4b2-f3d1e258d0e6> .

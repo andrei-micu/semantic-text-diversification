@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "35b520e8-b6a8-c305-14da-5445e4e34709" ;
+        c:docDate          "2015-05-30 09:40:31.095" ;
+        c:docTitle         "" ;
+        c:document         "Winston the python bites off more than he can chew. An Adelaide snake owner had to take his python for emergency medical treatment after the animal swallowed a set of barbecue tongs that were being used to feed him a rat." ;
+        c:id               "http://id.opencalais.com/G9VQUwp1qDriXQ3pZe*Zgw" .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:importance     "1" ;
+        c:name           "Software engineering" ;
+        c:originalValue  "Software engineering" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83ab6973-c98f-3ec5-91f2-bb1f77eff5f2> .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:importance     "2" ;
+        c:name           "Python" ;
+        c:originalValue  "Python (film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff8afe68-2042-3341-98a5-74722f081047> .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:importance     "2" ;
+        c:name           "Monty Python" ;
+        c:originalValue  "Monty Python" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3901817-90de-36c7-b90d-cd742dae9494> .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:importance     "1" ;
+        c:name           "Computer programming" ;
+        c:originalValue  "Computer programming" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/829a7187-ed63-3f13-bd97-26751028ceba> .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:importance     "2" ;
+        c:name           "Rat" ;
+        c:originalValue  "Rat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0dd06cd-73df-3b79-9606-869ea98593db> .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:importance     "2" ;
+        c:name           "Snake" ;
+        c:originalValue  "Snake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/11771354-282b-34ce-ae03-83d3348dbb16> .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:importance     "1" ;
+        c:name           "Computing" ;
+        c:originalValue  "Computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169> .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/83e1b166-e73d-3a62-9ece-4fd9b3d0fd95> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|AZXxPOVBF6HE4Umz5ew/n80LMrk=|fykETuw87SrbGJ8IR6UOkCi1ptdu675F/7IRZzsJzZxiyhhK7cinOw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:30.798" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

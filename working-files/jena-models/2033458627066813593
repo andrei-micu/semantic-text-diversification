@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance     "1" ;
+        c:name           "Product certification" ;
+        c:originalValue  "Product certification" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fddf546b-bea9-3ca8-bf63-cd12b967b910> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fC6VIZ/ss88XImR+nc7gQdsWDIk=|inzeD2dTP0+3dmWqSo3DbEHR/OeIvqXoGzKXyWZGu56x7grbTJivfw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:27.090" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance     "2" ;
+        c:name           "Sustainability" ;
+        c:originalValue  "Sustainability" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d7114f4a-07d8-33f5-b7f2-915f6a038b6b> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance     "2" ;
+        c:name           "Organic farming" ;
+        c:originalValue  "Organic farming" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7837a0ab-fd3a-3787-8323-6670531eb233> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:score           "0.994" .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance     "1" ;
+        c:name           "Organic food" ;
+        c:originalValue  "Organic food" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7835d147-28f5-3139-87f4-9e0c481f88c8> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance     "2" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance     "2" ;
+        c:name           "Food politics" ;
+        c:originalValue  "Food politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc8915e2-16b5-378b-9866-393c68457c6f> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:score           "0.981" .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance     "1" ;
+        c:name           "Sustainable food system" ;
+        c:originalValue  "Sustainable food system" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0154772-6e31-313b-8075-42109e4d75fd> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1b0879a4-0e37-44b2-14da-54365721927e" ;
+        c:docDate          "2015-05-30 10:39:27.371" ;
+        c:docTitle         "" ;
+        c:document         "In 'Organic Life,' The Making Of America's First Organic Restaurant. Nora Pouillon writes about her lifelong devotion to food in a new memoir, My Organic Life. Her restaurant has been a fixture in the Washington, D.C., food scene since 1979." ;
+        c:id               "http://id.opencalais.com/uFJGWGoqBhiYKZ-XNlVGNA" .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance     "2" ;
+        c:name           "Sustainable agriculture" ;
+        c:originalValue  "Sustainable agriculture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/932814e8-50ce-3b63-bdf6-74a9679f49e2> .
+
+<http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41822a67-403c-3877-a9b0-92ede9531820> ;
+        c:importance     "2" ;
+        c:name           "Restaurant Nora" ;
+        c:originalValue  "Restaurant Nora" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f8ff1d9f-8b88-3950-a6be-15b5e38e534b> .

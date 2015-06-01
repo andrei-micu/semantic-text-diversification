@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wpbE4/d60f983Hzlv/+UUS4c3YA=|f06+YZjEYjDWYajsB3Vv7p0OviNam9H+Ed04Ks/TYL9gkc8i4toHog==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:03.713" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:importance     "2" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:importance     "1" ;
+        c:name           "Nashville, Tennessee" ;
+        c:originalValue  "Nashville, Tennessee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c4e8c6e7-8f49-38c9-91d0-518afbde3113> .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:importance     "1" ;
+        c:name           "George Jones" ;
+        c:originalValue  "George Jones" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52416718-7cbd-33b6-871e-8b0e1ed5b400> .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:importance     "2" ;
+        c:name           "Tennessee" ;
+        c:originalValue  "Tennessee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/483ed5d4-8236-3145-8a9e-ef75462a7e78> .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:importance     "2" ;
+        c:name           "Remade" ;
+        c:originalValue  "Remade" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d508bf8-a078-3fbb-8271-23d0991e4b2e> .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:score           "0.740" .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:importance     "1" ;
+        c:name           "Moonshine" ;
+        c:originalValue  "Moonshine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d105dc7a-1a47-3fb7-ac4f-0bb9941512ca> .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "144fc6d2-e8d1-f591-14da-54b478123ab1" ;
+        c:docDate          "2015-05-30 10:48:04.040" ;
+        c:docTitle         "" ;
+        c:document         "Mower Meets Moonshine at a Shrine for George Jones. The George Jones Museum has one boot in the old Nashville and one in the new, reflecting a city being remade with gleaming towers and one where country music is part of the DNA." ;
+        c:id               "http://id.opencalais.com/qkkGNFW7EoONA*7gszywmw" .
+
+<http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b1056f8e-24a1-39a8-ac19-03ce76802673> ;
+        c:importance     "2" ;
+        c:name           "Country music" ;
+        c:originalValue  "Country music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f09ea10b-fbd8-31b6-aac5-4d22ca88a416> .

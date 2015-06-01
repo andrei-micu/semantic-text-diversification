@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:importance     "1" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:importance     "2" ;
+        c:name           "Curfew" ;
+        c:originalValue  "Curfew" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d1a95c9-f733-3f6f-9af3-a6427f468644> .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f221597d-14f1-e90c-14da-53cc4db32955" ;
+        c:docDate          "2015-05-30 10:32:12.919" ;
+        c:docTitle         "" ;
+        c:document         "Baltimore lifts post-riot curfew. National Guard troops begin leaving Baltimore and a curfew is lifted, as tension subsides following rioting over the custody death of a black man." ;
+        c:id               "http://id.opencalais.com/quGSCLa*IYeq0u7MW6Lqpw" .
+
+<http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d04fec59-3c96-35cb-b769-09b357e453cf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|sy7/fkgFnxO4Ytln2c2shcIV76I=|SRLzGqdf4cpSSO0464e2ZfDYN7A6brmgKfV5PuRBsRJi3a2GFIwhAg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:12.763" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

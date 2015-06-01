@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f> ;
+        c:importance     "1" ;
+        c:name           "Captain Marvel" ;
+        c:originalValue  "Captain Marvel (DC Comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/15df3ef7-512e-39da-bb87-519e60c91ef0> .
+
+<http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f> ;
+        c:score           "0.689" .
+
+<http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|BNJy92b84M4tYAEPtKByK6b8Zf0=|dnTMJgAhXbVLXSmXAZyu/tkSeBFqbJEsY+c0l31+DZ+5D31dewcp1Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:58.128" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f> ;
+        c:importance     "2" ;
+        c:name           "Comics" ;
+        c:originalValue  "Comics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/938baa31-4207-3ab2-a934-e29b3cd1e3a8> .
+
+<http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f> ;
+        c:importance     "1" ;
+        c:name           "Religion" ;
+        c:originalValue  "Religion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c9f8418-419c-3a9b-92db-f387fc4fb3d7> .
+
+<http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3cc2e85d-0f20-8291-4da5-43deb0719b32" ;
+        c:docDate          "2015-05-30 10:39:58.268" ;
+        c:docTitle         "" ;
+        c:document         "ISIS launches major offensive. ISIS has launched a wide-scale attack in Ramadi, the governor said. FULL STORY" ;
+        c:id               "http://id.opencalais.com/uB2oZn3Z2UHhhoST2iqJeg" .
+
+<http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f> ;
+        c:importance     "2" ;
+        c:name           "Battle of Ramadi" ;
+        c:originalValue  "Battle of Ramadi (2006)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9001f61-aa79-388b-8978-f0fdb88b3bdc> .
+
+<http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f> ;
+        c:importance     "1" ;
+        c:name           "Isis" ;
+        c:originalValue  "Isis (Bluewater Comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afe3a960-ba58-3537-8ed1-540bc01f0b0a> .
+
+<http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f1649e70-2483-32f1-8cc6-6d1631c61a0f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

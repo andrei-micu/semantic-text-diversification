@@ -1,0 +1,136 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:score           "0.958" .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:importance     "2" ;
+        c:name           "American cuisine" ;
+        c:originalValue  "American cuisine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ff14d5c-d77d-32f9-8636-7490f3e89a2a> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|r20fv+27zf8m/y1yVzF2B1HDd+w=|STmh/4hMFAFGBOOj0mZYByjk1ipZn5Q8NLSQFmYud3xdYOuHvFWbwA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:14.770" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9c64b966-0a73-5eb2-14da-5441fb249095" ;
+        c:docDate          "2015-05-30 10:40:14.926" ;
+        c:docTitle         "" ;
+        c:document         "Fast food worker's kind act caught on camera. Qdoba restaurant employee goes above and beyond to help disabled customer. WAVE has more." ;
+        c:id               "http://id.opencalais.com/TMpq*0lsaopCTOfnJjWQdA" .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:importance     "1" ;
+        c:name           "Qdoba Mexican Grill" ;
+        c:originalValue  "Qdoba Mexican Grill" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c6c14179-4995-3850-97f4-5470f3b4aac3> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:score           "0.958" .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:importance     "1" ;
+        c:name           "Cuisine of the Western United States" ;
+        c:originalValue  "Cuisine of the Western United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2939a992-f2a4-35f5-b532-cbc2cad80ab5> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:importance     "2" ;
+        c:name           "Gastronomy" ;
+        c:originalValue  "Gastronomy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45dad9af-356a-3807-9d64-c62059582a65> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:importance     "2" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:score           "0.868" .
+
+<http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a23e2ce1-fc52-349b-a6e8-a1d706c415db> ;
+        c:importance     "1" ;
+        c:name           "Fast casual restaurants" ;
+        c:originalValue  "Fast casual restaurants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fe6acd4f-46c5-38ca-9770-a25f39a7fd12> .

@@ -1,0 +1,43 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/26deafc3-1610-39a5-ada4-f7546caec345/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/26deafc3-1610-39a5-ada4-f7546caec345> ;
+        c:score           "0.874" .
+
+<http://d.opencalais.com/dochash-1/26deafc3-1610-39a5-ada4-f7546caec345>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bea2a217-6df0-06a0-14da-53a885832955" ;
+        c:docDate          "2015-05-30 10:29:46.310" ;
+        c:docTitle         "" ;
+        c:document         "Chilling photo: Tsarnaev's brother. The defense is shifting the trial's focus to the power Tamerlan Tsarnaev held over Dzhokhar. FULL STORY" ;
+        c:id               "http://id.opencalais.com/WsdBEmB7-COOSXCGJkC7AA" .
+
+<http://d.opencalais.com/dochash-1/26deafc3-1610-39a5-ada4-f7546caec345/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/26deafc3-1610-39a5-ada4-f7546caec345> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/26deafc3-1610-39a5-ada4-f7546caec345/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/26deafc3-1610-39a5-ada4-f7546caec345> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/26deafc3-1610-39a5-ada4-f7546caec345/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/26deafc3-1610-39a5-ada4-f7546caec345> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Yxc6QP/igJ3Ryflscqq2guzBEgM=|i9vYj8iAEnJfnBZ5pZM9AIcpFp0e03mGlnIm3OG690wnQKIVD5Evxw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:46.200" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

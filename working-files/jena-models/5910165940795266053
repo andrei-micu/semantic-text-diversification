@@ -1,0 +1,144 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:importance     "2" ;
+        c:name           "Maiti Nepal" ;
+        c:originalValue  "Maiti Nepal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3b7a84d-614a-3fad-acfa-2aa913110194> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:score           "0.866" .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "977d539c-b8d8-bc76-14da-53d5b2032955" ;
+        c:docDate          "2015-05-30 10:32:51.326" ;
+        c:docTitle         "" ;
+        c:document         "Dreams 'scattered' by Nepal quake. Two CNN Heroes are among the earthquake survivors in Kathmandu, Nepal. And they are struggling in the aftermath." ;
+        c:id               "http://id.opencalais.com/Fi80V9HYeqA2TOhXINLqZQ" .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3YeGE+pT9gnAsmKHDX2EAkSVzvQ=|RkEcXRdQuIarSTgvP/fNuWxh6Q9higapZX6irZ5K3nfs2xEGR9MpmA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:51.232" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:importance     "1" ;
+        c:name           "Nepal" ;
+        c:originalValue  "Nepal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47cb7fb8-c179-378d-94c8-3ee216a55ec3> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:importance     "1" ;
+        c:name           "Newar" ;
+        c:originalValue  "Newar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7146c404-7aff-395b-a681-c65d5d963b59> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/cat/5>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:score           "0.513" .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d6c0b386-bd70-36c2-a14c-2ca7e4859ff4> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .

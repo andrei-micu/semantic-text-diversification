@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance     "1" ;
+        c:name           "Corporate finance" ;
+        c:originalValue  "Corporate finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e3bed591-ad6d-30db-b70a-c02c5ae755bd> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance     "2" ;
+        c:name           "Financial economics" ;
+        c:originalValue  "Financial economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bb9859-75e0-3b28-acdb-61f6b786cc4c> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance     "2" ;
+        c:name           "Executive pay" ;
+        c:originalValue  "Executive pay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f9d029a5-ac4e-3085-b3c4-97dc0948bde8> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance     "1" ;
+        c:name           "Management" ;
+        c:originalValue  "Management" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2abff66a-f5dc-3df6-a0b4-c699abb7f2d9> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|A19qguo+9ojKyT7lbBSOj1PuE7w=|PV6sPYlljKfAKnJj2AoHRuTOtmds/COs7x0iXZnMOUDd5lNySIM2vQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:44.754" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b866fa4a-1d0d-4ea8-14da-546699232f98" ;
+        c:docDate          "2015-05-30 09:42:44.988" ;
+        c:docTitle         "" ;
+        c:document         "Fair Game: Shareholders’ Votes Have Done Little to Curb Lavish Executive Pay. Despite rules empowering shareholders to rein in soaring pay packages, few have chosen to do so, perhaps because of a rising stock market." ;
+        c:id               "http://id.opencalais.com/HFo0EMrlJuB5NQb0cQ78VQ" .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance     "2" ;
+        c:name           "Stock" ;
+        c:originalValue  "Stock" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/888c2b1b-c1a6-34fe-a071-d99538e65465> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance     "2" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance     "2" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance     "1" ;
+        c:name           "Stock market" ;
+        c:originalValue  "Stock market" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06fb4dfb-0f17-320f-a936-8a3d8807cef9> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance     "2" ;
+        c:name           "Recruitment" ;
+        c:originalValue  "Recruitment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e688a2e4-be30-32fb-bdbc-fa6782ae1fcb> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5812e3ba-e061-3296-ba2f-db1c4d2c3f89> ;
+        c:importance     "2" ;
+        c:name           "Employment compensation" ;
+        c:originalValue  "Employment compensation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2389f7b-f3ad-3337-9e93-670bd108a205> .

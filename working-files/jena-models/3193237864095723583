@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance     "1" ;
+        c:name           "Military history by country" ;
+        c:originalValue  "Military history by country" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/087763f8-a6c8-3617-900c-aab09427f17b> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance     "2" ;
+        c:name           "Beijing" ;
+        c:originalValue  "Beijing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/971e1e08-3319-3e62-8d87-e1d710304164> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance     "2" ;
+        c:name           "World War II" ;
+        c:originalValue  "World War II" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/855f2587-a479-392b-9fc1-befbc21f0cb2> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|W0FSsTHQCvX5mUT0oydT/X+KOkw=|CLpg47VsD1DbqMfPtgsS73yJwcWFpvktEQsKC+kYu8HBLv/5PwzrdA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:19.433" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:score           "0.695" .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance     "1" ;
+        c:name           "Military history of Europe" ;
+        c:originalValue  "Military history of Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a40199a5-ffe7-3048-a8cd-ffe958c0fcdd> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance     "2" ;
+        c:name           "Communist party" ;
+        c:originalValue  "Communist party (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e0f1ec1-1104-3c32-a3ee-d9e73585db40> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c650c8ec-b7f5-f4c5-14da-5425d2934709" ;
+        c:docDate          "2015-05-30 09:38:19.652" ;
+        c:docTitle         "" ;
+        c:document         "China paper slams Japan for lack of WW2 contrition. BEIJING (Reuters) - German contrition over World War Two stands in contrast to Japan's failure to reflect on its past, the official newspaper of China's ruling Communist Party said on Sunday, following war commemorations in Moscow." ;
+        c:id               "http://id.opencalais.com/c08CfllstJY0jeL4shmXrg" .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance     "1" ;
+        c:name           "Military" ;
+        c:originalValue  "Military" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/628c4e54-7bba-3c87-80aa-ecabcf30215e> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:importance     "2" ;
+        c:name           "Political status of Taiwan" ;
+        c:originalValue  "Political status of Taiwan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c8a8b8d-e2f8-3f05-a3c4-308732e1cc5f> .
+
+<http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bb2d198-c8aa-3296-afdc-78eb1bb32583> ;
+        c:score           "0.981" .

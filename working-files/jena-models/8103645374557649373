@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:importance     "1" ;
+        c:name           "Sexual orientation" ;
+        c:originalValue  "Sexual orientation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/95c7476e-ecc6-380e-891e-7e8b1e6ebfc1> .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:importance     "1" ;
+        c:name           "Scouting" ;
+        c:originalValue  "Scouting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4e77ef1-7a09-3d9c-8aa0-8f4e346b2c7b> .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:importance     "2" ;
+        c:name           "Coming out" ;
+        c:originalValue  "Coming out" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e7d2fd38-2282-3e3c-a254-4ae2ea137127> .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:score           "0.999" .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:importance     "2" ;
+        c:name           "LGBT" ;
+        c:originalValue  "LGBT" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/927e11b0-bea4-3c4f-afb6-419026258426> .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:importance     "1" ;
+        c:name           "Gender" ;
+        c:originalValue  "Gender" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68502b1e-12f9-3466-ac94-9d9ca76df055> .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|v6DAHSlySzJmIIOWeyTqbC62hTM=|Wq4IQvgsQTVF1mUicLu2aY24yzVI1y5A7HzpxrrJkhlUCnlH4Iw5fw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:05.846" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:importance     "2" ;
+        c:name           "Boy Scouts of America membership controversies" ;
+        c:originalValue  "Boy Scouts of America membership controversies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17d37773-6a1d-35bd-baa7-2ed91d06301b> .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:score           "0.958" .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b9627580-7a32-74c9-14da-54a657613c98" ;
+        c:docDate          "2015-05-30 09:47:06.033" ;
+        c:docTitle         "" ;
+        c:document         "Openly Gay Leader: Boy Scouts Won't Exist If Discrimination Continues. NPR's Robert Siegel interviews Brian Peffly about how Robert Gates called the ban on openly gay adult leaders unsustainable. Peffly's scouting membership was revoked because he is openly gay." ;
+        c:id               "http://id.opencalais.com/kKtckYodHJyLwDGjkrNyhw" .
+
+<http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b409f32-98c0-3718-8d17-2f870c99c7c3> ;
+        c:importance     "2" ;
+        c:name           "Scout Leader" ;
+        c:originalValue  "Scout Leader" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/af82a7cc-49f8-37a8-b847-8e877af2815f> .

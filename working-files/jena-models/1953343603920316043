@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078> ;
+        c:importance     "1" ;
+        c:name           "Dam" ;
+        c:originalValue  "Dam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/678fd1fc-f99f-3f97-bb58-ac6a6d35d50a> .
+
+<http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Qp/ejBAMxeGsk04EshEmKyIPZPg=|kJvb01nUX0vikiX8u0SSNrtuEDws0Chdk7b6KrWBwVg+zahREmUJog==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:25.142" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078> ;
+        c:importance     "1" ;
+        c:name           "Landslide" ;
+        c:originalValue  "Landslide" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f78b50a2-c4db-3047-93fe-f227c2f02643> .
+
+<http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5870b1c5-580d-661b-14da-54b9b36719b3" ;
+        c:docDate          "2015-05-30 10:48:25.329" ;
+        c:docTitle         "" ;
+        c:document         "Nepali Villagers Flee After Landslide Cuts Off Major River. Rising waters behind the earth dam created by the landslide could burst through, inundating villages for miles downstream, officials say." ;
+        c:id               "http://id.opencalais.com/FErZcwElrIQiZY4BIbx4iw" .
+
+<http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078> ;
+        c:importance     "1" ;
+        c:name           "Environmental soil science" ;
+        c:originalValue  "Environmental soil science" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6abefda6-ff30-34f3-a536-eb3a5a0a0eb6> .
+
+<http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3adb9d1e-ee6f-366d-a04a-d99ed6cf1078> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

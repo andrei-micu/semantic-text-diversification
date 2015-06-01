@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance     "1" ;
+        c:name           "TriBeCa" ;
+        c:originalValue  "TriBeCa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74c90562-fa66-31ea-897d-45ba5f50318c> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance     "2" ;
+        c:name           "Gotham Screen Film Festival & Screenplay Contest" ;
+        c:originalValue  "Gotham Screen Film Festival & Screenplay Contest" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ef77f0b9-2c2f-36c2-b418-389bf91edc27> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance     "1" ;
+        c:name           "Cinema of the United States" ;
+        c:originalValue  "Cinema of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9089feca-c264-3451-b0cf-257f8c8b0635> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance     "2" ;
+        c:name           "New York City" ;
+        c:originalValue  "New York City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab0f5222-8761-3028-a7c2-87555857e560> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9dfe6bcf-b849-3cc1-4da5-467ca44551f6" ;
+        c:docDate          "2015-05-30 09:42:49.932" ;
+        c:docTitle         "" ;
+        c:document         "Tribeca festival begins in New York. New York's Tribeca Film Festival kicked off on Wednesday with the world premiere of Saturday Night Live documentary, Live from New York!." ;
+        c:id               "http://id.opencalais.com/NU5uXpCgV1mMQpk665WuQQ" .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance     "2" ;
+        c:name           "Films" ;
+        c:originalValue  "2006 films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa43c959-9228-3a22-998d-873ce33bc634> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|VvHyJOnEybWwEak3rBN1GEpUI4Q=|BBm/8mdO2kuV6olhz7H5f0tMyedGgEkJSaViO9Jcbdz2bJvML3tIYQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:49.636" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance     "2" ;
+        c:name           "Judd Ehrlich" ;
+        c:originalValue  "Judd Ehrlich" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7bbb438d-47b8-3a8b-a3c8-c725d836acc5> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:score           "0.782" .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance     "1" ;
+        c:name           "Economy of New York City" ;
+        c:originalValue  "Economy of New York City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a438d769-4ab3-30a3-9f51-88e882f9f8ba> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance     "2" ;
+        c:name           "American film directors" ;
+        c:originalValue  "American film directors" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a883354c-9d65-36ca-9c6f-a86372616b29> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance     "2" ;
+        c:name           "Tribeca Film Festival" ;
+        c:originalValue  "Tribeca Film Festival" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bc6a4e13-ddf0-3e5b-a282-db868b8e33b9> .
+
+<http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ad70c085-44db-34ff-ad87-69bf85aae801> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .

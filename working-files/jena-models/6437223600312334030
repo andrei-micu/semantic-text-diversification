@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b5d76af9-5d32-fc61-14da-539f628760f9" ;
+        c:docDate          "2015-05-30 10:29:08.885" ;
+        c:docTitle         "" ;
+        c:document         "Sweden's Supreme Court says will hear Assange appeal over arrest warrant. STOCKHOLM (Reuters) - Sweden's Supreme Court said on Tuesday it would hear an appeal by WikiLeaks founder Julian Assange to overturn the arrest warrant against him issued by prosecutors who want to question him over allegations of sexual assault." ;
+        c:id               "http://id.opencalais.com/IHbreQUqcODTWMMqN8B4Nw" .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:importance     "2" ;
+        c:name           "Cypherpunks" ;
+        c:originalValue  "Cypherpunks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/95ae620c-8b34-334a-ba4b-3c51bfb7959c> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:importance     "1" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7/XY5hr2rwspwVcRYgDNKOSD9Co=|DBrIcMAP0m61z0JpUVyaZ44M7yltSEH7EG/OJ0W2h3gzdBiBw2paoQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:08.776" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:importance     "2" ;
+        c:name           "Swedish Judicial Authority v Julian Assange" ;
+        c:originalValue  "Swedish Judicial Authority v Julian Assange" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7653e08f-3dc1-3280-82d4-1dfcfde91753> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:importance     "2" ;
+        c:name           "Julian Assange" ;
+        c:originalValue  "Julian Assange" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f87332d4-2293-3ab0-b014-835a043ae76b> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:importance     "2" ;
+        c:name           "The World Tomorrow" ;
+        c:originalValue  "The World Tomorrow (RT TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a07bccb2-9415-3615-8af5-d075ec5c26c8> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:importance     "1" ;
+        c:name           "WikiLeaks" ;
+        c:originalValue  "WikiLeaks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ccda7408-705b-3760-95f6-feaae314e6a9> .
+
+<http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7e17d633-a76d-3c85-b415-3bfca54b8359> ;
+        c:importance     "2" ;
+        c:name           "World Wide Web" ;
+        c:originalValue  "World Wide Web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9234a67-1d5c-3451-83e0-fb48ce4187d8> .

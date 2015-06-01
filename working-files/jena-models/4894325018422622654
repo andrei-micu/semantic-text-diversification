@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:importance     "1" ;
+        c:name           "Baltimore–Washington metropolitan area" ;
+        c:originalValue  "Baltimore–Washington metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a687120-0ae9-3fa0-b781-6101c3c79ed6> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:importance     "2" ;
+        c:name           "Arlington" ;
+        c:originalValue  "Arlington" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a67aeb5d-5d3c-349e-9e4e-812f9750b931> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:importance     "1" ;
+        c:name           "Baltimoreâ€“Washington metropolitan area" ;
+        c:originalValue  "Baltimoreâ€“Washington metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/58dc421a-ea4e-3d2c-8120-29e82ac565c8> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f08926a8-ec28-6b60-14da-54ba8f835464" ;
+        c:docDate          "2015-05-30 10:48:28.930" ;
+        c:docTitle         "" ;
+        c:document         "No Rest for Arlington National Cemetery’s Minders of Details. The most solemn sentiments of the Memorial Day holiday have long been infused in the work done at Arlington National Cemetery throughout the year." ;
+        c:id               "http://id.opencalais.com/nSYb18R*F5VgSmbk*Joowg" .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|6q3XgS0PCtClCa3H4W4UARrYilk=|MVQrMqnVT6jpSpdL/woZRYZiboU2IHi/Oe/XpO+dev4R2ZimbZi3yw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:28.664" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:score           "0.885" .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:importance     "2" ;
+        c:name           "Arlington National Cemetery" ;
+        c:originalValue  "Arlington National Cemetery" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0b96e216-f0d3-36d3-a99c-496fc8eaacbe> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:importance     "1" ;
+        c:name           "Virginia" ;
+        c:originalValue  "Virginia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ed7cd42b-7c10-3522-b9ff-3c966b9d2a1c> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:importance     "2" ;
+        c:name           "Arlington County, Virginia" ;
+        c:originalValue  "Arlington County, Virginia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cd0e4d9d-2b4b-35da-8824-d53dba403998> .
+
+<http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c381f3d1-f871-3746-8766-91fcb51b55cf> ;
+        c:score           "1.000" .

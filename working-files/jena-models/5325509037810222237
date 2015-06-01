@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66> ;
+        c:importance     "1" ;
+        c:name           "Mark Foley congressional page incident" ;
+        c:originalValue  "Mark Foley congressional page incident" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa313b6c-a16d-3ed4-9f87-59c6d6484801> .
+
+<http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66> ;
+        c:importance     "1" ;
+        c:name           "Dennis Hastert" ;
+        c:originalValue  "Dennis Hastert" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5940bc3f-bd70-36ff-b3a6-6b952b732864> .
+
+<http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ISaoHluqk0Ne7rEVI7V8lfAbZ1A=|HP0IHAMnnSRTB9vol2benKX+S4poea50S9ypvQnILjzwF6R8/KTfvg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:08.202" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66> ;
+        c:importance     "1" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/80e70874-37fb-3d21-b54a-dd0580ab6b66>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4421b10a-9817-ee6c-14da-54c436a4551f" ;
+        c:docDate          "2015-05-30 09:49:08.405" ;
+        c:docTitle         "" ;
+        c:document         "Sources: Hastert paid to hide sexual misconduct with minor. Ex-House speaker indicted for lying to FBI about $3.5 million he allegedly agreed to pay. FULL STORY" ;
+        c:id               "http://id.opencalais.com/IIXAy1orWZpK78N3o9fboQ" .

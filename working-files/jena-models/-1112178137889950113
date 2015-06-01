@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c> ;
+        c:importance     "2" ;
+        c:name           "Foreign relations of the People's Republic of China" ;
+        c:originalValue  "Foreign relations of the People's Republic of China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee796994-d527-331a-b459-66573b9d7b7f> .
+
+<http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "294bb877-7670-2f6a-14da-544bc7e23ab1" ;
+        c:docDate          "2015-05-30 10:40:55.129" ;
+        c:docTitle         "" ;
+        c:document         "Beijing says Philippines, U.S. 'exaggerate China threat' in sea dispute. BEIJING (Reuters) - China's Foreign Ministry accused the Philippines on Friday of working together with the United States to \"exaggerate the China threat\" over a disputed shoal in the South China Sea." ;
+        c:id               "http://id.opencalais.com/Vz0Y2otwQg7qol*1wCUD1w" .
+
+<http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c> ;
+        c:importance     "1" ;
+        c:name           "South China Sea" ;
+        c:originalValue  "South China Sea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee225378-329b-3ead-bb63-6915310827d1> .
+
+<http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c> ;
+        c:importance     "2" ;
+        c:name           "Foreign relations of the Philippines" ;
+        c:originalValue  "Foreign relations of the Philippines" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd9f2595-57d7-3d51-a194-c0218820a090> .
+
+<http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c> ;
+        c:importance     "1" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c> ;
+        c:score           "0.887" .
+
+<http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|z69oIyXhyl8ZC3bJt+lHZv2GU3Q=|d/t7+6yJX2WfPQKh+mBd+Zyex0AOT4S3YcOwcc1AI04cq/2k7k3dEA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:54.910" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c118899e-9b0e-3619-a19c-5b5af12ef45c> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

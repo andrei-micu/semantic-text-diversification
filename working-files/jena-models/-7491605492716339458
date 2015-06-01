@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage in British Columbia" ;
+        c:originalValue  "Same-sex marriage in British Columbia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4aa2486f-ec9b-3e32-8bf1-b6f8f432d510> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance     "2" ;
+        c:name           "LGBT rights in California" ;
+        c:originalValue  "LGBT rights in California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/934d6a27-bbcc-343c-a5ca-f8221e8a1db5> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f30a558f-c910-3e16-14da-548dc13760f9" ;
+        c:docDate          "2015-05-30 10:45:25.295" ;
+        c:docTitle         "" ;
+        c:document         "Federal judge rules again that gay couples have right to wed in Alabama. (Reuters) - A federal judge on Thursday reaffirmed her earlier ruling that same-sex couples in Alabama have a right to wed under the Constitution, but she put the ruling on hold until the U.S. Supreme Court issues a landmark decision on gay marriage." ;
+        c:id               "http://id.opencalais.com/nicu2zLSft3PQF*mQ*ASLQ" .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance     "2" ;
+        c:name           "California law" ;
+        c:originalValue  "California law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/22d42e86-2aeb-34ff-9f4f-5f49a8322f3a> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|rIMALM4eKanu0FD9bkF3jIs6gCQ=|Gc7hu1KmQubfmZgX0Hzzu1tcbkojspe3YbWmPNa3x6GJLEYBTtJT4A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:25.139" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:score           "0.652" .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance     "1" ;
+        c:name           "LGBT rights in Massachusetts" ;
+        c:originalValue  "LGBT rights in Massachusetts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c73c328-e5c9-3662-a56a-5f931c33097f> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage in the United States" ;
+        c:originalValue  "Same-sex marriage in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bdcd460c-629a-331e-b2c6-af5d5447ab33> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance     "1" ;
+        c:name           "Brazilian law" ;
+        c:originalValue  "Brazilian law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1c74ea9a-1dce-3e82-a12b-6538de2ac3b3> .
+
+<http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b958077-189a-388a-b227-ff0e837f0a4f> ;
+        c:importance     "2" ;
+        c:name           "LGBT in the United States" ;
+        c:originalValue  "LGBT in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/599f7e1b-a4ef-3441-9ed1-193c89131d73> .

@@ -1,0 +1,153 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance     "1" ;
+        c:name           "Football" ;
+        c:originalValue  "Football" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26795aa6-cc7c-33c4-9784-1c66d3a0e7f1> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance     "2" ;
+        c:name           "Rugby League Four Nations" ;
+        c:originalValue  "Rugby League Four Nations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1063267-a375-3fda-b8a5-66f68271cc80> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance     "2" ;
+        c:name           "Rugby league" ;
+        c:originalValue  "Rugby league" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e9be99e-fa45-3d19-8366-bf3ad1647d8a> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance     "1" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a6ef1176-8308-afa1-14da-53d37df1927e" ;
+        c:docDate          "2015-05-30 10:32:42.488" ;
+        c:docTitle         "" ;
+        c:document         "Rugby star collapses on field, dies. The world of rugby league is in mourning following the death of Wales international Danny Jones, who passed away after collapsing during a game on Sunday." ;
+        c:id               "http://id.opencalais.com/pNn-Q9CNvYabmdYdHi52Ww" .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5XahGpg0gKqxT5ZXL3zM4hKp2aI=|NVgQxDXwYLmRLUJQCxnpjjtuBEg/tNdWtHKTxhhVBWUp5uiJrXq1wg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:42.207" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance     "2" ;
+        c:name           "Football codes" ;
+        c:originalValue  "Football codes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0b39eb56-b95d-391f-b478-57e6fda6e2ed> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance     "2" ;
+        c:name           "Clash of the Codes" ;
+        c:originalValue  "Clash of the Codes (rugby)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/164dc4eb-eab9-353b-815c-a505382ddf8a> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance     "2" ;
+        c:name           "Ball games" ;
+        c:originalValue  "Ball games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/92ed87d5-817f-36c0-a25d-a7aaa9e9be2f> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance     "2" ;
+        c:name           "Rugby football" ;
+        c:originalValue  "Rugby football" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d502e83a-c322-3aab-a9c6-960b3aeb3d0f> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance     "1" ;
+        c:name           "Team sports" ;
+        c:originalValue  "Team sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89ae6686-6e7e-3fee-bd71-413362108436> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance     "2" ;
+        c:name           "Wales national rugby league team" ;
+        c:originalValue  "Wales national rugby league team" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/133b93f5-b981-32e4-b4d5-33d9414163b2> .
+
+<http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/df756c51-643e-3b2d-ae4e-85c8774b2e83> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .

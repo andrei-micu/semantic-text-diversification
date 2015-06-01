@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance     "2" ;
+        c:name           "Demilitarized zone" ;
+        c:originalValue  "Demilitarized zone" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c0588b40-500f-337a-8d31-88e2de93e929> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+4+shbQ79tctnLN0D5WbyZzmQ/o=|OAGCAeQ6IPD7whQR9GDdzvx32/o1SvqzPTRK27K1is0QYm/0SSsfFQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:55.993" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance     "1" ;
+        c:name           "Divided regions" ;
+        c:originalValue  "Divided regions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c3adcd7-f7e6-327f-ac6e-02cfd1b3fda4> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance     "2" ;
+        c:name           "North Korea" ;
+        c:originalValue  "North Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6366d8f-94a3-392d-9664-3df45419a56c> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance     "2" ;
+        c:name           "Korea" ;
+        c:originalValue  "Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c228654-048e-323a-b158-19dd884a146a> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:score           "0.898" .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance     "2" ;
+        c:name           "Member states of the United Nations" ;
+        c:originalValue  "Member states of the United Nations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e911935-f6c4-3599-ba32-e28b931005c3> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance     "2" ;
+        c:name           "South Korea" ;
+        c:originalValue  "South Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e01189c4-0bf9-3da9-b2d3-dc5091502a13> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1ae07c3a-f214-5cae-14da-53d6db935464" ;
+        c:docDate          "2015-05-30 10:32:56.290" ;
+        c:docTitle         "" ;
+        c:document         "Why was CNN invited back to North Korea?. Last September, I made my first visit to North Korea, granted a rare glimpse of what goes on beyond the demilitarized zone, in one of the most mysterious places on Earth." ;
+        c:id               "http://id.opencalais.com/UTiSg8Uf2zZqVA3d6*mnBQ" .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/393adf16-526a-3e71-87e5-6d97264c7bf9> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .

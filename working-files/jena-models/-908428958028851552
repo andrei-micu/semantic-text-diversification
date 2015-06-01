@@ -1,0 +1,152 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance     "1" ;
+        c:name           "Activism" ;
+        c:originalValue  "Activism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68dd2c60-108b-34dc-a3e5-677ddd8c94f2> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance     "2" ;
+        c:name           "Anti-nuclear groups in the United States" ;
+        c:originalValue  "Anti-nuclear groups in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5fb91444-3843-3a04-8aad-46fce7f19c3a> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:score           "0.972" .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance     "2" ;
+        c:name           "Nuclear energy in Germany" ;
+        c:originalValue  "Nuclear energy in Germany" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c5eb6b-2231-3e55-b742-8860daa43b89> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:score           "0.976" .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance     "2" ;
+        c:name           "Politics of Germany" ;
+        c:originalValue  "Politics of Germany" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/630ac009-7e39-3c95-93f9-f5ad18702bf0> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yU7HrLQP7InphUIizTrxDM9Ur4A=|RG1Ixre5BRKckikab86QU8WGoMRfZQ38RLaXhhoqAIUanxWUN4Gw0w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:10.217" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance     "2" ;
+        c:name           "Nuclear energy" ;
+        c:originalValue  "Nuclear energy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1fb231d-037d-323d-9abe-739f0bb88c4b> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance     "1" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "273966b2-6c40-5f20-14da-544f8494551f" ;
+        c:docDate          "2015-05-30 09:41:10.420" ;
+        c:docTitle         "" ;
+        c:document         "US anti-nuclear activists 'released'. A US federal appeals court orders the immediate release of three anti-nuclear activists, including an elderly Catholic nun, the group's lawyer says." ;
+        c:id               "http://id.opencalais.com/pf2YYyUAFs4Ri1mrJc98sw" .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:score           "0.873" .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance     "1" ;
+        c:name           "Anti-nuclear movement" ;
+        c:originalValue  "Anti-nuclear movement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5972588a-c062-375c-9a1b-f4823a2401d0> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance     "2" ;
+        c:name           "Anti-nuclear movement in the United States" ;
+        c:originalValue  "Anti-nuclear movement in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e488ba9-7d0b-3324-888b-faf789120159> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c272463f-4840-3d20-b14b-03a11019d83e> ;
+        c:score           "0.947" .

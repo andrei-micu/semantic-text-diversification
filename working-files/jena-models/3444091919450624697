@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5d67c810-58a0-b5a1-4da5-48785d760f98" ;
+        c:docDate          "2015-05-30 10:44:59.847" ;
+        c:docTitle         "" ;
+        c:document         "U.S.-Cuba Talks on Restoring Diplomatic Ties Stall. Representatives from both nations met at the State Department but emerged without a deal and only a promise to continue talking." ;
+        c:id               "http://id.opencalais.com/bShhrwN0lF7xdTjFf7tTgg" .
+
+<http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|csALv4MvzG+gmOiW6RHBMBm9ESE=|EgaKVBlqGTLHhZ/FwTFxZ7GBGzQh93imXUMKupgl5nJcHm5wfUmErA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:59.613" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99> ;
+        c:importance     "1" ;
+        c:name           "Cuba–United States relations" ;
+        c:originalValue  "Cuba–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e07ccd0c-6665-3821-8d9d-86b7f59f63dd> .
+
+<http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99> ;
+        c:importance     "1" ;
+        c:name           "Foreign relations of Cuba" ;
+        c:originalValue  "Foreign relations of Cuba" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c02ef4cb-2220-354b-a7f1-2eddd4e4227b> .
+
+<http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4b594f30-1e7a-3da1-9095-eef95ff5cb99> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "904b1fe8-2d75-d531-14da-544301749095" ;
+        c:docDate          "2015-05-30 10:40:19.045" ;
+        c:docTitle         "" ;
+        c:document         "Swedish 'gay sailor' to deter Russian subs. Ever wondered how to keep suspected Russian submarines out of your territorial waters?" ;
+        c:id               "http://id.opencalais.com/653NoSouvSLHrdmG6*kkfA" .
+
+<http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294> ;
+        c:importance     "1" ;
+        c:name           "Submarine" ;
+        c:originalValue  "Submarine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5039f393-83bc-3959-b4db-1718565b806b> .
+
+<http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294> ;
+        c:score           "0.990" .
+
+<http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Hzo37sbmhqEEzAkiQw7yc4VBVOw=|AbbcAHC8KWH8M64kyZQAfqxdE5tGDmnZshxvUfdMxchNgspOBQrJAQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:18.967" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1592773e-194e-3ffc-a279-990df7bfc294> ;
+        c:importance     "1" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .

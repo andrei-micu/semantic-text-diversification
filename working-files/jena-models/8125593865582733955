@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/64fe881e-f510-3648-bdd3-c7ea792f326c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/64fe881e-f510-3648-bdd3-c7ea792f326c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/64fe881e-f510-3648-bdd3-c7ea792f326c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/64fe881e-f510-3648-bdd3-c7ea792f326c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|g2ha0qb3bFR2E80fmG2rQna8v6Y=|RU4UGiHmkdTFmPGt9ODyI+L3nZmAfDMSRm4dAPYWyvzCeDTFx6pfkQ==" ;
+        c:submissionDate  "2015-05-30 10:44:55.629" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/64fe881e-f510-3648-bdd3-c7ea792f326c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "312c52f8-3fa0-b9de-14da-54868cd23ab1" ;
+        c:docDate          "2015-05-30 10:44:55.722" ;
+        c:docTitle         "" ;
+        c:document         "Your Friday Briefing. Here’s what you need to know to start your day." ;
+        c:id               "http://id.opencalais.com/dbsCLeATWEwexVMxCDAYmQ" .

@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb> ;
+        c:importance     "1" ;
+        c:name           "Capital punishment" ;
+        c:originalValue  "Capital punishment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47a29b10-9dfe-3cd8-9d95-8cda59bc4410> .
+
+<http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb> ;
+        c:importance     "1" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb> ;
+        c:score           "0.927" .
+
+<http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "50171539-a3a0-3a4c-14da-539a77f4551f" ;
+        c:docDate          "2015-05-30 09:28:48.826" ;
+        c:docTitle         "" ;
+        c:document         "Indonesia Moves to Execute 9 Drug Convicts, Despite Pleas for Clemency. The prisoners, including eight foreigners, will face separate police firing squads in what is believed to be the largest mass execution in the country in decades." ;
+        c:id               "http://id.opencalais.com/D10Oj3h1XX2gxiaWd5-b5g" .
+
+<http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb> ;
+        c:importance     "1" ;
+        c:name           "Execution by firing squad" ;
+        c:originalValue  "Execution by firing squad" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e6d7657c-1c7e-3035-873b-cfaae34dd9f7> .
+
+<http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|SBdQCDInYpdMUSOBr6uOpDzkDZo=|cLTuqDLjbJxWh+4WUEKg4Yw4sXSQI/7h6bPfBv2gmEJgTk59+IgvPw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:48.639" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4261a0e4-08c1-3b5e-a3b7-a8a96b9232bb> ;
+        c:importance     "2" ;
+        c:name           "Ethics" ;
+        c:originalValue  "Ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f579fc5-eed2-3113-a4f8-658e638275f1> .

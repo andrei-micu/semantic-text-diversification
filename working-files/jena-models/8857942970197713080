@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:importance     "2" ;
+        c:name           "Russia" ;
+        c:originalValue  "Russia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87ff9554-70dc-3dbe-b969-71a7fa36a20f> .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:score           "0.704" .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:importance     "2" ;
+        c:name           "Moscow" ;
+        c:originalValue  "Moscow" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8fe23ef7-8536-392d-b1db-368927c4b037> .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:importance     "1" ;
+        c:name           "Ethnic groups in Europe" ;
+        c:originalValue  "Ethnic groups in Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5b2b7be3-773f-3634-a558-48d9493a5a65> .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KjGBy4OuWnUH43m+e04cK9nCilE=|VJ880rZbv1YNTI5Vl12qAoJDhPJIrvvPggMQL55IwRoB5/qJcjxLOg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:08.230" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:importance     "2" ;
+        c:name           "Red Square" ;
+        c:originalValue  "Red Square" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/748a6670-8e3e-3d53-8275-03948df4f6c7> .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05> ;
+        c:score           "0.929" .
+
+<http://d.opencalais.com/dochash-1/d3cebd36-6cd9-3e4f-9b08-64177064fb05>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dbd9cfed-6bae-8282-14da-539f406760f9" ;
+        c:docDate          "2015-05-30 10:29:08.371" ;
+        c:docTitle         "" ;
+        c:document         "Russians seethe over Western snub of war anniversary parade. MOSCOW (Reuters) - One of Boris Lisitsyn's happiest memories is of being swept by a huge, joyous crowd through the streets of Moscow and onto Red Square in spontaneous celebrations when World War Two ended in Europe." ;
+        c:id               "http://id.opencalais.com/PQjhkTJFhbyxFrzBHtjljA" .

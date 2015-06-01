@@ -1,0 +1,89 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb> ;
+        c:score           "0.947" .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb> ;
+        c:importance     "1" ;
+        c:name           "Regret" ;
+        c:originalValue  "Regret (emotion)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e492c877-57b1-3c95-b093-c56db245512c> .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb> ;
+        c:score           "0.999" .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|MawQi5U+DW6df182pnzEKJm21tU=|jakRWaey0k9ysqDcqdJ40V5uE2oZds2ehl6MCtJkF3CdsvejWaIbMg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:03.086" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2b7ba25a-21b9-a5b8-14da-5421d4e23ab1" ;
+        c:docDate          "2015-05-30 10:38:03.195" ;
+        c:docTitle         "" ;
+        c:document         "Tsarnaev 'sorry' as defence rests. Anti-death penalty advocate Sister Helen Prejean says Dzhokhar Tsarnaev expressed genuine regret and sorrow over the bombings." ;
+        c:id               "http://id.opencalais.com/2wzNyj0IcX1M6Ef86KMiPg" .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb> ;
+        c:score           "0.967" .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb> ;
+        c:importance     "1" ;
+        c:name           "Prejean" ;
+        c:originalValue  "Prejean" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f70b52b2-c644-3d54-b875-f318ffe4fe97> .
+
+<http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bb03e755-8eae-3784-8b77-8cb8acaa60eb> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

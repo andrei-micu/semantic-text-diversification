@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a> ;
+        c:importance     "1" ;
+        c:name           "Lil Wayne" ;
+        c:originalValue  "Lil Wayne" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ea0110f0-ae96-36af-bd38-6108413cec42> .
+
+<http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|19xppm5sbYeOerwXYYPaHtwYjRU=|EIvqvdiSunSXHafIuqOue9kAu31X7OH88VBF5KCm/j/wtmlDrp2BHA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:42.277" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a> ;
+        c:importance     "2" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f5315c3f-5490-a2ff-14da-538a44523ab1" ;
+        c:docDate          "2015-05-30 10:27:42.433" ;
+        c:docTitle         "" ;
+        c:document         "Gunshots fired at rapper Lil Wayne's tour buses on Georgia highway. (Reuters) - Multiple gunshots were fired early Sunday into two buses carrying Grammy-winning rap music star Lil Wayne and his entourage on a Georgia highway following a performance in Atlanta, but no one was hurt, police said." ;
+        c:id               "http://id.opencalais.com/a7qO6REGX0XbvdYCanoMkA" .
+
+<http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a> ;
+        c:importance     "1" ;
+        c:name           "T.I." ;
+        c:originalValue  "T.I." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4cd6b387-ea7e-3e92-876d-4b545404fa81> .
+
+<http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0ed4c413-c9d6-3c92-9588-b0b1e093e89a> ;
+        c:importance     "1" ;
+        c:name           "Universal Music Group" ;
+        c:originalValue  "Universal Music Group" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/797ea0db-cd35-3d6c-9697-39b3ae3450b0> .

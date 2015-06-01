@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3d3e5505-302c-3a51-939f-798bc4197fd4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3d3e5505-302c-3a51-939f-798bc4197fd4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/3d3e5505-302c-3a51-939f-798bc4197fd4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fd62b07d-960b-ca05-14da-54b06e532955" ;
+        c:docDate          "2015-05-30 10:47:47.251" ;
+        c:docTitle         "" ;
+        c:document         "Don't call us potheads. " ;
+        c:id               "http://id.opencalais.com/q8544ORWzGGyCuakgUjpkw" .
+
+<http://d.opencalais.com/dochash-1/3d3e5505-302c-3a51-939f-798bc4197fd4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3d3e5505-302c-3a51-939f-798bc4197fd4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cXZyCi5knnD79TAQd2QJAX5kifY=|hD/KViO49R1+t4pNPKuktotg0bA3z9TQXMSJ/v7vxSNUsuNBPJVJPA==" ;
+        c:submissionDate  "2015-05-30 10:47:47.173" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

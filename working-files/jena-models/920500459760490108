@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3ec00681-835e-92a7-14da-54a4a20760f9" ;
+        c:docDate          "2015-05-30 10:46:59.036" ;
+        c:docTitle         "" ;
+        c:document         "Clinton emails show concern about image after Benghazi. WASHINGTON (Reuters) - Top aides to former U.S. Secretary of State Hillary Clinton fretted over how she would be portrayed after the 2012 Benghazi attacks that killed the U.S. ambassador to Libya and three other Americans, emails released on Friday showed." ;
+        c:id               "http://id.opencalais.com/Qb0IT3l*Q24VB8HwkEEaAQ" .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f> ;
+        c:importance     "1" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f> ;
+        c:importance     "2" ;
+        c:name           "International reactions to the 2011 Libyan civil war" ;
+        c:originalValue  "International reactions to the 2011 Libyan civil war" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3528ba9c-5b1c-33a3-9903-cb7afb690162> .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f> ;
+        c:importance     "1" ;
+        c:name           "Benghazi" ;
+        c:originalValue  "Benghazi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a4769d0-cd5c-39d6-beff-d5be6c323540> .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f86c6bc3-551e-3414-80bd-11f362c7602f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ZBkZIBU+V/h3XIHSYfk/hQd6FP4=|EFYg8SmbuUMwP3UKTVUhSc3WFSgrk7xx9F/ihcItl9QYV4kI/u9v2g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:58.848" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

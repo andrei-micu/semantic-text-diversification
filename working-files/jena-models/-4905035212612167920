@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:importance     "2" ;
+        c:name           "Police brutality" ;
+        c:originalValue  "Police brutality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/300f4a52-3dc5-316f-a276-7f619e986a0c> .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "93efba46-4348-2207-14da-53dd75f49095" ;
+        c:docDate          "2015-05-30 10:33:23.179" ;
+        c:docTitle         "" ;
+        c:document         "US to investigate Baltimore police. The US justice department is to investigate Baltimore's police for routine bias or excessive force after the death of Freddie Gray, US media say." ;
+        c:id               "http://id.opencalais.com/RGag9mDfSe05I3vs0JPF0Q" .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|koP4GgyWrhgsIT7mLLxpIujn2oM=|S+5M/nFA+WBvQWJ2Hs7Yd6CgyqZ4e9pUeaZWEiTjswaFblGmPYyiqw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:23.039" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:importance     "1" ;
+        c:name           "Baltimore Police Department" ;
+        c:originalValue  "Baltimore Police Department" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/669400d7-7c8c-335e-9033-4c3b341ab62a> .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:importance     "2" ;
+        c:name           "Donald Pomerleau" ;
+        c:originalValue  "Donald Pomerleau" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d9ac1d5c-2619-31c9-9d1e-ca21f6ce39a5> .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:importance     "2" ;
+        c:name           "Police" ;
+        c:originalValue  "Police" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a182b6c-ea20-3768-948c-2d3aa60d757a> .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:score           "0.578" .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:importance     "1" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ae92563-dac8-3b06-9365-34afd257ec63> ;
+        c:importance     "2" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .

@@ -1,0 +1,68 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8d0e2cc5-012a-eddc-14da-53eecd4653ed" ;
+        c:docDate          "2015-05-30 09:34:34.255" ;
+        c:docTitle         "" ;
+        c:document         "F.B.I. Says It Sent Warning on One Gunman in Attack at Texas Gathering. The Federal Bureau of Investigations sent a bulletin to the Garland police three hours before the cartoon contest warning them that Elton Simpson, one of the men who carried out the attack, might show up at the event." ;
+        c:id               "http://id.opencalais.com/jeT-Vy065siBCjAkeEExrQ" .
+
+<http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7> ;
+        c:importance     "2" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7> ;
+        c:score           "0.502" .
+
+<http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7> ;
+        c:importance     "1" ;
+        c:name           "Games" ;
+        c:originalValue  "Games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9105f47f-e9e6-3839-8cf4-9c5d7106eec7> .
+
+<http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7> ;
+        c:importance     "1" ;
+        c:name           "Digital media" ;
+        c:originalValue  "Digital media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/771e4d9a-b0cd-37a2-bec6-6840c4cafab3> .
+
+<http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9U96mVXKcg6OudVpTApGm4VFaYA=|StEXooMmSxielXlrYU3Vm9Vxm1hSeDsk31C91/yQ0A0mJ3W3/iKGzg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:34.068" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b1a15ca-c4c8-33cb-b326-3f52b0eba3a7> ;
+        c:importance     "1" ;
+        c:name           "Gunman Chronicles" ;
+        c:originalValue  "Gunman Chronicles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0d745d5-5acf-3fe5-a286-0ae61ba7354a> .

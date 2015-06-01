@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64> ;
+        c:score           "0.578" .
+
+<http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|/r35fH2JVxZNpmtvcJClb5WhN3I=|Nvgs0sbRD+l7Yui2xqy9SmWmgGd7mzrZcJqHiKznP/ShzB3ivWeEig==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:34.233" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e4bce6f5-cf8e-dbbf-14da-53884d9719b3" ;
+        c:docDate          "2015-05-30 10:27:34.467" ;
+        c:docTitle         "" ;
+        c:document         "Storm Capsizes Boats During Regatta In Alabama. Authorities continue to search for four people still missing after a storm swept through a sailboat regatta in Alabama Saturday." ;
+        c:id               "http://id.opencalais.com/9awiWJr1ZROMzPD12ZN0EA" .
+
+<http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b6805296-98ff-3dfa-9e17-492684bb9c64> ;
+        c:importance     "1" ;
+        c:name           "Regatta" ;
+        c:originalValue  "Regatta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9ad256e8-996b-3324-834c-21a2e68ed3eb> .

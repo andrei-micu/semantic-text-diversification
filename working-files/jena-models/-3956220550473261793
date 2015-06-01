@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53> ;
+        c:importance     "1" ;
+        c:name           "Africa" ;
+        c:originalValue  "Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40ba53c0-c97b-3a8d-9376-dccf9e54b90e> .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53> ;
+        c:importance     "1" ;
+        c:name           "Egypt" ;
+        c:originalValue  "Egypt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1386121a-b8ec-3151-ae3d-11e81f9940e7> .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53> ;
+        c:importance     "2" ;
+        c:name           "Gamal Mubarak" ;
+        c:originalValue  "Gamal Mubarak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3983933d-f7da-323b-85c7-06353b5afd24> .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d8fe08c7-ea46-9de8-14da-542714f13c98" ;
+        c:docDate          "2015-05-30 09:38:24.825" ;
+        c:docTitle         "" ;
+        c:document         "Egyptian court sentences Mubarak and sons to three years in jail for corruption. CAIRO (Reuters) - An Egyptian court sentenced former president Hosni Mubarak and his two sons to three years in jail without parole on Saturday in the retrial of a corruption case, although the trio is unlikely to go to jail again." ;
+        c:id               "http://id.opencalais.com/pxuT92ekoBBBr4gS*YKo6w" .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53> ;
+        c:importance     "2" ;
+        c:name           "Hosni Mubarak" ;
+        c:originalValue  "Hosni Mubarak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b148e004-21b8-3ddf-9125-6fad0b5cafed> .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0Flkzklpk93/QZEzB7OGHdPszPs=|jSu73U1CX8sm8MzKa4bJSqB78qYWKa+dhxzagnP1E+zGU61ofs+MDg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:24.591" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53> ;
+        c:importance     "1" ;
+        c:name           "Arab world" ;
+        c:originalValue  "Arab world" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/352eb7c6-e587-3070-adf8-d886ff961834> .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b64df11-8ed5-3f75-89ba-85a80b79de53> ;
+        c:importance     "2" ;
+        c:name           "Egyptian revolution" ;
+        c:originalValue  "2011 Egyptian revolution" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6fc4e8c-3e0a-3196-9410-bd3f5087230b> .

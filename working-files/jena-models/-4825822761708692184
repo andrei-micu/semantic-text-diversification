@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dcfd933f-70b8-3a00-b4eb-2a97c838b502/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dcfd933f-70b8-3a00-b4eb-2a97c838b502> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7MzH9tuqfgpCO5uB79T3nCnthWc=|XL5YccJWaGypPoosjB9LGsulxaFxgDdeMXmkYTbuB55LpEXutEDUjw==" ;
+        c:submissionDate  "2015-05-30 09:30:09.531" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dcfd933f-70b8-3a00-b4eb-2a97c838b502>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f6621c90-6823-0341-14da-53ae37b13c98" ;
+        c:docDate          "2015-05-30 09:30:09.593" ;
+        c:docTitle         "" ;
+        c:document         "Exploring gay identity through anonymity. " ;
+        c:id               "http://id.opencalais.com/ye*slIDYh9QFEhfugERjNg" .
+
+<http://d.opencalais.com/dochash-1/dcfd933f-70b8-3a00-b4eb-2a97c838b502/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dcfd933f-70b8-3a00-b4eb-2a97c838b502> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

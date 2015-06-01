@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b8bfcb77-6fa9-9ec1-14da-54844f61927e" ;
+        c:docDate          "2015-05-30 10:44:46.594" ;
+        c:docTitle         "" ;
+        c:document         "Mansion killings suspect charged. Feds tracked him to New York, then back to Maryland before nabbing him in Washington. FULL STORY" ;
+        c:id               "http://id.opencalais.com/vNhzwq0q5ehiWh0B4yZOEg" .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:importance     "2" ;
+        c:name           "Infocom" ;
+        c:originalValue  "Infocom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/42d774bf-0a47-316b-a3e7-f01ee3b3af66> .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:importance     "1" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KGmBR2WQ6GrZf6uCO79F4c6IdMw=|AXEehP+ibBFgDvihBETX9VCHHfVo1eeqqGtyEYfB7AwIVZP9TBwHew==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:46.454" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:importance     "2" ;
+        c:name           "Interactive fiction" ;
+        c:originalValue  "Interactive fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bb62a6f3-0e08-3eef-9856-1b73d320be19> .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:importance     "1" ;
+        c:name           "Application software" ;
+        c:originalValue  "Application software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3dd160c1-2ca0-3913-8fe9-4dca175b0bee> .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:importance     "1" ;
+        c:name           "Digital media" ;
+        c:originalValue  "Digital media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/771e4d9a-b0cd-37a2-bec6-6840c4cafab3> .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:importance     "2" ;
+        c:name           "Suspect" ;
+        c:originalValue  "Suspect (video game)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba885a84-4f05-3240-85a1-3974df8d61e4> .
+
+<http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5db7b8dc-047e-3e59-bfdc-da767891cd92> ;
+        c:score           "0.622" .

@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance     "1" ;
+        c:name           "Gambling" ;
+        c:originalValue  "Gambling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8871ae53-9c8f-3aa3-b876-51373f84688a> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance     "2" ;
+        c:name           "Scratchcard" ;
+        c:originalValue  "Scratchcard" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f4dec0b4-97e8-3fa3-92c3-a9d42e2545db> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|lCXWa4066IYH+fa3ROBzzOpHMJg=|avofrycMOI876wNLqS3IaUzWYm0q2n72U48vzjFAqNV/Slwjy4sZEA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:32.055" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance     "2" ;
+        c:name           "WBGH-CA" ;
+        c:originalValue  "WBGH-CA" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f907b11d-46d7-31d4-b1db-ad197579fb54> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance     "1" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance     "2" ;
+        c:name           "Elmira, New York" ;
+        c:originalValue  "Elmira, New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/780d772d-7c56-33cd-91d9-28c19afef9ea> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance     "2" ;
+        c:name           "Lottery" ;
+        c:originalValue  "Lottery" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a380f4e9-5c7b-3d04-a042-e3cdde4894e9> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance     "2" ;
+        c:name           "WETM-DT2" ;
+        c:originalValue  "WETM-DT2" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ede6281-bf8b-3dac-83d3-169bee48f2ec> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900> ;
+        c:importance     "1" ;
+        c:name           "WETM-TV" ;
+        c:originalValue  "WETM-TV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404d9bfb-8010-3d7c-9873-4f4fc154a74b> .
+
+<http://d.opencalais.com/dochash-1/0b3de569-b919-3082-886d-b4838532e900>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a20401ef-4b13-4621-14da-53fcf484551f" ;
+        c:docDate          "2015-05-30 09:35:32.336" ;
+        c:docTitle         "" ;
+        c:document         "Man shocked by this lottery ticket message. CNN affiliate WETM has the story of a Elmira, New York, man who said he was shocked by the message he saw on his scratch-off lottery ticket." ;
+        c:id               "http://id.opencalais.com/zV4eK1Zh7DD-bKoHPb2lMg" .

@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:importance     "1" ;
+        c:name           "Healthcare reform in the United States" ;
+        c:originalValue  "Healthcare reform in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8cdbd403-8d54-3b3c-b5b4-72088f7c1740> .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:score           "0.987" .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:importance     "2" ;
+        c:name           "Presidency of Lyndon B. Johnson" ;
+        c:originalValue  "Presidency of Lyndon B. Johnson" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e290d538-6014-354f-a7e3-3fd529c93ac7> .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|clfEX3z8bIqOQHJH9RsCgtc+Dr8=|WC340vf7qTfwP5fbOhZlBlhuX0Y7NVOIdj9JaGuKELnPnniHrisZlg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:26.451" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:importance     "1" ;
+        c:name           "Federal assistance in the United States" ;
+        c:originalValue  "Federal assistance in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07e6c323-e6ca-37a0-9a7f-d2eb40019ae2> .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:importance     "2" ;
+        c:name           "Health" ;
+        c:originalValue  "Health" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec> .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2001500c-45ce-8a6b-14da-54362f31927e" ;
+        c:docDate          "2015-05-30 10:39:26.669" ;
+        c:docTitle         "" ;
+        c:document         "State Legislatures Quarreling Over Whether To Expand Medicaid. Medicaid expansion was a big deal in a handful of state legislatures this year. Wyoming said no. Tennessee said no. But Montana said yes, and three more states are coming down to the wire." ;
+        c:id               "http://id.opencalais.com/WdK7nCMvuTYSpo*P5Hb-sg" .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:importance     "1" ;
+        c:name           "Medicaid" ;
+        c:originalValue  "Medicaid" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ffaf2a23-5691-3143-8a46-9c358e451dea> .
+
+<http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/76a88ac0-0ddf-3439-aa8d-ab8ec193549b> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .

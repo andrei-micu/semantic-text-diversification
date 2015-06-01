@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4> ;
+        c:importance     "1" ;
+        c:name           "Memory" ;
+        c:originalValue  "Memory" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c12a7c80-c361-3876-b3dc-52861a84bd63> .
+
+<http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fb9ac887-e8bf-52c4-14da-53dac0d71d39" ;
+        c:docDate          "2015-05-30 09:33:12.230" ;
+        c:docTitle         "" ;
+        c:document         "Memory failing? Do this. We've all heard the age old adage, \"You are what you eat.\" But could what we eat also affect how we think?" ;
+        c:id               "http://id.opencalais.com/BRlrIz3hAWWayok5rQU4ug" .
+
+<http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|abB3hEv9etAffpitu//nJgArvxM=|hp11p+9ht4NdE9KypbJDeC5p/SwOOkGKDWsibB+UNSqUFIHRgkq89w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:33:11.949" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4> ;
+        c:importance     "1" ;
+        c:name           "Neuropsychological assessment" ;
+        c:originalValue  "Neuropsychological assessment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7bd6dae4-a7e9-3464-965e-70e73d63c353> .
+
+<http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/78e45382-d7d3-3957-9fe4-a694da59bae4> ;
+        c:score           "0.994" .

@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance     "1" ;
+        c:name           "War in Afghanistan" ;
+        c:originalValue  "War in Afghanistan (2001–present)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d48818c-2a09-3d5e-9bd7-8532d3afdcbd> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance     "2" ;
+        c:name           "Organized crime" ;
+        c:originalValue  "Organized crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4788ccf9-0ffb-3c9c-ade7-acb8f7fe85aa> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance     "2" ;
+        c:name           "Afghan Peace Jirga" ;
+        c:originalValue  "Afghan Peace Jirga 2010" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e8b4ba7-3d09-33ef-963e-11d7f18b6631> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance     "2" ;
+        c:name           "Government of Afghanistan" ;
+        c:originalValue  "Government of Afghanistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6666b256-df3b-3214-a5de-d0b86203384e> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "99c183f5-5b7d-11d6-14da-53e02ce34709" ;
+        c:docDate          "2015-05-30 09:33:34.283" ;
+        c:docTitle         "" ;
+        c:document         "Afghan talks agree on reopening Taliban political office. AL-KHOR, Qatar/PESHAWAR, Pakistan (Reuters) - Representatives at preliminary talks aiming to end Afghanistan's long war have agreed that Taliban insurgents should open a political office for negotiations, but disagreement over foreign troops is still hampering prospects for a ceasefire." ;
+        c:id               "http://id.opencalais.com/tnzt54DoqlMIAP-wGrM9aw" .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance     "1" ;
+        c:name           "Taliban" ;
+        c:originalValue  "Taliban" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a90ae92b-8f63-3a03-8cf4-b8b25da50c76> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance     "2" ;
+        c:name           "Islam" ;
+        c:originalValue  "Islam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a1906a7-789f-31cd-8bd9-993b383e794a> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance     "2" ;
+        c:name           "Islamism" ;
+        c:originalValue  "Islamism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fae5a677-bf4d-3e0a-894d-b2ca51bcadb1> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:score           "0.961" .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance     "2" ;
+        c:name           "Politics of Afghanistan" ;
+        c:originalValue  "Politics of Afghanistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5321ffee-384a-3578-a7b8-f4a3544c5aae> .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|kOfppYwbijjQiuxwx01o823jL48=|RDY94MApiZoGWa8dI0iAcG7Iob0isVoXmGdq0GiwepZSK4IbOJ2DXQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:33:34.158" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5803c3ca-d5d2-38fa-a6f3-b027aa905e34> ;
+        c:importance     "2" ;
+        c:name           "Afghanistan" ;
+        c:originalValue  "Afghanistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad4fd6ae-b9fe-3ab7-a2be-a5a59ab4b1a3> .

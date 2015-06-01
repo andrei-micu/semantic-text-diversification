@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:importance     "2" ;
+        c:name           "Geography of North America" ;
+        c:originalValue  "Geography of North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4953ac1c-3f88-3c4f-b079-6ff903751bbf> .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|NcAChgvZia8IWvQOF7lxrCTiiBQ=|cF7mTaAuT57xvusufplDg0tdj45oSgjd1yQfJM+uNYbsSzolNOV7MA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:34.976" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d02e282f-e6f1-7b11-14da-53a5c8035464" ;
+        c:docDate          "2015-05-30 10:29:35.163" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Baltimore riot mother: 'It's unacceptable'. A mother filmed berating her son for his involvement in the Baltimore riots has spoken about the incident to US TV programme CBS This Morning." ;
+        c:id               "http://id.opencalais.com/nwKYsRHT8z3EYsLEf42wAg" .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:importance     "1" ;
+        c:name           "Riot" ;
+        c:originalValue  "Riot" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/999c278f-9d2c-3323-a956-09b5a8f4c8a1> .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:score           "0.931" .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:importance     "1" ;
+        c:name           "CBS" ;
+        c:originalValue  "CBS" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/af31cc5f-5bd0-32af-845c-850ee48f36ea> .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa069c8c-df62-3773-8616-966c271927b5> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .

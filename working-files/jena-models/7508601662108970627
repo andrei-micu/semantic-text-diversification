@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c5a66263-cdfd-8e00-14da-53c678d35464" ;
+        c:docDate          "2015-05-30 10:31:49.095" ;
+        c:docTitle         "" ;
+        c:document         "Obama Administration Steps Back From Effort to End Federal Death Penalty. The obstacles the Obama administration faced in ending the federal death penalty provide vivid examples of just how politically fraught the debate remains." ;
+        c:id               "http://id.opencalais.com/U13t6DapQkWTT8lJvPhrxQ" .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:score           "0.998" .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ZSoXcLJshcZ7ShRV3ZcODeeFyeM=|cL72OjFIIs7tcQFecHmd2n6Uo2UhKRosFdzuu1zJd47U5jThElgMUQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:48.877" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:importance     "2" ;
+        c:name           "Capital punishment" ;
+        c:originalValue  "Capital punishment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47a29b10-9dfe-3cd8-9d95-8cda59bc4410> .
+
+<http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/715d568c-a1bd-3f3a-9d45-a971eb5427a4> ;
+        c:score           "1.000" .

@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:importance     "1" ;
+        c:name           "Carly Fiorina" ;
+        c:originalValue  "Carly Fiorina" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ab2b6e4-4216-3cc4-98d9-5eb60f11f824> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:importance     "2" ;
+        c:name           "Saturday Night Live parodies of Sarah Palin" ;
+        c:originalValue  "Saturday Night Live parodies of Sarah Palin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d080a2b-9f3c-37fb-ae14-e9313e300cb1> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:importance     "2" ;
+        c:name           "Sarah Palin interviews with Katie Couric" ;
+        c:originalValue  "Sarah Palin interviews with Katie Couric" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d62bb3b-22b1-328c-bee8-9c5940fcf325> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:importance     "2" ;
+        c:name           "Fiorina" ;
+        c:originalValue  "Fiorina" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70822982-4085-3e6d-9bed-43cd77016b08> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|VgQI2QAkGGbAbblAsjXpwYSYG4g=|BHGKxfIQecrut5rWqBdlvizdSjYShuIiJCAJg4N81wGXoUva0UdjzA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:13.382" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:importance     "1" ;
+        c:name           "Katie Couric" ;
+        c:originalValue  "Katie Couric" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4ed275c6-e84f-37f0-a539-baabb4518d40> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3570cecd-c463-c7cb-14da-5415b16653ed" ;
+        c:docDate          "2015-05-30 09:37:13.647" ;
+        c:docTitle         "" ;
+        c:document         "Heated interview between Fiorina, Couric. GOP presidential candidate Carly Fiorina took offense to a question from Katie Couric about whether she wanted to be a vice-presidential candidate." ;
+        c:id               "http://id.opencalais.com/sKiOayreKXGh0xgg9qRjXg" .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:importance     "2" ;
+        c:name           "Parodies of Sarah Palin" ;
+        c:originalValue  "Parodies of Sarah Palin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/510e8142-3a8f-38aa-aa1d-fbdf9760434f> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:importance     "1" ;
+        c:name           "Couric" ;
+        c:originalValue  "Couric (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3896e618-32e1-3bb2-8a86-1b3a31ef28b8> .
+
+<http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f74de26-865f-3cad-bf13-d914c615f583> ;
+        c:importance     "2" ;
+        c:name           "Genealogy" ;
+        c:originalValue  "Genealogy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0b2871b-261d-31aa-8c32-9f8bc296989f> .

@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:score           "0.646" .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance     "2" ;
+        c:name           "Fey" ;
+        c:originalValue  "Fey (singer)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59f15445-8b6c-3c92-a8fa-b28b7b739299> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "45dcde70-c4af-754b-14da-541a2e134709" ;
+        c:docDate          "2015-05-30 09:37:31.917" ;
+        c:docTitle         "" ;
+        c:document         "Tina Fey strips for Letterman. On her last appearance on \"The Late Show with David Letterman,\" Tina Fey stripped down and gave Letterman her dress." ;
+        c:id               "http://id.opencalais.com/G8o-W*hIc4djsUQ8uWiFjQ" .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9i5+//qo25taGb7ZnVxRlJhpses=|eQF7x7TOdiOpX+o12fo//tj5EzlLYSiSV3UM+XzlTORKPDMvAGPWGw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:31.745" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance     "1" ;
+        c:name           "David Letterman" ;
+        c:originalValue  "David Letterman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54eef261-5ad0-34ea-935b-60819ce936b6> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance     "2" ;
+        c:name           "IO Theater" ;
+        c:originalValue  "IO Theater" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df8f1d3b-6384-35be-941f-5cc4cdc466e4> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance     "2" ;
+        c:name           "Primetime Emmy Award for Individual Performance in a Variety or Music Program" ;
+        c:originalValue  "Primetime Emmy Award for Individual Performance in a Variety or Music Program" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8328cef9-bbca-3be2-a54f-378e78db6e99> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance     "2" ;
+        c:name           "Parodies of Sarah Palin" ;
+        c:originalValue  "Parodies of Sarah Palin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/510e8142-3a8f-38aa-aa1d-fbdf9760434f> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance     "2" ;
+        c:name           "Late Night with David Letterman" ;
+        c:originalValue  "Late Night with David Letterman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f0db2dc0-899d-37e3-a25f-c96ecfd200e8> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance     "2" ;
+        c:name           "Tina Fey" ;
+        c:originalValue  "Tina Fey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1143c5bc-0d2f-3237-a44f-7b8213f8aeb1> .
+
+<http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fe61356c-8a09-3347-93f2-9a480239186e> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

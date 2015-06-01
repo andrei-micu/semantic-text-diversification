@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb> ;
+        c:importance     "1" ;
+        c:name           "Nielsen ratings" ;
+        c:originalValue  "Nielsen ratings" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17b1623b-c735-3301-804a-f1520bac42bf> .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb> ;
+        c:importance     "2" ;
+        c:name           "Nutrition" ;
+        c:originalValue  "Nutrition" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7fdee7b-d67b-3709-bc2c-417d6721b1a4> .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb> ;
+        c:importance     "1" ;
+        c:name           "Marketing" ;
+        c:originalValue  "Marketing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6644e432-a711-3582-b890-01a431df8558> .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb> ;
+        c:importance     "1" ;
+        c:name           "Obesity" ;
+        c:originalValue  "Obesity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c013a490-de26-34d2-b6ed-9444f0437e22> .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb> ;
+        c:importance     "2" ;
+        c:name           "Diets" ;
+        c:originalValue  "Diets" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b4889974-d3b2-3397-89bf-2f09e60f8ccb> .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb> ;
+        c:score           "0.998" .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb> ;
+        c:importance     "2" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "64c2572f-c0eb-fb8b-14da-5381f9f1df07" ;
+        c:docDate          "2015-05-30 09:27:08.615" ;
+        c:docTitle         "" ;
+        c:document         "Study: Even 1 hour of TV can make kids fat. Even a little bit of television viewing goes a long way to potentially hurt a child's health, according to new research." ;
+        c:id               "http://id.opencalais.com/ns-iaz2I-sANEPOtvtVfwA" .
+
+<http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b52e4433-971f-3679-9b3e-d8b6b02d98bb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|c834sLyRB0Pi/POk8QLu0OEDccY=|YSCQRYuPCC9iKXFF1dgqc77YqGF0rKpRiRqpz9TLof2Dug42fvQt2g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:08.335" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

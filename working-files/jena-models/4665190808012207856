@@ -1,0 +1,58 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8mu8xOWnUB7n/tE6IaVY5+tJCOw=|Yzt0nXUlAv5aXk7Dqv5sRsA3b/UFrOSHPTt3yLE6QJH8mmNIW04t8A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:50.662" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da> ;
+        c:score           "0.987" .
+
+<http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "34c4d2f8-a67f-fc8e-14da-541ecc64551f" ;
+        c:docDate          "2015-05-30 09:37:50.896" ;
+        c:docTitle         "" ;
+        c:document         "Play Date Protest Held In Support Of 'Free Range' Parents. A Maryland couple made national headlines after Child Protective Services investigated them for letting their children walk home from a park alone. Now, other parents are staging a defiant protest in support." ;
+        c:id               "http://id.opencalais.com/edhvai3bObrCMFtEXx7F5Q" .
+
+<http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a7bb09b5-5f42-3692-801b-cf10731eb7da> ;
+        c:score           "0.868" .

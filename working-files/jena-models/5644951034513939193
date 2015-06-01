@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "af1c9a60-5177-f764-14da-5451ab571d39" ;
+        c:docDate          "2015-05-30 09:41:19.481" ;
+        c:docTitle         "" ;
+        c:document         "In 'Rhythm,' Bhi Bhiman's Music Isn't Limited By National Borders. Bhi Bhiman had an all-American childhood, but his songs have an international character. He talks with NPR's Scott Simon about his childhood, his politics, and his new album, Rhythm and Reason." ;
+        c:id               "http://id.opencalais.com/IAKfiF37p-N0hulc2cboZQ" .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926> ;
+        c:importance     "1" ;
+        c:name           "Year of birth missing" ;
+        c:originalValue  "Year of birth missing (living people)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3412379a-c58d-3f2e-b182-3e92b0b33f05> .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926> ;
+        c:importance     "2" ;
+        c:name           "Radio" ;
+        c:originalValue  "Radio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d716e304-d6f8-379b-8369-e49ba5bb361b> .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|VHR4fpSKgUNRrAWp+bj91a1itLI=|GxT9OHWPuQQpHiDBJ6dkKDpgzi4fkVhRjiKqEwx0/nRL6Dw+xdSKpQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:19.044" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926> ;
+        c:importance     "1" ;
+        c:name           "Bhi Bhiman" ;
+        c:originalValue  "Bhi Bhiman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1df0bdab-c80f-37c0-a43a-745dde3e7dfe> .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926> ;
+        c:importance     "2" ;
+        c:name           "American folk music" ;
+        c:originalValue  "American folk music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bc62cf04-43fa-3bd7-996b-4d94bbfc6ecb> .
+
+<http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2c0271f-2c21-32ed-a3f3-a0dd0fd3d926> ;
+        c:importance     "2" ;
+        c:name           "NPR" ;
+        c:originalValue  "NPR" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0410c98-2061-3c90-8b44-3a246fbc5541> .

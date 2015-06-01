@@ -1,0 +1,97 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|rOlgMYR0A1mUi4nza+1LTMY03cc=|iOkg7amQVWqItJ2LmjlA4ZVrbrA7jRxCOwbxvBE6XTsaSv4lDATQLQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:03.037" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:score           "0.871" .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c22b8755-f5aa-17f7-14da-538f55d32955" ;
+        c:docDate          "2015-05-30 10:28:03.178" ;
+        c:docTitle         "" ;
+        c:document         "Fan struck by flying baseball bat. A baseball fan was struck in the face by a flying bat and carried from the stands on a stretcher on Monday night." ;
+        c:id               "http://id.opencalais.com/4P4UYHNOQducA8DpVad*mg" .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:importance     "1" ;
+        c:name           "Boston Red Sox players" ;
+        c:originalValue  "Boston Red Sox players" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/10c64a9a-ad78-3ecd-b3fb-dee1274e1cce> .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:importance     "1" ;
+        c:name           "Major League Baseball" ;
+        c:originalValue  "Major League Baseball" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c063601-0feb-3198-8c9e-f687a5f5af49> .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c54b3710-3181-314e-97f4-3a5bc8119f68> ;
+        c:importance     "1" ;
+        c:name           "Baseball" ;
+        c:originalValue  "Baseball" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/81a6d889-b583-396a-824c-0fccbe051640> .

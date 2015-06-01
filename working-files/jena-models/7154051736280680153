@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e> ;
+        c:score           "0.957" .
+
+<http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e> ;
+        c:score           "0.920" .
+
+<http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YeQGsHzqRIn5lsYj6+S5113TQX4=|JCckPsZ8TTDq4p92b78oPzFKvrOFVrkYc9OYDB0sAfguHD++smhYlg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:55.112" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e> ;
+        c:importance     "1" ;
+        c:name           "Axis & Allies" ;
+        c:originalValue  "Axis & Allies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/63f188d0-4a35-370e-a366-083f48702a4a> .
+
+<http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/629f7a27-bdda-3c55-82fd-59525cde135e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8f719687-d7ad-04ce-14da-54029684551f" ;
+        c:docDate          "2015-05-30 09:35:55.471" ;
+        c:docTitle         "" ;
+        c:document         "A Wartime Anniversary for Planes and Memories. Aging veterans were among those watching as dozens of fighter planes and bombers from World War II buzzed over Washington on the 70th anniversary of the Allied victory in Europe." ;
+        c:id               "http://id.opencalais.com/h00uIQzASpNsvmWBlr*sEw" .

@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/de9d311b-9af2-3620-ac90-4b4788422cbc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/de9d311b-9af2-3620-ac90-4b4788422cbc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/de9d311b-9af2-3620-ac90-4b4788422cbc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e8981a78-ff7c-f525-14da-538041123ab1" ;
+        c:docDate          "2015-05-30 10:27:01.343" ;
+        c:docTitle         "" ;
+        c:document         "First look: Jared Leto is the Joker. You can call him... Joker." ;
+        c:id               "http://id.opencalais.com/I6IltBJDB38Wgn03rUbNBg" .
+
+<http://d.opencalais.com/dochash-1/de9d311b-9af2-3620-ac90-4b4788422cbc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de9d311b-9af2-3620-ac90-4b4788422cbc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|I4vawpeoS+l2DgsM605HmhQsWuo=|dTx6DO0hKYQ7EybKin0ZXzslLClFa9pJNBodnPyM5JITbLZYDyGsjw==" ;
+        c:submissionDate  "2015-05-30 10:27:01.265" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

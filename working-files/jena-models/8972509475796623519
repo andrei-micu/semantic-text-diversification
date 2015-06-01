@@ -1,0 +1,108 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|p3mfNZ1vtzJA+FsqEecLZMz+aNY=|BwjLCxXOkZ8M4GnTzlieICnZxGxZy+2eWGN/2SkLUL1cJLtROmf/Kg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:30.881" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:importance     "1" ;
+        c:name           "Planetary science" ;
+        c:originalValue  "Planetary science" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/58cff2bc-1e69-3151-bd47-4a8f04cd50cb> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:importance     "2" ;
+        c:name           "Planet" ;
+        c:originalValue  "Planet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36c1977d-9f80-3eaf-af3d-a79f3bfa48d6> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:importance     "2" ;
+        c:name           "SETI" ;
+        c:originalValue  "SETI" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/665de6ca-b61c-3fbf-88cf-ef2b5c3cab1f> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:importance     "1" ;
+        c:name           "Exoplanetology" ;
+        c:originalValue  "Exoplanetology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2413d3a-693d-3a73-a714-705099ff1d00> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:importance     "2" ;
+        c:name           "Extrasolar planets" ;
+        c:originalValue  "Extrasolar planets" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a8c20c4-ff9f-38d0-8977-d48868b65a73> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:importance     "2" ;
+        c:name           "American Astronomical Society 215th meeting" ;
+        c:originalValue  "American Astronomical Society 215th meeting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ca6b3d6-0563-3f51-a8f5-48b12b0d141f> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:importance     "1" ;
+        c:name           "Astronomy" ;
+        c:originalValue  "Astronomy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a0e7492-db2a-3183-adad-db15d807969b> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:importance     "2" ;
+        c:name           "Super-Earth" ;
+        c:originalValue  "Super-Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/547cdb64-4345-3327-bae8-e46fe59bdfcd> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2f92671d-0a90-3a55-14da-53b36d1653ed" ;
+        c:docDate          "2015-05-30 09:30:31.162" ;
+        c:docTitle         "" ;
+        c:document         "Welcome To The Neighborhood: 2 Super-Earths Discovered. Astronomers using telescopes in Hawaii and California have found two exoplanets orbiting a star a mere 54 light years away. The discovery is important for two big reasons." ;
+        c:id               "http://id.opencalais.com/aivB1qSsN7SkWdAkTIMKGg" .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:importance     "2" ;
+        c:name           "Space" ;
+        c:originalValue  "Space" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cb9aade-d95e-381c-a68d-2e5782be52d5> .
+
+<http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e7e3ad1-379c-37d8-b626-b0656b032372> ;
+        c:importance     "2" ;
+        c:name           "OGLE-2005-BLG-390Lb" ;
+        c:originalValue  "OGLE-2005-BLG-390Lb" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a24dac11-8dba-3756-82a3-8e3de620df82> .

@@ -1,0 +1,160 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance     "1" ;
+        c:name           "Western Asia" ;
+        c:originalValue  "Western Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/631fb2b9-52dc-3d33-b119-8bf56d76a361> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Zkx3gPbpLS3cSD2Zpmj+CrDJZUM=|VRZTwlA25O//PuB5jgxgFJkk8cOC6oqnXziPcbt2e+A62dMDSGZwbQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:24.948" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance     "2" ;
+        c:name           "Levant" ;
+        c:originalValue  "Levant" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3bbb187a-70ce-3a30-b61f-34126b6498f8> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance     "2" ;
+        c:name           "Israel" ;
+        c:originalValue  "Israel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45ba9d00-4371-3c07-96f6-771d79d791a7> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance     "2" ;
+        c:name           "Middle East" ;
+        c:originalValue  "Middle East" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d409e4d8-bb09-3dd2-98dc-af04b2734c0a> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance     "1" ;
+        c:name           "Zionism" ;
+        c:originalValue  "Zionism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ba71057-5dcb-39e2-bae8-c4c98f0327e6> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance     "2" ;
+        c:name           "Racism in Israel" ;
+        c:originalValue  "Racism in Israel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ef4b786e-d638-3a0a-9ca7-400d25144997> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "62f37ff2-263f-56c1-4da5-3dded4354646" ;
+        c:docDate          "2015-05-30 10:33:25.088" ;
+        c:docTitle         "" ;
+        c:document         "Israel Braces For More Protests By Minority Ethiopian Community. Police and protesters clashed Sunday during rallies to protest police treatment of Ethiopian-Israelis. Security forces have been deployed in Tel Aviv and Jerusalem to try to prevent further violence." ;
+        c:id               "http://id.opencalais.com/gX-LGZwkCjy8p2BprZ188Q" .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc5959e-977b-3078-880a-bf6c422b6092> ;
+        c:importance     "2" ;
+        c:name           "Nakba Day" ;
+        c:originalValue  "2011 Nakba Day" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb28ecdd-9e3f-32bf-9b6b-8c648a2096f9> .

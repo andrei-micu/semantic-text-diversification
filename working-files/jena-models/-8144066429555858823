@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance     "1" ;
+        c:name           "Religion in the United States" ;
+        c:originalValue  "Religion in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f5e2d4b7-a972-3b5f-bcf6-d4f1b2ed9340> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance     "2" ;
+        c:name           "Child pornography" ;
+        c:originalValue  "Child pornography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8814c53e-ceb3-3315-b6f2-b46321747a93> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:score           "0.981" .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance     "2" ;
+        c:name           "Simple living" ;
+        c:originalValue  "Simple living" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7b4aadfd-db92-31e4-bd91-af484275a09a> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|tV/xwqag7m0rhrsFaEzGpIWT4LU=|GC/UthI47ojD9lsFm18vURVMJdlWWuQzVv+kwUtDawqm8jhjY8MKTw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:29.549" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance     "1" ;
+        c:name           "Christianity in the United States" ;
+        c:originalValue  "Christianity in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bf3e15ad-9b05-380d-aa7d-8aa22e407d73> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance     "2" ;
+        c:name           "Pornography" ;
+        c:originalValue  "Pornography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a873c558-7ad5-3f82-97f2-939753a1e4a6> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:score           "0.628" .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance     "1" ;
+        c:name           "Amish" ;
+        c:originalValue  "Amish" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/064a1e8d-2408-3836-82d0-9fb71aa23030> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance     "2" ;
+        c:name           "Pennsylvania" ;
+        c:originalValue  "Pennsylvania" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/48660d5f-c682-36f2-b63e-2955c24389ac> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4e5cff91-f10b-7e7b-14da-53fc58d34709" ;
+        c:docDate          "2015-05-30 09:35:29.877" ;
+        c:docTitle         "" ;
+        c:document         "Man admits abducting Amish girls, making child porn. An upstate New York man who abducted two Amish girls last August has pleaded guilty to 21 counts of sexual abuse and making child pornography, authorities announced Friday." ;
+        c:id               "http://id.opencalais.com/Z-i9Qui*7w5lPADfqrMlNg" .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance     "2" ;
+        c:name           "German diaspora" ;
+        c:originalValue  "German diaspora" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/19ba493d-623f-3ae6-bfa2-db3fe33f5e11> .
+
+<http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/77be582b-b23a-37fe-84b9-9767a802eede> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

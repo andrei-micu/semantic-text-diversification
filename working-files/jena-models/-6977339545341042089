@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60> ;
+        c:importance     "1" ;
+        c:name           "Boomerang" ;
+        c:originalValue  "Boomerang (Eastern Europe)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/377cc711-f18f-39bb-a720-0b3281690205> .
+
+<http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "716108c1-c811-e69b-14da-53d94f835464" ;
+        c:docDate          "2015-05-30 10:33:06.259" ;
+        c:docTitle         "" ;
+        c:document         "'Revenge' canceled. What's next?. View this list of canceled TV shows to see which ones have gotten the ax." ;
+        c:id               "http://id.opencalais.com/uhSS3e9134H8OzRGPKXFyQ" .
+
+<http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|G7BtPj7z4XaRs/o8skfg9Q//GTU=|h7ey7IDweMXPuj+HeILQoRjSOvQvLRLOQ0YZYz/O5pxG61mkRLV6rw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:06.040" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60> ;
+        c:importance     "1" ;
+        c:name           "Aximili-Esgarrouth-Isthill" ;
+        c:originalValue  "Aximili-Esgarrouth-Isthill" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c456dd67-de13-331e-9aac-8fe0e41da535> .
+
+<http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8ce8b73a-7c85-311a-b93f-3d233f9acc60> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

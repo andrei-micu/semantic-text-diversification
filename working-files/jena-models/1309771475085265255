@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568> ;
+        c:importance     "1" ;
+        c:name           "Psychiatry" ;
+        c:originalValue  "Psychiatry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/24b8fe88-374c-3d8a-8660-c54ac1b84cc3> .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568> ;
+        c:importance     "2" ;
+        c:name           "Schizophrenia" ;
+        c:originalValue  "Schizophrenia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/054fe234-7b56-30d9-afc7-dfcb64e230c0> .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568> ;
+        c:importance     "2" ;
+        c:name           "Mood disorders" ;
+        c:originalValue  "Mood disorders" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7413b54-40a6-3aed-8bf3-1eff88192c64> .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0nH3S4LaXA8gvwTU0kMiLmL4zdc=|UcAZq4ZH06n7KKHRmy1+aGwqsZRZVDpt0J6ItJW5rX9kyx+MWOi6wQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:08.222" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568> ;
+        c:score           "0.558" .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568> ;
+        c:importance     "1" ;
+        c:name           "Abnormal psychology" ;
+        c:originalValue  "Abnormal psychology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6fd1db0c-2caa-3cc2-895b-1756aa75785e> .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568> ;
+        c:importance     "2" ;
+        c:name           "Bipolar disorder" ;
+        c:originalValue  "Bipolar disorder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e4b92f0-573e-3881-923f-b52cb77d9314> .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568> ;
+        c:importance     "2" ;
+        c:name           "Psychosis" ;
+        c:originalValue  "Psychosis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dc93275d-270e-30d9-977d-4d27fb922ad2> .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6f52d85f-c999-798f-14da-53cb31e35464" ;
+        c:docDate          "2015-05-30 10:32:08.316" ;
+        c:docTitle         "" ;
+        c:document         "Brazilian executed in Indonesia unaware what was happening until end: witness. SYDNEY (Reuters) - A Brazilian man executed in Indonesia for drug trafficking who was diagnosed with schizophrenia and bipolar disorder did not understand what was happening to him until his final moments, a priest assigned as his spiritual adviser told Australia's ABC radio on Thursday." ;
+        c:id               "http://id.opencalais.com/ksJPAX6WiDWL6zwh60dbqw" .
+
+<http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/643dec9a-33e1-3c35-b686-892b1c353568> ;
+        c:importance     "1" ;
+        c:name           "Psychopathology" ;
+        c:originalValue  "Psychopathology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/78e1be5b-b2d0-35fe-b6be-fb20df56d373> .

@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:importance     "1" ;
+        c:name           "Caricature" ;
+        c:originalValue  "Caricature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/81061bf2-ae64-3a66-a96b-ea5058597d23> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:importance     "2" ;
+        c:name           "Visual arts" ;
+        c:originalValue  "Visual arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cfde7f0-993d-3ff3-9cf1-276f5f92a47d> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:score           "0.630" .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:importance     "2" ;
+        c:name           "Freedom of expression" ;
+        c:originalValue  "Freedom of expression" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c5968f8-04c2-3539-93bb-6614bd2c48e8> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|AJRFjt96P0gp5plMe3EYlawCnpY=|YnRGMzP+v2kpOw14f7KDAw2QweYVGwA2sPrKxyq9FnnetKyIoA52TQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:12.183" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:importance     "1" ;
+        c:name           "Criticism of Islam" ;
+        c:originalValue  "Criticism of Islam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/faa92df4-a75f-3b4a-a09c-9f4b61590725> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:importance     "2" ;
+        c:name           "Drawing" ;
+        c:originalValue  "Drawing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e92f0bf-30ad-3a7f-a0f5-9988d99d5874> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:importance     "2" ;
+        c:name           "Jyllands-Posten Muhammad cartoons controversy" ;
+        c:originalValue  "Jyllands-Posten Muhammad cartoons controversy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e40d83d7-b745-33e7-8a8d-983bd97f538f> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:score           "0.872" .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:importance     "1" ;
+        c:name           "Editorial cartooning" ;
+        c:originalValue  "Editorial cartooning" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ce26175c-591e-3277-b70a-55f13bcf6922> .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a20aaa6b-273d-e010-14da-53dacf7760f9" ;
+        c:docDate          "2015-05-30 10:33:12.246" ;
+        c:docTitle         "" ;
+        c:document         "Police raid home of gunman in Mohammad cartoon attack in Texas. GARLAND, Texas/PHOENIX (Reuters) - Police and FBI on Monday searched the Arizona apartment of one of two gunmen shot dead on Sunday after they allegedly opened fire with assault rifles outside a Texas exhibit of caricatures of the Prophet Mohammad." ;
+        c:id               "http://id.opencalais.com/qMQrpdXUl5YLeZMUqmCZOA" .
+
+<http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e97d7499-7a57-3def-a97c-822b3f1f5f0e> ;
+        c:importance     "2" ;
+        c:name           "Activism" ;
+        c:originalValue  "Activism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68dd2c60-108b-34dc-a3e5-677ddd8c94f2> .

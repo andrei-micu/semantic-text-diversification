@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:importance     "1" ;
+        c:name           "Gaming" ;
+        c:originalValue  "Gaming" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/31025c38-33da-3d9a-b114-b867ffa11060> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:importance     "1" ;
+        c:name           "Gambling" ;
+        c:originalValue  "Gambling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8871ae53-9c8f-3aa3-b876-51373f84688a> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:importance     "2" ;
+        c:name           "Pachinko" ;
+        c:originalValue  "Pachinko" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ca0ff81-1d8d-31ca-8004-ee28ca39b3d6> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:importance     "2" ;
+        c:name           "Slot machines" ;
+        c:originalValue  "Slot machines" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/db8e1611-086b-307a-9f63-58fc0f1ec68f> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:importance     "2" ;
+        c:name           "Slot machines by country" ;
+        c:originalValue  "Slot machines by country" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2d4de56-b670-358e-ac03-8ef79caf5939> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:importance     "1" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8eZEt0ShdwwBYms1osdGZDNCOSU=|aVKUjgDHavOOraIfchj/fdZN+Yph0+Iz9L4lt6ZlRChsVqlyu4cLow==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:57.214" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:score           "0.637" .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591> ;
+        c:importance     "2" ;
+        c:name           "Lotteries" ;
+        c:originalValue  "Lotteries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47d8f6fd-f21c-3e28-b5e0-2c21aa189ca6> .
+
+<http://d.opencalais.com/dochash-1/1282875b-e1eb-31f5-98d9-707b09f76591>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f85c76a4-8ecb-60b8-14da-538de9e719b3" ;
+        c:docDate          "2015-05-30 10:27:57.354" ;
+        c:docTitle         "" ;
+        c:document         "Woman denied $41.8m jackpot payout. A 90-year-old woman is denied a $41.8m (£27.6m) penny slot machine bonus after the casino blames it on a computer error." ;
+        c:id               "http://id.opencalais.com/zL55sHSfRlEQXQD48nT6eg" .

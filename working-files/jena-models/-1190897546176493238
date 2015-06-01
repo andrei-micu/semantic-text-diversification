@@ -1,0 +1,44 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/33ccd17e-29fc-31d0-b5ee-c492dee74cb2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1c6d9551-35f3-0d39-14da-538ec1f1df07" ;
+        c:docDate          "2015-05-30 09:28:00.780" ;
+        c:docTitle         "" ;
+        c:document         "Indonesia executes drug traffickers, sparks anger from Australia, Brazil. CILACAP, Indonesia (Reuters) - An Indonesian firing squad executed eight drug traffickers, including seven foreigners, in the early hours of Wednesday, sparking condemnation from Australia and Brazil who had made final, desperate pleas to save their nationals." ;
+        c:id               "http://id.opencalais.com/duDptudFWKY9JitDWMDMxg" .
+
+<http://d.opencalais.com/dochash-1/33ccd17e-29fc-31d0-b5ee-c492dee74cb2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/33ccd17e-29fc-31d0-b5ee-c492dee74cb2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/33ccd17e-29fc-31d0-b5ee-c492dee74cb2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/33ccd17e-29fc-31d0-b5ee-c492dee74cb2> ;
+        c:importance     "1" ;
+        c:name           "Cilacap" ;
+        c:originalValue  "Cilacap" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7b4e2ec8-7546-32db-b14c-60c6fcd470c3> .
+
+<http://d.opencalais.com/dochash-1/33ccd17e-29fc-31d0-b5ee-c492dee74cb2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/33ccd17e-29fc-31d0-b5ee-c492dee74cb2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|b5MkpZ5bVqOs92ktEPMXbyRUja8=|S2iZmSuunX3frE76JJy7oyvsFBQkP+yb694JMVJkQy619bLZA/fcyQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:00.671" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/33ccd17e-29fc-31d0-b5ee-c492dee74cb2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/33ccd17e-29fc-31d0-b5ee-c492dee74cb2> ;
+        c:importance     "1" ;
+        c:name           "Cilacap Regency" ;
+        c:originalValue  "Cilacap Regency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6831511c-7575-3d9d-bdc1-3df1b035c8cf> .

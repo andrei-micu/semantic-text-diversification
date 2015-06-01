@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance     "2" ;
+        c:name           "Politics of Israel" ;
+        c:originalValue  "Politics of Israel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cae77e2-8d5d-3587-8cf1-734964836d5e> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance     "2" ;
+        c:name           "Likud" ;
+        c:originalValue  "Likud" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/210bb51f-af53-387f-b369-12d1acce7ac8> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance     "2" ;
+        c:name           "Israel" ;
+        c:originalValue  "Israel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45ba9d00-4371-3c07-96f6-771d79d791a7> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance     "1" ;
+        c:name           "Ashkenazi Jews" ;
+        c:originalValue  "Ashkenazi Jews" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b35fdbb3-c2d5-3cd2-8db0-68d042d3afc6> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+DFo4N7j76TNTkVUQ2Dl884GIi8=|C1IzcU5bYfsIW1rGiwwLiU8T/Cg23GjMX5HeHtbI9ngW9qkcACd5/w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:30:43.167" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance     "2" ;
+        c:name           "Prime Ministers of Israel" ;
+        c:originalValue  "Prime Ministers of Israel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/03f84d23-43d9-3e03-87f5-b47cc11b5c7e> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance     "2" ;
+        c:name           "Israeli legislative election" ;
+        c:originalValue  "Israeli legislative election, 2009" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c51457b-ca22-3471-97dc-8bcd463fc2c8> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8e97eccf-fb35-81a3-14da-53b66df35464" ;
+        c:docDate          "2015-05-30 10:30:43.417" ;
+        c:docTitle         "" ;
+        c:document         "Netanyahu signs first partners in new Israeli coalition. JERUSALEM (Reuters) - Israeli Prime Minister Benjamin Netanyahu signed up his first partners on Wednesday for a new coalition government, a lawmaker and spokeswoman said, putting him on course to lead a heavily right-leaning cabinet." ;
+        c:id               "http://id.opencalais.com/Ve785EgkkqAATfwoTNnvuQ" .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance     "1" ;
+        c:name           "Jews" ;
+        c:originalValue  "Jews" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f82a475-9fbc-3d00-b30f-12897da2b294> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance     "2" ;
+        c:name           "Netanyahu" ;
+        c:originalValue  "Netanyahu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b55cd8af-3362-3047-bb93-2c3f5d728819> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance     "1" ;
+        c:name           "Israeli Jews" ;
+        c:originalValue  "Israeli Jews" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bbe4c257-f05e-32c0-a926-c9578b20ad25> .
+
+<http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a16d7827-386f-38b4-a8cc-96eac3913303> ;
+        c:importance     "2" ;
+        c:name           "Benjamin Netanyahu" ;
+        c:originalValue  "Benjamin Netanyahu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa3716bb-410c-3494-be77-92c6171124fb> .

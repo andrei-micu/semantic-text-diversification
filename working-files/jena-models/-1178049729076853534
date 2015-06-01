@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "304936ab-2a28-d77c-14da-53ca4191927e" ;
+        c:docDate          "2015-05-30 10:32:04.455" ;
+        c:docTitle         "" ;
+        c:document         "Abe, seeking new spark for Japan high-tech, heads to Silicon Valley. WASHINGTON/TOKYO (Reuters) - In the 1980s when Sony and Toshiba were setting the agenda in the global TV and memory chip markets Japan was bristling with confidence as a hub of technological innovation." ;
+        c:id               "http://id.opencalais.com/MUajHWjpM42ptFYsU*coJQ" .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|mD7h6FiYYoGHj4oO//L5GAQkhKM=|WO5csLTIjwZpGck9IRplZ8DavdYT+S+F2JGMjLG23io9HAriIH465g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:04.377" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:importance     "1" ;
+        c:name           "Electronics" ;
+        c:originalValue  "Electronics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae6e6e80-c177-3b47-9ed7-6099774e0f7e> .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:importance     "1" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:importance     "2" ;
+        c:name           "Toshiba" ;
+        c:originalValue  "Toshiba" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc2084d7-6c6d-35de-9f13-227bba54616b> .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:score           "0.950" .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:importance     "2" ;
+        c:name           "Economy of Japan" ;
+        c:originalValue  "Economy of Japan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e97e688-b977-3504-a24d-d741ab1b657b> .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:importance     "1" ;
+        c:name           "Semiconductor companies" ;
+        c:originalValue  "Semiconductor companies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d47db14d-1eda-37d5-8590-b3018a6cf732> .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:importance     "2" ;
+        c:name           "Sony" ;
+        c:originalValue  "Sony" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8194cdcb-4c67-3eff-9cb5-b84dd71949fb> .
+
+<http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bc42670-827e-3c1f-b62b-c1ca4163d0e9> ;
+        c:importance     "2" ;
+        c:name           "Silicon Valley" ;
+        c:originalValue  "Silicon Valley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2937d49f-78a7-3b5a-95fb-f06f634e7b9b> .

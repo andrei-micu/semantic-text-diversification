@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/39dedeb5-950d-345c-8ed7-3d4be05061b4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/39dedeb5-950d-345c-8ed7-3d4be05061b4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|AjLoOT1cM18t3ls2TJUFWF+RfAI=|BdJoHZOZLd9MAeMoPywswu7/pbpYgjZPAfsLcz4xpPXjGmUaJWZnBQ==" ;
+        c:submissionDate  "2015-05-30 10:26:51.062" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/39dedeb5-950d-345c-8ed7-3d4be05061b4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1a02277c-36d4-e5c8-14da-537dc3623ab1" ;
+        c:docDate          "2015-05-30 10:26:51.125" ;
+        c:docTitle         "" ;
+        c:document         "Landmarks: Before and after. " ;
+        c:id               "http://id.opencalais.com/hJM3-qkbmqkMr61i3dYdAA" .
+
+<http://d.opencalais.com/dochash-1/39dedeb5-950d-345c-8ed7-3d4be05061b4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/39dedeb5-950d-345c-8ed7-3d4be05061b4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

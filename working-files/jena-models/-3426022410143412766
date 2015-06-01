@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:importance     "2" ;
+        c:name           "Year of birth missing" ;
+        c:originalValue  "Year of birth missing (living people)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3412379a-c58d-3f2e-b182-3e92b0b33f05> .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|jijIVoKO61gT+Ld2S+R/oU4oWG4=|aeLTXWOApXkK5OcVk1yt1N8LwgqCMujNIe0O3D19VqZVLpCqGArbbQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:28.693" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "306192e3-bbe8-080a-14da-53ed7d513c98" ;
+        c:docDate          "2015-05-30 09:34:28.849" ;
+        c:docTitle         "" ;
+        c:document         "College RB punched gay couple, police say. Marshall University running back Steward Butler rushed for 765 yards on 87 carries with eight touchdowns his sophomore season. His 8.8 yards-per-carry average ranked third nationally." ;
+        c:id               "http://id.opencalais.com/nGCkr*9VguNy5PPY1OPhqQ" .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:score           "0.877" .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:importance     "1" ;
+        c:name           "American football in the United States" ;
+        c:originalValue  "American football in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9744caec-88d1-3a6d-8ea0-59a4b7e9e744> .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:importance     "2" ;
+        c:name           "Ben Tate" ;
+        c:originalValue  "Ben Tate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df3637f9-53d7-3bce-92a8-5d20d65c947c> .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:score           "0.872" .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:importance     "1" ;
+        c:name           "Football" ;
+        c:originalValue  "Football" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26795aa6-cc7c-33c4-9784-1c66d3a0e7f1> .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:importance     "1" ;
+        c:name           "National Football League" ;
+        c:originalValue  "National Football League" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/911c58d3-69ff-36bb-8448-54ede0a84d89> .
+
+<http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3d4a4d62-b416-3411-8b09-19eddcfbc8b6> ;
+        c:importance     "2" ;
+        c:name           "Derek Homer" ;
+        c:originalValue  "Derek Homer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cacad611-c652-3baa-ba5b-04786418d147> .

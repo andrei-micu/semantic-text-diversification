@@ -1,0 +1,52 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5> ;
+        c:importance     "1" ;
+        c:name           "Euro Group" ;
+        c:originalValue  "Euro Group" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/97d3c69e-3ebf-36f1-98bc-e90474e441fc> .
+
+<http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c0832927-4431-c86c-14da-53b794513c98" ;
+        c:docDate          "2015-05-30 09:30:48.002" ;
+        c:docTitle         "" ;
+        c:document         "Eurogroup's Dijsselbloem says Greece will not make it without aid. AMSTERDAM (Reuters) - The head of the Eurogroup said on Tuesday that a recent shakeup of Greek Prime Minister Alexis Tsipras' negotiating team would not by itself resolve the impasse between Greece and its creditors, and Athens would need new loans to stay afloat." ;
+        c:id               "http://id.opencalais.com/1SRu7WPirQdakZkB00l5mQ" .
+
+<http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FMFIBz/Y3WdCDF1wMjsexfTp+AM=|U38iVBzNTTShnOtBZJr6/tzDbiR79VO8n1HtqEpKQnXF+w8kvQE/kA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:47.877" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d43ef9b-63bf-341e-98c8-f17842e48fe5> ;
+        c:importance     "1" ;
+        c:name           "Alexis Tsipras" ;
+        c:originalValue  "Alexis Tsipras" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d8e47bb-8307-3de3-a45b-9b417918f394> .

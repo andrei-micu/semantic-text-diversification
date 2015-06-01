@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f> ;
+        c:importance  "2" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "400391f1-5a14-495e-14da-546542f32f98" ;
+        c:docDate          "2015-05-30 09:42:39.591" ;
+        c:docTitle         "" ;
+        c:document         "MH370 search finds shipwreck. Search teams scouring the floor of the Indian Ocean for missing Malaysia Airlines Flight 370 have come across some wreckage -- just considerably older than the airliner which disappeared in March 2014." ;
+        c:id               "http://id.opencalais.com/ZWsy07iUA1Lkf-Bc8oKiDA" .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f> ;
+        c:importance     "2" ;
+        c:name           "Malaysia Airlines" ;
+        c:originalValue  "Malaysia Airlines" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a44bd7e-69ce-379a-ae37-d6d12b5c8169> .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|JgTYlH5hVTLWzHCYfyC5IBPgeRk=|h9gUGtsQm9MtmBrF5djw9qiVZogwQ0YhkMazZYbgYGQd32wOM4YX4A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:39.279" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f> ;
+        c:importance     "1" ;
+        c:name           "Aviation" ;
+        c:originalValue  "Aviation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89c4a16a-35bc-3191-8c7b-2b6daa04e5d7> .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f> ;
+        c:score           "0.752" .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f> ;
+        c:importance     "1" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f> ;
+        c:importance     "2" ;
+        c:name           "Indian" ;
+        c:originalValue  "Indian (airline)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/453acab3-a42e-3d1e-ab51-547585b80636> .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f> ;
+        c:importance     "2" ;
+        c:name           "Airline" ;
+        c:originalValue  "Airline" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feeee5d2-892e-398c-915e-a1f05f1b3443> .
+
+<http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d48e8944-1dd7-3f34-92f6-a70f9941e93f> ;
+        c:importance     "1" ;
+        c:name           "Aviation accidents and incidents" ;
+        c:originalValue  "Aviation accidents and incidents" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14fb1d7f-eb6e-3709-b066-e080e533bfa2> .

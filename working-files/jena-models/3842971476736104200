@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7> ;
+        c:importance     "2" ;
+        c:name           "Foreign policy of the Barack Obama administration" ;
+        c:originalValue  "Foreign policy of the Barack Obama administration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d727f6c-8401-3c65-9e32-fdb2777044fe> .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nDHD82aujS+zs5FmwxYrqK+J2Ik=|BVDY/0PDs52HZ8Ldqba4prnA3OsIJt/01dXcYVREql8eV7P8lK5gKQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:46.855" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "43af95fb-e102-a470-14da-54a1b471927e" ;
+        c:docDate          "2015-05-30 10:46:47.011" ;
+        c:docTitle         "" ;
+        c:document         "Obama Stresses Support for Israel, but Refuses to ‘Paper Over’ Discord. President Obama used a speech to knock down perceptions, fueled in part by recent tussles over Iran, that he lacks a commitment to Israelis and Jewish concerns." ;
+        c:id               "http://id.opencalais.com/984zQvtZhlpYq1UR013fQg" .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama foreign policy" ;
+        c:originalValue  "Barack Obama foreign policy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3d3dad14-2751-3afd-b311-14b9d159f4d2> .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a1edbb0a-b966-3d13-b885-4717f105bde7> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

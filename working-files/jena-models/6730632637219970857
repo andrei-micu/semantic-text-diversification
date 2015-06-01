@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:importance     "1" ;
+        c:name           "Nevada" ;
+        c:originalValue  "Nevada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/127f5006-1146-3c86-98e9-e7f736cefa88> .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:importance     "2" ;
+        c:name           "Angels Advocate Tour" ;
+        c:originalValue  "Angels Advocate Tour" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4ea1eb68-42ff-3280-9e23-2d3ab341a385> .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bc03c7b0-a4ef-fb69-14da-53f142b34709" ;
+        c:docDate          "2015-05-30 09:34:44.342" ;
+        c:docTitle         "" ;
+        c:document         "Review: Mariah Carey and Her Can’t-Look-Away Debut in Las Vegas. Ms. Carey opens “#1 to Infinity,” a two-year residency at the Colosseum at Caesars Palace featuring a tour of her top hits." ;
+        c:id               "http://id.opencalais.com/u*W5uDE9Dh6yB1Z4CFjEXw" .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:importance     "2" ;
+        c:name           "The Colosseum at Caesars Palace" ;
+        c:originalValue  "The Colosseum at Caesars Palace" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/62607ff1-7c62-3177-bfd6-1963e5251af7> .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:importance     "1" ;
+        c:name           "Las Vegas Strip" ;
+        c:originalValue  "Las Vegas Strip" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e729b81d-3e3a-3380-bc2b-7df532c7a0f8> .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:importance     "2" ;
+        c:name           "H.A.T.E.U." ;
+        c:originalValue  "H.A.T.E.U." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/13c90645-60fc-3875-83af-a67a7b47f4b1> .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:importance     "2" ;
+        c:name           "Caesars Palace" ;
+        c:originalValue  "Caesars Palace" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/608b53c4-44ed-3d85-8880-7ade52786ea5> .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|h7xME7gChrhUofmPf9QkaaEgQxE=|ixR8wwayJcoFMyr/gIUzxxxlT+oV5okzgxwbxf4X+Gx5TmM3cGoLEw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:44.139" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:importance     "1" ;
+        c:name           "Mariah Carey" ;
+        c:originalValue  "Mariah Carey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/69b9fdff-38f5-3366-acb2-f09d7db459b6> .
+
+<http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/76bc7641-9a68-335d-b65f-31716f799b6f> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .

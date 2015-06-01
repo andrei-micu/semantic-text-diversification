@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance     "1" ;
+        c:name           "Jimmy Kimmel" ;
+        c:originalValue  "Jimmy Kimmel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9cc0e16b-6f5a-396a-8077-07c8c94aa4b1> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance     "2" ;
+        c:name           "Jay Leno" ;
+        c:originalValue  "Jay Leno" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f9d680df-53db-3419-ba9e-784125dbe545> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "52db4111-8e3a-6090-14da-546f7bc4551f" ;
+        c:docDate          "2015-05-30 09:43:21.257" ;
+        c:docTitle         "" ;
+        c:document         "Jimmy Kimmel gets emotional honoring David Letterman. The love just keeps flowing for David Letterman." ;
+        c:id               "http://id.opencalais.com/wyGzw8PzZlaEMnCd7ndobQ" .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance     "2" ;
+        c:name           "Nationality" ;
+        c:originalValue  "Nationality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b44aebf-d341-3c29-99c8-2088e1ee35e9> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance     "2" ;
+        c:name           "Daniel Kellison" ;
+        c:originalValue  "Daniel Kellison" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ced7a3b-92da-3c7e-b9c8-b44edb6b51f8> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance     "1" ;
+        c:name           "David Letterman" ;
+        c:originalValue  "David Letterman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54eef261-5ad0-34ea-935b-60819ce936b6> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance     "2" ;
+        c:name           "Year of birth missing" ;
+        c:originalValue  "Year of birth missing (living people)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3412379a-c58d-3f2e-b182-3e92b0b33f05> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nqSrMsX31VxbsXDXFVtod6xpHYk=|hIwK64t0GXg+6MJcb1N7BAXD40NnKoJLvcQrrw4xmGJvSuCuAeX/sw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:21.148" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:score           "0.627" .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance     "2" ;
+        c:name           "Conan O'Brien" ;
+        c:originalValue  "Conan O'Brien" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/58e5f5c6-fb48-3922-9e98-84c2836dee6b> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance     "2" ;
+        c:name           "Jimmy Kimmel Live!" ;
+        c:originalValue  "Jimmy Kimmel Live!" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dd57cbbe-23ce-326c-9cec-1f7b55627a64> .
+
+<http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a4560730-029c-3d4e-99b2-464117747684> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

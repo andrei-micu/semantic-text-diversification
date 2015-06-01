@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance     "2" ;
+        c:name           "Brixton riot" ;
+        c:originalValue  "1995 Brixton riot" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/98a65838-189e-3c2f-908c-b18fe072d884> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance     "2" ;
+        c:name           "Southern United States" ;
+        c:originalValue  "Southern United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a75e48b2-58ef-371f-b774-ac82ec51bc27> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "855ddfb4-d455-af52-14da-538f08d32955" ;
+        c:docDate          "2015-05-30 10:28:01.961" ;
+        c:docTitle         "" ;
+        c:document         "Troops deployed for Baltimore riots. Thousands of troops and police officers are deployed to the US city of Baltimore, after riots linked to the death of a black man in police custody." ;
+        c:id               "http://id.opencalais.com/MRCy2U2mQqF9sEVACyCZvw" .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance     "2" ;
+        c:name           "Crime in Los Angeles, California" ;
+        c:originalValue  "Crime in Los Angeles, California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bbd9d81b-730d-3af6-a7d5-61ffd2400f65> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance     "1" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance     "2" ;
+        c:name           "Baltimore riot" ;
+        c:originalValue  "Baltimore riot of 1861" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f974900e-de17-3a6f-ae2c-574800a1a94e> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance     "1" ;
+        c:name           "Riots" ;
+        c:originalValue  "1968 riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51cf8495-5f56-35f0-8783-4b4488495bf4> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Y2MAGAZKyGLj/1iestdlab7d6rU=|dc0a9YVYvRJxk8Nn4Q9c82GSc6KEBCmzkpphhFox6zErhEehWr9o+Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:01.805" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance     "2" ;
+        c:name           "History of the United States" ;
+        c:originalValue  "History of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72b4f2c4-ec73-3c08-b425-1ffb4426c44d> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:score           "0.557" .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4ad9b17-0ec7-3ca0-9f5f-ec586673b6d6> ;
+        c:importance     "2" ;
+        c:name           "Crime in the United States" ;
+        c:originalValue  "Crime in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ae84720-7dc9-318e-9f99-21cfd38b7928> .

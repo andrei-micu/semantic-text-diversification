@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:importance     "1" ;
+        c:name           "Thitu Island" ;
+        c:originalValue  "Thitu Island" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7a9fffd-0614-3789-b46a-0ae2c093d46b> .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4/BLhzk0cMbOQdiZCOFVmI+YoWY=|TidOaUyEy2l2TUANNfUm9aky1ht0Q0kZ9w0MVO5Dv+7dDAIbGSxh2g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:21.934" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:score           "0.909" .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:importance     "1" ;
+        c:name           "Spratly Islands" ;
+        c:originalValue  "Spratly Islands" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2fbd8a6-03b5-37e5-86bd-a80e21812b69> .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:importance     "2" ;
+        c:name           "Philippines and the Spratly Islands" ;
+        c:originalValue  "Philippines and the Spratly Islands" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77d32d05-1717-3e3e-b335-3a485938215d> .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cd44143b-ac73-df6c-14da-543514e23ab1" ;
+        c:docDate          "2015-05-30 10:39:22.059" ;
+        c:docTitle         "" ;
+        c:document         "From rundown outpost, Philippines watches China island take shape in disputed sea. THITU ISLAND, South China Sea (Reuters) - As the Philippine military C-130 transport plane made its approach to the country's most precious outpost in the disputed South China Sea on Monday, it flew past a reef which China is quickly turning into an island." ;
+        c:id               "http://id.opencalais.com/TmvU80tmQwBudGH1HzuVxA" .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:importance     "2" ;
+        c:name           "South China Sea" ;
+        c:originalValue  "South China Sea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee225378-329b-3ead-bb63-6915310827d1> .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:score           "0.962" .
+
+<http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1af29fe8-85fc-3609-a40a-f01efe893753> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

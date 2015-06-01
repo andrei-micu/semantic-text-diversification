@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae> ;
+        c:score           "0.964" .
+
+<http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qTmvHfUsLoO0nIdH7hBYBawSs1Q=|GEbie2toe3STeCWMlKQKcsUW9kB6M/MhHaUrcM/Z3X0QlJlMwJ/jCQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:09.753" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae> ;
+        c:importance     "1" ;
+        c:name           "Violence" ;
+        c:originalValue  "Violence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c7ad1ef-3465-32b8-a576-ea3a2515bdb2> .
+
+<http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5d3b2f6e-de07-b56b-14da-54a74b9760f9" ;
+        c:docDate          "2015-05-30 10:47:10.018" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: US policeman cleared over deaths. A US police officer who climbed onto the hood of a car and fired repeatedly at its unarmed occupants has been acquitted of manslaughter charges." ;
+        c:id               "http://id.opencalais.com/csOyvaT-UTqcvRm2OqtKpg" .
+
+<http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae> ;
+        c:importance     "1" ;
+        c:name           "Police brutality in the United States" ;
+        c:originalValue  "Police brutality in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1bb5719f-84f4-34e8-bdd8-2b87a90f539c> .
+
+<http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae> ;
+        c:score           "0.801" .
+
+<http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5c33d8d7-cd61-3a68-929c-4ee747120eae> ;
+        c:importance     "1" ;
+        c:name           "Crime in the United States" ;
+        c:originalValue  "Crime in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ae84720-7dc9-318e-9f99-21cfd38b7928> .

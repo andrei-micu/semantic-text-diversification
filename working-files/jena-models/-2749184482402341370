@@ -1,0 +1,161 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HZEuAX2k+GeAmmhuPXuz3WKrVPc=|N4UM2YKCvUsOMq6YEwcLCM/x/2kf8OYAfb1J44lOAT25wXr3QOkC1g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:45.717" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "2" ;
+        c:name           "Emergency management" ;
+        c:originalValue  "Emergency management" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f420ddef-600c-3810-9921-879e94aa181b> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "1" ;
+        c:name           "Constitutional law" ;
+        c:originalValue  "Constitutional law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b110c08e-503d-33ec-9469-a6545300c842> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "2" ;
+        c:name           "Oklahoma" ;
+        c:originalValue  "Oklahoma" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93774213-a64b-3a5e-90a1-dea5d20e4308> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "2" ;
+        c:name           "Early-May 2010 tornado outbreak" ;
+        c:originalValue  "Early-May 2010 tornado outbreak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8cc34069-3c6a-3dca-b928-18d642c7bbfb> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "1" ;
+        c:name           "Southern United States" ;
+        c:originalValue  "Southern United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a75e48b2-58ef-371f-b774-ac82ec51bc27> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "2" ;
+        c:name           "Natural disasters" ;
+        c:originalValue  "Natural disasters" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ec37c7c3-fd35-39fa-ae8e-7a4e85fdaded> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "2" ;
+        c:name           "Mid-May 2008 tornado outbreak sequence" ;
+        c:originalValue  "Mid-May 2008 tornado outbreak sequence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eb3ecaf7-5eff-38a9-b41b-16471ab3de44> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "1" ;
+        c:name           "Public safety" ;
+        c:originalValue  "Public safety" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db6fb8a-c9ac-3a49-a453-ad0eda49d665> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "2" ;
+        c:name           "State of emergency" ;
+        c:originalValue  "State of emergency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9fd279b4-31ad-3f4e-addb-68eb13ed4fc2> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106> ;
+        c:importance     "2" ;
+        c:name           "Law enforcement" ;
+        c:originalValue  "Law enforcement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93510f9c-4514-3e82-ad67-c26d91124e44> .
+
+<http://d.opencalais.com/dochash-1/50a0ec6c-a7ee-3e59-92d1-d7ff97392106>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ba24bb14-f798-b201-4da5-3e2ff5719b32" ;
+        c:docDate          "2015-05-30 10:33:45.904" ;
+        c:docTitle         "" ;
+        c:document         "Emergency in 12 Okla. counties. Oklahoma declared a state of emergency in a dozen counties Thursday as the state and several others recovered from severe storms." ;
+        c:id               "http://id.opencalais.com/-Sx-akooFmEZZAceobXUBg" .

@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:importance     "1" ;
+        c:name           "Weed" ;
+        c:originalValue  "Weed" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/23d35569-8586-337d-bd2c-4cb2e3fcd55c> .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:importance     "1" ;
+        c:name           "Whacky" ;
+        c:originalValue  "Whacky" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d71306b-74c1-3011-b495-8fa82ba0610a> .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:score           "0.960" .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:importance     "2" ;
+        c:name           "Cannabis in the United States" ;
+        c:originalValue  "Cannabis in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e746142b-fa57-3f39-bf0b-4bf3cbb62e39> .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|esInlgtbZrBpdbJGqAmE9OT7ZiI=|EbCyNg+gGQbH3ybFJEAPx4F4ryVoG/xABDP6CHVKTRZr1uAxZp5rmQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:54.811" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5af92345-b3d2-d257-14da-54b24bb35464" ;
+        c:docDate          "2015-05-30 10:47:55.014" ;
+        c:docTitle         "" ;
+        c:document         "Celebrities and marijuana. Several celebrities have been open about their love of the whacky weed. View the list." ;
+        c:id               "http://id.opencalais.com/fMJLqYOEAnTug5467xo7ZA" .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:importance     "1" ;
+        c:name           "Celebrity" ;
+        c:originalValue  "Celebrity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e77d0ea-05f3-3151-aeeb-20d0e6eb745a> .
+
+<http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7040b0c7-3930-30f9-a4d3-bd6cbb480971> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .

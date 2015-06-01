@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:importance     "1" ;
+        c:name           "Geography of California" ;
+        c:originalValue  "Geography of California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/637c5164-c035-34de-88dc-88bc9287ec8f> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:score           "0.811" .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:importance     "2" ;
+        c:name           "Silicon" ;
+        c:originalValue  "Silicon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3a369c5-c15f-344c-845b-1c4cac19b4ea> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:score           "0.937" .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:importance     "1" ;
+        c:name           "Matter" ;
+        c:originalValue  "Matter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ad6e547-20fb-317d-9022-abccb7b30758> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:importance     "1" ;
+        c:name           "Chemistry" ;
+        c:originalValue  "Chemistry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/176cb94d-bc36-3769-9f04-7f867181dd40> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:importance     "2" ;
+        c:name           "Flash" ;
+        c:originalValue  "Flash (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/da255b63-3ad1-334d-a136-36960ed75ba5> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:score           "0.917" .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5d9222e1-5dc6-4224-14da-53c6b1f1927e" ;
+        c:docDate          "2015-05-30 10:31:49.885" ;
+        c:docTitle         "" ;
+        c:document         "A Founder of Secret, the Anonymous Social App, Is Shutting It Down. Secret’s rapid rise and fall illustrates the flash-in-the-pan nature of Silicon Valley’s current technology boom." ;
+        c:id               "http://id.opencalais.com/Ygb*jHt8qrjCkNzd8FiQqA" .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:importance     "2" ;
+        c:name           "Boom" ;
+        c:originalValue  "Boom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4593a-cb3b-31c4-8ec5-87981aee3893> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a81678b1-5727-37dc-a5c4-bf1a5c2d7261> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|lK5s72W1mhJzf+o/43zfkCrh6wg=|Xw37PyGWLeDcH2EqwelKS4DN0YsLOCjSyoSK8s1Yzn1a+ZJ3u7DZlQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:49.791" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

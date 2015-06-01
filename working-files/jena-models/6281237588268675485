@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "618153f1-cc02-7b29-14da-54b39231927e" ;
+        c:docDate          "2015-05-30 10:48:00.160" ;
+        c:docTitle         "" ;
+        c:document         "Duggar a common sight on stump. Joshua Duggar, the eldest son of the TLC hit reality show \"19 Kids And Counting,\" admitted to \"inexcusable\" actions as a teenager amid a shocking report outlining multiple allegations of child molestation." ;
+        c:id               "http://id.opencalais.com/r8FBHPt695bGMQa8-p5eEQ" .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|z6VHxRqw9wvAo5BCLC65nS72TBI=|EiRtOwerWW3V9ST+b54YMZ7WLZKLORjE0RNxoPqqyWVGfWarZqtUzA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:00.035" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:importance     "1" ;
+        c:name           "19 Kids and Counting" ;
+        c:originalValue  "19 Kids and Counting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f580e405-2a8c-328a-bad8-e986d665d97d> .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:importance     "2" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:importance     "2" ;
+        c:name           "Joshua" ;
+        c:originalValue  "Joshua (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18edac67-d8a5-33a0-85cb-21d5226f26dd> .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:importance     "1" ;
+        c:name           "Children" ;
+        c:originalValue  "Children" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2b5eb787-8a54-3050-81f5-de3d1a00d596> .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:importance     "2" ;
+        c:name           "Jim Bob Duggar" ;
+        c:originalValue  "Jim Bob Duggar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/633df037-a92b-388e-ae25-d5cd99fe54bc> .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:importance     "2" ;
+        c:name           "TLC" ;
+        c:originalValue  "TLC (TV channel)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c831bee8-8f75-355b-8579-10f2e6a72526> .
+
+<http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35807f4a-f8b4-3c7a-9e95-bbbffb54e407> ;
+        c:importance     "1" ;
+        c:name           "Discovery Communications" ;
+        c:originalValue  "Discovery Communications" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a53487f-eaee-3a20-aa4d-767530f15033> .

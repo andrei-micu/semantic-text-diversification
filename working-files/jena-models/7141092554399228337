@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "42d7b7e6-70a3-69af-14da-54cd43713c98" ;
+        c:docDate          "2015-05-30 09:49:45.614" ;
+        c:docTitle         "" ;
+        c:document         "Congress flocks to see Taylor Swift. There's plenty of bad blood between Republicans and Democrats in Congress, but on July 13, one woman will bring them together: Taylor Swift." ;
+        c:id               "http://id.opencalais.com/cKD2rYxiam7Ju677q3hccA" .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c> ;
+        c:importance     "1" ;
+        c:name           "Taylor Swift" ;
+        c:originalValue  "Taylor Swift" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3798152-a315-3a21-affa-1e046026b7b6> .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c> ;
+        c:importance     "2" ;
+        c:name           "Vocal music" ;
+        c:originalValue  "Vocal music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a9ea2c1-5406-329a-8aeb-aafafc109e49> .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c> ;
+        c:score           "0.843" .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|vX4mB3j3/YnfkoTnpk1i1d9cNJA=|UNC1VcLdM54DsJOi0SXgftpxDToDPA97f8L/oc2FSBU2xdhRsET1yg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:45.286" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f6e99f38-4a44-3897-8360-fc77e182f08c> ;
+        c:importance     "1" ;
+        c:name           "Swift" ;
+        c:originalValue  "Swift (Deimian crater)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/654d931e-6a25-329b-a11f-d5f1619af94d> .

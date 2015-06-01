@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance     "2" ;
+        c:name           "New York in the American Civil War" ;
+        c:originalValue  "New York in the American Civil War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/789f4eae-3e8f-3f1f-a573-c113f65b9572> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5f447acb-f5b9-7f24-14da-5468d2932f98" ;
+        c:docDate          "2015-05-30 09:42:54.239" ;
+        c:docTitle         "" ;
+        c:document         "2 New York City Jail Employees Arrested on Smuggling Charges. Months after Mayor Bill de Blasio announced a crackdown on contraband smuggling at Rikers Island, employees continue to flout the law, investigators say." ;
+        c:id               "http://id.opencalais.com/CcC7lcBMVyV6VPKxTxO1vw" .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance     "2" ;
+        c:name           "Geography of Long Island" ;
+        c:originalValue  "Geography of Long Island" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4aa0cf55-69fb-3c95-839f-7f73286b6cde> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance     "2" ;
+        c:name           "Smuggling" ;
+        c:originalValue  "Smuggling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d82e359-7352-3829-8709-c704c84f1ab7> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance     "1" ;
+        c:name           "East River" ;
+        c:originalValue  "East River" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/812a6eaa-823e-3d28-b181-7d1471527a6a> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:score           "0.872" .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance     "1" ;
+        c:name           "New York" ;
+        c:originalValue  "New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/461159b1-6be8-3031-b1dd-039ee48ba761> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:score           "0.965" .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance     "2" ;
+        c:name           "Bill de Blasio" ;
+        c:originalValue  "Bill de Blasio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ab9c506-8031-3fe1-8080-ce2037a80a09> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nrd3lAhP4AD2ZYXJMn8Z/Sf30DQ=|lZb6NwIzMHvoGAzcDNG+KLJwWPR+5lhovLimEcJNna+yga3P8nIJAQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:53.880" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance     "2" ;
+        c:name           "Rikers Island" ;
+        c:originalValue  "Rikers Island" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/64784d10-c3f5-39f9-aea9-48cec71deb21> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance     "1" ;
+        c:name           "Geography of New York" ;
+        c:originalValue  "Geography of New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7ef5cbf2-336e-3ab2-b4e8-b6b422a8e6ab> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c30f045-a432-31f2-b11b-3a46d143a07c> ;
+        c:importance     "2" ;
+        c:name           "Queens, New York City" ;
+        c:originalValue  "Queens, New York City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d25e1e1f-bf7d-3865-a5ed-281a840c4262> .

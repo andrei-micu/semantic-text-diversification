@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4> ;
+        c:importance     "2" ;
+        c:name           "Book:2003 Atlantic hurricane season" ;
+        c:originalValue  "Book:2003 Atlantic hurricane season" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a1c451c-a652-34f0-ba99-061d589550f9> .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5dHgcGUdrbX3Ys7Or/lMTmahcA4=|VUdrG7HAcrSfHF+9FgDK+N6MpwEmKzIlAFbeSnjICIMkM1x7nhzT/w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:43.896" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4> ;
+        c:importance     "1" ;
+        c:name           "Atlantic Ocean" ;
+        c:originalValue  "Atlantic Ocean" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d87ec13d-1d78-3fbe-8587-2e1d51d9fbc4> .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4> ;
+        c:importance     "1" ;
+        c:name           "Book:List of off-season Atlantic hurricanes" ;
+        c:originalValue  "Book:List of off-season Atlantic hurricanes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ce722a12-c274-3254-9374-5a20f9d02669> .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "63e9559a-c0a4-2cf7-14da-53ffd984551f" ;
+        c:docDate          "2015-05-30 09:35:44.052" ;
+        c:docTitle         "" ;
+        c:document         "Ana first named storm of hurricane season. Ana was spawned off the coast of Georgia on Thursday as the first named storm of the 2015 Atlantic tropical storm season." ;
+        c:id               "http://id.opencalais.com/22RBafpOg-iBg0rI82qfmw" .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4> ;
+        c:importance     "1" ;
+        c:name           "Atlantic hurricane seasons" ;
+        c:originalValue  "Atlantic hurricane seasons" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3e23144-f9f0-3f83-b041-8a0f09fe2bf7> .
+
+<http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/17b87afd-eefb-3e8e-acce-58a7f23327a4> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .

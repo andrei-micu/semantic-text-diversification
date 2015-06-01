@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72> ;
+        c:importance     "1" ;
+        c:name           "KGTV" ;
+        c:originalValue  "KGTV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fadb4b98-094c-36c8-b9ed-3fe0417734c5> .
+
+<http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dd057b88-4aa9-1f85-14da-53d5a9735464" ;
+        c:docDate          "2015-05-30 10:32:51.173" ;
+        c:docTitle         "" ;
+        c:document         "Sea lion attacks man, drags him underwater. A sea lion attacked a fisherman in California and dragged him underwater. CNN affiliate KGTV reports." ;
+        c:id               "http://id.opencalais.com/VeIWNUCjrAdTZmz8wrpg-g" .
+
+<http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72> ;
+        c:importance     "1" ;
+        c:name           "Sea lion" ;
+        c:originalValue  "Sea lion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e124339c-1b3a-3e1c-ba9d-ace36b4d323d> .
+
+<http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2Z1t9238OSf9zWG+9oKI2WTRPTE=|E5Cfmw4wSkP5vtcpkos+WiEgGPVVF+jbg9uaX3uB6a9VKUo8q5kAsw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:51.095" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72> ;
+        c:score           "0.886" .
+
+<http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f61a892a-e8a3-3757-ab52-eb1514b1ac72> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .

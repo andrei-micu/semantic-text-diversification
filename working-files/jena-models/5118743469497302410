@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/48dad8ad-0cd4-3247-bf2e-10962b13e046>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8c530ab2-4f44-aec0-14da-537fc8323ab1" ;
+        c:docDate          "2015-05-30 10:26:59.440" ;
+        c:docTitle         "" ;
+        c:document         "Amazing photos taken by the Hubble Space Telescope. " ;
+        c:id               "http://id.opencalais.com/ChCrpsB3TZDxJueu*3SH2Q" .
+
+<http://d.opencalais.com/dochash-1/48dad8ad-0cd4-3247-bf2e-10962b13e046/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/48dad8ad-0cd4-3247-bf2e-10962b13e046> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|T6AkG7rOFeJwl9BM6VP2Qh9+a+E=|XL3ypi4iFOoCtfv/6d1fKPhXEidyUI739EAGWCbk2AxW1pqOdtkJ+A==" ;
+        c:submissionDate  "2015-05-30 10:26:59.331" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/48dad8ad-0cd4-3247-bf2e-10962b13e046/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/48dad8ad-0cd4-3247-bf2e-10962b13e046> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

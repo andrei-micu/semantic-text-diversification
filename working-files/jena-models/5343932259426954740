@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|j/I1AUNWmf65UTyTlVq2FamOGho=|MLdIrZW0WLh3BTHCEvyJjsDKxE0kI/s4Ek2ltO7EN01/+1aYoaw/Xw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:10.402" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5e8578b2-b821-77f0-14da-54239e2653ed" ;
+        c:docDate          "2015-05-30 09:38:10.542" ;
+        c:docTitle         "" ;
+        c:document         "Tempted To Eat Your Baby's Table Scraps? You're Not Alone. Dan Pashman of WNYC's The Sporkful podcast weighs in on the benefits of eating kids' leftovers. \"Graham crackers are better after they've been gummed by my younger daughter,\" he says." ;
+        c:id               "http://id.opencalais.com/juzdHk9cKmPlGEOAxcArsQ" .
+
+<http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7> ;
+        c:importance     "1" ;
+        c:name           "Graham cracker" ;
+        c:originalValue  "Graham cracker" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a56b3e6a-0304-3bb2-89a1-93b402a305a2> .
+
+<http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7> ;
+        c:score           "0.907" .
+
+<http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7> ;
+        c:importance     "1" ;
+        c:name           "Leftovers" ;
+        c:originalValue  "Leftovers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65dd477a-0916-3d74-be58-cfddc557c534> .
+
+<http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/987dbf4d-d5b7-30e0-9c75-54d700840bb7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

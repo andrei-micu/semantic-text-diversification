@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:importance     "1" ;
+        c:name           "American cuisine" ;
+        c:originalValue  "American cuisine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ff14d5c-d77d-32f9-8636-7490f3e89a2a> .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:importance     "1" ;
+        c:name           "Cooking" ;
+        c:originalValue  "Cooking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/64c080e3-2cae-3cc2-aaca-345c4982cb09> .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:importance     "2" ;
+        c:name           "Barbecue" ;
+        c:originalValue  "Barbecue" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cd121f2-5e34-3143-a003-daedbfde5b4e> .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:importance     "2" ;
+        c:name           "Australian culture" ;
+        c:originalValue  "Australian culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0e958c0-c2ef-3089-8da3-cac3097b7d57> .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:importance     "2" ;
+        c:name           "Meals" ;
+        c:originalValue  "Meals" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf31d1d2-1f92-3dd9-920f-06d0d362a0cf> .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4976890e-76f8-4ff5-14da-5415de4653ed" ;
+        c:docDate          "2015-05-30 09:37:14.365" ;
+        c:docTitle         "" ;
+        c:document         "BBQ owner explains 'White Appreciation Day'. The owner of a Colorado barbecue restaurant who drew criticism for offering a \"White Appreciation Day\" discount says his idea is to celebrate Americans of all races, not just one." ;
+        c:id               "http://id.opencalais.com/7-7rqFIcDb93FMpferWkww" .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ThXOohJ6nunq6Er7lrppIw8zvaY=|PnTz+vpgIaw+u4Y0M2wrdly+XBuIyETSsUzvg/vaE+aPhNjx8liDfA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:14.084" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:importance     "2" ;
+        c:name           "Baking" ;
+        c:originalValue  "Baking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b29ae78b-9d9b-39ed-b66b-c62389322e29> .
+
+<http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/71d6b0e4-ecc2-3dfc-8e60-4273cf2c2540> ;
+        c:score           "0.956" .

@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance     "1" ;
+        c:name           "Public law" ;
+        c:originalValue  "Public law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae0fe7a0-fe95-3a6c-aa1b-113583af1f71> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:score           "0.985" .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|SBb4Bua5/vSmuTtwpmq5zzxsk80=|Y1tSy5ncmBh0mVJHoaY95d77/xFKPXKGTQvHeB+aY0EDdyCVgovExQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:06.611" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance     "2" ;
+        c:name           "Curfew" ;
+        c:originalValue  "Curfew" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d1a95c9-f733-3f6f-9af3-a6427f468644> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance     "2" ;
+        c:name           "Washington, D.C. riot" ;
+        c:originalValue  "1991 Washington, D.C. riot" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/21131ebb-b733-3fd7-8559-e0fee93d7e10> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance     "2" ;
+        c:name           "Kashmir conflict" ;
+        c:originalValue  "Kashmir conflict" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e817695-18f1-3e7f-b365-f64f05ba6162> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:score           "0.964" .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance     "2" ;
+        c:name           "Baltimore Police Department" ;
+        c:originalValue  "Baltimore Police Department" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/669400d7-7c8c-335e-9033-4c3b341ab62a> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance     "1" ;
+        c:name           "Political repression" ;
+        c:originalValue  "Political repression" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/95d3121c-ae47-39c3-a597-1007fa67cfa7> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "78faeae6-5630-bd39-14da-539edb323ab1" ;
+        c:docDate          "2015-05-30 10:29:06.752" ;
+        c:docTitle         "" ;
+        c:document         "Baltimore police enforce curfew. Police fired gas to enforce a curfew on the streets of Baltimore, a night after violence and arson rocked the city." ;
+        c:id               "http://id.opencalais.com/-GfokdkmO9akrhHBlGYJHQ" .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c51fbe8f-e1d2-3216-940c-448ea11b27ae> ;
+        c:importance     "2" ;
+        c:name           "Ageism" ;
+        c:originalValue  "Ageism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77bf35f0-ba02-36f3-94e3-0d32f15409b6> .

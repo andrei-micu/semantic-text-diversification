@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance     "1" ;
+        c:name           "Computing" ;
+        c:originalValue  "Computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance     "2" ;
+        c:name           "Social information processing" ;
+        c:originalValue  "Social information processing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f76e7ee2-dea7-3a33-8bf8-4df8dd73b4f4> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance     "1" ;
+        c:name           "World Wide Web" ;
+        c:originalValue  "World Wide Web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9234a67-1d5c-3451-83e0-fb48ce4187d8> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance     "2" ;
+        c:name           "Facebook" ;
+        c:originalValue  "Facebook" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b4f3a1a1-a94a-380c-8fb6-7d61fd802b3d> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f10a2e5d-614d-1a72-14da-53c676d1df07" ;
+        c:docDate          "2015-05-30 09:31:49.016" ;
+        c:docTitle         "" ;
+        c:document         "Facebook Use Polarizing? Site Begs to Differ. Almost 29 percent of the news stories displayed by Facebook’s News Feed present views that conflict with the user’s own ideology, the study found." ;
+        c:id               "http://id.opencalais.com/ZZBfOr81fnHefjgb3nUPSg" .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:score           "0.764" .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance     "2" ;
+        c:name           "Social media" ;
+        c:originalValue  "Social media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26585b85-a498-31bb-abc9-70fdd3d7fb7c> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|IValyXuc5npoUe4d6rFIgU/Acrg=|Ga2EmWASMYCnTBGyalxNz6ZSMQuQ+tdnSWVw3aY833o+IuYmsAcz1w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:48.845" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance     "1" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance     "2" ;
+        c:name           "Photo sharing" ;
+        c:originalValue  "Photo sharing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/37265ce8-0e57-377a-b088-9ec4d1a5e30e> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:score           "0.758" .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:importance     "2" ;
+        c:name           "Web 2.0" ;
+        c:originalValue  "Web 2.0" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b5386f7-28c7-39fd-8071-8290dbc329a2> .
+
+<http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3bce6162-8bd5-3b32-aa8c-445cbbb5b780> ;
+        c:score           "0.980" .

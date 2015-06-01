@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance     "2" ;
+        c:name           "Nuclear program of Iran" ;
+        c:originalValue  "Nuclear program of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e55ddb64-2b4a-3d36-ab91-61afd402b42a> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance     "2" ;
+        c:name           "Anti-nuclear movement" ;
+        c:originalValue  "Anti-nuclear movement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5972588a-c062-375c-9a1b-f4823a2401d0> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fed36217-7b1b-6bb4-14da-538d97c1927e" ;
+        c:docDate          "2015-05-30 10:27:55.993" ;
+        c:docTitle         "" ;
+        c:document         "U.S.'s Kerry, Iran's Zarif to meet at U.N. anti-nuclear arms conference. UNITED NATIONS (Reuters) - Iranian Foreign Minister Mohammad Javad Zarif will meet U.S. Secretary of State John Kerry at the opening of a UN conference on the global anti-nuclear weapons treaty on Monday, as they try to make progress in talks on a long-term atomic deal." ;
+        c:id               "http://id.opencalais.com/I9yPgjU4h1qLRocCc1DS4g" .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:score           "0.954" .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance     "1" ;
+        c:name           "Iran" ;
+        c:originalValue  "Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0249c322-e67c-3627-bd67-41c134686d4c> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance     "2" ;
+        c:name           "Sanctions against Iran" ;
+        c:originalValue  "Sanctions against Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b9f5e7ec-1a1a-3145-84e6-2da91a97c518> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance     "2" ;
+        c:name           "Nuclear proliferation" ;
+        c:originalValue  "Nuclear proliferation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f667b49b-2db2-3365-a7c3-43453c82b78f> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance     "2" ;
+        c:name           "Iran–United States relations" ;
+        c:originalValue  "Iran–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cc4f0d1-5a61-38ff-9a0d-6996481b513d> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance     "2" ;
+        c:name           "Iran and weapons of mass destruction" ;
+        c:originalValue  "Iran and weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72f425bc-5601-31b2-bc8a-87f681dadd60> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|kwTh3FG2dxpm7mh8PUqSmykKWck=|JzPjBthb68ID89DRYRtZ6+WXStRJxMK5CAAl600s6mCmLkL/EjUe8Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:55.900" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance     "1" ;
+        c:name           "Mohammad Javad Zarif" ;
+        c:originalValue  "Mohammad Javad Zarif" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/410d3c23-8e6d-34f7-a565-504222f15933> .
+
+<http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c30246d0-6870-328c-8120-17f59b71a2da> ;
+        c:importance     "2" ;
+        c:name           "Javad" ;
+        c:originalValue  "Javad" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a78c8c2-8b18-3b1e-8b0f-2acf4596be5a> .

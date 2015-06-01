@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:importance     "2" ;
+        c:name           "Subprime mortgage crisis" ;
+        c:originalValue  "Subprime mortgage crisis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/862e9ab6-b0dc-3d25-9c8b-3fc07a42ad7a> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b26f7dc2-5724-6c39-14da-53cd26735464" ;
+        c:docDate          "2015-05-30 10:32:16.450" ;
+        c:docTitle         "" ;
+        c:document         "Former Goldman banker acquitted of all charges in rape case. RIVERHEAD, New York (Reuters) - A former Goldman Sachs banker was found not guilty on Wednesday of charges that he raped an Irish student at his rental home while vacationing in Long Island in the summer of 2013." ;
+        c:id               "http://id.opencalais.com/5D51Yj3v*JvuGh5IRcaLmQ" .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:importance     "1" ;
+        c:name           "Goldman Sachs" ;
+        c:originalValue  "Goldman Sachs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/979fee04-31f6-3288-87f3-76c2fc8aceae> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:importance     "2" ;
+        c:name           "Economy of the United States" ;
+        c:originalValue  "Economy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c04552-e625-3a39-93f8-3544f0172fe0> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:importance     "2" ;
+        c:name           "Economy of New York City" ;
+        c:originalValue  "Economy of New York City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a438d769-4ab3-30a3-9f51-88e882f9f8ba> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:importance     "1" ;
+        c:name           "Rockefeller Center" ;
+        c:originalValue  "Rockefeller Center" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad161e6c-9ef1-35e6-bf5a-d1d515fd18f0> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:importance     "1" ;
+        c:name           "Investment" ;
+        c:originalValue  "Investment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f974021-59af-3718-a6ea-cdb8151cb2c1> .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XCJj4bllFvIMqaoq5U5Zq1mCvPc=|PBMU65WW4OhmgBTJE67cbHoTkXke+ev63VHKAKC6Ndi/xqm98N4ktQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:16.231" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1bcb5efc-eb48-3c6a-b508-5b05017ce70f> ;
+        c:importance     "2" ;
+        c:name           "Goldman" ;
+        c:originalValue  "Goldman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b9bfd9b2-696a-39ad-8e29-93e8462b7684> .

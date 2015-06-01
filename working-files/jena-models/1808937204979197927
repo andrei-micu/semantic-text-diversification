@@ -1,0 +1,60 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098> ;
+        c:importance     "1" ;
+        c:name           "Misdemeanor" ;
+        c:originalValue  "Misdemeanor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b28cee54-5b2f-361e-a8d7-94cf11c34e66> .
+
+<http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098> ;
+        c:importance     "1" ;
+        c:name           "Criminal law" ;
+        c:originalValue  "Criminal law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82be3750-fcbb-358e-9efe-8cddcd1736a3> .
+
+<http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098> ;
+        c:importance     "2" ;
+        c:name           "Felony" ;
+        c:originalValue  "Felony" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b8b01c75-0eb1-3598-9bff-09727421a985> .
+
+<http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098> ;
+        c:importance     "1" ;
+        c:name           "Legal terms" ;
+        c:originalValue  "Legal terms" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/20c0c6e4-23d1-3b45-97b2-44e063391fca> .
+
+<http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "77e7c4e8-daa2-82dc-14da-547a19034709" ;
+        c:docDate          "2015-05-30 09:44:04.796" ;
+        c:docTitle         "" ;
+        c:document         "Postman Who Gyrocoptered Onto Capitol Lawn Faces Two Felonies. Doug Hughes, who delivered letters decrying the role of big money in politics, is only accused of misdemeanors for breaching federal airspace; the felonies are lack of proper license and registration." ;
+        c:id               "http://id.opencalais.com/yo-q4vk-pSIqcjaeqeYxKw" .
+
+<http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/acef5a26-2080-3aaa-a618-843191e1e098> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|F7Qw7FmzYlCn8voLpcygLNOZpGo=|lLZC9Z5ORCUpMhQTCo0ytNOe6KiFGV+7vWOveMF82+Zw4V6o1pNJhg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:04.624" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

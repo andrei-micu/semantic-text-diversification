@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0f58bf72-7d30-334d-8700-007d3a65b44c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8e178de3-e637-45af-14da-54b26c8760f9" ;
+        c:docDate          "2015-05-30 10:47:55.399" ;
+        c:docTitle         "" ;
+        c:document         "China's homeowners who refused to budge. " ;
+        c:id               "http://id.opencalais.com/w7kC6PrPbu**sSpPr1dNQg" .
+
+<http://d.opencalais.com/dochash-1/0f58bf72-7d30-334d-8700-007d3a65b44c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0f58bf72-7d30-334d-8700-007d3a65b44c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/0f58bf72-7d30-334d-8700-007d3a65b44c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0f58bf72-7d30-334d-8700-007d3a65b44c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Z+GQTImvvAKebCzM8dG8om30IDM=|gLOZEdlFOF++QS4hKPSSKknyeAp2FF8I1LsJNSokhqcvI1u8rAx2sw==" ;
+        c:submissionDate  "2015-05-30 10:47:55.336" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "da0da8a2-6cd9-bb8e-14da-5421320653ed" ;
+        c:docDate          "2015-05-30 09:38:00.667" ;
+        c:docTitle         "" ;
+        c:document         "An App That Helps Drivers Earn the Most From Their Trips. A free analytics site allows drivers to use their daily income, number of fares, working hours, expenses and mileage to calculate their net pay and determine what driving patterns are most profitable for them." ;
+        c:id               "http://id.opencalais.com/xYR*5wKH17SpKMuf-l*7LQ" .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:score           "0.981" .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:importance     "1" ;
+        c:name           "Analytics" ;
+        c:originalValue  "Analytics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/107389e2-1fa5-3e6a-a83b-576516aa4d16> .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:importance     "2" ;
+        c:name           "Knowledge" ;
+        c:originalValue  "Knowledge" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9acd56fd-8228-3b51-a940-ca773c57c896> .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:importance     "2" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:importance     "1" ;
+        c:name           "Business intelligence" ;
+        c:originalValue  "Business intelligence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74ea9f48-14f9-33c5-8770-7d4ff8a9e137> .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:importance     "2" ;
+        c:name           "Science" ;
+        c:originalValue  "Science" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/709e26da-54e6-3bf9-a8f8-1dc0f42a2a5a> .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|b9uAbYFa2/sfjtS/XbVjNyT36v8=|cijDI8UnIIFWZQTy6i6VTA/D3skhTmKfnPYJgOVOms8OpAic67t2uA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:00.480" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:importance     "2" ;
+        c:name           "Trucks" ;
+        c:originalValue  "Trucks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1c59f807-3c01-3318-98e8-368fb3c057e6> .
+
+<http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2a8b9095-ff3f-3c2a-b414-b4062817d9dc> ;
+        c:importance     "1" ;
+        c:name           "Mathematical finance" ;
+        c:originalValue  "Mathematical finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/58cdc5c7-0b40-3434-890c-266cc125bf15> .

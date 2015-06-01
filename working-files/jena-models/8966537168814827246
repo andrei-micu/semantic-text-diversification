@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:importance     "1" ;
+        c:name           "Brian Mulroney" ;
+        c:originalValue  "Brian Mulroney" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3a25e0b-e617-3972-8253-95d3ff8cec62> .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GyrWxBvH2+749egaa6vza8m70Mg=|ZIBogtBHHkGBxCO79uZ+fC+FUigoDmE2Ew5oJ2JWr0G7zDv0PSjt3A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:50.919" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:score           "0.819" .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:importance     "1" ;
+        c:name           "Université Laval alumni" ;
+        c:originalValue  "Université Laval alumni" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/20d0d7d7-6279-3975-b979-1f19062843cf> .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:importance     "2" ;
+        c:name           "Barrick Gold" ;
+        c:originalValue  "Barrick Gold" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/be818e60-6b80-3aed-b40d-b3f4e67e296c> .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:importance     "2" ;
+        c:name           "Politics of Canada" ;
+        c:originalValue  "Politics of Canada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b45de1fd-9fef-3fe1-8c1b-7452decfe210> .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:importance     "1" ;
+        c:name           "Quebec" ;
+        c:originalValue  "Quebec" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4f15543-37c6-350e-a466-7c9194123c5b> .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:importance     "2" ;
+        c:name           "Quebecor" ;
+        c:originalValue  "Quebecor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/905270c4-bca5-3ceb-af63-341c11d2a90c> .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "75e4bf45-b8db-3255-14da-54bffe7760f9" ;
+        c:docDate          "2015-05-30 10:48:51.137" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Canada's 'early adopter' looks back. Former Canadian prime minister Brian Mulroney, described as \"an early adopter\" because of the reforms he made while in office, talks about his successes and failures." ;
+        c:id               "http://id.opencalais.com/bPHGXVo804TmnH4G-T8qTw" .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:importance     "2" ;
+        c:name           "Canada" ;
+        c:originalValue  "Canada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2ded082-1454-30eb-8786-7a69afffc158> .
+
+<http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abef8122-9f43-3cff-a619-99f6d7fe31fc> ;
+        c:importance     "2" ;
+        c:name           "Mulroney" ;
+        c:originalValue  "Mulroney" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cafa0a2b-fa46-3b94-b4b0-fba9a1f3ba3a> .

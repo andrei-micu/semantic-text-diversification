@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:importance     "1" ;
+        c:name           "Beluga whale" ;
+        c:originalValue  "Beluga whale" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2bb9a9d0-4a16-3466-9fdb-1ee641e56709> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:importance     "2" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4395b014-505d-f591-14da-5444cdc760f9" ;
+        c:docDate          "2015-05-30 10:40:26.441" ;
+        c:docTitle         "" ;
+        c:document         "See birth of baby beluga whale. The Georgia Aquarium welcomes a beluga whale calf. Her mother, Maris, gave birth to her on Mother's Day." ;
+        c:id               "http://id.opencalais.com/HFRLxQrjs5pSfknnA6QGfA" .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Gj3hEBO7OxE/gdhGT+CAY9BTfXo=|XGMTRcb1G/xjy6c52tLifUvxlR5QoUYTBrTcMt5UmqLyERS8EsWNSw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:26.332" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:importance     "2" ;
+        c:name           "Oceanaria" ;
+        c:originalValue  "Oceanaria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/386e7f67-16b9-3a4f-9cff-46ece5c71d00> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:importance     "1" ;
+        c:name           "Georgia Aquarium" ;
+        c:originalValue  "Georgia Aquarium" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/264cb35d-69bc-3e4c-9dc1-01839bc5c85d> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:importance     "2" ;
+        c:name           "Taxonomy" ;
+        c:originalValue  "Taxonomy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e500df30-792c-3e43-9778-5aab66b2614d> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:importance     "1" ;
+        c:name           "Baby Beluga" ;
+        c:originalValue  "Baby Beluga" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4808aefe-350e-3b06-a907-e8d788dcc803> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:importance     "2" ;
+        c:name           "Kayavak" ;
+        c:originalValue  "Kayavak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ece9da9c-9982-3067-94d0-90fe0bc8e94c> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:importance     "2" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .
+
+<http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20cae70a-1b43-32fc-b6be-21cefd3ead1e> ;
+        c:importance     "2" ;
+        c:name           "MarineLand" ;
+        c:originalValue  "MarineLand" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c8be1ab-5a5d-3353-8507-0fb36bcbd1c7> .

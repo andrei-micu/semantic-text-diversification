@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:importance     "2" ;
+        c:name           "Mosque" ;
+        c:originalValue  "Mosque" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9af87f06-ec0a-3c19-9b87-6ff6e32d3700> .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3c282c64-efe8-2003-14da-54a760535464" ;
+        c:docDate          "2015-05-30 10:47:10.319" ;
+        c:docTitle         "" ;
+        c:document         "Suicide bomber kills 21 at Saudi Shi'ite mosque, Islamic State claims attack. ((This May 22 story has been refiled to fix syntax in second paragraph))" ;
+        c:id               "http://id.opencalais.com/XJo5RsmIgAKODuzMZZ2W3g" .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:importance     "1" ;
+        c:name           "Suicide attack" ;
+        c:originalValue  "Suicide attack" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/08c68b7d-0f0d-3539-bd23-9bcf1ecb79ec> .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:importance     "2" ;
+        c:name           "House of Saud" ;
+        c:originalValue  "House of Saud" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3876495-1e14-34df-bbf7-cbd2ef3d72b1> .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:importance     "2" ;
+        c:name           "Saudi Arabia" ;
+        c:originalValue  "Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/287525b4-3bb6-30f6-a8b8-1757b06a0b54> .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:importance     "1" ;
+        c:name           "Middle East" ;
+        c:originalValue  "Middle East" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d409e4d8-bb09-3dd2-98dc-af04b2734c0a> .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:importance     "2" ;
+        c:name           "Suicide bombings in Iraq" ;
+        c:originalValue  "2007 suicide bombings in Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34786548-d85d-37dc-bc0b-08811eb7b398> .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HjBRuo6h4/VAboiCl78fqyKp0ns=|RUleyiXdlsoiNi8v4Uq7lAGJBCBgP9hJ49R+gJRUcKd3TnGunncJEQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:10.085" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7c71f8fd-2f0b-308d-960d-6a45c0d87bc6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

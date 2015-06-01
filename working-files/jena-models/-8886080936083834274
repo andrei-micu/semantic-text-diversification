@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e4242747-51b4-3c83-b8d3-ab6831c923ba/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e4242747-51b4-3c83-b8d3-ab6831c923ba> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/e4242747-51b4-3c83-b8d3-ab6831c923ba/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e4242747-51b4-3c83-b8d3-ab6831c923ba> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|J2lGY6a0DYtwwhfpb6S4onwwtxI=|PTWjQMxShfIPBmkQ+L8BrXDFSBgPF5AWwBnfsjEwWm7Z6J6XwIwbRw==" ;
+        c:submissionDate  "2015-05-30 09:35:45.263" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e4242747-51b4-3c83-b8d3-ab6831c923ba>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f9e703f0-23cf-8af7-14da-54002ef13c98" ;
+        c:docDate          "2015-05-30 09:35:45.325" ;
+        c:docTitle         "" ;
+        c:document         "#IWishMyMotherKnew: 2nd-graders open up. " ;
+        c:id               "http://id.opencalais.com/4ZnwAx6POhbkuyZrb8Foag" .

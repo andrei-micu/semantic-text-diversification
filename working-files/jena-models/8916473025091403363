@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance     "1" ;
+        c:name           "Genealogy" ;
+        c:originalValue  "Genealogy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0b2871b-261d-31aa-8c32-9f8bc296989f> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance     "2" ;
+        c:name           "Altin" ;
+        c:originalValue  "Altin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bfd78ba-8bf5-3a81-a8e4-083a13dda813> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance     "1" ;
+        c:name           "Given names" ;
+        c:originalValue  "Given names" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a74ad45-5196-33d8-958a-3d42ea10b565> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance     "2" ;
+        c:name           "Savannah" ;
+        c:originalValue  "Savannah (given name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0582ce63-f664-38b4-9e65-9e45c66ed0f2> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance     "2" ;
+        c:name           "English given names" ;
+        c:originalValue  "English given names" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83eb9d70-fb98-3db8-a279-c3ab4efb3918> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Y7E4OPnrkVMTBswk51yy6+Xb96w=|QrOSaWRXYfT+31M+7hGOKrbuhoeHl4T8xCsNH99ic8H5JSa0kN8/lA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:21.692" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance     "2" ;
+        c:name           "Social Security Administration" ;
+        c:originalValue  "Social Security Administration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a781c2d-6de8-3db6-8fc8-b9a5d208bc40> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:score           "0.596" .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance     "2" ;
+        c:name           "Emma" ;
+        c:originalValue  "Emma (given name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/003e156a-9c3f-3c09-b547-9dc07e12c7ef> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f277c7a3-a453-d17d-14da-53fa6dc49095" ;
+        c:docDate          "2015-05-30 10:35:21.802" ;
+        c:docTitle         "" ;
+        c:document         "The most popular baby names are ..... Noah and Emma are the most popular baby names of 2014, the U.S. Social Security Administration announced Friday." ;
+        c:id               "http://id.opencalais.com/9tbuSXmMSK0r7HhvO3oyFA" .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:score           "0.805" .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance     "1" ;
+        c:name           "Noah" ;
+        c:originalValue  "Noah (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bc2ce1a2-8e3a-3e14-a9fd-e376d4bebcb9> .
+
+<http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/29b75206-fa54-3b72-9022-3faa6b92113c> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

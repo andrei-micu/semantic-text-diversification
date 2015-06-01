@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:importance     "2" ;
+        c:name           "Boca Juniors" ;
+        c:originalValue  "Boca Juniors" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72c92672-76ba-3d5a-8c7e-527a5dcc9c24> .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:importance     "1" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:score           "0.704" .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:importance     "1" ;
+        c:name           "Football in Argentina" ;
+        c:originalValue  "Football in Argentina" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d8e114a-994a-3cdf-a3a7-cad98671f7fd> .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:importance     "2" ;
+        c:name           "Superclásico" ;
+        c:originalValue  "Superclásico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/761893d2-cff2-322e-8a63-f88baca2ac07> .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|CbWZLcmkbYOt9rjxHL+lS5VFM7M=|IQ1OXZT6F5y43ZkAtZEVavqOt7t4K7uBzOsXVS+yZz457XhtNONUjA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:02.355" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7aa6ec56-99c6-6061-4da5-43ef33760f98" ;
+        c:docDate          "2015-05-30 10:40:02.526" ;
+        c:docTitle         "" ;
+        c:document         "Fans from 'expensive seats' attack soccer players. Argentine fans were labeled as \"sick\" by Boca Juniors' president as one of the world's most famous football rivalries descended into chaos forcing the abandonment of the latest edition of the \"Superclasico.\"" ;
+        c:id               "http://id.opencalais.com/RoJnm7rv2xNJ7R17zBAoSw" .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:importance     "2" ;
+        c:name           "River Plate" ;
+        c:originalValue  "River Plate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26ea6936-0b6b-31a3-8425-e77b92b47ef4> .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:importance     "1" ;
+        c:name           "Sport in Argentina" ;
+        c:originalValue  "Sport in Argentina" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad8e826d-88f3-389e-8f85-611d7ab2270d> .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/872639e4-9784-3a2c-942d-8c1f1ae5a803> ;
+        c:score           "1.000" .

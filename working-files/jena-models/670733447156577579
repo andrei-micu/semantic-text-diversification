@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1533cc70-b5db-7433-14da-54df94132f98" ;
+        c:docDate          "2015-05-30 09:51:00.430" ;
+        c:docTitle         "" ;
+        c:document         "Presidential disaster declaration signed after Texas storms kill 21. DALLAS (Reuters) - U.S. President Barack Obama signed a disaster declaration late on Friday for areas in Texas hammered by severe weather that killed at least 21 people, caused massive flooding and prompted evacuations this week." ;
+        c:id               "http://id.opencalais.com/qK5-j9NypXBsbYmnbkfGAQ" .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:importance     "1" ;
+        c:name           "Meteorology" ;
+        c:originalValue  "Meteorology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/897c2d6f-2365-35ef-8355-f4c70726feaa> .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:importance     "1" ;
+        c:name           "Atlantic Ocean" ;
+        c:originalValue  "Atlantic Ocean" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d87ec13d-1d78-3fbe-8587-2e1d51d9fbc4> .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ooOUPAH/a420j67I/DchtlbNvMY=|hFsf7VxkKvlmogZoL1UIOv6Jm0YUgohkkljAexZi0XofFaLxZlfC4A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:51:00.289" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:importance     "1" ;
+        c:name           "Mexico" ;
+        c:originalValue  "2010 in Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e30aa82-5812-3639-ad43-762891af3a64> .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:importance     "2" ;
+        c:name           "Atmospheric sciences" ;
+        c:originalValue  "Atmospheric sciences" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88403548-ec7e-3011-917e-da243df51138> .
+
+<http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/25519fd6-01dc-343e-b466-a2a418cb53f1> ;
+        c:score           "1.000" .

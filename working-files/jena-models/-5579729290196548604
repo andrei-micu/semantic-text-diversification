@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:importance     "1" ;
+        c:name           "Forteana" ;
+        c:originalValue  "Forteana" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/73eef5d0-5d34-3a09-94e3-283241815e4b> .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:importance     "2" ;
+        c:name           "South Carolina" ;
+        c:originalValue  "South Carolina" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6f3dadd6-da06-3089-9edc-750e851b4097> .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:importance     "2" ;
+        c:name           "Columbia, South Carolina" ;
+        c:originalValue  "Columbia, South Carolina" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db598a6-7bcc-357a-bf1f-78dd4d5b1872> .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:importance     "1" ;
+        c:name           "Superstitions" ;
+        c:originalValue  "Superstitions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a5cd1b04-afe1-3032-899c-3c7a69ee866d> .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dc17d5fe-9210-a9cf-14da-545d17523ab1" ;
+        c:docDate          "2015-05-30 10:42:06.125" ;
+        c:docTitle         "" ;
+        c:document         "2 Women Moved to Write Stories Uncover a Surprisingly Personal One. Through a series of coincidences, two sisters adopted by different families more than 30 years ago find each other in a Columbia University classroom." ;
+        c:id               "http://id.opencalais.com/pfvE3ldzH0hlpjwC0LWCPA" .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:importance     "1" ;
+        c:name           "Coincidence" ;
+        c:originalValue  "Coincidence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8e61c73e-13b3-39a1-ab0d-f044bafb776e> .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:importance     "2" ;
+        c:name           "Synchronicity" ;
+        c:originalValue  "Synchronicity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8fcd8824-bc8b-32a7-9259-b005a65067cf> .
+
+<http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8cbf6267-e274-34fa-ae8a-e54ca69bad5d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|PVaGe4pBQgPp0Zenc4zuaUt50zw=|VvYkV19/v7NT2Xm1yD07V5mt14di9v2qznI7TkO6ucRUhJNrNY1vow==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:05.813" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

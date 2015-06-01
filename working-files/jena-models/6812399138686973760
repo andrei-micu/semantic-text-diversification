@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United Kingdom" ;
+        c:originalValue  "Politics of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afa7f5e7-5618-3463-aa66-5a83f5de101f> .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:importance     "2" ;
+        c:name           "Labour Party" ;
+        c:originalValue  "Labour Party (UK)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/279325db-07f8-393a-bbbd-5a7fb48b187d> .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4xu3OCGKLcLVha5WoGGv0GF69GQ=|jaBYFVGN+Kjq55OEN2EuEsWat7U2QK2HNzdmxC0QQy1GaNaDNfRd5w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:09.658" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:importance     "1" ;
+        c:name           "David Cameron" ;
+        c:originalValue  "David Cameron" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2f7fa478-7c94-3470-9d1a-a5bc838c6f8b> .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:importance     "2" ;
+        c:name           "Socialism" ;
+        c:originalValue  "Socialism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/094957d2-880e-3193-8e42-dd16b5462f0b> .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d39eedd3-b510-fba1-4da5-40623a23ab15" ;
+        c:docDate          "2015-05-30 10:36:09.752" ;
+        c:docTitle         "" ;
+        c:document         "Cameron savors shock triumph in British election. LONDON (Reuters) - British Prime Minister David Cameron swept to a stunning election victory on Friday, confounding forecasts that the vote would be the closest in decades and winning a clear majority that left his Labour opponents in tatters." ;
+        c:id               "http://id.opencalais.com/K8o1FGhLRPNj*H6VUKqtuA" .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:importance     "2" ;
+        c:name           "Cameron" ;
+        c:originalValue  "Cameron (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b1ec9b4-428f-35aa-85d5-31f76405acfe> .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:score           "0.519" .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:importance     "1" ;
+        c:name           "Prime Minister of the United Kingdom" ;
+        c:originalValue  "Prime Minister of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f2215ce2-888d-347e-9ff5-2f019e559fd2> .
+
+<http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/111f16f1-e0c0-35df-98fa-2ca421e5316b> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

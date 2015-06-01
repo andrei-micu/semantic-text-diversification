@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2a78c3ff-5d30-3e23-a394-fa421e63d26f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "225ae97e-1f36-4b16-14da-54571ad34709" ;
+        c:docDate          "2015-05-30 09:41:41.340" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Musical ties that bind US and Cuba. The Minnesota Orchestra prepares for Havana debut" ;
+        c:id               "http://id.opencalais.com/8RoN*Cm6LH4DbgdS6FH1mg" .
+
+<http://d.opencalais.com/dochash-1/2a78c3ff-5d30-3e23-a394-fa421e63d26f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2a78c3ff-5d30-3e23-a394-fa421e63d26f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/2a78c3ff-5d30-3e23-a394-fa421e63d26f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2a78c3ff-5d30-3e23-a394-fa421e63d26f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qcUvDtFDU18XXM0qGrEd4GAPtYU=|F8F2zUdDZ8ZchN6NX0iRgyP3SzVJENoPyFrimrOliGIdtwmIIW++ww==" ;
+        c:submissionDate  "2015-05-30 09:41:41.293" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

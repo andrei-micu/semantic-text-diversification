@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YUby/kYw9scxCQ63vde5RwlzBkw=|QY7b4yfMsqBhIqg5spvKmOZiKv9L9/yJLSGmxKsBKD3r/dM7/Z6VZw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:17.798" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:importance     "2" ;
+        c:name           "Charcuterie" ;
+        c:originalValue  "Charcuterie" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60d86212-a94c-3bc8-99a3-40d56bfa238b> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:importance     "2" ;
+        c:name           "Canned food" ;
+        c:originalValue  "Canned food" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/98cf126a-b921-36a4-8aca-be2ca85becfe> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:importance     "2" ;
+        c:name           "Bacon" ;
+        c:originalValue  "Bacon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c4852443-19ae-35ff-9a16-3d6a93a3437c> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:importance     "1" ;
+        c:name           "Meat" ;
+        c:originalValue  "Meat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3ee0183-ae5a-3ec8-82fd-4578ea498767> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:importance     "2" ;
+        c:name           "Pork roll" ;
+        c:originalValue  "Pork roll" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b19c0f9-c134-3fa8-9b80-f6f5d8588fcc> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d10a47b3-93fd-fcaf-14da-547d5061df07" ;
+        c:docDate          "2015-05-30 09:44:17.985" ;
+        c:docTitle         "" ;
+        c:document         "In New Jersey, A Beef Over Pork Roll Sparks Rival Festivals. What is pork roll? As one fan puts it, \"It's like Spam meets bacon.\" And this Saturday, Trenton, N.J., will host not one, but two competing festivals devoted to this Garden State meat delicacy." ;
+        c:id               "http://id.opencalais.com/RG5Amw1vAXmA1teHkhR9mA" .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:importance     "2" ;
+        c:name           "American cuisine" ;
+        c:originalValue  "American cuisine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ff14d5c-d77d-32f9-8636-7490f3e89a2a> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:importance     "1" ;
+        c:name           "Pork" ;
+        c:originalValue  "Pork" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3aa6bafa-45c8-3e1d-bf4a-15f50d8cd37d> .
+
+<http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/314eef23-36f6-3659-b636-0b491a80d742> ;
+        c:importance     "2" ;
+        c:name           "Spam" ;
+        c:originalValue  "Spam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4bc0142b-f3bc-3c35-aec6-4ffc826a80f9> .

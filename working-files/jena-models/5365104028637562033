@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80> ;
+        c:importance     "2" ;
+        c:name           "Structure" ;
+        c:originalValue  "Structure" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/348713fc-e23f-345e-9921-23f372113c2a> .
+
+<http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80> ;
+        c:score           "0.924" .
+
+<http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80> ;
+        c:importance     "1" ;
+        c:name           "Philanthropy" ;
+        c:originalValue  "Philanthropy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/be5b8321-dfcd-3aac-a877-7369cc42eb1b> .
+
+<http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80> ;
+        c:importance     "2" ;
+        c:name           "Sociology" ;
+        c:originalValue  "Sociology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa1414f0-8e54-3eba-bbfe-e4e5b4dcb745> .
+
+<http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "66445bfd-ac90-cc04-14da-54ae3ac32955" ;
+        c:docDate          "2015-05-30 10:47:38.343" ;
+        c:docTitle         "" ;
+        c:document         "Russia bans 'undesirable' NGOs. Non-governmental organizations working in Russia awoke Sunday to a new reality -- that they operate now under a law that allows the government to prosecute them on the grounds they are 'undesirable.'" ;
+        c:id               "http://id.opencalais.com/4A1ZMOQ1Jw*WRjR035IEFw" .
+
+<http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80> ;
+        c:importance     "1" ;
+        c:name           "Political science" ;
+        c:originalValue  "Political science" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f820beb8-c496-3338-9451-c1fa252c1170> .
+
+<http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80> ;
+        c:importance     "1" ;
+        c:name           "Non-governmental organization" ;
+        c:originalValue  "Non-governmental organization" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fc49aada-8226-3a85-bfa1-e3aafaafbc7e> .
+
+<http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/769a1db6-3446-318f-afea-2d1ae936aa80> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|o+010cLL+JFeUtxgzJFEXeNxzsg=|WQlu6+HYD/Lqi4xZpbBWCVJnfhIZQNXtb0OG817lL7oc7cppFWWn9w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:38.156" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

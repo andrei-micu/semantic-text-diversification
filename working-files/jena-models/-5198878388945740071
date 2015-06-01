@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f> ;
+        c:importance     "1" ;
+        c:name           "Financial economics" ;
+        c:originalValue  "Financial economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bb9859-75e0-3b28-acdb-61f6b786cc4c> .
+
+<http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f> ;
+        c:importance     "2" ;
+        c:name           "Private equity" ;
+        c:originalValue  "Private equity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a366e1d-5973-354f-b860-6092d855f8f3> .
+
+<http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f> ;
+        c:importance     "1" ;
+        c:name           "Finance" ;
+        c:originalValue  "Finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/acd44d54-d8f3-3c36-a78c-2da2af5a2ae8> .
+
+<http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8bb9fdcc-9a52-6153-14da-543d7bd32955" ;
+        c:docDate          "2015-05-30 10:39:56.520" ;
+        c:docTitle         "" ;
+        c:document         "Poundworld sold to US firm for £150m. US private equity firm TPG has bought bargain retailer Poundworld, which began as a market stall in 1974." ;
+        c:id               "http://id.opencalais.com/OFUU9BMAXRVoedTHVn26Xg" .
+
+<http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|W7d9PhiTL9rJROVj9op1It3GCZc=|Z4H+iojCUxWH+d65K1LcO0VHbNsspg8OG0FlYJZ1ft+WDXNV5pTEcA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:56.349" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28d34aee-bdd0-3427-b3a2-a813e220174f> ;
+        c:importance     "1" ;
+        c:name           "TPG Capital" ;
+        c:originalValue  "TPG Capital" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6f514e7d-8fef-3af4-9dd1-1f370711e252> .

@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f5dd1145-7f89-683a-14da-54289424551f" ;
+        c:docDate          "2015-05-30 09:38:30.988" ;
+        c:docTitle         "" ;
+        c:document         "Quake was centered in east Nepal, near China border. A magnitude 7.4 quake struck Nepal, the U.S. Geological Survey says, just weeks after an earlier one." ;
+        c:id               "http://id.opencalais.com/AtFthgcQQITOTDx7wvyZPw" .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299> ;
+        c:importance     "1" ;
+        c:name           "Natural disasters" ;
+        c:originalValue  "Natural disasters" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ec37c7c3-fd35-39fa-ae8e-7a4e85fdaded> .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299> ;
+        c:importance     "1" ;
+        c:name           "Earthquakes" ;
+        c:originalValue  "2011 earthquakes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb2159cc-7945-3b7b-b917-9c03b5901009> .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299> ;
+        c:importance     "2" ;
+        c:name           "Gisborne earthquake" ;
+        c:originalValue  "2007 Gisborne earthquake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d52110b7-5ca8-33d8-a0f2-18f1af16ff14> .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299> ;
+        c:importance     "1" ;
+        c:name           "Baja California earthquake" ;
+        c:originalValue  "2010 Baja California earthquake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/08e8b846-5727-3e24-8bdd-1b523add6749> .
+
+<http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/79dc320e-0b0a-3428-bc5d-55d1b693c299> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|AXkYlBN/nSffNDH3IEgchqKR2iA=|HU1l0cpHUGWg8hp4uYCJPnumIrCSUodyepIXS4mrZ/6vHpTCCtbNMw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:30.722" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

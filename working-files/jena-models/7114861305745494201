@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264> ;
+        c:score           "0.616" .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264> ;
+        c:importance     "1" ;
+        c:name           "Outline of Saudi Arabia" ;
+        c:originalValue  "Outline of Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7bac819c-3cf3-3640-b7e5-6e9e7a716669> .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YpKiUJhYd2sChwKFQ9HqwtGt6V4=|QJnaYb8kZGuH5zP4vgYGnC5eVkZpSmWXZD3MBFK4GxFvgFvDbA9U8g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:06.527" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "52ea862e-bc3d-364b-14da-539ed5f49095" ;
+        c:docDate          "2015-05-30 10:29:06.652" ;
+        c:docTitle         "" ;
+        c:document         "Saudi Arabia arrests 93 Islamic State suspects: state news agency. DUBAI (Reuters) - Saudi Arabia has arrested 93 people suspected of belonging to the Sunni Muslim militant group Islamic State, including at least 65 Saudi nationals, the interior ministry said in a statement carried on the official Saudi Press Agency on Tuesday." ;
+        c:id               "http://id.opencalais.com/XUBUlmFfdE6*bPXXvTqyNg" .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264> ;
+        c:importance     "2" ;
+        c:name           "Foreign relations of Saudi Arabia" ;
+        c:originalValue  "Foreign relations of Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c16dc9a-7d5b-3825-a045-8dd465177f75> .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264> ;
+        c:score           "0.949" .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264> ;
+        c:importance     "1" ;
+        c:name           "Saudi Arabia" ;
+        c:originalValue  "Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/287525b4-3bb6-30f6-a8b8-1757b06a0b54> .
+
+<http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cd86698a-1e8f-3c17-aae7-f8f05a413264> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .

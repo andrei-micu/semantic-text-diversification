@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d07f87d9-3f97-c098-14da-5457ea113c98" ;
+        c:docDate          "2015-05-30 09:41:44.749" ;
+        c:docTitle         "" ;
+        c:document         "'Stupid' question? GOP digs in on efforts to cut funding. Democrats hammered Republicans for pushing cuts even in the wake of the crash. FULL STORY" ;
+        c:id               "http://id.opencalais.com/4k5d58l3CoVCd*iJxWNouQ" .
+
+<http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097> ;
+        c:score           "0.861" .
+
+<http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KWL2jEMP565ThnMmh8my4TpreXw=|g4yKqnAqPoWSlOmpJYIHJZVF9x0edR4vjAjMu/xBNFXV1djYCJqh/g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:44.625" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097> ;
+        c:importance     "1" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .
+
+<http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/745de0fb-508b-3eb8-84f1-03535d136097> ;
+        c:score           "1.000" .

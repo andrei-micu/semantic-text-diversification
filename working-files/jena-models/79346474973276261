@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Coh07f6TVj8VJXN1OlvH6JkouPM=|bnCRCAmfu/AG+WVHyJ5yev1Zf5dNnAzA7HBBEhDUlKdVZbL2rCsEbQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:45:36.234" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334> ;
+        c:importance     "1" ;
+        c:name           "AFI's 100 Years...100 Movie Quotes" ;
+        c:originalValue  "AFI's 100 Years...100 Movie Quotes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b25af536-9c0e-3f3a-8fc6-4d9e7d9a07bd> .
+
+<http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ea825ecf-74fa-d7e4-14da-549076a1df07" ;
+        c:docDate          "2015-05-30 09:45:36.500" ;
+        c:docTitle         "" ;
+        c:document         "Must-see movies you never saw. \"I'm going to make him an offer he can't refuse.\" \"You had me at 'hello.'\" \"I'll have what she's having.\" \"Say 'hello' to my little friend!\" \"Nobody puts Baby in a corner.\"" ;
+        c:id               "http://id.opencalais.com/t1gFhBe8Eiyq2ulnadjOkQ" .
+
+<http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/69422d6f-55fa-37c7-a896-2c31cb07d334> ;
+        c:importance     "1" ;
+        c:name           "Book:Lennon–McCartney" ;
+        c:originalValue  "Book:Lennon–McCartney" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aa430c6c-62d3-3c32-ad60-410c1797ee85> .

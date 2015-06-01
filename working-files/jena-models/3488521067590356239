@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:importance     "2" ;
+        c:name           "Medical ethics" ;
+        c:originalValue  "Medical ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c58f41b6-f663-36fd-8c2d-f57af45aebc1> .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:importance     "1" ;
+        c:name           "Abnormal psychology" ;
+        c:originalValue  "Abnormal psychology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6fd1db0c-2caa-3cc2-895b-1756aa75785e> .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:importance     "2" ;
+        c:name           "Classification of mental disorders" ;
+        c:originalValue  "Classification of mental disorders" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a98ebc02-51b8-3f27-9590-276f21e14e90> .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XOQNAZsAzuFwe8c6LD8hArhALFI=|T1dGkKjaHyXFgSSsfTmQ7DvGmYwRaFD5+AV41+JMOAM9GTaloasemw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:53.235" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:importance     "1" ;
+        c:name           "Psychiatry" ;
+        c:originalValue  "Psychiatry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/24b8fe88-374c-3d8a-8660-c54ac1b84cc3> .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:importance     "2" ;
+        c:name           "Mental disorder" ;
+        c:originalValue  "Mental disorder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9d7dbfa-30c6-3094-a0cc-b38f3c7ec1be> .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9aaade98-2ea5-49be-14da-547751332955" ;
+        c:docDate          "2015-05-30 10:43:53.438" ;
+        c:docTitle         "" ;
+        c:document         "Severe Mental Illness Found to Drop in Young, Defying Perceptions. A new report, published in the New England Journal of Medicine, comes at a time of debate over the rates and treatment of childhood mental disorders." ;
+        c:id               "http://id.opencalais.com/6cOK8sQ903GiFMe7zbFvVg" .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:importance     "2" ;
+        c:name           "Psychopathology" ;
+        c:originalValue  "Psychopathology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/78e1be5b-b2d0-35fe-b6be-fb20df56d373> .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:importance     "1" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a889cf-2bb5-364f-845b-6846a62b49a4> ;
+        c:importance     "2" ;
+        c:name           "Sociology" ;
+        c:originalValue  "Sociology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa1414f0-8e54-3eba-bbfe-e4e5b4dcb745> .

@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4e872c17-77b2-3ee5-b914-4758457f29f4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ee61a2cb-7ae5-d5ba-14da-53beee534709" ;
+        c:docDate          "2015-05-30 09:31:18.036" ;
+        c:docTitle         "" ;
+        c:document         "Sanders will take on Clinton. Bernie Sanders is in." ;
+        c:id               "http://id.opencalais.com/a04VmOn8Efq-otJa8aLaKw" .
+
+<http://d.opencalais.com/dochash-1/4e872c17-77b2-3ee5-b914-4758457f29f4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4e872c17-77b2-3ee5-b914-4758457f29f4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|xQrPzZFcMzoVK1L0MdYL1qBdS5Y=|Sso5oj+KgSlb/S1eq4PcdkBr7GFDGJa9aKh7WZ2XYjfHToUBREN0HQ==" ;
+        c:submissionDate  "2015-05-30 09:31:17.989" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4e872c17-77b2-3ee5-b914-4758457f29f4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4e872c17-77b2-3ee5-b914-4758457f29f4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38> ;
+        c:importance     "1" ;
+        c:name           "Ethiopian music" ;
+        c:originalValue  "Ethiopian music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40263889-054a-31f7-8e96-87a86eabc6d1> .
+
+<http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38> ;
+        c:score           "0.767" .
+
+<http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|WHSv1FdwhcFFoGKVtLhf+OCbcQ0=|GRELu7oBHlTJAefU7RUrwbu8j+xi8dSMbGtERg2WC3/B2W2ZYldrPA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:39:56.737" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38> ;
+        c:importance  "2" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38> ;
+        c:importance     "1" ;
+        c:name           "Languages of Ethiopia" ;
+        c:originalValue  "Languages of Ethiopia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fdcd7a4b-3344-3be6-bad3-c58077840143> .
+
+<http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38> ;
+        c:importance     "1" ;
+        c:name           "Hairdo" ;
+        c:originalValue  "Hairdo (Little Birdy song)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/49cf484d-a4e7-3085-aac0-a685d4d2d5f0> .
+
+<http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/788559ed-9a5b-3455-9819-e6607c81eb38>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e30ae47a-a52b-b231-14da-543d941653ed" ;
+        c:docDate          "2015-05-30 09:39:56.924" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: US Ethiopian artist's ode to the 'Afro'. A song praising the perfect Afro hairdo features in the new album by Ethiopian artist Meklit Hadero." ;
+        c:id               "http://id.opencalais.com/4RkAkgwyq7X6eXZ9vIQlvQ" .

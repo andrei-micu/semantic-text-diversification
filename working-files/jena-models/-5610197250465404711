@@ -1,0 +1,81 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "55727abe-9a9d-2e28-14da-53d443e1927e" ;
+        c:docDate          "2015-05-30 10:32:45.546" ;
+        c:docTitle         "" ;
+        c:document         "World's most incredible sailing images. The Mirabaud Yacht Racing Image Awards attracts stunning sailing photography -- here are the best photos selected over the past four competitions." ;
+        c:id               "http://id.opencalais.com/4koWIWhMBdkvcUeFH6O2ig" .
+
+<http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea> ;
+        c:importance     "1" ;
+        c:name           "Sailing" ;
+        c:originalValue  "Sailing (sport)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c87027e-6def-39d6-923c-aa2c79847086> .
+
+<http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|eBey0WT/9rIG8aBwqfwY7yrnu1o=|GM58eL8hNXnqS4F/MR4NyP0wuDSMupg1+f9D/FxxO8qm6/Hfm6hstw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:45.374" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea> ;
+        c:score           "0.715" .
+
+<http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d257f27c-7c10-3595-be0a-1ed0b6a382ea> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

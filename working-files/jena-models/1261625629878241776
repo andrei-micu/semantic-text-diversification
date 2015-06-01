@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:importance     "2" ;
+        c:name           "Vladimir Putin" ;
+        c:originalValue  "Vladimir Putin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5b9e3a3c-eac9-3d3a-b91f-c7f854edc9f7> .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:score           "0.733" .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:importance     "2" ;
+        c:name           "Angela Merkel" ;
+        c:originalValue  "Angela Merkel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/15427f18-e6e1-3da0-8d0e-380230b16bf0> .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|6uZ4cT3Qf+iG+X/+YsZTfLV52Mc=|hGikS/xufXlT/C7gbMy9imY1SOwaxuicnNi+PO7lD7TCiSl/j3iTKg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:50:26.760" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "94eaae53-e421-f440-14da-54d7648719b3" ;
+        c:docDate          "2015-05-30 10:50:26.869" ;
+        c:docTitle         "" ;
+        c:document         "Hollande, Merkel call for rapid implementation of Minsk agreement. PARIS (Reuters) - French President Francois Hollande and German Chancellor Angela Merkel have called on Russian President Vladimir Putin to rapidly implement measures agreed under the Feb.12 Minsk ceasefire, Hollande's office said in a statement." ;
+        c:id               "http://id.opencalais.com/NOIM99t*qFt35isBdtLlkA" .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:importance     "1" ;
+        c:name           "Chancellors of Germany" ;
+        c:originalValue  "Chancellors of Germany" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff77fa59-6282-327d-9902-79faf596fc31> .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:importance     "2" ;
+        c:name           "Minsk" ;
+        c:originalValue  "Minsk" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ce1da421-7c1d-3c29-b2ac-ae0b009833f5> .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4d99d31-d68f-3083-b959-d1f260fbdedc> ;
+        c:importance     "2" ;
+        c:name           "François Hollande" ;
+        c:originalValue  "François Hollande" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eac299e7-861d-31b7-a080-d49a17275728> .

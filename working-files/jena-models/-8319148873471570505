@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:importance     "1" ;
+        c:name           "Homelessness" ;
+        c:originalValue  "Homelessness" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ff3f512-4acb-35df-bce0-2184407c542b> .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:importance     "2" ;
+        c:name           "Personal life" ;
+        c:originalValue  "Personal life" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59840208-5881-3e7f-891c-045f3a9a9a46> .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:importance     "1" ;
+        c:name           "Poverty" ;
+        c:originalValue  "Poverty" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/729e9264-c8f1-3857-8f50-0462f7f00bd3> .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:importance     "2" ;
+        c:name           "Sociology" ;
+        c:originalValue  "Sociology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa1414f0-8e54-3eba-bbfe-e4e5b4dcb745> .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|EVtAVjG0ULOL7UjfMXbFvPNR2Bk=|Q3YabLjQpUEWtykt7hSQYzn6NOE2GUzcfWa+pQ0AwBIVnq/mE/9APA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:53.157" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:importance     "2" ;
+        c:name           "Humanitarian aid" ;
+        c:originalValue  "Humanitarian aid" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f92437e-46ba-3a4b-8df3-7311bea50c2b> .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:importance     "1" ;
+        c:name           "Busking" ;
+        c:originalValue  "Busking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5659b55a-1456-3d06-9b15-f2103105e547> .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:importance     "2" ;
+        c:name           "Street culture" ;
+        c:originalValue  "Street culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/03e43757-72dd-33b3-afdf-b013fa19da65> .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e5a79967-0b01-815f-14da-54cf30549095" ;
+        c:docDate          "2015-05-30 10:49:53.391" ;
+        c:docTitle         "" ;
+        c:document         "A Choice for Recovering Addicts: Relapse or Homelessness. Virtually unnoticed and effectively unregulated, a system of housing known as “three-quarter” homes profits off the poor and desperate in New York City." ;
+        c:id               "http://id.opencalais.com/cID0bWhx0j44818XqLQ9ag" .
+
+<http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac06be41-76cc-3ba0-83ed-80054509dd28> ;
+        c:importance     "2" ;
+        c:name           "Socioeconomics" ;
+        c:originalValue  "Socioeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a2df6d2-5d17-33e9-939c-305e2d9fc018> .

@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1c845c32-a163-35de-972b-a9e612114302>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ad10150a-7944-9259-14da-54aa52f719b3" ;
+        c:docDate          "2015-05-30 10:47:22.237" ;
+        c:docTitle         "" ;
+        c:document         "Does a death sentence always mean death?. Does a death sentence always mean death?" ;
+        c:id               "http://id.opencalais.com/g9YVBU7BMjPT9Cap-9cKyw" .
+
+<http://d.opencalais.com/dochash-1/1c845c32-a163-35de-972b-a9e612114302/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1c845c32-a163-35de-972b-a9e612114302> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KXKkZxCyE6MznxDuYdyHCUy5sgE=|JEJE8A3N6X4Cow6Ghjf9w8O6+Nd7e0dTyOxIH+e4E+gQPWHTZtnGyA==" ;
+        c:submissionDate  "2015-05-30 10:47:22.159" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1c845c32-a163-35de-972b-a9e612114302/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1c845c32-a163-35de-972b-a9e612114302> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

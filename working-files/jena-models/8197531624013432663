@@ -1,0 +1,36 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/96b396dd-4b8b-39d8-a00c-6a838662f09a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/96b396dd-4b8b-39d8-a00c-6a838662f09a> ;
+        c:importance     "1" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .
+
+<http://d.opencalais.com/dochash-1/96b396dd-4b8b-39d8-a00c-6a838662f09a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/96b396dd-4b8b-39d8-a00c-6a838662f09a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|OwPm7fgXajFFCKSYyMa5AQ0ShNQ=|XClwlnMvHwwdaYz/QUEZxQmj4l9PU1xTh92ML3l6uoJhNyBNgp5gow==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:15.267" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/96b396dd-4b8b-39d8-a00c-6a838662f09a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a118a78d-642d-d8c3-14da-54d496332f98" ;
+        c:docDate          "2015-05-30 09:50:15.392" ;
+        c:docTitle         "" ;
+        c:document         "Will Duggar scandal hurt GOP? . Guests Ben Ferguson and Marc Lamont Hill debate the impact the Duggar scandal will have on GOP politics." ;
+        c:id               "http://id.opencalais.com/U6u6uLbn1PhiHSFEgiB9JA" .
+
+<http://d.opencalais.com/dochash-1/96b396dd-4b8b-39d8-a00c-6a838662f09a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/96b396dd-4b8b-39d8-a00c-6a838662f09a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

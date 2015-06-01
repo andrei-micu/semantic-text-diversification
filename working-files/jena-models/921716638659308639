@@ -1,0 +1,43 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c2d9b579-8f6c-3e3d-b137-f5214c9f76b6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c2d9b579-8f6c-3e3d-b137-f5214c9f76b6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Q9DqF7GLZsS/gg5bix3BfvCtyK4=|i9I2TcLGeDuKtfQIbqmrXcVr5u4cdRTG1CUQtE+xN4rl9AOS3NoV0Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:27.434" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c2d9b579-8f6c-3e3d-b137-f5214c9f76b6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c2d9b579-8f6c-3e3d-b137-f5214c9f76b6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c2d9b579-8f6c-3e3d-b137-f5214c9f76b6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c2d9b579-8f6c-3e3d-b137-f5214c9f76b6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c2d9b579-8f6c-3e3d-b137-f5214c9f76b6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "52b6852a-e61d-1c1f-14da-547104a13c98" ;
+        c:docDate          "2015-05-30 09:43:27.793" ;
+        c:docTitle         "" ;
+        c:document         "Couple: We were afraid of N.Y. bikers. The couple attacked by a swarm of bikers in New York City in September 2013 took to the stand this week with emotional testimony against two men charged in the incident." ;
+        c:id               "http://id.opencalais.com/rr1CM1XlUvvp8fPpJsNkwg" .
+
+<http://d.opencalais.com/dochash-1/c2d9b579-8f6c-3e3d-b137-f5214c9f76b6/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c2d9b579-8f6c-3e3d-b137-f5214c9f76b6> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

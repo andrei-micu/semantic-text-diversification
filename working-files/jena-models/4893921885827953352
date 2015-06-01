@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/742f1390-b17a-3b69-8d7b-1f5035210385>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9c703c0d-32a2-6361-14da-542b4bd23ab1" ;
+        c:docDate          "2015-05-30 10:38:41.915" ;
+        c:docTitle         "" ;
+        c:document         "Controversial commencement speakers. Students protested these commencement speakers' invitations." ;
+        c:id               "http://id.opencalais.com/QqWFFLVS8b5-4FzH5FOK-A" .
+
+<http://d.opencalais.com/dochash-1/742f1390-b17a-3b69-8d7b-1f5035210385/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/742f1390-b17a-3b69-8d7b-1f5035210385> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/742f1390-b17a-3b69-8d7b-1f5035210385/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/742f1390-b17a-3b69-8d7b-1f5035210385> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|6NSji3wXGjGmaEbSzkYfyOjVKK0=|L9dYOcO9uCZcv5rUmjvdLdswkFpqPu39bovLCL5J1rnhL3hi7h8FoA==" ;
+        c:submissionDate  "2015-05-30 10:38:41.853" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

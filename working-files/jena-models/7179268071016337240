@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:importance     "2" ;
+        c:name           "Radio" ;
+        c:originalValue  "Radio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d716e304-d6f8-379b-8369-e49ba5bb361b> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:importance     "1" ;
+        c:name           "Sports law" ;
+        c:originalValue  "Sports law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7005ca08-d3e9-381d-8d83-6c11d2cab6c2> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:importance     "2" ;
+        c:name           "Mike Pesca" ;
+        c:originalValue  "Mike Pesca" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b1feb4f5-25ae-39df-bb62-6311845c2311> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yFlth3+dF4Blxd5M5rblB0F5TBM=|FhBoH5XB6NCWcw5F7tfiKyrUdbocXI1vCIOCXpWvwBEWSyFYZu6wlg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:26.433" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:importance     "2" ;
+        c:name           "NPR" ;
+        c:originalValue  "NPR" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0410c98-2061-3c90-8b44-3a246fbc5541> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:importance     "2" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:importance     "2" ;
+        c:name           "Question" ;
+        c:originalValue  "Question" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6dd26980-a5b0-300a-ab02-1575350d7757> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:importance     "2" ;
+        c:name           "Cheating" ;
+        c:originalValue  "Cheating" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/11092c45-0b1f-3a33-b19a-5a975840f626> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dac6b3da-25d2-1bcf-14da-542788132f98" ;
+        c:docDate          "2015-05-30 09:38:26.714" ;
+        c:docTitle         "" ;
+        c:document         "Still Some Air — And Questions — In 'Deflategate' Scandal. The NFL's \"deflategate\" scandal raises a slew of questions: How much can you scuff a football? Where is the line between gamesmanship and cheating? Slate's Mike Pesca answers them all with NPR's Rachel Martin." ;
+        c:id               "http://id.opencalais.com/vAToj-sHsVOgTBpLV7xrWA" .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4822358-b28d-3574-b593-43b31ca04986> ;
+        c:importance     "1" ;
+        c:name           "Gamesmanship" ;
+        c:originalValue  "Gamesmanship" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d68c2ba0-ba31-35a3-b42d-25f6a791ed64> .

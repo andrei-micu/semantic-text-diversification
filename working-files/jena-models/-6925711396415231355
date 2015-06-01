@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "1968 in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|DeUUJxF4G9SRvf56Lo6LOMsSUS0=|JuwcrPH+D87wyE8a/0xdqG8AHF4HlaOLdU0ZPQJVtk1+5fzdkz3ARg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:02.538" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:importance     "1" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:importance     "2" ;
+        c:name           "Geography of North America" ;
+        c:originalValue  "Geography of North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4953ac1c-3f88-3c4f-b079-6ff903751bbf> .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e58ba487-5002-970a-14da-539ddca4551f" ;
+        c:docDate          "2015-05-30 09:29:03.084" ;
+        c:docTitle         "" ;
+        c:document         "Tensions Running High In Baltimore After Night Of Rioting. National Guard troops fanned out across parts of Baltimore following violence in which about a dozen buildings were burned. Nearly 200 people were arrested." ;
+        c:id               "http://id.opencalais.com/UO4Il5nuFpOz4BgFwXmYEQ" .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:importance     "2" ;
+        c:name           "Crime in Detroit, Michigan" ;
+        c:originalValue  "Crime in Detroit, Michigan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9aa4241e-830a-3a26-aec1-912afde116e6> .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:importance     "1" ;
+        c:name           "Riots" ;
+        c:originalValue  "1968 riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51cf8495-5f56-35f0-8783-4b4488495bf4> .
+
+<http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/40c28573-2c7f-38b7-b9bd-ae6554afddf6> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .

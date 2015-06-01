@@ -1,0 +1,60 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976> ;
+        c:importance     "1" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "527e950e-74d8-7500-14da-546ad3149095" ;
+        c:docDate          "2015-05-30 10:43:02.221" ;
+        c:docTitle         "" ;
+        c:document         "Investigators: Money a motive in mansion murders. Assailants got away with $40,000 after killing four people in Washington, D.C. CNN's Pamela Brown reports." ;
+        c:id               "http://id.opencalais.com/s2972n8usx4QLJwyWTGAqA" .
+
+<http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976> ;
+        c:importance     "2" ;
+        c:name           "Digital media" ;
+        c:originalValue  "Digital media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/771e4d9a-b0cd-37a2-bec6-6840c4cafab3> .
+
+<http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|CrwGqmdgXRhrxX2rGmI2q9EBsVg=|DkNUtqrPRYRD/0dLQkS7cDDDATANmp5EV4n99se1+WXPupD3pWtrRw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:02.065" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976> ;
+        c:importance     "1" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/04af0e91-a0c8-32a7-a0ac-8e19d02c4976> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

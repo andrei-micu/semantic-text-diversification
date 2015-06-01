@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:importance     "1" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:importance     "2" ;
+        c:name           "Canvassing" ;
+        c:originalValue  "Canvassing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f4c0a5ee-bf82-3384-b56a-182b20f4ca04> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1e47867b-b8ba-658e-14da-54cfd6149095" ;
+        c:docDate          "2015-05-30 10:49:55.996" ;
+        c:docTitle         "" ;
+        c:document         "Study Using Gay Canvassers Erred in Methods, Not Results, Author Says. Michael J. LaCour apologized for misrepresenting some aspects of the study about the effect gay canvassers can have in changing people’s minds about same-sex marriage." ;
+        c:id               "http://id.opencalais.com/iUUJNaD3hh1uIf2DdlZ-rA" .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:score           "0.998" .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:importance     "2" ;
+        c:name           "Homosexuality" ;
+        c:originalValue  "Homosexuality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59d6665a-acff-3b49-b4f2-3e2e02c59a5e> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:importance     "1" ;
+        c:name           "Sexual orientation" ;
+        c:originalValue  "Sexual orientation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/95c7476e-ecc6-380e-891e-7e8b1e6ebfc1> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:importance     "2" ;
+        c:name           "Gay" ;
+        c:originalValue  "Gay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2325ea5b-bacb-3e7e-916f-1b59501851b8> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:importance     "1" ;
+        c:name           "Human sexuality" ;
+        c:originalValue  "Human sexuality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/131825b8-da79-3da3-b023-ea477cd9dc15> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|sgfz7H1aXW9qYZ98JuDKujDI+sE=|TkFXtahE+bGphayO01AtFTPnEh94jWl4jI+hmkK76o/45pkmZn/Z0w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:55.809" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:importance     "2" ;
+        c:name           "Gender" ;
+        c:originalValue  "Gender" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68502b1e-12f9-3466-ac94-9d9ca76df055> .
+
+<http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e40f4db5-bfea-3b44-ac69-71264992feb3> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .

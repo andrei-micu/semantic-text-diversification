@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1> ;
+        c:score           "0.688" .
+
+<http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1> ;
+        c:importance     "1" ;
+        c:name           "Death" ;
+        c:originalValue  "Death" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd88fc0c-7b94-3d68-95e5-73f2a925c5a2> .
+
+<http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "198daa88-6b64-b684-14da-5385eba32955" ;
+        c:docDate          "2015-05-30 10:27:24.552" ;
+        c:docTitle         "" ;
+        c:document         "Odd trends inspired by the Kardashian clan. Doing weird stuff to your body in the name of beauty isn't anything new. Humans have been changing the shape of our skulls, inking ourselves up and sticking things through various protuberances since before we figured out how to write." ;
+        c:id               "http://id.opencalais.com/NDmdUAcyTi-Lt4db5AbQCw" .
+
+<http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1> ;
+        c:score           "0.562" .
+
+<http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1> ;
+        c:importance     "1" ;
+        c:name           "Human skull symbolism" ;
+        c:originalValue  "Human skull symbolism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36eb189d-f1b3-3d5e-98c8-857e8073f061> .
+
+<http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|h1X5QHAgcKr2CnojUh1lX0AwFDY=|PtXkWp9ZtqK+Hf8VEYN+F6zyJghrfTBNxSI/ZkoUYW+SKTr5vs7hAw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:24.474" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/27ea569e-d050-3d11-aa91-faa6189ce5c1> ;
+        c:importance     "1" ;
+        c:name           "Symbolism" ;
+        c:originalValue  "Symbolism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5cb7517d-8462-35fd-bdf2-08b25257dae5> .

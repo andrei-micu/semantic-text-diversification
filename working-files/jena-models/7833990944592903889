@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:importance     "2" ;
+        c:name           "Sleep" ;
+        c:originalValue  "Sleep" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61116d4a-2310-3f89-8495-749f49c8599d> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:importance     "2" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:importance     "2" ;
+        c:name           "Sanjay Gupta" ;
+        c:originalValue  "Sanjay Gupta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/365d2412-2a0b-3dc6-823d-47634e3b8763> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:score           "0.980" .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:importance     "1" ;
+        c:name           "Sleep disorders" ;
+        c:originalValue  "Sleep disorders" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ed1942bd-65a5-3b62-8874-8b7f2659745e> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:importance     "2" ;
+        c:name           "Nervous system" ;
+        c:originalValue  "Nervous system" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f644a7d6-7ea3-332b-82df-d0ee19548e87> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "28cb894c-8aad-d7eb-14da-5432f841927e" ;
+        c:docDate          "2015-05-30 10:39:13.456" ;
+        c:docTitle         "" ;
+        c:document         "To get good sleep, set thermostat at this. Millions of Americans take medications to help them sleep. Dr. Sanjay Gupta talks about the best way to get a good night of sleep." ;
+        c:id               "http://id.opencalais.com/HAWQaYgrJgIkmEHNeQ5K2g" .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:importance     "2" ;
+        c:name           "Neuroscience" ;
+        c:originalValue  "Neuroscience" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7574b65e-f611-3e50-9787-d3fb33f1f73c> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yZeA/TzJZ2Sbu4Dxdg3ABxnrlDs=|IKrqurK7PxRiOO56NL7dzc5ivBBMAD3VLl4yGvFfPEyl5zIzgtULkA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:13.284" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:importance     "1" ;
+        c:name           "Temperature control" ;
+        c:originalValue  "Temperature control" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/13aca05b-f276-3cc9-ae04-4c78b6a7b028> .
+
+<http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44a6154f-7073-3b8c-ae41-c9fc45d899c9> ;
+        c:importance     "2" ;
+        c:name           "Thermostat" ;
+        c:originalValue  "Thermostat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e9d50cc-1d8d-33a9-8e09-641e75478115> .

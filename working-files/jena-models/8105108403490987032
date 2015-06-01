@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance     "1" ;
+        c:name           "Sculpture" ;
+        c:originalValue  "Sculpture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4142d027-3ef7-3aba-9e18-a68374bb059b> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance     "2" ;
+        c:name           "Alberto Giacometti" ;
+        c:originalValue  "Alberto Giacometti" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e717bad7-6f6b-3dc9-80c4-1c78d6411d03> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|p3c0E2quIMOamuoVs7HGOohDzc0=|JNrr5T5eGh97eW/lEDFn84W4klg8xPqyd8Tb3EjA+VWETnhqi6zazA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:19.533" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance     "2" ;
+        c:name           "School of Paris" ;
+        c:originalValue  "School of Paris" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f9cc68b2-1a4d-3e5e-b9d0-6f20936f3e2e> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance     "1" ;
+        c:name           "Visual arts" ;
+        c:originalValue  "Visual arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cfde7f0-993d-3ff3-9cf1-276f5f92a47d> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance     "2" ;
+        c:name           "Cubism" ;
+        c:originalValue  "Cubism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab2ad5bb-447e-39b2-bcb5-c0793be6d0d9> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance     "2" ;
+        c:name           "L'Homme qui marche I" ;
+        c:originalValue  "L'Homme qui marche I" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5b802049-d503-3ffe-a095-9d6752ffa710> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance     "1" ;
+        c:name           "Modern art" ;
+        c:originalValue  "Modern art" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5805ec3d-2d98-3b26-b521-75f1d2df1451> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance     "2" ;
+        c:name           "Christie's" ;
+        c:originalValue  "Christie's" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba0d76ea-144c-34ce-ac83-33b89c8b3602> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dee7666f-6f9b-7382-14da-54347ed32955" ;
+        c:docDate          "2015-05-30 10:39:19.704" ;
+        c:docTitle         "" ;
+        c:document         "Picasso Painting and Giacometti Sculpture Break Records at Christie’s Auction. Picasso’s “Women of Algiers (Version O)” sold for nearly $180 million, and Giacometti’s life-size sculpture “Pointing Man” fetched $141 million in New York." ;
+        c:id               "http://id.opencalais.com/u4lqqVcHGMtKSGL3ueMN*w" .
+
+<http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a0d9a2a6-2812-3907-a1fd-a62346ef89a3> ;
+        c:importance     "2" ;
+        c:name           "Pablo Picasso" ;
+        c:originalValue  "Pablo Picasso" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/29ae6864-cd4a-32e6-b13a-fa1592b4ac5e> .

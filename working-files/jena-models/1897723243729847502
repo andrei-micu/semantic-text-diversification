@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057> ;
+        c:importance     "2" ;
+        c:name           "Trilobite" ;
+        c:originalValue  "Trilobite" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4712e428-7dd4-3da4-a7ca-92758e412739> .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057> ;
+        c:score           "0.617" .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "343ec53c-4037-c045-14da-5405fc34551f" ;
+        c:docDate          "2015-05-30 09:36:09.152" ;
+        c:docTitle         "" ;
+        c:document         "In 'Rise Of Animals,' Sir David Attenborough Tells Story Of Vertebrates. The 89-year-old British naturalist's two-part special explores fossil evidence on how evolution moved past bugs and worms and trilobites, and how the Chinese are helping fill gaps in that knowledge." ;
+        c:id               "http://id.opencalais.com/xZPaIrBYnQwFWwgDKBCVYw" .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057> ;
+        c:importance     "1" ;
+        c:name           "David Attenborough" ;
+        c:originalValue  "David Attenborough" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/883ecff8-e0a3-3966-8d81-3b6be55b75ca> .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057> ;
+        c:importance     "2" ;
+        c:name           "Fossil" ;
+        c:originalValue  "Fossil" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60722302-91ad-39d6-99a9-151805ce429d> .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057> ;
+        c:importance     "1" ;
+        c:name           "Knights Bachelor" ;
+        c:originalValue  "Knights Bachelor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a0e4b4d-6886-32b9-a76f-324c3a18f20f> .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zhR1/oZjHFIed/UYjuiOFXkJfhc=|Nd/mX1i6ZfO/H9OZYlKAfe50FlAX4e6xZPTvLXZQPwwAaF7TipMjAQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:09.027" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057> ;
+        c:importance     "1" ;
+        c:name           "British people" ;
+        c:originalValue  "British people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/504d852b-86a3-321f-96e2-df8194075afc> .
+
+<http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c57b39b1-776a-3802-85ed-974fdc552057> ;
+        c:importance     "2" ;
+        c:name           "David Attenborough's Life Stories" ;
+        c:originalValue  "David Attenborough's Life Stories" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ef8c8b7-accf-339c-8829-a005ba9b70a5> .

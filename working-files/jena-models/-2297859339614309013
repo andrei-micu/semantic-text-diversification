@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:importance     "2" ;
+        c:name           "Martinelli" ;
+        c:originalValue  "Martinelli" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0de429c4-2604-307b-a2f1-f60b55fa2d61> .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:importance     "1" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:score           "0.912" .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b7b6f88a-ce4a-5b2e-14da-54bcf1a1927e" ;
+        c:docDate          "2015-05-30 10:48:38.645" ;
+        c:docTitle         "" ;
+        c:document         "Accusations Pile Up Against Panama's Former President. One of Central America's richest and most eccentric former politicians, Ricardo Martinelli, may soon face charges for stealing millions of dollars from the government during his five years in power." ;
+        c:id               "http://id.opencalais.com/JRzGY59nDHAMFkI0TYDAAA" .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:importance     "1" ;
+        c:name           "Ricardo Martinelli" ;
+        c:originalValue  "Ricardo Martinelli" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7287eebc-a208-3082-914f-2bf5424b59be> .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:score           "0.869" .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:importance     "1" ;
+        c:name           "Panama" ;
+        c:originalValue  "Panama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1ebf13c-2e42-3fed-b8c5-4fa5b05af02e> .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|eCo1fxX1TTifCe1+9H+r6enOk/A=|OB3h9slt1JJqP1zvc3KehBHCV+9lKLSt1ML4KZLx/SpPMLuyuEAPWg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:38.426" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/64ab4e23-2251-3c40-bb37-c41bb0fd5572> ;
+        c:importance     "2" ;
+        c:name           "Americas" ;
+        c:originalValue  "Americas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ee66e22-b241-33cf-9a16-9b3901e1e435> .

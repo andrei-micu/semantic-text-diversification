@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:score           "0.938" .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance     "1" ;
+        c:name           "Jury" ;
+        c:originalValue  "Jury" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a16064a-030b-3f46-836e-5d71424b9296> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8FqqB9VGPaQFOv4u38ffapreKwY=|YLN7jvcfd+7G4gzHgbY/3ZAb5AyUjCzA1PLAMcqdDedxAcne2weokw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:15.554" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance     "1" ;
+        c:name           "Juries" ;
+        c:originalValue  "Juries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a361383-133a-38da-87ac-2a57f217a60f> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:score           "0.906" .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "24d968b4-f3d2-2624-14da-5450d2234709" ;
+        c:docDate          "2015-05-30 09:41:15.835" ;
+        c:docTitle         "" ;
+        c:document         "Boston Marathon bomber's life in balance as jury deliberates. BOSTON (Reuters) - The jury in the Boston Marathon bombing trial on Friday began its third day of deliberations over whether Dzhokhar Tsarnaev should be sentenced to death or to life in prison without the possibility of release." ;
+        c:id               "http://id.opencalais.com/2T3uNzE0b7brUfyinX5Gew" .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance     "2" ;
+        c:name           "Marathon" ;
+        c:originalValue  "Marathon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d322de36-9af4-3ba9-abae-790f9b39acf9> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:score           "0.990" .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance     "1" ;
+        c:name           "Boston Marathon" ;
+        c:originalValue  "Boston Marathon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aa93fdaa-33fb-33aa-87ba-6b82a29b86ff> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance     "2" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance     "2" ;
+        c:name           "Juries in England and Wales" ;
+        c:originalValue  "Juries in England and Wales" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8cdec341-8540-3cc3-b489-05c34e91f632> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f396128d-ccde-3a8b-90a7-4105f0ebe14e> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .

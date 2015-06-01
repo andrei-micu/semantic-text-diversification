@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:importance     "2" ;
+        c:name           "Ho Chi Minh City" ;
+        c:originalValue  "Ho Chi Minh City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/734b1d53-e8d0-3607-b389-123f8b624b5f> .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:importance     "1" ;
+        c:name           "Air America" ;
+        c:originalValue  "Air America (airline)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45439299-e54e-365e-b45e-12f8061a4a06> .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7a533463-490a-dab8-14da-5447c0f13c98" ;
+        c:docDate          "2015-05-30 09:40:38.571" ;
+        c:docTitle         "" ;
+        c:document         "The history-making, chaotic evacuation of Saigon. The CIA Air America helicopter bounced as it touched down on an aging apartment building in Saigon." ;
+        c:id               "http://id.opencalais.com/kvDXW2jCkenrDY03UjbEEg" .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:importance     "1" ;
+        c:name           "Vietnam War" ;
+        c:originalValue  "Vietnam War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3505c48d-ccce-3625-848c-82afffae1347> .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:importance     "2" ;
+        c:name           "Tourism in Vietnam" ;
+        c:originalValue  "Tourism in Vietnam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2a103b4c-f926-3c23-8fb1-43f35815b4ae> .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4+TwORUlotVMUc8YIzhJ3rF+FzA=|iyCVPj4bYQXYQIZVQDAdPdzWhEoOIHJVkPUAhfxdBmHdJPAQ9IfnIA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:38.415" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:importance     "1" ;
+        c:name           "Vietnamese diaspora" ;
+        c:originalValue  "Vietnamese diaspora" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f925c462-b0b9-3b87-8abd-8979fcd9a011> .
+
+<http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a512c197-0d13-3c1e-bb7b-18e18eae0568> ;
+        c:importance     "2" ;
+        c:name           "Operation Frequent Wind" ;
+        c:originalValue  "Operation Frequent Wind" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c7008d6-4142-384a-ac6e-cbc3dc6b36f3> .

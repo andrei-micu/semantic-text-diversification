@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:importance     "2" ;
+        c:name           "Bankruptcy in the United States" ;
+        c:originalValue  "Bankruptcy in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f2e35a67-8095-333b-9d6a-711813e316fa> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8f9605a6-fcbb-8914-14da-53b0ed1719b3" ;
+        c:docDate          "2015-05-30 10:30:20.843" ;
+        c:docTitle         "" ;
+        c:document         "After Riots, Baltimore Orioles To Play In Empty Stadium. The baseball game is closed to the public because of concerns of unrest. We speak with two sports radio hosts in Baltimore." ;
+        c:id               "http://id.opencalais.com/FlzHbS1OJdJ0O*5Ivp4SnQ" .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:importance     "1" ;
+        c:name           "Sports in Baltimore, Maryland" ;
+        c:originalValue  "Sports in Baltimore, Maryland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e5a47b4-64aa-31e6-8a4e-287abb17e81f> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:importance     "2" ;
+        c:name           "American League Championship Series" ;
+        c:originalValue  "1969 American League Championship Series" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/71ee087c-aa30-3b39-be57-45740a75da28> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|EFRDa4x1c6+6nIrLNYjKV1dbnSM=|jJ/CU4qZv6ECKpQyF6AqdMRgGM9yQ3sQErAH8ptxEEBqj/4EMpzGlg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:30:20.625" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:importance     "1" ;
+        c:name           "Major League Baseball" ;
+        c:originalValue  "Major League Baseball" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c063601-0feb-3198-8c9e-f687a5f5af49> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:importance     "2" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:importance     "2" ;
+        c:name           "Baltimore Orioles" ;
+        c:originalValue  "Baltimore Orioles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d472ca2d-5570-3cdf-aafc-0151829e8edd> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:importance     "1" ;
+        c:name           "Baseball" ;
+        c:originalValue  "Baseball" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/81a6d889-b583-396a-824c-0fccbe051640> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:importance     "2" ;
+        c:name           "Mike Flanagan" ;
+        c:originalValue  "Mike Flanagan (baseball)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7b2cdef5-05b8-3c30-8d13-e0d86ebcc141> .
+
+<http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/552fc6b3-e1e8-3c2b-be2d-47df9a059eaa> ;
+        c:score           "0.933" .

@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2YI5ecLgf4HuV3oUxxvmkt5atmI=|TIOTyr1qG2iEfO5jq+Ks80opBs5mY5z4qyLzig6ug4+7gJZWtye1vA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:45.331" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:score           "0.970" .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:importance     "1" ;
+        c:name           "Burundi" ;
+        c:originalValue  "Burundi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/073f4153-2172-3d30-a0b1-2b2570997313> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:importance     "2" ;
+        c:name           "Pierre Nkurunziza" ;
+        c:originalValue  "Pierre Nkurunziza" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f5895f8-8138-3544-bfaa-8ba75059453b> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:score           "0.958" .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:importance     "1" ;
+        c:name           "Hutu people" ;
+        c:originalValue  "Hutu people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32b0e13f-f789-370e-aff5-c0982a65ebfd> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:importance     "2" ;
+        c:name           "Geopolitics" ;
+        c:originalValue  "Geopolitics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d35282c6-2be7-34c7-a163-d68d81cec327> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6907b3ce-77d4-5b83-14da-5466bd3653ed" ;
+        c:docDate          "2015-05-30 09:42:45.628" ;
+        c:docTitle         "" ;
+        c:document         "Burundian protesters back on the streets after failed coup. BUJUMBURA (Reuters) - About a hundred protesters took to the streets of Bujumbura on Saturday against Burundian President Pierre Nkurunziza's decision to seek a third term, a day after he returned to the capital following a failed coup." ;
+        c:id               "http://id.opencalais.com/qPbtj3bOQNytzZkaiVYCeA" .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2d704bf7-c013-3fa1-99f5-8b9f3666f6b2> ;
+        c:importance     "2" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .

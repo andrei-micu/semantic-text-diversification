@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df> ;
+        c:score           "0.943" .
+
+<http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df> ;
+        c:importance     "1" ;
+        c:name           "War in Afghanistan" ;
+        c:originalValue  "War in Afghanistan (2001–present)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d48818c-2a09-3d5e-9bd7-8532d3afdcbd> .
+
+<http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df> ;
+        c:importance     "2" ;
+        c:name           "Afghanistan" ;
+        c:originalValue  "Afghanistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad4fd6ae-b9fe-3ab7-a2be-a5a59ab4b1a3> .
+
+<http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|od8mnWKH0ensB0cixDpZBlfZu4o=|GXOGVLLtjahRV2lF/6CA2co/xSQhXUJrJHRZg557AXO5wt8kQMarCg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:36.513" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df> ;
+        c:importance     "1" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "eea05a02-a8f1-0fb5-14da-549f2d11df07" ;
+        c:docDate          "2015-05-30 09:46:36.669" ;
+        c:docTitle         "" ;
+        c:document         "Travel ban for 'Taliban 5' ends soon. Senior administration officials said Friday that the U.S. is continuing to hold negotiations with the governments of Afghanistan and Qatar as a deadline to determine the fate of five Taliban figures released in a prisoner exchange with the U.S. looms." ;
+        c:id               "http://id.opencalais.com/FszYCGWWrxPJkGWxWzywwA" .
+
+<http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f70817c-6454-32d9-9317-5290328689df> ;
+        c:importance     "2" ;
+        c:name           "Taliban" ;
+        c:originalValue  "Taliban" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a90ae92b-8f63-3a03-8cf4-b8b25da50c76> .

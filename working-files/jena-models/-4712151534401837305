@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:importance     "2" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gHAp7D/gVZxpbQKqJUCV4UfndyI=|g3V+R50yMEGVU3TjokCPsbSLEHpf/FFhbcchFV8lUJojHbP9O8wsOw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:03.229" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:importance     "2" ;
+        c:name           "NSA in popular culture" ;
+        c:originalValue  "NSA in popular culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59008c60-d7c9-3a39-84d9-466f74aa5b6d> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:importance     "1" ;
+        c:name           "Surveillance" ;
+        c:originalValue  "Surveillance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2899486a-eede-357a-8feb-cc555eede3ea> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:importance     "2" ;
+        c:name           "United States government secrecy" ;
+        c:originalValue  "United States government secrecy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5291e31b-1fa8-3b60-9abd-b47fa3d4ab90> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:score           "0.967" .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:importance     "2" ;
+        c:name           "National Security Agency" ;
+        c:originalValue  "National Security Agency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b017771-03c4-3b59-adff-c4fa0413c51f> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:importance     "2" ;
+        c:name           "NSA warrantless surveillance controversy" ;
+        c:originalValue  "NSA warrantless surveillance controversy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/de16d8a6-b3f5-3378-9074-28c04dbfc11c> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "394be4cc-88d9-fc1f-14da-53bb53d13c98" ;
+        c:docDate          "2015-05-30 09:31:03.494" ;
+        c:docTitle         "" ;
+        c:document         "US states take aim at NSA facilities. Sixteen states have introduced some kind of anti-NSA legislation, seeking to curb the agency's ability to operate." ;
+        c:id               "http://id.opencalais.com/cyJFPrKbPPtxXnYtZl93aQ" .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:importance     "1" ;
+        c:name           "Mass surveillance" ;
+        c:originalValue  "Mass surveillance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae4ce460-57b6-398b-acfc-6b00f824ca71> .
+
+<http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5bc0d048-8f5c-32db-b31c-812c5e1c1192> ;
+        c:importance     "2" ;
+        c:name           "Privacy of telecommunications" ;
+        c:originalValue  "Privacy of telecommunications" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c03029e8-5a21-32d4-bc71-5bec6984fa6b> .

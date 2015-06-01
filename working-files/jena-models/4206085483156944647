@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a> ;
+        c:importance     "2" ;
+        c:name           "Kaoru Yosano" ;
+        c:originalValue  "Kaoru Yosano" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74695b98-e288-33a3-b358-39e319c4acbd> .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c7ae4f45-b714-20f7-14da-53b48f213c98" ;
+        c:docDate          "2015-05-30 09:30:35.678" ;
+        c:docTitle         "" ;
+        c:document         "Japanese Prime Minister Calls For Stronger U.S.-Japan Trade Pact. At a joint meeting of the House and Senate, Prime Minister Shinzo Abe urged lawmakers to strengthen economic and trade ties." ;
+        c:id               "http://id.opencalais.com/3yAHeusT4cGQ2jAVDIbyyg" .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a> ;
+        c:importance     "1" ;
+        c:name           "Japan" ;
+        c:originalValue  "Japan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd3d7d8f-03ee-3f69-bf0f-56673e4fae3e> .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wz1gTcpvlcykw0Xn0soSnKi9WHE=|iutE40L8LQEKqChRPezvztaPd8NSb255vSEOtIfNwbxYhcni74Yodw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:35.522" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a> ;
+        c:importance     "1" ;
+        c:name           "Shinzō Abe" ;
+        c:originalValue  "Shinzō Abe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d1ab934-0b32-36a1-b6e8-dd91b479ff45> .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a> ;
+        c:importance     "2" ;
+        c:name           "Quadrilateral Security Dialogue" ;
+        c:originalValue  "Quadrilateral Security Dialogue" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50cec170-554f-3a2b-8295-98cfcd7ab02a> .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a> ;
+        c:importance     "2" ;
+        c:name           "Abe" ;
+        c:originalValue  "Abe (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/76d50f01-cd68-3811-8a03-5fe1322a3827> .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a> ;
+        c:importance     "1" ;
+        c:name           "Politics of Japan" ;
+        c:originalValue  "Politics of Japan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3cfdcab5-f022-31db-927f-34901a0f2a38> .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/32f88ba9-0010-389c-9716-c858a80ff83a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

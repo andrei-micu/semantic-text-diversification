@@ -1,0 +1,153 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:score           "0.963" .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|xiU0VW/VpwQbUQrwm6hJ9y+XvwY=|SGVN3iq17nVBJiAvxgHnaHcPe+cmNuZWxtSF92hDy3MxJ1CS1GNCsw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:24.806" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance     "1" ;
+        c:name           "North Korea" ;
+        c:originalValue  "North Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6366d8f-94a3-392d-9664-3df45419a56c> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance     "2" ;
+        c:name           "North Korean nuclear test" ;
+        c:originalValue  "2009 North Korean nuclear test" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fe9458fd-3496-384f-82f9-d271a203bc54> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance     "1" ;
+        c:name           "Military of North Korea" ;
+        c:originalValue  "Military of North Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14b7c516-47c8-34e0-8562-e0b93fd1b41f> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance     "2" ;
+        c:name           "Short-range ballistic missiles" ;
+        c:originalValue  "Short-range ballistic missiles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6647c4ad-7d8b-3cac-8642-21c45958ade3> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8ee5c461-3b52-8bb3-14da-53fb3061927e" ;
+        c:docDate          "2015-05-30 10:35:25.056" ;
+        c:docTitle         "" ;
+        c:document         "New N. Korean missile?. North Korea has carried out a successful underwater test of a ballistic missile, the North Korean state news agency reported." ;
+        c:id               "http://id.opencalais.com/jpSdBhJU19KFzczqn*OgSg" .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance     "1" ;
+        c:name           "Nuclear program of North Korea" ;
+        c:originalValue  "Nuclear program of North Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70dc4130-2457-301a-b3d4-d58fe6c12df4> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance     "2" ;
+        c:name           "Intercontinental ballistic missiles" ;
+        c:originalValue  "Intercontinental ballistic missiles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/55bb2192-8539-3384-ac6a-7fc35f4d6ff0> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance     "2" ;
+        c:name           "Military" ;
+        c:originalValue  "Military" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/628c4e54-7bba-3c87-80aa-ecabcf30215e> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance     "2" ;
+        c:name           "Korea" ;
+        c:originalValue  "Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c228654-048e-323a-b158-19dd884a146a> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance     "2" ;
+        c:name           "North Korean missile test" ;
+        c:originalValue  "2006 North Korean missile test" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72a4d9d0-2e87-327f-88b1-4aed41a3112b> .
+
+<http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67a225d8-cba9-3dc7-80f3-6cc081ef2acf> ;
+        c:importance     "2" ;
+        c:name           "Missile defense" ;
+        c:originalValue  "Missile defense" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/142236b0-72ed-3886-9254-e7d3ffb0e699> .

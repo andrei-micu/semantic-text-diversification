@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6550f841-429e-48df-14da-542e11e719b3" ;
+        c:docDate          "2015-05-30 10:38:53.308" ;
+        c:docTitle         "" ;
+        c:document         "Inside the mind of a black Baltimore cop. He stepped onto the streets this week in his blue Baltimore police uniform and noticed something was different." ;
+        c:id               "http://id.opencalais.com/K-5P001NaO5HhDxGl7Ha6g" .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:importance     "1" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:score           "0.607" .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:importance     "2" ;
+        c:name           "Maryland" ;
+        c:originalValue  "Maryland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36be6429-3aa3-342a-bbd8-c647cc7fb217> .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:importance     "1" ;
+        c:name           "The Baltimore Sun" ;
+        c:originalValue  "The Baltimore Sun" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7b54783b-7edf-3a21-88d6-aa6fecfc419c> .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|05bxHc6E/HJPWa265dgDPPWTUJE=|ILkprpENpkXQHw6jgKcoXbkN8rhdSMhP3IKLQH/11cI0elQfLARqCA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:53.214" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:importance     "2" ;
+        c:name           "Geography of North America" ;
+        c:originalValue  "Geography of North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4953ac1c-3f88-3c4f-b079-6ff903751bbf> .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:score           "0.951" .
+
+<http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73bbcbb7-8743-31c6-b86e-0cc3a1901bc5> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .

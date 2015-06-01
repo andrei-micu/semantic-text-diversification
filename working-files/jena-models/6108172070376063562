@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e> ;
+        c:importance     "2" ;
+        c:name           "Rail transport" ;
+        c:originalValue  "Rail transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6f499ed3-feb1-39de-b375-8a6d8f072fe6> .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KGFLEvplskPuJKxNfSpyNkq2SAg=|eVjb2Zuj6e2P1xv0ykGc9ymOFZ9gyrzeMSuTOWiiREwfIs1oFmVbaQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:25.731" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e> ;
+        c:importance     "1" ;
+        c:name           "Railway accidents" ;
+        c:originalValue  "Railway accidents" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d79c03c-39bc-3bf6-8187-8b464962cce4> .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e> ;
+        c:importance     "1" ;
+        c:name           "Rail transportation in the United States" ;
+        c:originalValue  "Rail transportation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c130d05b-c224-351c-a231-bf5c867870c0> .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e> ;
+        c:importance     "2" ;
+        c:name           "Amtrak" ;
+        c:originalValue  "Amtrak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/620180fd-d75e-31be-838e-e8cb90654b1f> .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e> ;
+        c:importance     "2" ;
+        c:name           "Derailment" ;
+        c:originalValue  "Derailment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ff34f4a-3794-3b75-ada0-48461ebfb476> .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b231b6ae-0571-2f4f-14da-5444a8313c98" ;
+        c:docDate          "2015-05-30 09:40:25.934" ;
+        c:docTitle         "" ;
+        c:document         "What we are getting wrong about crash. The derailment of an Amtrak train near Philadelphia, which claimed the lives of eight people and injured more than 200 more passengers, is only the latest in a rash of serious railroad accidents this year. In February, a Metro-North Railroad crash near Valhalla, New York, killed six people and injured 15 others. Meanwhile, there have been several significant derailments of oil trains that have caused spills and fires around the country." ;
+        c:id               "http://id.opencalais.com/5S*lvqq5BuL3YSYyPSCpkg" .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e> ;
+        c:importance     "1" ;
+        c:name           "Transportation in the United States" ;
+        c:originalValue  "Transportation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06280394-af41-3ddd-ac2c-6f149bd1e55c> .
+
+<http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ea15d3b9-d454-3c71-9e54-0c84c333732e> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

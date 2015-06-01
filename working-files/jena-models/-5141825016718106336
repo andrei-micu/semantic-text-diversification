@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6> ;
+        c:importance     "1" ;
+        c:name           "Food Records" ;
+        c:originalValue  "Food Records" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3d9dfc00-95d8-3434-af32-9098505b3c40> .
+
+<http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|c5cnf3O4prLbKsvlO3ZfrWzdqaA=|CQJdrD8Vw8BShd4OXn7nX3XNU4I4PWN4ACwKgM0rh26FNSi4/KYkqg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:16.925" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6> ;
+        c:importance     "1" ;
+        c:name           "Food" ;
+        c:originalValue  "Food" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91cc3caf-1e97-3de9-8392-4dc58260cdf5> .
+
+<http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6> ;
+        c:importance     "1" ;
+        c:name           "Waste" ;
+        c:originalValue  "Waste" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2126f56c-fb8a-3a9a-94fb-48c6d843db5b> .
+
+<http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6> ;
+        c:score           "0.948" .
+
+<http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6> ;
+        c:importance     "2" ;
+        c:name           "Food waste" ;
+        c:originalValue  "Food waste" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e7f228d3-a734-360c-9572-a3e9c8aae6b0> .
+
+<http://d.opencalais.com/dochash-1/fecc290d-2065-3881-835f-554d5f2290e6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4994d9e2-05c7-c46f-14da-544281d32955" ;
+        c:docDate          "2015-05-30 10:40:17.190" ;
+        c:docTitle         "" ;
+        c:document         "40% of food goes to waste: One man's solution. Like many children, Robert Lee was taught never to waste food. But growing up the son of Korean immigrants who struggled to get by, he really took the idea to heart." ;
+        c:id               "http://id.opencalais.com/PN3vxeB7ujQlMQEQSquXJg" .

@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:score           "0.922" .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:importance     "2" ;
+        c:name           "Decathlon" ;
+        c:originalValue  "Decathlon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e18f1a22-b3da-31f5-a7f2-85b239f180e7> .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|oVIkO4i/huZzXe+zNXXauD5kIbg=|SOUM2IE+EoRsm+XXF1poY1paTAaV8qsiDaegQiW6zq411fPYbKXVNw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:46.126" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:importance     "1" ;
+        c:name           "Bryan Clay" ;
+        c:originalValue  "Bryan Clay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e9bfbca-430f-31b0-87e5-56f64287acee> .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "81e8299f-5e88-9978-14da-540064e4551f" ;
+        c:docDate          "2015-05-30 09:35:46.236" ;
+        c:docTitle         "" ;
+        c:document         "Athlete pulls child's tooth with javelin. Olympic gold medal decathlete Bryan Clay used an unconventional method to pull his daughter's loose tooth. KCAL reports." ;
+        c:id               "http://id.opencalais.com/BfPDOHcv1uN54*u4-Y*SDA" .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:importance     "2" ;
+        c:name           "Tooth" ;
+        c:originalValue  "Tooth (human)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/269a64a7-cd21-3048-87e9-f169ff0546d6> .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:importance     "1" ;
+        c:name           "Athletics" ;
+        c:originalValue  "Athletics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1cc612e7-8a68-30c9-9186-fc4284cb2b0b> .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:importance     "1" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/084baabf-5740-3103-8f84-7ba306897460> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .

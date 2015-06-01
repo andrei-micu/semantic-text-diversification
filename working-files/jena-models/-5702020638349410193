@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/692b3d2d-e13b-3a97-af9e-313e0a9ac7a3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/692b3d2d-e13b-3a97-af9e-313e0a9ac7a3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/692b3d2d-e13b-3a97-af9e-313e0a9ac7a3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/692b3d2d-e13b-3a97-af9e-313e0a9ac7a3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|g1cgkQdF3vFpb/bxxQ+gNcRYeK8=|G3vZ4PzVxwbj1TdnbssaI1yDzEtvyq1lWFVuRxFJJy9EDIqKvD9YqQ==" ;
+        c:submissionDate  "2015-05-30 10:28:19.468" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/692b3d2d-e13b-3a97-af9e-313e0a9ac7a3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5e39f294-13e0-1816-14da-539358c23ab1" ;
+        c:docDate          "2015-05-30 10:28:19.561" ;
+        c:docTitle         "" ;
+        c:document         "Landmarks before and after . " ;
+        c:id               "http://id.opencalais.com/mJeVkSwTxnVVvc4BuxFzQA" .

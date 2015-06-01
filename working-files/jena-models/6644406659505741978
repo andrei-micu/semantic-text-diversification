@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f77ed3f9-ac85-ac00-14da-537aa4b760f9" ;
+        c:docDate          "2015-05-30 10:26:38.423" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Sinkhole threatens New Jersey homes. Residents are evacuated as a giant sinkhole threatens two New Jersey homes on the Delaware River." ;
+        c:id               "http://id.opencalais.com/SyFnZHxEguFDJN-UhNaIaA" .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:importance     "1" ;
+        c:name           "Geography of Pennsylvania" ;
+        c:originalValue  "Geography of Pennsylvania" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee54662c-3d22-32cd-9d93-dccb9e916f94> .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HF6XIn6y6bkLIIIyEGbLZaEh6kk=|UKoOp/ZlCrs+RgpLvF3KFU7Nl7B8KcpqMqzmTex5GdQh52y8jwwpNA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:26:38.283" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:importance     "2" ;
+        c:name           "Pipe Creek Sinkhole" ;
+        c:originalValue  "Pipe Creek Sinkhole" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61c139bd-5e8d-3501-8893-1f87482d46ea> .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:importance     "1" ;
+        c:name           "Sinkhole" ;
+        c:originalValue  "Sinkhole" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2052440-c90d-3527-9ccd-d389282ae7a5> .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:importance     "1" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f78551f-3976-3e68-9154-02b670f1081a> ;
+        c:importance     "2" ;
+        c:name           "Delaware River" ;
+        c:originalValue  "Delaware River" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c71d0e5d-058a-3639-9f38-6161416c3718> .

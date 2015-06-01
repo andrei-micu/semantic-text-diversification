@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:importance     "1" ;
+        c:name           "Methodism" ;
+        c:originalValue  "Methodism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b153bc3-ad23-3769-b381-41812f1788a4> .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "70969efb-1a85-a792-14da-54d447432f98" ;
+        c:docDate          "2015-05-30 09:50:14.207" ;
+        c:docTitle         "" ;
+        c:document         "Clinton wins voter with scripture . Hillary Clinton is a lifelong Methodist, but you wouldn't know that by listening to most of her speeches. She rarely speaks -- at least at any length -- about her faith." ;
+        c:id               "http://id.opencalais.com/ZAQC9BdUpRl68JWOXtsMpA" .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:score           "0.995" .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:importance     "1" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:importance     "2" ;
+        c:name           "Hillary Clinton caucuses and primaries" ;
+        c:originalValue  "Hillary Clinton caucuses and primaries, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3bbcc71-46e3-3bf6-9d59-7c9d501fa6c2> .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:importance     "2" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:score           "0.883" .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:importance     "1" ;
+        c:name           "Christianity" ;
+        c:originalValue  "Christianity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/20b1bcbb-ca9a-3aaf-b1e7-02cf6c770dc5> .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1tcWUOZ+r/GArLtfmcx0GdCWigM=|MgzDGlMSjCh+mePr70TU2K8ZoBcoEVSu1pIPZaXNoItRhyWEkLx2Dg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:14.019" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cfde9508-61cc-3b42-a6c6-2499ba007b0a> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .

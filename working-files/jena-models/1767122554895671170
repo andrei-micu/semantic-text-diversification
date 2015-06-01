@@ -1,0 +1,154 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|egu3Sob5XoQQOmNE9WnqU5b56WY=|YitdvqXy1DB2OQLMY32OWNSSv3d1Iy1j58f288ldSmHQxfaih/nxqQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:56.639" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "2" ;
+        c:name           "Parenting" ;
+        c:originalValue  "Parenting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9dd6c34f-5301-3a0e-9c46-e6b0520a9855> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "2" ;
+        c:name           "Applied genetics" ;
+        c:originalValue  "Applied genetics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/492d27e9-743f-3317-8633-86f88fd92e4a> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c4697d2d-94cc-b308-14da-5402f5f32f98" ;
+        c:docDate          "2015-05-30 09:35:57.091" ;
+        c:docTitle         "" ;
+        c:document         "Court: Twins have different dads. A New Jersey father has been ordered to pay child support for one girl in a set of twins after DNA tests proved he is not the father of both, according to court documents." ;
+        c:id               "http://id.opencalais.com/-DyBn4y024iUWrhzCJqwaA" .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "2" ;
+        c:name           "Deadbeat parent" ;
+        c:originalValue  "Deadbeat parent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8f0cec2-3f69-3057-a874-769fcde008e1> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "2" ;
+        c:name           "Reproduction" ;
+        c:originalValue  "Reproduction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d3b37f8-cdc5-3ba9-aef4-b24d0106ebe2> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "2" ;
+        c:name           "Minnesota Twins" ;
+        c:originalValue  "Minnesota Twins" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8666f970-e4e8-3352-a7a8-72ecbcbed135> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "1" ;
+        c:name           "Family" ;
+        c:originalValue  "Family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/411e09d1-56b8-3992-8707-01aa3bb15cfd> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "2" ;
+        c:name           "DNA profiling" ;
+        c:originalValue  "DNA profiling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/53b55ffa-9739-3ce0-b0a7-019cca70033c> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "2" ;
+        c:name           "Child support" ;
+        c:originalValue  "Child support" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ea095b2f-fcf4-3dcf-8fc9-461eaf0ec0ab> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:score           "0.919" .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "1" ;
+        c:name           "Family law" ;
+        c:originalValue  "Family law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3c2c7a3-98ac-33dd-9ef8-77eec401e320> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "2" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:score           "0.985" .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af7faa1d-ab6f-34cc-94ce-e8afa8770ef1> ;
+        c:importance     "2" ;
+        c:name           "Twin" ;
+        c:originalValue  "Twin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e185ae9d-af1f-32ae-8acb-233aa2466d4b> .

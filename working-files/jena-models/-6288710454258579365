@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec> ;
+        c:importance     "1" ;
+        c:name           "Death" ;
+        c:originalValue  "Death" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd88fc0c-7b94-3d68-95e5-73f2a925c5a2> .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|k5ToXxPQIJFvcGPovfX1VivM2TI=|NcEUDjNuE81tv2D7ACIK47sQszMBOvGx/Loc8lLlRYZfq03KHkA4QA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:28.420" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec> ;
+        c:importance     "2" ;
+        c:name           "Hudson River" ;
+        c:originalValue  "Hudson River" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3cc8b2f0-a99a-306e-a311-8a47329de4fe> .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "72d5c6e1-782b-9cc4-14da-54ba80432955" ;
+        c:docDate          "2015-05-30 10:48:28.560" ;
+        c:docTitle         "" ;
+        c:document         "Body Found in Hudson River Near Where Kayaker Disappeared. The unidentified body was transported to the Orange County morgue, where an autopsy will be performed, the police said." ;
+        c:id               "http://id.opencalais.com/M6abH1YGtbrtW66RcNqH-Q" .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec> ;
+        c:importance     "1" ;
+        c:name           "Autopsy" ;
+        c:originalValue  "Autopsy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dfd125ba-1e0a-3b07-b4a0-c4850966e84a> .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec> ;
+        c:importance     "2" ;
+        c:name           "Morgue" ;
+        c:originalValue  "Morgue" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/920c70bf-fa40-30cf-8acb-c4dd30b61bcc> .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec> ;
+        c:importance     "1" ;
+        c:name           "Pathology" ;
+        c:originalValue  "Pathology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/657e0c22-abc7-371a-b1fd-00823ef81b82> .
+
+<http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40a5bc4-0472-3064-8a71-6a5609e628ec> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .

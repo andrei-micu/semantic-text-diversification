@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance     "1" ;
+        c:name           "Iraq War" ;
+        c:originalValue  "Iraq War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30f6b3bb-177a-3ed7-89cb-1f573d732616> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance     "2" ;
+        c:name           "Iraqi insurgency" ;
+        c:originalValue  "Iraqi insurgency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/21e18d4a-5c56-31de-9a44-b846fcbc2f98> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance     "2" ;
+        c:name           "Iraq War in Anbar Province" ;
+        c:originalValue  "Iraq War in Anbar Province" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bc32f4fd-58d4-3b27-ac7a-bca241b8d973> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance     "2" ;
+        c:name           "Iraq" ;
+        c:originalValue  "Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/33ecfc09-2dca-3a72-9cc0-81d284a7bd4f> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "78d801bb-dddd-594a-14da-54b97b61927e" ;
+        c:docDate          "2015-05-30 10:48:24.371" ;
+        c:docTitle         "" ;
+        c:document         "U.S. Defense Secretary Blames Iraqi Forces for ISIS Victory in Ramadi. In some of the administration’s strongest remarks yet, Ashton B. Carter said Iraqi troops “failed to fight,” blaming them for a retreat that led to the fall of Ramadi to the Islamic State." ;
+        c:id               "http://id.opencalais.com/9q8*MC4WVF3phsA-tUJEzg" .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance     "1" ;
+        c:name           "Iraqi Army" ;
+        c:originalValue  "Iraqi Army" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2a242cd-777f-34c7-b083-46d4826188ef> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance     "2" ;
+        c:name           "Politics of Iraq" ;
+        c:originalValue  "Politics of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2a147ea-ee41-3c0a-a7e3-4ef16e7d271c> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance     "2" ;
+        c:name           "Occupation of Iraq" ;
+        c:originalValue  "Occupation of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3825fb7d-8a38-39a5-864b-fbcbfcba7d70> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|uJZtjoo/wdVFzbUGn/SxjKf6Fwg=|dpHD8osuJN29q1OJCAaeE6xRXFAh64r0c8CGh8DXQP5MPfMs3y1hZQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:24.246" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance     "1" ;
+        c:name           "Ramadi" ;
+        c:originalValue  "Ramadi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a14fe0e-d3e7-3c2c-9a6b-129bc843d4ed> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance     "2" ;
+        c:name           "Religion and violence" ;
+        c:originalValue  "Religion and violence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c52a6d9-3044-30dd-9808-4fa6f946e54c> .
+
+<http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9ed45296-5ce4-3b65-aa35-6b6183d783ca> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .

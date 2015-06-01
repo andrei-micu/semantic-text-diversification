@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3e02ae91-a596-3189-14da-540cef413c98" ;
+        c:docDate          "2015-05-30 09:36:37.757" ;
+        c:docTitle         "" ;
+        c:document         "Thousands attend funeral for slain New York City policeman. SEAFORD, N.Y. (Reuters) - Thousands of policemen from around the United States gathered on Friday at the funeral of a 25-year-old New York City officer who was shot in the head while on patrol, making him the third member of the NYPD killed in the line of duty since December." ;
+        c:id               "http://id.opencalais.com/U3H3kTD8Sw1boTLWUKZ1Qw" .
+
+<http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69> ;
+        c:importance     "1" ;
+        c:name           "Seaford" ;
+        c:originalValue  "Seaford" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0956a81a-d084-31f9-b864-7f5a996984ed> .
+
+<http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69> ;
+        c:score           "0.912" .
+
+<http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2V+ooNpLNWIMd8vyULFOJYGmFVI=|enFIv15D2FfW0uM18ADRHq/xaCFItCEmz4wmyQ6rR3J9v9/fIln3+Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:37.507" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69> ;
+        c:importance     "1" ;
+        c:name           "New York City Police Department" ;
+        c:originalValue  "New York City Police Department" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/35b5d7dd-97a1-3e54-9b0f-0d947adfcdfc> .
+
+<http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/17f5636e-e23b-30cf-bd11-2f1009bf2f69> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

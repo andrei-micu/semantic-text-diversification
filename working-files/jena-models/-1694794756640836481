@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:importance     "1" ;
+        c:name           "Emma" ;
+        c:originalValue  "Emma (given name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/003e156a-9c3f-3c09-b547-9dc07e12c7ef> .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:importance     "2" ;
+        c:name           "Luke Snyder" ;
+        c:originalValue  "Luke Snyder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cd5d933f-7169-3b39-a29a-6b6e2ad3787d> .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:importance     "2" ;
+        c:name           "Genealogy" ;
+        c:originalValue  "Genealogy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0b2871b-261d-31aa-8c32-9f8bc296989f> .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:importance     "1" ;
+        c:name           "Anime" ;
+        c:originalValue  "Anime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/11e3f4c5-28ca-3d97-b053-130fa01de045> .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|kG+uumxiXkyOE75R55mUI3Ia048=|Is83E8g2BfLAOFbT1J+JXIdRB2AtGMj7ciKxs62qzEPIqNtT/D75vQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:42.138" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:score           "0.910" .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5e091c3c-1f23-8eb5-14da-540e11a34709" ;
+        c:docDate          "2015-05-30 09:36:42.294" ;
+        c:docTitle         "" ;
+        c:document         "Emma and Noah are top US baby names. Noah and Emma are the most popular baby names in the US, according the Social Security Administration." ;
+        c:id               "http://id.opencalais.com/T71ZImBR0H0FdCfRBXwpmw" .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:importance     "1" ;
+        c:name           "Noah" ;
+        c:originalValue  "Noah (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bc2ce1a2-8e3a-3e14-a9fd-e376d4bebcb9> .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:importance     "2" ;
+        c:name           "Not Wanted on the Voyage" ;
+        c:originalValue  "Not Wanted on the Voyage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b86072eb-4500-3df8-88b1-4dd30a2c4f6c> .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:importance     "2" ;
+        c:name           "Manga" ;
+        c:originalValue  "Manga" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/982923cb-6801-3ab2-942c-e45e2cb2d101> .
+
+<http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4e8b3b22-7aca-3f3a-847d-9c7a1528d048> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

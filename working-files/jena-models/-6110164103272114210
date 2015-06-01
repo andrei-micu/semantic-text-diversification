@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:score           "0.966" .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:importance     "2" ;
+        c:name           "Kuala Lumpur" ;
+        c:originalValue  "Kuala Lumpur" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e71f542b-3773-36a1-9efc-413612f6ba69> .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f504095b-6660-1715-14da-543697e49095" ;
+        c:docDate          "2015-05-30 10:39:28.235" ;
+        c:docTitle         "" ;
+        c:document         "Hundreds of refugees arrive in Malaysia and Indonesia after Thai crackdown. LHOKSUKON, Indonesia/KUALA LUMPUR (Reuters) - Malaysia has detained more than a thousand Bangladeshi and Rohingya refugees, including dozens of children, police said, a day after authorities rescued hundreds stranded off Indonesia's western tip." ;
+        c:id               "http://id.opencalais.com/KXums3YSw0fyjLQTXiSZ8A" .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:importance     "1" ;
+        c:name           "Statelessness" ;
+        c:originalValue  "Statelessness" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/27258133-8e93-3260-8f91-458e222205e9> .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:score           "0.935" .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ZFpi3JnLUtc5xAjusJ0GEAhb5G0=|Ef8X9YVnC62GHv4wK76aEwxoCORVePVGLOIs22JNbDtcGEabKMl/4w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:28.126" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:importance     "2" ;
+        c:name           "Refugee" ;
+        c:originalValue  "Refugee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/172be022-cde9-36c3-8e06-4a676431ae7f> .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:score           "0.518" .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:importance     "1" ;
+        c:name           "Rohingya people" ;
+        c:originalValue  "Rohingya people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/457681fa-491b-36f0-abc1-c3119945ef42> .
+
+<http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/06f6e0f2-e951-38db-8f24-5e153fe47732> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

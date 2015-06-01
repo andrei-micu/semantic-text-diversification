@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:importance     "1" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:importance     "2" ;
+        c:name           "Pets" ;
+        c:originalValue  "Pets" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df5d35d1-6cee-3927-a782-151de1866970> .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:importance     "2" ;
+        c:name           "Behavior" ;
+        c:originalValue  "Behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe1e19-9c21-37dc-af60-02531de42118> .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|r+LQXQiiZPAKM7OSRuQuMewUOvo=|Z7zhWo2hiQXHyTtK5K8fvrnI1Nw2sfyijphA4zLeCwk1HqQbUtgiUQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:32.128" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:score           "0.765" .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:importance     "1" ;
+        c:name           "Furry fandom" ;
+        c:originalValue  "Furry fandom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2775e4fd-d803-350a-ae63-b2506d5e9ea9> .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b8da5a3a-57ce-2868-14da-54722a0719b3" ;
+        c:docDate          "2015-05-30 10:43:32.316" ;
+        c:docTitle         "" ;
+        c:document         "How your pet can make you ill. Pets give us companionship and affection, but they can also give us diseases. Although it is rare to get sick from our furry and feathered friends, some outbreaks seem to crop up perennially." ;
+        c:id               "http://id.opencalais.com/hQkQFTxvq0I0P756DnppEw" .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:importance     "2" ;
+        c:name           "Life simulation games" ;
+        c:originalValue  "Life simulation games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/acbffded-7c85-31d8-adf7-4dd688c31ee9> .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:score           "0.614" .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:importance     "1" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .
+
+<http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e3968f18-872d-3ff0-b780-5e2d9699dc96> ;
+        c:importance  "2" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

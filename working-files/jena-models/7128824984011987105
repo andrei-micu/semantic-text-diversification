@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0YknNCbyMlKDf4738hJqiP0Ee+M=|CYSvoylQpu9xca0zNXEAG/buTr9jE6p7tenszT0iA/qdKoK4OguXVg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:12.057" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:importance     "1" ;
+        c:name           "Natural disasters" ;
+        c:originalValue  "Natural disasters" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ec37c7c3-fd35-39fa-ae8e-7a4e85fdaded> .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:importance     "2" ;
+        c:name           "Global storm activity of mid" ;
+        c:originalValue  "Global storm activity of mid 2010" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b7050de4-1eca-36f1-986d-238591187b59> .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:importance     "1" ;
+        c:name           "Meteorology" ;
+        c:originalValue  "Meteorology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/897c2d6f-2365-35ef-8355-f4c70726feaa> .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:importance     "2" ;
+        c:name           "Queensland floods" ;
+        c:originalValue  "2010–2011 Queensland floods" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ddecab37-df14-3d81-8233-b6891a6d6651> .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9da94285-98cb-d221-4da5-4c527913c987" ;
+        c:docDate          "2015-05-30 09:49:12.431" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Many homes destroyed in US floods. Devastating floods have hit southern and central parts of the United States, killing three people and forcing thousands to leave their homes." ;
+        c:id               "http://id.opencalais.com/GYvXTqMkpQb9P0nVHxV9RA" .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:importance     "1" ;
+        c:name           "Flood" ;
+        c:originalValue  "Flood" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b04b944-fd3e-3996-b598-e95f36764379> .
+
+<http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/059629af-b2c4-3978-8372-28e09c51b200> ;
+        c:score           "1.000" .

@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d> ;
+        c:score           "0.967" .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d> ;
+        c:importance     "1" ;
+        c:name           "Teenage pregnancy" ;
+        c:originalValue  "Teenage pregnancy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e3322705-1703-3f62-9e80-6f58f29cffda> .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d> ;
+        c:importance     "1" ;
+        c:name           "Human development" ;
+        c:originalValue  "Human development" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ed9e0e9-3cda-3652-9c45-e7ec11a9ec74> .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d> ;
+        c:importance     "2" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f93a7482-8d3f-cad1-14da-54be2e035464" ;
+        c:docDate          "2015-05-30 10:48:43.644" ;
+        c:docTitle         "" ;
+        c:document         "Colorado's Free IUD Program Set To End In July. A program that made IUDs accessible to Colorado teenagers is running out of funding. State Rep. Don Coram, a Republican, fought to save it. He credits the initiative with the drop in teen pregnancies." ;
+        c:id               "http://id.opencalais.com/Yni1ez6RKXTtAWHIXyLv9A" .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d> ;
+        c:importance     "1" ;
+        c:name           "Intrauterine device" ;
+        c:originalValue  "Intrauterine device" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7cb7f0e9-5456-312a-9580-7df23af1a9da> .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|IWodxZ9rAXFoI7p63+SCsnqAxGg=|Sckp7tP7QjRJ0RXSL1sMN+cjbcBJ6H08IJ9HVJfKAjQxmKgoOK+/lA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:43.488" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b20dfdb1-5a76-34b5-8815-91302412201d> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

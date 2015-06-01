@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:importance     "2" ;
+        c:name           "Cat" ;
+        c:originalValue  "Cat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6f9bceb8-1033-3314-aff0-08a799352228> .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:importance     "1" ;
+        c:name           "Raycom Media" ;
+        c:originalValue  "Raycom Media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623550f7-3e98-31b4-a4ac-d1308a48cb5d> .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:score           "0.910" .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:importance     "2" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|807wNbD9UnvRvXCu1ArFSC6fOck=|Bv9DzcTtL40V3nd+v88/TOZ3hgYwWCO+E6VYQQ4/0Fwr9aox+p4Jkg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:31.359" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d577347f-f598-d600-14da-54c9ddf35464" ;
+        c:docDate          "2015-05-30 10:49:31.500" ;
+        c:docTitle         "" ;
+        c:document         "Woman goes blind after pet cat licks her. Cat owner suddenly goes blind and doctors diagnosed her with \"Cat Scratch,\" a bacteria passed by cats through their saliva or fur. CNN affiliate WTOL reports." ;
+        c:id               "http://id.opencalais.com/1Y0wqFLSkiD29l9zSeqzhQ" .
+
+<http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e255973-62bc-32c6-a548-b66ef50cf21c> ;
+        c:importance     "1" ;
+        c:name           "WTOL" ;
+        c:originalValue  "WTOL" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8311dcb5-2b84-35bc-af51-c9af5791151e> .

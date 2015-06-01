@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|IDZrBlBBAzqU+SRnl96JIU9+n9E=|ZD1hdeL3zrRM7h2nANo0my+0I+Y2GX9wa0pq4ln2A+L4Tfo6fagARw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:11.801" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b> ;
+        c:importance     "2" ;
+        c:name           "Lakewood, Washington" ;
+        c:originalValue  "Lakewood, Washington" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/841962e6-5cbb-34fe-a2ce-2e09dae87da2> .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b> ;
+        c:importance     "1" ;
+        c:name           "Death" ;
+        c:originalValue  "Death" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd88fc0c-7b94-3d68-95e5-73f2a925c5a2> .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "120369fc-062b-4ef4-14da-5423f5932f98" ;
+        c:docDate          "2015-05-30 09:38:12.128" ;
+        c:docTitle         "" ;
+        c:document         "Police: Several People Killed in Shooting in Switzerland. Police say they have found several people dead after shots were heard in a town in northern Switzerland." ;
+        c:id               "http://id.opencalais.com/cRG2n1X-7neVv4JJdMw1Ww" .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b> ;
+        c:importance     "2" ;
+        c:name           "Lakewood, Washington police officer shooting" ;
+        c:originalValue  "Lakewood, Washington police officer shooting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd4e5bc8-aad7-3ec7-a869-5eb35c08c199> .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b> ;
+        c:score           "0.718" .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b> ;
+        c:importance     "1" ;
+        c:name           "Murder" ;
+        c:originalValue  "Murder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4442334b-792e-34c3-9fb9-ebc855c20658> .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b> ;
+        c:importance     "1" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ca4e59ce-a4e0-31c5-aef7-36fe73133e7b> ;
+        c:importance     "2" ;
+        c:name           "Rigoberto Alpizar" ;
+        c:originalValue  "Rigoberto Alpizar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e827771-ced8-3d71-8bb5-c5df665cb70a> .

@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama presidential primary campaign" ;
+        c:originalValue  "Barack Obama presidential primary campaign, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/315f03dd-8a19-365a-9881-b9a663683d6e> .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:importance     "2" ;
+        c:name           "Hillary Clinton presidential campaign" ;
+        c:originalValue  "Hillary Clinton presidential campaign, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2104fb56-5143-3cfb-8752-50645e4db80b> .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YwfS2UKy5IhWgyUsLQbpjaRLC08=|b8iCsdMHXS7/6dPb9Xw3oDJbhots/QLiXBR54NelGM+fa9014oDvuA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:30.036" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c553fa48-10d3-237d-14da-54804d4760f9" ;
+        c:docDate          "2015-05-30 10:44:30.395" ;
+        c:docTitle         "" ;
+        c:document         "Clinton emails released. The State Department could release its first round of emails from Hillary Clinton's time as Secretary of State as early as Friday, offering a new look at her handling of the attacks on the U.S. consulate in Benghazi." ;
+        c:id               "http://id.opencalais.com/uim4ymnECEoZfdDk5OztbQ" .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:importance     "1" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:importance     "2" ;
+        c:name           "Hillary Clinton caucuses and primaries" ;
+        c:originalValue  "Hillary Clinton caucuses and primaries, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3bbcc71-46e3-3bf6-9d59-7c9d501fa6c2> .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/60523a09-6bc4-36c9-ade8-6a8a4b47ea6b> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .

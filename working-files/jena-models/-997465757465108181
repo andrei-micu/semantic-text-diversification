@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:importance     "1" ;
+        c:name           "Alligator" ;
+        c:originalValue  "Alligator" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/beeaa7c9-faa5-3ac4-8adf-538ef8c560bf> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:importance     "2" ;
+        c:name           "Watercraft" ;
+        c:originalValue  "Watercraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/23acc33c-c2ba-344a-b86c-df31406c39bd> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|amF3/lWY24yA12pyG3IDii60Ric=|CkUnVq+MKnUzgNFdZWn4I06ADhlIsSNQtmACd3hEmP1H06MKNkt+KA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:17.986" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bc6d8fb0-3148-115e-14da-53beee2719b3" ;
+        c:docDate          "2015-05-30 10:31:18.111" ;
+        c:docTitle         "" ;
+        c:document         "Alligator trainer attacked during show . An alligator trainer was attacked while performing a show in Texas. CNN affiliate KTRK reports." ;
+        c:id               "http://id.opencalais.com/Fuo07P3MENB92klDgcMGog" .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:importance     "2" ;
+        c:name           "KTRK-TV" ;
+        c:originalValue  "KTRK-TV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1c220483-939d-307c-a7ad-129a832b8819> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:importance     "1" ;
+        c:name           "Alligatoridae" ;
+        c:originalValue  "Alligatoridae" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c4f85d8-348f-3ac5-8d48-cdfef304db90> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:importance     "2" ;
+        c:name           "KTRK" ;
+        c:originalValue  "KTRK" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/367b2d85-618c-3a10-90a8-54b672bcd1f4> .
+
+<http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/785decc1-cacf-3389-8a7b-b5e5466193a9> ;
+        c:importance     "2" ;
+        c:name           "Marvin Zindler" ;
+        c:originalValue  "Marvin Zindler" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9818a597-e372-3aad-81cb-8d398cf070e0> .

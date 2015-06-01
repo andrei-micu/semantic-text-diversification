@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58> ;
+        c:importance     "1" ;
+        c:name           "Homicide: Life on the Street" ;
+        c:originalValue  "Homicide: Life on the Street (season 1)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60649326-d76e-30bb-a753-418ed89cf271> .
+
+<http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f1a415fd-536e-054c-14da-546f04b13c98" ;
+        c:docDate          "2015-05-30 09:43:19.446" ;
+        c:docTitle         "" ;
+        c:document         "Police look for 34-year-old man in quadruple slaying. Authorities identified a suspect in last week's quadruple homicide in a Washington mansion. FULL STORY" ;
+        c:id               "http://id.opencalais.com/5nw7ObAcG3GTyFkOYYWvjw" .
+
+<http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|D16CUxVFaGwXSgfe9ktsdHkJcCU=|N3N+WTUaCcism+6psKoIIUXkr/kN2ecU4kZXbVg4PlBsNAQfVPohmA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:19.243" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58> ;
+        c:importance     "1" ;
+        c:name           "Homicide" ;
+        c:originalValue  "Homicide (wrestler)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3cee5f58-0f20-3930-b952-766e4255a604> .
+
+<http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/94f1dd75-9119-3048-aeee-012565ee2e58> ;
+        c:score           "0.867" .

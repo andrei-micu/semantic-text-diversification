@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d2541fc0-b4dc-8315-14da-53efec023ab1" ;
+        c:docDate          "2015-05-30 10:34:38.734" ;
+        c:docTitle         "" ;
+        c:document         "Bond selloff cools, Wall Street rebounds. NEW YORK (Reuters) - The global bond market rout slowed on Thursday as long-term borrowing costs retreated from their highest levels in more than five months, helping to stabilize European stocks and kindle a mild recovery on Wall Street." ;
+        c:id               "http://id.opencalais.com/fJOPcPuGpgAarRpt-d1f8A" .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:importance     "2" ;
+        c:name           "Financial regulation" ;
+        c:originalValue  "Financial regulation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/320d970c-7030-327c-afdf-f56494e4c636> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:score           "0.781" .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:importance     "2" ;
+        c:name           "Financial markets" ;
+        c:originalValue  "Financial markets" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88bb4bda-bf2b-36d1-90a7-091347309cb5> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:importance     "2" ;
+        c:name           "Bond" ;
+        c:originalValue  "Bond (finance)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa27325e-823a-3134-9798-dfd4ac989711> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qoYr3N0bqEpIZuV/cEz5k24gvIA=|Ha9Cni///AcLACTiuku3PX2Qtld/w7Yor1Q1cgkoT+NC0oMcNmt+KA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:38.656" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:importance     "1" ;
+        c:name           "Financial economics" ;
+        c:originalValue  "Financial economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bb9859-75e0-3b28-acdb-61f6b786cc4c> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:importance     "2" ;
+        c:name           "Short" ;
+        c:originalValue  "Short (finance)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68176a81-75ce-36b6-8940-f6a805b4b409> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:importance     "2" ;
+        c:name           "Fixed income market" ;
+        c:originalValue  "Fixed income market" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/712bdfa5-5ef1-36b3-9e13-fdc039eeed5c> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:importance     "1" ;
+        c:name           "Finance" ;
+        c:originalValue  "Finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/acd44d54-d8f3-3c36-a78c-2da2af5a2ae8> .
+
+<http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e66d60e-e1dc-3151-ba60-dcd1fb72474d> ;
+        c:importance     "2" ;
+        c:name           "Short selling" ;
+        c:originalValue  "Short selling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04299bc9-118c-346c-bce4-cd1fe8d6ccc8> .

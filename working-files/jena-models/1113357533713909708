@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance     "1" ;
+        c:name           "Bush family" ;
+        c:originalValue  "Bush family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df72d56e-171b-3aad-855b-5cbc27710965> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance     "2" ;
+        c:name           "W." ;
+        c:originalValue  "W. (film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c804076b-6031-3566-b587-7cc8615aa16d> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance     "2" ;
+        c:name           "Contemporary history" ;
+        c:originalValue  "Contemporary history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5967e0cf-86e5-39d2-9bef-db5533141edd> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance     "2" ;
+        c:name           "Jeb Bush" ;
+        c:originalValue  "Jeb Bush" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bab0b944-5fb5-3f16-b1a8-295b86e96242> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bbf6cacc-73c6-4008-14da-544c304653ed" ;
+        c:docDate          "2015-05-30 09:40:56.861" ;
+        c:docTitle         "" ;
+        c:document         "Morning Memo: Iraq War Haunts Potential Bush Candidacy, as It Did Clinton in 2008. Jeb Bush is determined to run his all-but-declared campaign on his own terms, but he appears deeply conflicted about his brother’s war legacy." ;
+        c:id               "http://id.opencalais.com/wMVYqghCPaVXAsJ5fNVMvw" .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance     "2" ;
+        c:name           "George H. W. Bush" ;
+        c:originalValue  "George H. W. Bush" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8af4ad5b-2afc-3e40-8766-3d65a4ef9a01> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance     "2" ;
+        c:name           "George W. Bush" ;
+        c:originalValue  "George W. Bush" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8c82d2fd-a4a5-3901-b05c-e243f198deaa> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:score           "0.937" .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HZMeAED1pACG0EMi9Oa79uaRIjw=|ADMZ4kC2Ws64UHc8XEk5AHXtivxCKyoCR8s/aug9IcEfFn3yhWL07A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:56.580" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41409815-53b8-3e2d-91a8-76397eed24b3> ;
+        c:importance     "2" ;
+        c:name           "Iraq War" ;
+        c:originalValue  "Iraq War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30f6b3bb-177a-3ed7-89cb-1f573d732616> .

@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance     "2" ;
+        c:name           "Petroleum" ;
+        c:originalValue  "Petroleum" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e290a734-10e6-3ada-af1d-4d7bd12242e9> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance     "1" ;
+        c:name           "Environmental disasters" ;
+        c:originalValue  "Environmental disasters" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0830bf9-0433-3163-b164-9b94683ca6c2> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance     "2" ;
+        c:name           "Emergency management" ;
+        c:originalValue  "Emergency management" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f420ddef-600c-3810-9921-879e94aa181b> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance     "2" ;
+        c:name           "Deepwater Horizon oil spill" ;
+        c:originalValue  "Deepwater Horizon oil spill" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9df9bf49-10c2-3cd0-bb6d-eb7ee1116f40> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yXtYosbdRhkHcABLAl8BohObNuM=|gGI68ewFuYdlgZeV+igJP4B1TKBD7vy7cf/Wf6f+PMDqdWRYAVqF9A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:05.594" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance     "2" ;
+        c:name           "Ocean pollution" ;
+        c:originalValue  "Ocean pollution" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d572d55-3723-3022-8b22-b90e007ac555> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance     "2" ;
+        c:name           "Offshore oil and gas in California" ;
+        c:originalValue  "Offshore oil and gas in California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/00b7008c-fc4f-3f9c-8468-ca1a48fea1e3> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8d5b0905-56cf-2578-14da-546bafa34709" ;
+        c:docDate          "2015-05-30 09:43:05.937" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: California oil spill spans nine miles. Two oil slicks, stretching nine miles, have formed off the coast of southern California in the US, after an onshore pipeline ruptured." ;
+        c:id               "http://id.opencalais.com/kBniRQnWw9F11uzoAV9JsQ" .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance     "1" ;
+        c:name           "Environment" ;
+        c:originalValue  "2010 in the environment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance     "2" ;
+        c:name           "Petroleum in the United States" ;
+        c:originalValue  "Petroleum in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/711ac2ea-98b8-37d3-ba20-d7cd9890b0e9> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance     "2" ;
+        c:name           "Oil spill" ;
+        c:originalValue  "Oil spill" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d5080afa-b1cf-3bd6-9e36-85897b2b6766> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3adb66a2-9816-3e16-827c-b0b4f41f6fd7> ;
+        c:importance     "1" ;
+        c:name           "Hazards" ;
+        c:originalValue  "Hazards" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fe304980-c9b5-3174-9dbd-abb75a8414d9> .

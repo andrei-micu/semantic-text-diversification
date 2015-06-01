@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d> ;
+        c:importance     "1" ;
+        c:name           "Marathon" ;
+        c:originalValue  "Marathon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d322de36-9af4-3ba9-abae-790f9b39acf9> .
+
+<http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d> ;
+        c:importance     "1" ;
+        c:name           "Athletics" ;
+        c:originalValue  "Athletics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1cc612e7-8a68-30c9-9186-fc4284cb2b0b> .
+
+<http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d> ;
+        c:score           "0.508" .
+
+<http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d> ;
+        c:importance     "2" ;
+        c:name           "Road running" ;
+        c:originalValue  "Road running" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cb113c5d-fe63-3dc0-aa9f-a13e11cd93d1> .
+
+<http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d> ;
+        c:importance     "1" ;
+        c:name           "Running" ;
+        c:originalValue  "Running" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c1b3f44-9a99-32fa-9c6d-b33c3a13a182> .
+
+<http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gq9VZ/IsYqyUPYtfCorqDhoDWHc=|Vc8nVKcxmX6FNDYkK7pu4VNRvjgFibu/yOfILLYXNh/Ve1xDW4ZeKA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:50:24.406" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d> ;
+        c:importance     "2" ;
+        c:name           "Josh Cox" ;
+        c:originalValue  "Josh Cox" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/42fdef62-48c5-3799-894d-15ff5ac02fbc> .
+
+<http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fb780688-ba23-2eb0-14da-54d6d1632955" ;
+        c:docDate          "2015-05-30 10:50:24.609" ;
+        c:docTitle         "" ;
+        c:document         "Running 26.2 — At 92 Years Of Age. On Sunday, thousands of runners will take to the streets in San Diego for the annual Rock'n'Roll marathon. A record might be set, too — not for the fastest finisher but for one of the oldest." ;
+        c:id               "http://id.opencalais.com/HIccHzBAUjaUj7c4sI7rFg" .
+
+<http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7468df39-0640-3b44-97c4-9b4705ac0f2d> ;
+        c:score           "0.565" .

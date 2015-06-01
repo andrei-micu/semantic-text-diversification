@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05> ;
+        c:score           "0.902" .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05> ;
+        c:importance     "1" ;
+        c:name           "Investment" ;
+        c:originalValue  "Investment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f974021-59af-3718-a6ea-cdb8151cb2c1> .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05> ;
+        c:importance     "2" ;
+        c:name           "Political philosophy" ;
+        c:originalValue  "Political philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77603a14-4820-3d0d-824b-af4fcd03b8bb> .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e9ba2728-bbd3-0a8f-14da-53dcca7760f9" ;
+        c:docDate          "2015-05-30 10:33:20.389" ;
+        c:docTitle         "" ;
+        c:document         "China April HSBC PMI shows biggest drop in factory activity in a year. BEIJING (Reuters) - China's factories suffered their fastest drop in activity in a year in April as new orders shrank, a private business survey showed on Monday, hardening the case for fresh stimulus measures to halt a slowdown in the world's second-largest economy." ;
+        c:id               "http://id.opencalais.com/WkZPNPXz7tnPOiy7Z*zr3A" .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05> ;
+        c:importance     "2" ;
+        c:name           "Beijing" ;
+        c:originalValue  "Beijing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/971e1e08-3319-3e62-8d87-e1d710304164> .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|NTB+ALjatJ33/z+a6WmCE4P0TH0=|RzKLaFeVShBNY9FAEy/FcU4zKhkfKY6GwlzkflW49wQtYMtutc19CQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:20.295" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d94efafb-045e-3403-a33d-2c094461ee05> ;
+        c:importance     "1" ;
+        c:name           "HSBC" ;
+        c:originalValue  "HSBC" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1c8ab150-f5ce-36df-8b26-633c620db0a2> .

@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5337caa5-815c-326d-9ab4-dc43ac482e9b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5337caa5-815c-326d-9ab4-dc43ac482e9b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ttnBmCxfMm5E7TkXuqoDf+iDdkg=|AJ5BkqMwZ+0y2RXDj14mKiRuePSOs2hdT3rX4ANdJe30xI5uMp16xA==" ;
+        c:submissionDate  "2015-05-30 10:28:09.928" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5337caa5-815c-326d-9ab4-dc43ac482e9b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e1ca07b6-c5fe-bbb3-14da-5391048719b3" ;
+        c:docDate          "2015-05-30 10:28:10.006" ;
+        c:docTitle         "" ;
+        c:document         "How Shakespeare learned to love women. How Shakespeare's female characters evolved" ;
+        c:id               "http://id.opencalais.com/AaPAt3QRZSfheagC1QaV0w" .
+
+<http://d.opencalais.com/dochash-1/5337caa5-815c-326d-9ab4-dc43ac482e9b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5337caa5-815c-326d-9ab4-dc43ac482e9b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

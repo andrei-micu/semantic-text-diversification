@@ -1,0 +1,131 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:score           "0.994" .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "2" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "2" ;
+        c:name           "Human trafficking in Malaysia" ;
+        c:originalValue  "Human trafficking in Malaysia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fbf5c32d-9bb4-308c-94fd-c2548d1f3c2f> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "2" ;
+        c:name           "Slavery" ;
+        c:originalValue  "Slavery" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/154290b6-e801-3242-aeb4-42c3ef3007f4> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "2" ;
+        c:name           "Malaysia" ;
+        c:originalValue  "Malaysia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7501b1f-9587-3522-b527-f78c7bfa1206> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "1" ;
+        c:name           "Crimes against humanity" ;
+        c:originalValue  "Crimes against humanity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/55feea93-ffea-392b-9ba4-daf5597491cd> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "2" ;
+        c:name           "Child labour" ;
+        c:originalValue  "Child labour" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e3c3545a-3672-38db-a9ec-12200f3a3e9a> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "2" ;
+        c:name           "Human trafficking in Thailand" ;
+        c:originalValue  "Human trafficking in Thailand" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad46d6aa-d978-371a-bd7b-dc315a400f53> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e7473b01-3d32-84f8-14da-54ac433719b3" ;
+        c:docDate          "2015-05-30 10:47:30.302" ;
+        c:docTitle         "" ;
+        c:document         "Mass graves found in Malaysia. Mass graves of refugees caught up in the human-trafficking trade have been found in northern Malaysia near the border with Thailand, authorities said Sunday." ;
+        c:id               "http://id.opencalais.com/xeeHbMLTLBTKJR*SaLdQEg" .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "2" ;
+        c:name           "Human trafficking" ;
+        c:originalValue  "Human trafficking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67364582-cb6c-3ccb-91b7-9c993c0031b9> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:importance     "1" ;
+        c:name           "Sex crimes" ;
+        c:originalValue  "Sex crimes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/113eb67e-55cf-3cee-bd16-a2c6d0db1d20> .
+
+<http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f8b16b04-43cb-3c46-b488-ca6ae9aaeb9f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bPsbqPt4dCdMZz26deNihnbEvu4=|DoqUhmvDvBISKEJIV4P6jZKJj6x7OD9MZzYsVCspnjy7+wFZ3DGqAw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:30.099" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

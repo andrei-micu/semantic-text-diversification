@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance     "2" ;
+        c:name           "McLibel Case" ;
+        c:originalValue  "McLibel Case" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d0fd3f0c-2a20-384d-9b8c-95414684c98f> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance     "2" ;
+        c:name           "Oak Brook, Illinois" ;
+        c:originalValue  "Oak Brook, Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4517ff6-996f-334e-a670-cb09f5340a8b> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a4d13541-a471-4bc3-14da-53d06541927e" ;
+        c:docDate          "2015-05-30 10:32:29.602" ;
+        c:docTitle         "" ;
+        c:document         "Is the US love affair with McDonald's waning?. Why some in the US are losing their love of McDonald's" ;
+        c:id               "http://id.opencalais.com/dSIbJ1KuyLiQFfzH9cJPTQ" .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance     "2" ;
+        c:name           "Globalization" ;
+        c:originalValue  "Globalization" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2bb3eb9-e3b9-3bb5-9b60-9d9d4912a187> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance     "1" ;
+        c:name           "Fast food" ;
+        c:originalValue  "Fast food" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/779a99c7-4a04-336b-a88b-3eba145419a6> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance     "2" ;
+        c:name           "Metro" ;
+        c:originalValue  "Metro (restaurant chain)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8e13bd5-ba79-3822-887c-141b925019ea> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:score           "0.816" .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance     "2" ;
+        c:name           "McDonald's" ;
+        c:originalValue  "McDonald's" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/86e6cc0a-460e-3fe6-92fb-d6f37d9ac3ed> .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|J5ti1isLcVYYEw5Q4imTexTHYwI=|AYbe6n3DkUjJlzAYBH4mMQPe21wgVm8yiGkgQqi9NuLlzIOu1gc6Rg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:29.524" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b634b59-10bd-3bc6-84a5-ec284852708f> ;
+        c:importance     "1" ;
+        c:name           "Dow Jones Industrial Average" ;
+        c:originalValue  "Dow Jones Industrial Average" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b82fa4a1-1d29-386e-a327-103788618023> .

@@ -1,0 +1,108 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:importance     "2" ;
+        c:name           "Family of Barack Obama" ;
+        c:originalValue  "Family of Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61100bdb-b997-3cff-bdf7-62e2836abdd9> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama, Sr." ;
+        c:originalValue  "Barack Obama, Sr." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fc1e80f9-8dd7-3066-a51e-2e30d5d7a5d4> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "103e91dc-cc4b-d479-14da-54c8f6349095" ;
+        c:docDate          "2015-05-30 10:49:27.822" ;
+        c:docTitle         "" ;
+        c:document         "Obama meets ISIS victim's family. President Barack Obama met Thursday with the family of an American killed by ISIS, visiting the parents and sister of journalist Steven Sotloff during a trip to Miami." ;
+        c:id               "http://id.opencalais.com/9ApUxmf8wIqi8Hc6jEcfvQ" .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:importance     "2" ;
+        c:name           "The Isis Magazine" ;
+        c:originalValue  "The Isis Magazine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba4c3126-6d12-33b7-b3ec-303fe14dd92d> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:importance     "2" ;
+        c:name           "The Secrets of Isis" ;
+        c:originalValue  "The Secrets of Isis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ddb3011d-df5e-3d31-b466-3ba4080e9003> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nZm5vPtFI0Dlo2bnRJfEsIzp6rE=|F+eSrpVw8MXMyYkDpPQ9HHmeBr6VZmIbeoo8/nOGSDqAvwXQED3lUA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:27.651" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:importance     "1" ;
+        c:name           "Obama" ;
+        c:originalValue  "Obama (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e5db29c8-47b4-358d-87a0-4069a9a0caa9> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:importance     "2" ;
+        c:name           "Human migration" ;
+        c:originalValue  "Human migration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bfb396c9-8e39-3429-bebb-8d0e6157e32e> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:importance     "1" ;
+        c:name           "Captain Marvel" ;
+        c:originalValue  "Captain Marvel (DC Comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/15df3ef7-512e-39da-bb87-519e60c91ef0> .
+
+<http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ccb0da9-506e-3d9b-adf7-26a64c4480e6> ;
+        c:importance     "2" ;
+        c:name           "Isis" ;
+        c:originalValue  "Isis (DC Comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afe3a960-ba58-3537-8ed1-540bc01f0b0a> .

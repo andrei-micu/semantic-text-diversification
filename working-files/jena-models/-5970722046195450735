@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:importance     "1" ;
+        c:name           "World Trade Center" ;
+        c:originalValue  "World Trade Center" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b88652e-8ae8-3261-a13f-3a1a0b71bc44> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:importance     "2" ;
+        c:name           "World Trade Center in popular culture" ;
+        c:originalValue  "World Trade Center in popular culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3f4ea0bf-243d-38a3-a7a7-8b73dc5f1662> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:importance     "2" ;
+        c:name           "Manhattan" ;
+        c:originalValue  "Manhattan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/040ac3d8-6649-3fca-beb6-7eb514732938> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:score           "0.686" .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:importance     "1" ;
+        c:name           "New York City" ;
+        c:originalValue  "New York City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab0f5222-8761-3028-a7c2-87555857e560> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:importance     "2" ;
+        c:name           "Outline of the September 11 attacks" ;
+        c:originalValue  "Outline of the September 11 attacks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d90c1d49-c158-36c2-9ed8-ae761c18ef3c> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "78849151-35e7-ce01-14da-546f1e432f98" ;
+        c:docDate          "2015-05-30 09:43:20.088" ;
+        c:docTitle         "" ;
+        c:document         "On top of the One World Trade Center. A first look from the observatory of New York's One World Trade Center, built on the site of the twin towers destroyed on the 9/11 attacks." ;
+        c:id               "http://id.opencalais.com/IuTwNm2pJgZsk7LqqkGDTw" .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:importance     "2" ;
+        c:name           "September 11 attacks" ;
+        c:originalValue  "September 11 attacks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c93b4e56-8ae6-3b3f-a967-9c890d465419> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:score           "0.643" .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:importance     "1" ;
+        c:name           "Structural engineering" ;
+        c:originalValue  "Structural engineering" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/738a3e4f-657f-3af6-9c2c-d7f53d80bd95> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4f5f6764-f9be-3b5e-af3a-415ed898784e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ZbELFFXsEYCL4+1/iQYxafjxQ5w=|hW+uXNt1oqWrEp7YWlfN0Rk9gNdflS/Mx0wrgvttW0XSHhJ+xPoPMw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:19.652" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

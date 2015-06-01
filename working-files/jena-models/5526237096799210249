@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:importance     "1" ;
+        c:name           "Himalayas" ;
+        c:originalValue  "Himalayas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/909e4667-b357-3eb3-9c3e-c656f77ab0dd> .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Z+/UaC5TzoHjV0XTgaFNQUJdgFo=|VH56cqaWkOJU0kh8pgtv0LD/KDg1EhdYGC3N9BCgYAUi/gM+yKYEdQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:53.538" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:importance     "1" ;
+        c:name           "Physical geography" ;
+        c:originalValue  "Physical geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07bc24e7-a33a-34a3-8a5c-23a4b068fccb> .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:importance     "2" ;
+        c:name           "Geography" ;
+        c:originalValue  "Geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aa8a0eb7-45d7-3259-83d2-ba6e77cee767> .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3359ef15-d5f3-314c-14da-545a182653ed" ;
+        c:docDate          "2015-05-30 09:41:53.772" ;
+        c:docTitle         "" ;
+        c:document         "Teen climber survives Everest avalanche. When the wall of snow came roaring down the mountain, 17-year-old Matt Moniz jumped behind a boulder with his climbing partners, unsure whether he would survive." ;
+        c:id               "http://id.opencalais.com/CigfcQwr*ydDGiKbM6TPxA" .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:importance     "2" ;
+        c:name           "Mount Everest" ;
+        c:originalValue  "Mount Everest" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aef1297c-0c88-39a2-be7d-8fca5cbbf918> .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:importance     "1" ;
+        c:name           "Geography of Tibet" ;
+        c:originalValue  "Geography of Tibet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60acdf2e-d043-33da-9b75-d1cbfaf62aad> .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:importance     "2" ;
+        c:name           "Avalanche" ;
+        c:originalValue  "Avalanche" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f36132d6-6543-34ed-b243-f2d37a136877> .
+
+<http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c897fefc-d655-32be-9902-f84c17ba0d4d> ;
+        c:importance     "2" ;
+        c:name           "Shigatse Prefecture" ;
+        c:originalValue  "Shigatse Prefecture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2111bac7-5611-335d-ae83-b3eef1c62fdc> .

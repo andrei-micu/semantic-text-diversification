@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:importance     "1" ;
+        c:name           "Tom Brady" ;
+        c:originalValue  "Tom Brady" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52dcf606-d4c6-3477-a5fe-ad3eb7ec165e> .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b9d13f0d-2e24-d664-14da-54160fa35464" ;
+        c:docDate          "2015-05-30 10:37:15.077" ;
+        c:docTitle         "" ;
+        c:document         "NFL Deflategate: Brady timeline. For months during the football season, Tom Brady and John Jastremski, the man in charge of preparing the footballs the star quarterback would throw in each game, didn't communicate by phone." ;
+        c:id               "http://id.opencalais.com/tXU5Ro83zpHPDSYa4rwEzw" .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:score           "0.902" .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:importance     "1" ;
+        c:name           "National Football League" ;
+        c:originalValue  "National Football League" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/911c58d3-69ff-36bb-8448-54ede0a84d89> .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:importance     "2" ;
+        c:name           "Brady" ;
+        c:originalValue  "Brady" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d4bed0c5-2b10-38d4-bebf-3fe80e7c573a> .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:importance     "1" ;
+        c:name           "Super Bowl MVPs" ;
+        c:originalValue  "Super Bowl MVPs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c481e3a9-8609-3779-82da-e4240b08bb8c> .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LB46nZLsOXRBENnKTfMiyuJ0FBE=|j2J+nL/qtDgp+L12qKey5gf9qacH+gIMSOKmI/PKOiLt3wbY2ue90A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:37:14.874" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28eb8d4d-2189-3dd3-9cb1-22aba2e3f1dd> ;
+        c:importance     "2" ;
+        c:name           "Football" ;
+        c:originalValue  "Football (association football)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26795aa6-cc7c-33c4-9784-1c66d3a0e7f1> .

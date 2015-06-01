@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:importance     "1" ;
+        c:name           "Genetics" ;
+        c:originalValue  "Genetics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a4d97ab-cd45-32f9-8d04-684c20e21d4a> .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:importance     "2" ;
+        c:name           "Human genome" ;
+        c:originalValue  "Human genome" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0eb2eb3e-aa1d-3100-a550-d32c99437056> .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "786a7aca-b28a-b798-14da-548b3b8760f9" ;
+        c:docDate          "2015-05-30 10:45:15.026" ;
+        c:docTitle         "" ;
+        c:document         "The Brave New World Of 'Editing' Human Genes. A new gene technology is so powerful, it’s sparking debate about whether humankind should tinker with its own gene pool." ;
+        c:id               "http://id.opencalais.com/jqvKg-nH0LTjbvPPZsIIfA" .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:importance     "2" ;
+        c:name           "Cloning" ;
+        c:originalValue  "Cloning" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9734175c-07f8-3861-9f84-288dc70575c8> .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:importance     "1" ;
+        c:name           "Molecular biology" ;
+        c:originalValue  "Molecular biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2a12481f-d177-3170-a3e4-46a9714aaa44> .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:importance     "2" ;
+        c:name           "Gene" ;
+        c:originalValue  "Gene" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50d87e43-3ef0-3c1b-8375-0d428487b21e> .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|TtNR4SvNYCHwy20q9437vPJnwAg=|XWoWP4vOVIi0ESKY0wMtI3zNUkgm6HC9ryqTUy3CHirsa6EheYWe6w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:14.808" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c8c12e2-7bbe-33c7-9f0d-ff91e4cbdb30> ;
+        c:importance     "2" ;
+        c:name           "Genomics" ;
+        c:originalValue  "Genomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee1b1d0f-3030-3d31-a5fd-4ebd66c6341d> .

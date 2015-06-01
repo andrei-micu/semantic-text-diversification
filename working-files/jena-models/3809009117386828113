@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6> ;
+        c:importance     "1" ;
+        c:name           "David Oyelowo" ;
+        c:originalValue  "David Oyelowo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c673cca-5c20-36be-a102-0a99842235b4> .
+
+<http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6> ;
+        c:importance     "1" ;
+        c:name           "British people" ;
+        c:originalValue  "British people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/504d852b-86a3-321f-96e2-df8194075afc> .
+
+<http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6> ;
+        c:score           "0.524" .
+
+<http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nLXX9CVJHAJs2pzpkItToo/l+dQ=|iXRYA912T8oH/dxjBw+Aeyz1+EEL6qMDw/Bg8NTYZvx3g25vuXrfNA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:50:06.642" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6> ;
+        c:importance     "1" ;
+        c:name           "English people" ;
+        c:originalValue  "English people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1838496c-93d5-3866-9fe2-536e32464e5b> .
+
+<http://d.opencalais.com/dochash-1/e79db450-fc4f-3888-96fc-ea5a58bebbc6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ddf16b8f-fddd-d660-14da-54d27b2760f9" ;
+        c:docDate          "2015-05-30 10:50:06.798" ;
+        c:docTitle         "" ;
+        c:document         "Fresh Air Weekend: David Oyelowo, Highlights (And Lowlights) Of Cannes. British-born Nigerian actor David Oyelowo talks about playing an American veteran in Nightingale. John Powers returns from the French film festival to discuss this year's new international films." ;
+        c:id               "http://id.opencalais.com/pEhgACAA8ONPr1P7fyiUFQ" .

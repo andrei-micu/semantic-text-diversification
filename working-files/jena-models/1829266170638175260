@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:score           "0.553" .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:importance     "2" ;
+        c:name           "Lindsay" ;
+        c:originalValue  "Lindsay (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f7120c3c-778d-37e8-a0f6-341173435faf> .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "247c8275-6c83-1cb4-14da-53d52f935464" ;
+        c:docDate          "2015-05-30 10:32:49.207" ;
+        c:docTitle         "" ;
+        c:document         "Lindsey Vonn and Tiger Woods split. Skier Linsday Vonn announced Sunday that she and Tiger Woods are parting ways, citing the strain of their busy schedules." ;
+        c:id               "http://id.opencalais.com/JdRFDonZOjDnW7AjGj1sqw" .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GP93w079l1HybOW+XkNgAhiGsLA=|XoJyFLpvyM6Af3VjyUK7GM+I6zSTgbmP4W7w//op5jHdh2HxvDhzmA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:49.145" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:importance     "1" ;
+        c:name           "Lindsey" ;
+        c:originalValue  "Lindsey (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/843b964f-a7d3-3109-9500-7cc1947fc26a> .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:importance     "2" ;
+        c:name           "Alpine skiing at the Winter Olympics" ;
+        c:originalValue  "Alpine skiing at the Winter Olympics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/602ae587-d5ae-3fb0-bd63-7a229a7ef43d> .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:importance     "2" ;
+        c:name           "Sports in the United States" ;
+        c:originalValue  "Sports in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83b69fe8-2633-3e92-81cf-13fc65badac5> .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:score           "0.913" .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:importance     "1" ;
+        c:name           "Tiger Woods" ;
+        c:originalValue  "Tiger Woods" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52288871-5f66-334f-b8f9-a718f284ec40> .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:importance     "1" ;
+        c:name           "Vonn" ;
+        c:originalValue  "Vonn" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ed83c726-467e-3c24-a78d-b02707af2211> .
+
+<http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cba8a0a-3011-30c7-a624-38b382883c8f> ;
+        c:importance     "2" ;
+        c:name           "Golf" ;
+        c:originalValue  "Golf" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/290b7941-b84e-3653-8622-8b47638cc73a> .

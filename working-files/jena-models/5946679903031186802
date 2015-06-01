@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:importance     "1" ;
+        c:name           "Referendum" ;
+        c:originalValue  "Referendum" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/804c1316-64fb-3b5c-aaa2-aeb1dc576c7d> .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|NBfxQln8pPQW7ChYw0yBK6fsf48=|kQj+IFbwgYE8NvFFisuhGUI5B4YGBo+a7TIKPPr7DMrx8i0B8YjeQA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:02.357" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:importance     "1" ;
+        c:name           "Alexis Tsipras" ;
+        c:originalValue  "Alexis Tsipras" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d8e47bb-8307-3de3-a45b-9b417918f394> .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:importance     "2" ;
+        c:name           "Democracy" ;
+        c:originalValue  "Democracy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51448d21-7961-3ccd-bd71-23f9571d33fe> .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:importance     "2" ;
+        c:name           "Scottish independence referendum" ;
+        c:originalValue  "Scottish independence referendum, 2014" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51c8aef5-8839-385e-b4d6-e77f6eb1cd48> .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b822f914-bdd7-5a68-14da-539dd0613c98" ;
+        c:docDate          "2015-05-30 09:29:02.576" ;
+        c:docTitle         "" ;
+        c:document         "Alexis Tsipras, Greek Premier, Signals Possible Referendum Vote on Credit Deal. The prime minister said that if a plan fell outside his government’s mandate, “then the Greek people will have to give the answer.”" ;
+        c:id               "http://id.opencalais.com/iss-KQyLx3xn-DREaTMpbg" .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:importance     "1" ;
+        c:name           "Independence referendums" ;
+        c:originalValue  "Independence referendums" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4af46e9f-f8f4-339a-86ad-cfd51c0c7661> .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3b3016cd-1dcb-31cc-ad6d-16a3f0f9df4a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

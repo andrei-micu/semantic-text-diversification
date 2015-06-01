@@ -1,0 +1,52 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238> ;
+        c:importance     "1" ;
+        c:name           "Wrangle, Lincolnshire" ;
+        c:originalValue  "Wrangle, Lincolnshire" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4abf3f5e-a5f3-33c6-b98a-ae140bd4c1be> .
+
+<http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|h+QbbkjtUKkP9roH/doktX8PvCU=|CGRjyjhrXwyu54x27FoIe2HJ7xAZ+WW+aLhJ5atndgYmCd6e3db0Fg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:43.526" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238> ;
+        c:score           "0.571" .
+
+<http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238> ;
+        c:importance     "1" ;
+        c:name           "Autobiographical novel" ;
+        c:originalValue  "Autobiographical novel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/129fc691-a922-3e8e-8708-e84a8a195182> .
+
+<http://d.opencalais.com/dochash-1/e9895d4d-2ab0-3925-900b-7b6bce92e238>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a8604107-fa30-a98b-14da-538a9171df07" ;
+        c:docDate          "2015-05-30 09:27:43.807" ;
+        c:docTitle         "" ;
+        c:document         "3,600-Page Autobiographical Novel Is An Honest And Masterful 'Selfie'. My Struggle is about Karl Ove Knausgaard's wrangle with his father, with death, with his Muse and on. The 46-year-old Norwegian's pointedly un-literary book has become a literary sensation." ;
+        c:id               "http://id.opencalais.com/G2HrWJvPu92AZbuu91kYSA" .

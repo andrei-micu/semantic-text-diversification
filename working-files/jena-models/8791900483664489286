@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:importance     "2" ;
+        c:name           "Typhoon Fred" ;
+        c:originalValue  "Typhoon Fred (1994)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b5e07dbb-bd29-3723-a04a-32c63073ab0a> .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:importance     "1" ;
+        c:name           "Typhoons in the Philippines" ;
+        c:originalValue  "Typhoons in the Philippines" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abfbbf3b-d7a0-328b-917a-e8a3f5b53079> .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:importance     "1" ;
+        c:name           "Pacific Ocean" ;
+        c:originalValue  "Pacific Ocean" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c1e89b60-fbef-33ad-b5f9-142f5722f6da> .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+oNWaYC8xa6D7Dzd5uhfhu5zY00=|Hw2on3lZuS9mvtpOachV1HcpngAIW1elpLe3JBhWEEXgHRQHIGYhTg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:41.335" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:score           "0.997" .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:importance     "2" ;
+        c:name           "Pacific typhoon season" ;
+        c:originalValue  "2006 Pacific typhoon season" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ce0594a-2abc-3bcc-9ba6-93fc0e135f29> .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a22b286b-604c-cc84-14da-53ff39771d39" ;
+        c:docDate          "2015-05-30 09:35:41.429" ;
+        c:docTitle         "" ;
+        c:document         "Super Typhoon makes landfall in Philippines. Super Typhoon Noul intensified Sunday as it whirled toward the northeastern Philippines, prompting warnings of flooding and landslides in the mountainous region." ;
+        c:id               "http://id.opencalais.com/6ByEfJ1DqXZYlv0hjPwCGQ" .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:importance     "1" ;
+        c:name           "Typhoons" ;
+        c:originalValue  "Typhoons" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f6e95065-c74c-3762-8ebd-c5137a41928d> .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0e6bd777-99e6-3f76-91ec-30af153de800> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

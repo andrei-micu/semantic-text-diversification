@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:importance     "2" ;
+        c:name           "Public safety" ;
+        c:originalValue  "Public safety" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db6fb8a-c9ac-3a49-a453-ad0eda49d665> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9638131f-06ec-97fc-14da-54a9efd13c98" ;
+        c:docDate          "2015-05-30 09:47:20.854" ;
+        c:docTitle         "" ;
+        c:document         "Unrest follows US police acquittal. US police say they have made multiple arrests in protests in Cleveland after an officer was cleared over the fatal shooting of an unarmed black couple." ;
+        c:id               "http://id.opencalais.com/yUhtOT5VIovhYx6Z-7KsAQ" .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:importance     "2" ;
+        c:name           "Law enforcement" ;
+        c:originalValue  "Law enforcement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93510f9c-4514-3e82-ad67-c26d91124e44> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:importance     "2" ;
+        c:name           "BART Police shooting of Oscar Grant" ;
+        c:originalValue  "BART Police shooting of Oscar Grant" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06452539-cd83-3cc2-a420-e0f23cf8f652> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|BND13hbUDj/nKrGz8qnPHadTLbA=|AgFjE6fgyxMbLYRNPLAh3N07NhxSxwX8LnQOZDYacVzn6uwSiLQSPw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:20.589" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:importance     "1" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:importance     "2" ;
+        c:name           "Surveillance" ;
+        c:originalValue  "Surveillance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2899486a-eede-357a-8feb-cc555eede3ea> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:importance     "2" ;
+        c:name           "Police" ;
+        c:originalValue  "Police" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a182b6c-ea20-3768-948c-2d3aa60d757a> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:score           "0.972" .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:importance     "1" ;
+        c:name           "Crime prevention" ;
+        c:originalValue  "Crime prevention" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab11aca4-5989-35f1-be71-e5b8f364fb31> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b685a851-d20b-3762-ae69-43ef4fb0259e> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .

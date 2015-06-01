@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/80d74c73-4165-36ec-8148-a8e6aac181b8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/80d74c73-4165-36ec-8148-a8e6aac181b8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/80d74c73-4165-36ec-8148-a8e6aac181b8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/80d74c73-4165-36ec-8148-a8e6aac181b8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|dprCdKHiJ2hmVkpAaHA6jGxm1Lo=|S+sl80umqrE0JEUMkpzuGu3X7PQlqYB3+hPYOgTD2LwI+YPxw38ZjA==" ;
+        c:submissionDate  "2015-05-30 09:37:27.648" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/80d74c73-4165-36ec-8148-a8e6aac181b8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "21ac6f9e-b404-ce49-14da-54192e013c98" ;
+        c:docDate          "2015-05-30 09:37:27.726" ;
+        c:docTitle         "" ;
+        c:document         "What a shot! 38 amazing sports photos. " ;
+        c:id               "http://id.opencalais.com/Eascpf-lUUpNRzVEqymBeg" .

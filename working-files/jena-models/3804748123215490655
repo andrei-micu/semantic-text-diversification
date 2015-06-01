@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance     "2" ;
+        c:name           "Yemen" ;
+        c:originalValue  "Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c6207b9-0507-3acd-bfb3-5586f8fb81ac> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance     "2" ;
+        c:name           "Zaydi" ;
+        c:originalValue  "Zaydi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7056295-c3e2-3004-8f54-955d2a373197> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance     "1" ;
+        c:name           "Contemporary history" ;
+        c:originalValue  "Contemporary history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5967e0cf-86e5-39d2-9bef-db5533141edd> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance     "2" ;
+        c:name           "Operation Scorched Earth" ;
+        c:originalValue  "Operation Scorched Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b37b212-6717-3a93-9c32-fbf150db5080> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|uuSbc5fcqTJFbso53GwnwHZDaXw=|dykGQuA0kGruuszAVmQD93ZYReYw5+zyIX3Jnf92BqUxtMgU9cMZJg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:00.755" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:score           "0.969" .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance     "2" ;
+        c:name           "Military history" ;
+        c:originalValue  "Military history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7665f9db-dd9e-384d-bcf9-bd81ecf2c0fc> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance     "1" ;
+        c:name           "Terrorism in Yemen" ;
+        c:originalValue  "Terrorism in Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6cb1897e-85f7-3250-b2ff-3e05e49cc840> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5f39d09a-c9b3-97c6-14da-539d6d349095" ;
+        c:docDate          "2015-05-30 10:29:00.833" ;
+        c:docTitle         "" ;
+        c:document         "Houthis, tribesmen battle in central Yemen, 15 killed. CAIRO (Reuters) - Heavy fighting between Iranian-allied Houthi militia and local tribesmen killed at least 15 people in Yemen's oil-producing Marib province and an air strike targeted the home of a senior Houthi official, residents and tribal and medical sources said." ;
+        c:id               "http://id.opencalais.com/XrPV2ZUZ8NqAgL7P-zJCvA" .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance     "2" ;
+        c:name           "Houthis" ;
+        c:originalValue  "Houthis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f1274c61-4ab9-380e-b2bc-709aabd9c467> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance     "2" ;
+        c:name           "Shia insurgency in Yemen" ;
+        c:originalValue  "Shia insurgency in Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/66191814-0fbd-3108-a6f9-6620f9b5a105> .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:score           "0.552" .
+
+<http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/012124af-e2cb-3f45-8349-b6f3b7d5fe4c> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .

@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:importance     "1" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:importance     "2" ;
+        c:name           "Year of birth missing" ;
+        c:originalValue  "Year of birth missing (living people)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3412379a-c58d-3f2e-b182-3e92b0b33f05> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d250bef9-2023-2254-14da-549564a49095" ;
+        c:docDate          "2015-05-30 10:45:56.614" ;
+        c:docTitle         "" ;
+        c:document         "New trial in Chandra Levy case?. A new trial may be granted to the man convicted of killing Chandra Levy, a Washington intern whose disappearance in 2001 drew national headlines." ;
+        c:id               "http://id.opencalais.com/-DL7lMZbB0EZa8SFADD9eg" .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:importance     "1" ;
+        c:name           "Chandra Levy" ;
+        c:originalValue  "Chandra Levy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d81a6868-1981-3d78-9f67-015753b10c8f> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:importance     "2" ;
+        c:name           "Finding Chandra" ;
+        c:originalValue  "Finding Chandra" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/acc104f8-219a-3ce4-be03-7f1ca6024ba1> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:importance     "1" ;
+        c:name           "Levy" ;
+        c:originalValue  "Levy (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26269682-3b6c-3361-96e4-2373c719f7af> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:importance     "2" ;
+        c:name           "Murder" ;
+        c:originalValue  "Murder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4442334b-792e-34c3-9fb9-ebc855c20658> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:importance     "2" ;
+        c:name           "Joyce Chiang" ;
+        c:originalValue  "Joyce Chiang" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/297c8d9e-dcfe-37da-936d-8344432fe1d5> .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|NoR1OMDdUBq8Wu/u3auL8EYXy/s=|PJxj4oPJOBtsDc8CPL1dpv80UscxqjUbdMMybuAivNhleCLHTnMoQw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:56.426" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d40d884b-52d3-3451-92ed-7237f3a304ee> ;
+        c:score           "1.000" .

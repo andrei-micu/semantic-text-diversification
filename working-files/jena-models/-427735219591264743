@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8> ;
+        c:importance     "2" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6611d85d-79c6-6aaa-14da-54a26d471d39" ;
+        c:docDate          "2015-05-30 09:46:49.952" ;
+        c:docTitle         "" ;
+        c:document         "Supermodel breastfeeds on magazine cover. #NormalizeBreastfeeding is trending after ELLE Australia put out a cover of model Nicole Trunfio breastfeeding her baby." ;
+        c:id               "http://id.opencalais.com/kWcZfPVWX6kZjyd*xQxTjQ" .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8> ;
+        c:importance     "1" ;
+        c:name           "Breastfeeding" ;
+        c:originalValue  "Breastfeeding" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2e1e7ce-582d-33ef-97a7-33e987454e54> .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8> ;
+        c:importance     "1" ;
+        c:name           "Nicole Trunfio" ;
+        c:originalValue  "Nicole Trunfio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e283bc6a-2134-329d-bb53-68c9ef06d813> .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YReg6fjrjbl2gVXTsQ3urEjtXkg=|dQQhNWO2ZK8g/2oEqHioJ8uPOAU4CbYOFsDVB6mD90NtkKU90yLmfA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:49.812" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8> ;
+        c:importance     "2" ;
+        c:name           "Personal life" ;
+        c:originalValue  "Personal life" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59840208-5881-3e7f-891c-045f3a9a9a46> .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8> ;
+        c:importance     "2" ;
+        c:name           "Supermodel" ;
+        c:originalValue  "Supermodel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7d359d01-49ad-38e1-8167-14dac2cbbbc4> .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8> ;
+        c:importance     "1" ;
+        c:name           "Behavior" ;
+        c:originalValue  "Behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe1e19-9c21-37dc-af60-02531de42118> .
+
+<http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a59593f8-8009-3d50-b108-7037f11bb1e8> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

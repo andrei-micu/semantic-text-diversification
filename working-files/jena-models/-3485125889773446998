@@ -1,0 +1,154 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:score           "0.943" .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "2" ;
+        c:name           "Jeffrey" ;
+        c:originalValue  "Jeffrey (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/908375bd-2ccc-3acf-a670-4d83dff1ca8f> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "1" ;
+        c:name           "Converts to Christianity" ;
+        c:originalValue  "Converts to Christianity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d505b7ec-e23d-31bf-826f-8166ba904480> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "2" ;
+        c:name           "Serial killer" ;
+        c:originalValue  "Serial killer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4af4de23-baa6-36de-9995-459b5e9cb4c6> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|F4U4wkptQUKaH9K4DToQUozJm4M=|LnhH6KvLxyrGcbBrGShc5LtmgqlJ0ImyyHfp107BrWQ35XjLoKUDNw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:02.982" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "1" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "2" ;
+        c:name           "Dahmer" ;
+        c:originalValue  "Dahmer (album)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d0a4387e-d9b0-3c0b-a17d-b144a46976cf> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "1" ;
+        c:name           "Crime in the United States" ;
+        c:originalValue  "Crime in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ae84720-7dc9-318e-9f99-21cfd38b7928> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "2" ;
+        c:name           "Murder" ;
+        c:originalValue  "Murder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4442334b-792e-34c3-9fb9-ebc855c20658> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a70471f4-e288-7552-14da-53d890635464" ;
+        c:docDate          "2015-05-30 10:33:03.092" ;
+        c:docTitle         "" ;
+        c:document         "Jeffrey Dahmer's killer: Why I did it. The man who beat serial killer Jeffrey Dahmer to death inside a Wisconsin prison says he did it because of Dahmer's creepy sense of humor -- which included turning prison food into fake limbs covered with ketchup to resemble blood, the New York Post reports." ;
+        c:id               "http://id.opencalais.com/r2QQUMyuHSR0qC9vV6RB2g" .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "2" ;
+        c:name           "Necrophiles" ;
+        c:originalValue  "Necrophiles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50b55139-4ecb-3629-a7f1-b3092f2ea5ab> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "2" ;
+        c:name           "Robert J. Parins" ;
+        c:originalValue  "Robert J. Parins" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2a2b1fc-65e1-36ea-a8db-3f2a1b7dfeea> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "2" ;
+        c:name           "Jeffrey Dahmer" ;
+        c:originalValue  "Jeffrey Dahmer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4400b0b-2f04-361c-a164-069d4c611c01> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "2" ;
+        c:name           "Jeffrey Dahmer: The Secret Life" ;
+        c:originalValue  "Jeffrey Dahmer: The Secret Life" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1eb0c55a-c170-3df7-9822-364b4d0e5b22> .
+
+<http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214a9282-b161-33ce-b88b-d65fc0a42fcf> ;
+        c:importance     "2" ;
+        c:name           "Human trophy collecting" ;
+        c:originalValue  "Human trophy collecting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a450758-0ef5-3ecb-92c7-7f8a838be394> .

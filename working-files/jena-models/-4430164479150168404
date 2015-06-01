@@ -1,0 +1,146 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c849c232-4239-ef2c-14da-53f199e71d39" ;
+        c:docDate          "2015-05-30 09:34:45.705" ;
+        c:docTitle         "" ;
+        c:document         "Legal Marijuana Faces Another Federal Hurdle: Taxes. Shops say they are being forced to pay crippling federal taxes because of a law aimed at preventing drug dealers from claiming smuggling costs and couriers as write-offs." ;
+        c:id               "http://id.opencalais.com/xVgdZICAQo2-DIQ9ds9Mtw" .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|e38lX6Z70ngkV9LXi3GCcVWc78Q=|DvQrRE1W+f1MhhrFKyXCg8OAdWiDnx8/9iIzTDx81sZ8vDjn0up6Xg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:45.549" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance     "1" ;
+        c:name           "Legality of cannabis" ;
+        c:originalValue  "Legality of cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b37aede-a197-36eb-a2f6-55fa59e108a4> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:score           "0.591" .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance     "1" ;
+        c:name           "Smuggling" ;
+        c:originalValue  "Smuggling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d82e359-7352-3829-8709-c704c84f1ab7> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance     "2" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance     "2" ;
+        c:name           "Money" ;
+        c:originalValue  "Money" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f1af9688-5498-363e-9052-be898dce559c> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:score           "0.949" .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance     "2" ;
+        c:name           "Cannabis" ;
+        c:originalValue  "Cannabis (drug)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0408b99-6c30-3a92-b818-7e4de9a9f531> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance     "2" ;
+        c:name           "Courier" ;
+        c:originalValue  "Courier" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bf98fd65-08b6-3507-8e8a-5c84f76c2900> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance     "2" ;
+        c:name           "Tax" ;
+        c:originalValue  "Tax" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/79516dee-da51-334f-96e0-a01ecbe6bbff> .
+
+<http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8cda5550-156b-3526-9280-b6f05a2bebab> ;
+        c:importance     "2" ;
+        c:name           "Illegal drug trade" ;
+        c:originalValue  "Illegal drug trade" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ce7f140-a225-3e05-bfe1-6c69087e018a> .

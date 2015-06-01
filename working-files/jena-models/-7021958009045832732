@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/eda3a053-9049-3bda-8441-66ede1ceab24/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/eda3a053-9049-3bda-8441-66ede1ceab24> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/eda3a053-9049-3bda-8441-66ede1ceab24>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "791024df-283b-a81f-14da-538362249095" ;
+        c:docDate          "2015-05-30 10:27:14.129" ;
+        c:docTitle         "" ;
+        c:document         "Will John Roberts anger conservatives?. Chief Justice John Roberts is back in the spotlight." ;
+        c:id               "http://id.opencalais.com/ys-cuGwajwBEpQYZhFPhEg" .
+
+<http://d.opencalais.com/dochash-1/eda3a053-9049-3bda-8441-66ede1ceab24/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/eda3a053-9049-3bda-8441-66ede1ceab24> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7UpTFWxBpJaV+0m0i3nIlCwNwXA=|GMHiYmyQ5xLdUva4PZwhgsVw3xFm0037VdTrwji7NvO7BBP5a1WnBA==" ;
+        c:submissionDate  "2015-05-30 10:27:14.082" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

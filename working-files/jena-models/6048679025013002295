@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance     "1" ;
+        c:name           "Elections in the United States" ;
+        c:originalValue  "Elections in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e11164df-ff5e-316b-a28e-d310f58eb52b> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance     "2" ;
+        c:name           "United States Senate Democratic primary election in Pennsylvania" ;
+        c:originalValue  "United States Senate Democratic primary election in Pennsylvania, 2010" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8283e839-d091-39ad-a16a-8d717113b1a4> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d98c9f31-54fe-7feb-14da-54c9fd7719b3" ;
+        c:docDate          "2015-05-30 10:49:32.097" ;
+        c:docTitle         "" ;
+        c:document         "Poll: 5 GOPers tie for 2016 lead. The race for the Republican nomination for President is more wide open now than perhaps ever before, according to a new Quinnipiac University poll, with five GOP hopefuls all tied with the same amount of support." ;
+        c:id               "http://id.opencalais.com/toybl1PhyxUWsfQbNet73w" .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance     "2" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:score           "0.637" .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance     "1" ;
+        c:name           "Connecticut elections" ;
+        c:originalValue  "Connecticut elections, 2010" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f72b1e08-bc49-39b3-8512-b7a3f5f4fdb7> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance     "2" ;
+        c:name           "United States Senate election in Connecticut" ;
+        c:originalValue  "United States Senate election in Connecticut, 2010" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/649f60d2-8093-3369-aca4-401da38eaeea> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance     "1" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance     "2" ;
+        c:name           "United States gubernatorial elections" ;
+        c:originalValue  "United States gubernatorial elections, 2010" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87b29778-22ba-30eb-a236-dea0d37da06e> .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nm9l9p/CbxwbI/4OH4Olr5Ec9Rc=|HvLM4rBrHP5P5OQ1Xw2CK7HEn9kC9thNe0pW9wPThlKmdelXorycsQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:31.863" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/67f30243-f30a-3083-80a7-3dd6ba1d2841> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

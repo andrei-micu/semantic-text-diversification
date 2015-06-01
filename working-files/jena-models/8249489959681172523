@@ -1,0 +1,43 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7f6cf791-8e09-3fcf-adc6-4054879bd601/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7f6cf791-8e09-3fcf-adc6-4054879bd601> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|sLybIYvFHOOx9RFJFCSc6Ge+FbU=|G2d2ysKEVds65nHnlF8hEgf/BYwYlK5bF7YcW6IsdfsElNxR6+VIdA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:26.006" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7f6cf791-8e09-3fcf-adc6-4054879bd601/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7f6cf791-8e09-3fcf-adc6-4054879bd601> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7f6cf791-8e09-3fcf-adc6-4054879bd601/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7f6cf791-8e09-3fcf-adc6-4054879bd601> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7f6cf791-8e09-3fcf-adc6-4054879bd601>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "412fadc5-9859-0121-14da-53a39761927e" ;
+        c:docDate          "2015-05-30 10:29:26.084" ;
+        c:docTitle         "" ;
+        c:document         "U.S. Stocks cool ahead of Fed, pound skids on disappointing GDP. LONDON (Reuters) - World shares shuffled away from all-time highs on Tuesday as surging Chinese stocks took a breather and investors began to retreat to the sidelines ahead of the Federal Reserve's policy meeting." ;
+        c:id               "http://id.opencalais.com/sDjNPpRDhVO0SnrceaC0cg" .
+
+<http://d.opencalais.com/dochash-1/7f6cf791-8e09-3fcf-adc6-4054879bd601/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7f6cf791-8e09-3fcf-adc6-4054879bd601> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .

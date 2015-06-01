@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:importance     "2" ;
+        c:name           "The Jim Henson Company" ;
+        c:originalValue  "The Jim Henson Company" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6873a538-929f-3bc9-b7a2-5e9317af20d3> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:importance     "2" ;
+        c:name           "Miss Piggy" ;
+        c:originalValue  "Miss Piggy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f1c12b3-c91a-38c2-a332-b5f35a0cd334> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:score           "0.534" .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:importance     "2" ;
+        c:name           "The Muppet Show" ;
+        c:originalValue  "The Muppet Show" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d9a7996-4ff2-37ee-8a5a-aced6b04494f> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7312upMbznOw9f7Ob/WYvuewZp0=|XqC1vtgzFRY4f0UWx+ANB79nzzps72oS9HHTqLn31b2bTm8zc+YyJw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:07.294" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:importance     "2" ;
+        c:name           "Disney" ;
+        c:originalValue  "Disney" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/75ed7648-405b-3c65-bf52-be24c22bb321> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:importance     "2" ;
+        c:name           "The Muppets Studio" ;
+        c:originalValue  "The Muppets Studio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8e565a96-e4cd-344b-9803-2eddced2f0ae> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:importance     "1" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336> ;
+        c:importance     "2" ;
+        c:name           "The Muppets" ;
+        c:originalValue  "The Muppets" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b71427b0-ea58-30ca-90fa-1a52272b831d> .
+
+<http://d.opencalais.com/dochash-1/7da00a87-b5b9-3498-8d3c-fefb784a9336>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9c813fa3-4827-ed7d-14da-541435e32f98" ;
+        c:docDate          "2015-05-30 09:37:07.575" ;
+        c:docTitle         "" ;
+        c:document         "The Muppets to return for TV series. A new series of The Muppet Show is commissioned by US TV network ABC, offering a \"more adult\" take on the characters and filmed in a documentary-style." ;
+        c:id               "http://id.opencalais.com/hbtgsWh1ee9Z3gZJdNdcRQ" .

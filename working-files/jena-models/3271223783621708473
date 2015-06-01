@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:importance     "2" ;
+        c:name           "Avengers" ;
+        c:originalValue  "Avengers (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7fef82c8-b691-3671-b4a3-b60539826bb4> .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:importance     "1" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:importance     "2" ;
+        c:name           "Avengers vs. X-Men" ;
+        c:originalValue  "Avengers vs. X-Men" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fe7bb3bf-cb2e-3db5-86c9-badaa0f27484> .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:importance     "2" ;
+        c:name           "The Avengers: United They Stand" ;
+        c:originalValue  "The Avengers: United They Stand" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/48ab645c-fb91-3960-b808-8d5487f4d76f> .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9fjx6hihWVjslaqr0cKDR7bH7a0=|AUYbjESfQJlNM6czY8H7tCh/kZc+rmCwwbSmLKOSlsWO1U4SFW+Z8A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:27.249" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:importance     "1" ;
+        c:name           "Ultron" ;
+        c:originalValue  "Ultron" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d07b8c8-7d39-3fbf-9293-dadb1cfddfe1> .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8ead0eb5-d043-7430-14da-53c13111927e" ;
+        c:docDate          "2015-05-30 10:31:27.436" ;
+        c:docTitle         "" ;
+        c:document         "'Avengers:' From comics to screen. Compare characters from the Marvel comics to the new \"Avengers: Age of Ultron\" movie." ;
+        c:id               "http://id.opencalais.com/yBiVa*nqg26kA4wsSO79cA" .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:importance     "1" ;
+        c:name           "Comics" ;
+        c:originalValue  "Comics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/938baa31-4207-3ab2-a934-e29b3cd1e3a8> .
+
+<http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ee6d2a8d-370d-33eb-8af7-5925e72bdb9e> ;
+        c:importance     "2" ;
+        c:name           "Next Avengers: Heroes of Tomorrow" ;
+        c:originalValue  "Next Avengers: Heroes of Tomorrow" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1535342e-2d55-3e62-963a-559b09dbde63> .

@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:score           "0.973" .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:importance     "1" ;
+        c:name           "Supreme Court of the United States" ;
+        c:originalValue  "Supreme Court of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/10b96c2a-3598-3d01-b681-ad38ab2c32bf> .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:score           "0.995" .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:importance     "2" ;
+        c:name           "California" ;
+        c:originalValue  "California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f06ec234-e848-3b5c-8ebb-7b0092c03c1e> .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:importance     "1" ;
+        c:name           "Anthony Kennedy" ;
+        c:originalValue  "Anthony Kennedy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/42752735-5595-3911-81fe-121cd4f0abaa> .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:score           "0.975" .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fpUbUqIOpBQ4mKjv8mq141W064M=|X5+DB1b3xA39z0E3HKst2Zf/auVB7NhDs250AYlfsra9GxdMb5ml5g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:21.776" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dad7fed0-b46f-7c0e-14da-53a28f034709" ;
+        c:docDate          "2015-05-30 09:29:21.901" ;
+        c:docTitle         "" ;
+        c:document         "Divided Supreme Court wrestles with gay marriage case. WASHINGTON (Reuters) - The Supreme Court appeared sharply divided on Tuesday along ideological lines on whether the Constitution guarantees a right to same-sex marriage, but Justice Anthony Kennedy, a pivotal vote, seemed open to legalizing gay marriage nationwide." ;
+        c:id               "http://id.opencalais.com/2hTTYfVpwUi0TvVfyNwXUA" .
+
+<http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/381f048e-5491-361d-b83b-cd11197836b2> ;
+        c:importance     "2" ;
+        c:name           "LGBT rights" ;
+        c:originalValue  "2005 in LGBT rights" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6805ca3b-80ec-3ccd-9e5c-619091a24d68> .

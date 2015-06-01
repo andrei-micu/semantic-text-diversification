@@ -1,0 +1,43 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a7d143eb-8f04-31f8-94a5-55d85be6378e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a7d143eb-8f04-31f8-94a5-55d85be6378e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a7d143eb-8f04-31f8-94a5-55d85be6378e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a7d143eb-8f04-31f8-94a5-55d85be6378e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a7d143eb-8f04-31f8-94a5-55d85be6378e/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a7d143eb-8f04-31f8-94a5-55d85be6378e> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/a7d143eb-8f04-31f8-94a5-55d85be6378e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8214d8fb-db55-71a9-14da-542e3581927e" ;
+        c:docDate          "2015-05-30 10:38:53.878" ;
+        c:docTitle         "" ;
+        c:document         "Teen shot dead at Mother's Day motorcycle event. It was supposed to be a day of \"love and respect for the community.\"" ;
+        c:id               "http://id.opencalais.com/OPFYFI17cZYrXSRt9ddbfQ" .
+
+<http://d.opencalais.com/dochash-1/a7d143eb-8f04-31f8-94a5-55d85be6378e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a7d143eb-8f04-31f8-94a5-55d85be6378e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KDEZZIFZ2nucIbrxSFZq5wngzdA=|D+FjEHZ6dhLTvJykzrrbnnlOg84Mv2+gpNL891bcxdrpqnD5KSMEWA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:53.784" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

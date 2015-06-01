@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:score           "0.895" .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:importance     "1" ;
+        c:name           "Religion" ;
+        c:originalValue  "Religion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c9f8418-419c-3a9b-92db-f387fc4fb3d7> .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:importance     "2" ;
+        c:name           "Anchorite" ;
+        c:originalValue  "Anchorite" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/952e4732-e493-3527-879c-08cf8d086083> .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:importance     "2" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:importance     "1" ;
+        c:name           "Asceticism" ;
+        c:originalValue  "Asceticism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16f3e8cb-8a04-3c77-9881-08c1e22e4066> .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:importance     "2" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:score           "0.947" .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:importance     "2" ;
+        c:name           "Anchoress" ;
+        c:originalValue  "Anchoress" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ccaaec17-a2b8-3f0a-92ac-718fc7f2d5da> .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|QE7Lj7eNTTh9TMzB8GzhjCMrpcU=|J4SG2uxeXcplLkS+OW4pGuw+LL8ko3uSel6bvL+zQRWDHaJ3mlPukA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:02.336" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a5b4d00b-e5b7-045f-14da-5421a60653ed" ;
+        c:docDate          "2015-05-30 09:38:02.633" ;
+        c:docTitle         "" ;
+        c:document         "Locked Away, 'Anchoress' Women Devote Their Lives To Church. The Anchoress is inspired by real-life medieval women who lived lives of devotion, locked away in village churches. NPR's Rachel Martin speaks with Robyn Cadwallader about her new novel." ;
+        c:id               "http://id.opencalais.com/OIj2zvXvt7iKcL8Grm*89A" .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:importance     "1" ;
+        c:name           "Hesychasm" ;
+        c:originalValue  "Hesychasm" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e582b05b-be0c-344b-a8a0-c3760034a4a3> .
+
+<http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1e789971-139c-3be5-ba98-d959ec7e03b3> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

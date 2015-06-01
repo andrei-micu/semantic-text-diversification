@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:importance     "1" ;
+        c:name           "Lighting" ;
+        c:originalValue  "Lighting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/395294f1-4d88-3d06-b454-dd6b6fde477e> .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:score           "0.993" .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:importance     "2" ;
+        c:name           "Visibility" ;
+        c:originalValue  "Visibility" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e39bf887-c0c5-3d8e-b5b2-480511d87069> .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "76a131af-e9e9-119a-14da-53c2ba8760f9" ;
+        c:docDate          "2015-05-30 10:31:33.732" ;
+        c:docTitle         "" ;
+        c:document         "New York Plan to Save Energy May Mean a Dimmer Skyline. Mayor Bill de Blasio’s administration and a host of environmental advocates agree that light pollution should be addressed, but some are disputing parts of a proposed City Council bill." ;
+        c:id               "http://id.opencalais.com/AHx*Vzlx2vjJA2dwf9kR3A" .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:importance     "1" ;
+        c:name           "Light pollution" ;
+        c:originalValue  "Light pollution" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1447c53a-eb5a-355d-9cec-68090250a84a> .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:score           "0.849" .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:importance     "2" ;
+        c:name           "Dimmer" ;
+        c:originalValue  "Dimmer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7d33bb34-dac4-338a-9640-973aaa18ebc0> .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:importance     "1" ;
+        c:name           "Observational astronomy" ;
+        c:originalValue  "Observational astronomy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2f23f869-80f3-3266-a17b-bf8baf8d062b> .
+
+<http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/157df791-bd1e-3fa9-bcaf-bfa4d4151b74> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2TIwBBYn7osEfs1xuXV/DEq/E6k=|Vbj0xs5INdk3BL+b3JYBz0DQix8MgKV27w6a2Zgb3xaj4vM/xK5T2A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:33.544" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,152 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance     "2" ;
+        c:name           "John Nash" ;
+        c:originalValue  "John Nash" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bab4752e-47d2-3d76-b5bb-111ab8e5d193> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|EqpgENY/fi/5nKxU6FhfhqLgHFo=|epeb3mxxX0J9Te7eOpekeTU3HnoRaHrNe8K7Ij3razdZvfhfMdWzdA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:41.931" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance     "1" ;
+        c:name           "John Forbes Nash, Jr." ;
+        c:originalValue  "John Forbes Nash, Jr." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/def5d979-8449-3ff3-92ea-0d70f024fb66> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:score           "0.626" .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance     "1" ;
+        c:name           "Fellows of the Econometric Society" ;
+        c:originalValue  "Fellows of the Econometric Society" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0fcfc32d-1d3b-350e-8b94-4cce7afedb94> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance     "2" ;
+        c:name           "Sylvia Nasar" ;
+        c:originalValue  "Sylvia Nasar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9784a550-a618-390e-aa1c-1dfa1463e11b> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:score           "0.761" .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance     "2" ;
+        c:name           "A Beautiful Mind.... of a Gladiator" ;
+        c:originalValue  "A Beautiful Mind.... of a Gladiator" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ef54afe7-fa08-3e5f-bd1d-f4f9f6705777> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:score           "0.869" .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance     "2" ;
+        c:name           "A Beautiful Mind" ;
+        c:originalValue  "A Beautiful Mind (film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40eea369-6df3-3998-96b3-4c6412449cc6> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f82b9e1a-2984-abcc-14da-54af26b13c98" ;
+        c:docDate          "2015-05-30 09:47:42.180" ;
+        c:docTitle         "" ;
+        c:document         "'Beautiful Mind' mathematician John Nash, wife killed. John Forbes Nash Jr., the famed mathematician and inspiration for the film \"A Beautiful Mind,\" and his wife died in a car crash Saturday in New Jersey, according to state police." ;
+        c:id               "http://id.opencalais.com/RUDwx*54yvL82l3MuVcs2w" .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:importance     "2" ;
+        c:name           "New Jersey" ;
+        c:originalValue  "New Jersey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcbd9947-1ad7-3f29-bf02-a1588634c720> .
+
+<http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/37b65c81-40b6-3143-b9fd-053544a05899> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

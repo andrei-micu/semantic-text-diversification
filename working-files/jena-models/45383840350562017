@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:score           "0.691" .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b19d60a6-7588-dcfd-14da-54b6a6832955" ;
+        c:docDate          "2015-05-30 10:48:12.773" ;
+        c:docTitle         "" ;
+        c:document         "The fall and rise of lawyers. The American legal profession has faced a tsunami of bad news since 2008. White-shoe, corporate law firms have faced waves of layoffs or even shuttered their doors. While the very top firms are rolling again, the 50 years of explosive growth that started in the 1960s are now a memory." ;
+        c:id               "http://id.opencalais.com/PVfGMaBWHF-mM*v1AZ2X6g" .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:importance     "2" ;
+        c:name           "Practice of law" ;
+        c:originalValue  "Practice of law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a28f1df7-18c9-3106-9fe3-6022fa184471> .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:importance     "1" ;
+        c:name           "Legal professions" ;
+        c:originalValue  "Legal professions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2e4056f4-ab57-39fa-b181-e2423901e9b4> .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:importance     "2" ;
+        c:name           "Lawyer" ;
+        c:originalValue  "Lawyer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56441a32-7f05-3c5d-bf6c-233cd5fbf7c4> .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:score           "0.871" .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:importance     "1" ;
+        c:name           "Law firm" ;
+        c:originalValue  "Law firm" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ebbe87b-9972-39ec-be58-42bb8eb216ec> .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+rB7iPARV2H1U4QLWLptDr1pMIc=|iThGOlJyCj/nJh9q1C3wPEx5OKlUBqMuRyEjaI6zSL41M2Ut82nS7g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:12.648" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/56475852-944c-39e5-87d9-8e3de88b82b8> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

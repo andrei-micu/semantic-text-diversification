@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131> ;
+        c:score           "0.979" .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131> ;
+        c:importance     "1" ;
+        c:name           "Fertile Crescent" ;
+        c:originalValue  "Fertile Crescent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5435af2d-c03d-3907-8586-8f38ab6b08eb> .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131> ;
+        c:importance     "2" ;
+        c:name           "Palmyra" ;
+        c:originalValue  "Palmyra" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/285d8837-5179-35bf-b053-a498cf4e432d> .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131> ;
+        c:importance     "1" ;
+        c:name           "Royal Family of Emesa" ;
+        c:originalValue  "Royal Family of Emesa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3919ae2c-c441-342a-ab9e-a4b70df4c718> .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a8d0f9a5-35e4-200d-14da-5471e9a23ab1" ;
+        c:docDate          "2015-05-30 10:43:31.301" ;
+        c:docTitle         "" ;
+        c:document         "ISIS Fighters Seize Control of Syrian City of Palmyra, and Ancient Ruins. Islamic State militants have already destroyed historical sites and sold off artifacts in other cities, and people fear they may do the same to the famous ruins in Palmyra." ;
+        c:id               "http://id.opencalais.com/3zaoKGWyR726mDHznvqCyA" .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|uyb9s7tB8Y+8YJf7jCKF5ECwaso=|L7ZemhjT2fcnXyimlGGduH7tAUQ0HzWf1oh4ZgiYJ/VFlQX8IB/5FQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:31.098" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131> ;
+        c:importance     "2" ;
+        c:name           "Syria" ;
+        c:originalValue  "Syria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34e250e7-a386-38cf-8d7b-6b45399ed952> .
+
+<http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d196c093-d6e3-3b5b-94e7-5826ac9fc131> ;
+        c:importance     "2" ;
+        c:name           "Crisis of the Third Century" ;
+        c:originalValue  "Crisis of the Third Century" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8399b88c-d828-3b90-96e2-3b193c2618bf> .

@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:importance     "1" ;
+        c:name           "Investment" ;
+        c:originalValue  "Investment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f974021-59af-3718-a6ea-cdb8151cb2c1> .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:importance     "2" ;
+        c:name           "Price of petroleum" ;
+        c:originalValue  "Price of petroleum" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/390a5238-5a49-3b20-9206-0de64121d421> .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:importance     "2" ;
+        c:name           "Finance" ;
+        c:originalValue  "Finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/acd44d54-d8f3-3c36-a78c-2da2af5a2ae8> .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Vm1Y5lQWeOf/g0/OiAlKRa3bjJE=|EHp0UyX72DPcI2ACk3G/i77nDx14sNEIWGyp6FhqqCTVu/T3uaYNeg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:58.697" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1d7ce5bc-4843-96e0-14da-53f4d0935464" ;
+        c:docDate          "2015-05-30 10:34:58.791" ;
+        c:docTitle         "" ;
+        c:document         "Boone Pickens sees oil rising, bets on Bush for White House. LAS VEGAS (Reuters) - Billionaire investor T. Boone Pickens, who cemented his fortune with bets on oil companies, said the price of oil would likely hit $75 dollars a barrel by yearend as demand revives." ;
+        c:id               "http://id.opencalais.com/j7AvDQ-kHYVV7TlGsR0N7Q" .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:importance     "1" ;
+        c:name           "Financial economics" ;
+        c:originalValue  "Financial economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bb9859-75e0-3b28-acdb-61f6b786cc4c> .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:score           "0.929" .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:importance     "2" ;
+        c:name           "Pickens" ;
+        c:originalValue  "Pickens" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a2a8e3a0-f8a4-3aff-8cd0-0c89dd4dad27> .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:importance     "1" ;
+        c:name           "T. Boone Pickens" ;
+        c:originalValue  "T. Boone Pickens" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/173932da-c6f4-3bf2-8378-2e1ab8e679ae> .
+
+<http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1b3e75c2-de95-3d43-95ce-b1ac9448277a> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

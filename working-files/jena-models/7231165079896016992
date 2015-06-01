@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:score           "0.869" .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance     "2" ;
+        c:name           "Rebels" ;
+        c:originalValue  "Rebels" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/653cd45c-e79d-3b6e-b564-ce2b06add754> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:score           "0.974" .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance     "1" ;
+        c:name           "Pierre Nkurunziza" ;
+        c:originalValue  "Pierre Nkurunziza" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f5895f8-8138-3544-bfaa-8ba75059453b> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance     "2" ;
+        c:name           "Domitien Ndayizeye" ;
+        c:originalValue  "Domitien Ndayizeye" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61c72774-9a9b-3c6a-a15e-266d9caa34b0> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance     "1" ;
+        c:name           "French language" ;
+        c:originalValue  "French language" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65035412-2e89-37ab-aae2-7c4463c01129> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance     "2" ;
+        c:name           "Coup d'état" ;
+        c:originalValue  "Coup d'état" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/554146f1-3e13-3d3c-861e-a464487a46eb> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance     "1" ;
+        c:name           "Hutu people" ;
+        c:originalValue  "Hutu people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32b0e13f-f789-370e-aff5-c0982a65ebfd> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance     "2" ;
+        c:name           "Africa" ;
+        c:originalValue  "Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40ba53c0-c97b-3a8d-9376-dccf9e54b90e> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1cda3282-63f1-2431-14da-544e238653ed" ;
+        c:docDate          "2015-05-30 09:41:04.849" ;
+        c:docTitle         "" ;
+        c:document         "Coup Leaders Arrested In Burundi As Uprising Is Quashed . The alleged mastermind of the failed putsch, Gen. Godefroid Niyombare, is reportedly still at large as President Pierre Nkurunziza reasserts his authority after returning from neighboring Tanzania." ;
+        c:id               "http://id.opencalais.com/IBfJ7QmC9CDET3*nmdPANA" .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance     "2" ;
+        c:name           "Burundi" ;
+        c:originalValue  "Burundi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/073f4153-2172-3d30-a0b1-2b2570997313> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|vJirOQm1bEZ1wEkDkHy67+pWrX4=|hNxeT4qUiA3Uw2+09QMELaY5p+5aea+ehAQOEYwNLDJpqhGh3AqtjA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:04.568" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0bcc7abf-dd62-3e12-8b13-603ff46a8aa6> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

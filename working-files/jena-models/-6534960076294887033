@@ -1,0 +1,97 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:importance     "1" ;
+        c:name           "Boston Marathon" ;
+        c:originalValue  "Boston Marathon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aa93fdaa-33fb-33aa-87ba-6b82a29b86ff> .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:score           "0.960" .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:score           "0.583" .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:importance     "1" ;
+        c:name           "Boston" ;
+        c:originalValue  "Boston (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/deec38cf-c474-3c08-a409-085f7c593917> .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:score           "0.931" .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|iH9z5HVI1pvI0zIdjxXMJtath5s=|bFR/hQ24pRlJHqXQJbGJfCAnhjBGL07FkD4HfVZ4ro4sPkq7GgwdxA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:19.953" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3c942b43-5037-af9a-14da-53a21d11927e" ;
+        c:docDate          "2015-05-30 10:29:20.015" ;
+        c:docTitle         "" ;
+        c:document         "Boston bomber's lawyers focus on brother's obsession with Islam. BOSTON (Reuters) - The older brother of convicted Boston Marathon bomber Dzhokhar Tsarnaev was transformed from a heavy drinker and drugs user into someone obsessed with Islam after returning from a trip to Russia in 2012, witnesses said on Tuesday." ;
+        c:id               "http://id.opencalais.com/DoXCet7OoEOnSdwO2okTkQ" .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58d708f1-e445-3c77-86a9-6cfadeb3535b> ;
+        c:score           "0.723" .

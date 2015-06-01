@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a> ;
+        c:importance     "1" ;
+        c:name           "National Football League" ;
+        c:originalValue  "National Football League" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/911c58d3-69ff-36bb-8448-54ede0a84d89> .
+
+<http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a> ;
+        c:importance     "2" ;
+        c:name           "Rodney Harrison" ;
+        c:originalValue  "Rodney Harrison" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/477e5960-2a62-3ff8-be69-4a1ba90c8cce> .
+
+<http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a> ;
+        c:importance     "1" ;
+        c:name           "Tom Brady" ;
+        c:originalValue  "Tom Brady" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52dcf606-d4c6-3477-a5fe-ad3eb7ec165e> .
+
+<http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bcab6802-a040-fce9-14da-542c8a435464" ;
+        c:docDate          "2015-05-30 10:38:47.167" ;
+        c:docTitle         "" ;
+        c:document         "Tom Brady suspended, team fined over 'Deflategate' . The NFL has suspended New England Patriots' quarterback Tom Brady for four games without pay." ;
+        c:id               "http://id.opencalais.com/pIQ4hmI48cUPoltcJFVMaQ" .
+
+<http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|aBHeqjf5m+k88BSL6C+Sl3KHfmY=|IxYWOGmtdtskp9iQRqruyYzzWZIJY25hBA3XKmFwFexBWPgTaBim4A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:46.948" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a> ;
+        c:importance     "2" ;
+        c:name           "New England Patriots season" ;
+        c:originalValue  "2011 New England Patriots season" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f053f37-b012-3c3d-bfb1-36ab71e7945e> .
+
+<http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2764f64b-9131-3a08-afd6-dcca0a40792a> ;
+        c:importance     "1" ;
+        c:name           "New England Patriots" ;
+        c:originalValue  "New England Patriots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/53e5a9ce-ca26-374d-8e9e-a1aea4c2db35> .

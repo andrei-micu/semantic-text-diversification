@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:importance     "1" ;
+        c:name           "Criminal law" ;
+        c:originalValue  "Criminal law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82be3750-fcbb-358e-9efe-8cddcd1736a3> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:importance     "2" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:importance     "2" ;
+        c:name           "Flash Crash" ;
+        c:originalValue  "2010 Flash Crash" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9df7fb0f-5ec1-3655-95f9-b0fe57840296> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "81b9dd10-52a0-3cf5-14da-53a2e2c653ed" ;
+        c:docDate          "2015-05-30 09:29:23.381" ;
+        c:docTitle         "" ;
+        c:document         "'Flash crash' accused trader due back in court after failing to raise bail. LONDON (Reuters) - Navinder Sarao, the British trader accused of helping provoke the 2010 Wall Street \"flash crash\", is due to appear in a London court on Wednesday after failing to raise the bail needed to secure his release from custody, a court official said." ;
+        c:id               "http://id.opencalais.com/jJ5YJ4l24KCH24LxeQ6BOg" .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:importance     "1" ;
+        c:name           "Bail" ;
+        c:originalValue  "Bail" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/343b0587-8525-331f-8d3a-5f5e70cbfcd9> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:importance     "2" ;
+        c:name           "Economic history" ;
+        c:originalValue  "Economic history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82248aca-dcd6-3def-bd89-fc24fb5cdf7a> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:importance     "2" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:score           "0.867" .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:importance     "1" ;
+        c:name           "Trader" ;
+        c:originalValue  "Trader (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dc706c93-8a73-3e6c-93d3-3b8f102cb194> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d18261b-f2df-3eda-b86b-a30351b926b0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+WKf0EaCAVW/JbMMUwwdrlsXB54=|VvqIj+BVGZZK3F3As4npaYvuE7IkwtvIm+0ZfiaITWO83JV9Ny88Rg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:23.116" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

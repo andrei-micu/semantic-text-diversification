@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:importance     "2" ;
+        c:name           "Prosecutor" ;
+        c:originalValue  "Prosecutor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c555f013-b3d3-3286-af73-642723c95f48> .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8ZlnhdJ9YZTBuQY/LiMOUKlGAnM=|ZJdPvoZLYpKoYqTR7D4BvFjYquZZc1mJMlwXBhYFhRgXMOlG2bm47w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:07.535" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:importance     "2" ;
+        c:name           "John S. Mosby" ;
+        c:originalValue  "John S. Mosby" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59fce9aa-2b44-3747-8bce-6dc8079ed8f0> .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "424e7ac4-2a90-9c5b-14da-53cb06f49095" ;
+        c:docDate          "2015-05-30 10:32:07.691" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Baltimore: 'Charges will be filed'. Baltimore's top prosecutor, Marilyn Mosby, says she plans to file criminal charges against six police officers over the death of Freddie Gray." ;
+        c:id               "http://id.opencalais.com/8NEIoX1x9*SkFJYfrtxj0g" .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:importance     "2" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8c542cca-ba91-366e-b977-841bac9884f8> ;
+        c:importance     "2" ;
+        c:name           "Baltimore Police Department" ;
+        c:originalValue  "Baltimore Police Department" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/669400d7-7c8c-335e-9033-4c3b341ab62a> .

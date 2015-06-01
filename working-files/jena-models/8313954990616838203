@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance     "2" ;
+        c:name           "Public information films" ;
+        c:originalValue  "Public information films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3f807ddd-c171-3c7d-ba53-8e5f8fd4746b> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5ce1ed9b-28dc-e169-14da-53f71db32955" ;
+        c:docDate          "2015-05-30 10:35:08.341" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Bus driver falls, nearly hits train. A bus driver, who was not wearing her seatbelt, fell from her seat and lost control of the vehicle, narrowly missing a freight train." ;
+        c:id               "http://id.opencalais.com/a91zl2el2t-EkEVxtWDOUw" .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance     "1" ;
+        c:name           "Land transport" ;
+        c:originalValue  "Land transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8308731b-55d1-3560-b0ee-c6f580e9a2f6> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance     "2" ;
+        c:name           "Train" ;
+        c:originalValue  "Train (roller coaster)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/37dca189-4b79-33f0-96a3-e0219724918b> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance     "2" ;
+        c:name           "Bus driver" ;
+        c:originalValue  "Bus driver" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d12cea47-57a9-3b9d-9426-a6748832a1ec> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance     "2" ;
+        c:name           "Clunk Click Every Trip" ;
+        c:originalValue  "Clunk Click Every Trip" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fdb2d964-a696-3960-8e6b-c2dcb92e43e4> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance     "1" ;
+        c:name           "Safety equipment" ;
+        c:originalValue  "Safety equipment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1477a516-7ea8-35cf-8172-d44e10ddc4e2> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Nnm74Zek99Kr+EBPNiCfEpyQP9A=|bBLv/PQH5dIzTekXD9WMtiJ0FeRsr+UkFk+WnSVVGzEPs3EYB0qZ3g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:08.123" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance     "2" ;
+        c:name           "Car safety" ;
+        c:originalValue  "Car safety" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dc3b12c2-f6b2-395b-b98b-4a290f39320f> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance     "1" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance     "2" ;
+        c:name           "Bus" ;
+        c:originalValue  "Bus" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/98fbe1af-c0e9-3793-acc8-1cb19e6b9cfc> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:score           "0.880" .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b957b79b-76b9-33ba-9bd8-3c1de88b1718> ;
+        c:importance     "2" ;
+        c:name           "Seat belt" ;
+        c:originalValue  "Seat belt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ef96cff3-5fe4-3731-8707-eae90a71312c> .

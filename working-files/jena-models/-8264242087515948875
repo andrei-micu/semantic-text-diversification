@@ -1,0 +1,139 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|q6HTD76fU25cbYoz0sOUJaYAt3Q=|HkhY7wk5OVvASrX4wRdh5l6ORoKLDZtzXn+iIPAZc/AHrDDUWoqfxQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:07.339" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "2" ;
+        c:name           "Sins" ;
+        c:originalValue  "Sins" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9c0f3755-1223-35a7-8552-307ac515f058> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "2" ;
+        c:name           "Shatter" ;
+        c:originalValue  "Shatter (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ecde437f-577d-3c57-bfc8-dc69269e8fe9> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "1" ;
+        c:name           "Marriage" ;
+        c:originalValue  "Marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/621eb398-770c-3b6c-a1df-e12645171754> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "2" ;
+        c:name           "Casual sex" ;
+        c:originalValue  "Casual sex" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17c9a111-f9f2-33bc-841b-78852d26c498> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "2" ;
+        c:name           "Human sexuality" ;
+        c:originalValue  "Human sexuality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/131825b8-da79-3da3-b023-ea477cd9dc15> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "2" ;
+        c:name           "Trust law" ;
+        c:originalValue  "Trust law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d4cc713-18f5-3579-8bd5-adc653eed380> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "1" ;
+        c:name           "Intimate relationships" ;
+        c:originalValue  "Intimate relationships" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3fb880a7-1487-3f04-bf1e-64134a8ecee7> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "2" ;
+        c:name           "Infidelity" ;
+        c:originalValue  "Infidelity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bc76f071-b473-3d5b-9e32-a1f7be7f25ba> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:score           "0.925" .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "2" ;
+        c:name           "Affair" ;
+        c:originalValue  "Affair" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a8566318-79b1-3005-b51f-997f90e547b3> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "2" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d> ;
+        c:importance     "1" ;
+        c:name           "Sexual fidelity" ;
+        c:originalValue  "Sexual fidelity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ece3d95d-8c9e-36ae-b395-e449ce35dcbc> .
+
+<http://d.opencalais.com/dochash-1/9b9355ad-25bc-334f-b6ea-d3d7e863d95d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4b34c5ff-0cd9-f2ab-14da-544ed0b13c98" ;
+        c:docDate          "2015-05-30 09:41:07.573" ;
+        c:docTitle         "" ;
+        c:document         "How Can Couples Rebuild Trust After An Affair? . Affairs can completely rock a marriage. But psychotherapist Esther Perel says that while infidelity can shatter trust, it doesn't mean couples can't find a way to rebuild their relationships." ;
+        c:id               "http://id.opencalais.com/sf05PufBw8OhTyjzHru1fQ" .

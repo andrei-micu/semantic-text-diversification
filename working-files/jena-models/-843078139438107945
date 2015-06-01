@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance     "1" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance     "2" ;
+        c:name           "Medical cannabis" ;
+        c:originalValue  "Medical cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e6b96108-5b40-3284-a7ac-748418d9d5b5> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zpEJHAggUWDOJ3e+koSyK9qF/pE=|X+BYRGmMnD85BK+4wJjEnEY11Nx84LQ5wMzwsuWJBJOA74kHoC8I6Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:52.190" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance     "1" ;
+        c:name           "Entheogens" ;
+        c:originalValue  "Entheogens" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f7ff3ec6-ddb2-34fe-84d8-9f83a9771a69> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance     "2" ;
+        c:name           "Pharmacology" ;
+        c:originalValue  "Pharmacology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2874b53c-b34a-3e63-9a9e-99728b6ede62> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance     "2" ;
+        c:name           "Legality of cannabis" ;
+        c:originalValue  "Legality of cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b37aede-a197-36eb-a2f6-55fa59e108a4> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c83a5816-5fae-1be6-14da-5401dfe13c98" ;
+        c:docDate          "2015-05-30 09:35:52.392" ;
+        c:docTitle         "" ;
+        c:document         "Know your weed strains. Brian Rogers and Caitlin McGuire explain the difference between the two strains of cannabis. \"High Profits\" airs Sundays at 10 p.m. ET/PT." ;
+        c:id               "http://id.opencalais.com/oLEdxMyPww0NSmnDFqqNLA" .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance     "2" ;
+        c:name           "Euphoriants" ;
+        c:originalValue  "Euphoriants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/25474786-10ed-3a13-a246-650fdbdfc601> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance     "2" ;
+        c:name           "Religious and spiritual use of cannabis" ;
+        c:originalValue  "Religious and spiritual use of cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f023b78-908c-384b-a9f0-3238cca2036c> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:score           "0.687" .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance     "1" ;
+        c:name           "Cannabis" ;
+        c:originalValue  "Cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0408b99-6c30-3a92-b818-7e4de9a9f531> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance     "2" ;
+        c:name           "Cannabis strains" ;
+        c:originalValue  "Cannabis strains" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/23c4d4ed-5432-3751-8aeb-66bb6f602576> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a22851fa-8b90-38bf-b34c-66810323ca53> ;
+        c:importance     "2" ;
+        c:name           "Medicinal plants" ;
+        c:originalValue  "Medicinal plants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a436ec49-7a05-3cb0-bd15-43a2015e0ea5> .

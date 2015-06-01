@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance     "1" ;
+        c:name           "Contemporary history" ;
+        c:originalValue  "Contemporary history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5967e0cf-86e5-39d2-9bef-db5533141edd> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance     "2" ;
+        c:name           "Shia insurgency in Yemen" ;
+        c:originalValue  "Shia insurgency in Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/66191814-0fbd-3108-a6f9-6620f9b5a105> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance     "1" ;
+        c:name           "Terrorism in Yemen" ;
+        c:originalValue  "Terrorism in Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6cb1897e-85f7-3250-b2ff-3e05e49cc840> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance     "2" ;
+        c:name           "Operation Scorched Earth" ;
+        c:originalValue  "Operation Scorched Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b37b212-6717-3a93-9c32-fbf150db5080> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance     "2" ;
+        c:name           "Yemen" ;
+        c:originalValue  "Yemen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c6207b9-0507-3acd-bfb3-5586f8fb81ac> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7c9bdd7a-485d-9b61-14da-540ab6135464" ;
+        c:docDate          "2015-05-30 10:36:28.541" ;
+        c:docTitle         "" ;
+        c:document         "More than 100 Saudi-led air strikes hit Yemen: Houthis. CAIRO (Reuters) - A Saudi-led coalition struck northern provinces of Yemen on Saturday in a third consecutive night of heavy air strikes, the Houthi rebels said, following their shelling this week of Saudi border areas." ;
+        c:id               "http://id.opencalais.com/WnAJUTvTUb9woJ*WQ6Bdxg" .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance     "2" ;
+        c:name           "Military history" ;
+        c:originalValue  "Military history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7665f9db-dd9e-384d-bcf9-bd81ecf2c0fc> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance  "2" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance     "2" ;
+        c:name           "Zaydi" ;
+        c:originalValue  "Zaydi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7056295-c3e2-3004-8f54-955d2a373197> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:score           "0.762" .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance     "2" ;
+        c:name           "Houthis" ;
+        c:originalValue  "Houthis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f1274c61-4ab9-380e-b2bc-709aabd9c467> .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:score           "0.939" .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hVm6wqJ9GCC1V3Dn6xWAL3cP3go=|PxPt/4vY+Uz1qJZj3uVGv6TbazMd8YB/gAM0ZFdYO5Srxkz7Laxf6Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:28.385" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b195a31-30f1-31de-881e-3e8dcd83500b> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

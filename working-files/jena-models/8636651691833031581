@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:importance     "1" ;
+        c:name           "Medicinal plants" ;
+        c:originalValue  "Medicinal plants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a436ec49-7a05-3cb0-bd15-43a2015e0ea5> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:importance     "2" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:importance     "1" ;
+        c:name           "Mediterranean cuisine" ;
+        c:originalValue  "Mediterranean cuisine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3009fb5f-b128-3a62-8036-40f99f1811a7> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:importance     "2" ;
+        c:name           "Olive" ;
+        c:originalValue  "Olive" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9607c925-2bf0-34df-ae86-cca87744c6c2> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7434bdc5-3c1f-3935-14da-54892df760f9" ;
+        c:docDate          "2015-05-30 10:45:06.493" ;
+        c:docTitle         "" ;
+        c:document         "Italy’s Treasured Olive Oil, at the Source. In Tuscany and Puglia, making olive oil is a lifestyle, one threatened by bad weather and a killer bacteria." ;
+        c:id               "http://id.opencalais.com/0dKYi-m7e7jU-e-loTX7*w" .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:importance     "2" ;
+        c:name           "Olive oil" ;
+        c:originalValue  "Olive oil" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4db80c3-0040-3cfa-b4c5-554d673b3b34> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:importance     "1" ;
+        c:name           "Cooking oils" ;
+        c:originalValue  "Cooking oils" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b67026dc-ab93-3de9-a115-2d253fe6f874> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:importance     "2" ;
+        c:name           "Botany" ;
+        c:originalValue  "Botany" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/28eb6127-2930-357a-b6ef-ca29ed201787> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:score           "0.697" .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:importance     "2" ;
+        c:name           "Matter" ;
+        c:originalValue  "Matter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ad6e547-20fb-317d-9022-abccb7b30758> .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0KPvNpew1akNHlCfzmkiQMjGNKc=|NLyrsouEv0jKAfPFtXyx9e9U/PZVeGmJMlp9un9TnlUMAlMsKepwJw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:06.399" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3301bd02-250d-32f2-99a3-1dd41cb2e57b> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .

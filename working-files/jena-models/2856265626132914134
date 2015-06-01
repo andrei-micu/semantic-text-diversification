@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a> ;
+        c:importance     "1" ;
+        c:name           "WJLA-TV" ;
+        c:originalValue  "WJLA-TV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7cc1da49-a1ce-388f-b822-8328a543d2e7> .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a> ;
+        c:score           "0.872" .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HW5V6kyw2IUrhBvCVSaFsIvMbFU=|VV5CIk9arrb0uYMJn4fJ1wafWpaDOhMgw16BEnXTVJb1PsXoP+YY3Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:47.726" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8aa12159-6d0b-2885-14da-54b090e1927e" ;
+        c:docDate          "2015-05-30 10:47:47.851" ;
+        c:docTitle         "" ;
+        c:document         "Mother found pushing dead toddler on swing. Police found a mother pushing a dead baby in a swing at a Maryland park. Police say she was there possibly all night. CNN affiliate WJLA reports." ;
+        c:id               "http://id.opencalais.com/dG6ioB3JyTjDAWf2mdM4qQ" .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a> ;
+        c:importance     "1" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a> ;
+        c:score           "0.898" .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a> ;
+        c:importance     "2" ;
+        c:name           "Toddler" ;
+        c:originalValue  "Toddler" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b96ca243-e8af-34e5-9411-99ebf7ef437c> .
+
+<http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f9ffa026-ecc9-388a-8e39-7c5a52de452a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

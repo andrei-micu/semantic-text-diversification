@@ -1,0 +1,159 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance     "2" ;
+        c:name           "Thai political protests" ;
+        c:originalValue  "2010 Thai political protests" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/96be716e-2d70-3171-b950-23e40b5792e8> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/cat/5>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:score           "0.860" .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance     "2" ;
+        c:name           "Humanities" ;
+        c:originalValue  "Humanities" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/109c54e2-e0ff-3985-ab43-e2886439ebd2> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:score           "0.883" .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8lKKVWtaOBj6f+tCW2YVh+fqhlU=|kGTYJl1biRONWej/lv0e3CNeETJJk/7PkYvYB/u/4RVyB19e2D/Ccw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:13.512" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance     "1" ;
+        c:name           "Thailand" ;
+        c:originalValue  "Thailand" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43d98d35-8100-3d72-8328-09d463949643> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance     "1" ;
+        c:name           "Occupy movement in the United States" ;
+        c:originalValue  "Occupy movement in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91f71b20-f165-3f72-aa78-716140ee56d1> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "290b722e-f20c-9035-14da-5391e481927e" ;
+        c:docDate          "2015-05-30 10:28:13.731" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Police and protesters clash in Baltimore. The US city of Baltimore has declared a state of emergency amid violent protests over the death of a black man fatally injured in police custody." ;
+        c:id               "http://id.opencalais.com/KV7lhBqgDl4xNTnBxorS9g" .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance     "1" ;
+        c:name           "Political riots" ;
+        c:originalValue  "Political riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ee335ca-e415-316a-a37e-6a8c05e4ccc6> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:importance     "2" ;
+        c:name           "Occupy Oakland" ;
+        c:originalValue  "Occupy Oakland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/300c2ab2-9ab2-359d-95d5-f516c8b8b46d> .
+
+<http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ae85cd95-3e5e-36a6-a6ec-9dec95eb5898> ;
+        c:score           "1.000" .

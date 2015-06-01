@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81> ;
+        c:importance     "1" ;
+        c:name           "Plesiosaurs" ;
+        c:originalValue  "Plesiosaurs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8233d6f1-80c4-30a9-98f2-3d0d78203880> .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81> ;
+        c:importance     "2" ;
+        c:name           "Pliosauroidea" ;
+        c:originalValue  "Pliosauroidea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7cb7198d-1ff6-33b5-a9d1-61a36bb0611c> .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81> ;
+        c:importance     "2" ;
+        c:name           "Fossil" ;
+        c:originalValue  "Fossil" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60722302-91ad-39d6-99a9-151805ce429d> .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81> ;
+        c:score           "0.987" .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81> ;
+        c:importance     "1" ;
+        c:name           "Fauna of Colombia" ;
+        c:originalValue  "Fauna of Colombia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/214f1e64-d173-31b7-988d-286425f117c8> .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81> ;
+        c:importance     "2" ;
+        c:name           "Monster of Aramberri" ;
+        c:originalValue  "Monster of Aramberri" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/94e04551-0305-3400-b7a3-6f2b241c470f> .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "487f8a1f-7105-7127-14da-53c58c013c98" ;
+        c:docDate          "2015-05-30 09:31:45.259" ;
+        c:docTitle         "" ;
+        c:document         "100-million-year-old sea monster fossil found. A farmer in Australia discovered a fossil belonging to a 100 million-year-old sea predator known as a \"Kronosaurus.\"" ;
+        c:id               "http://id.opencalais.com/x-yg3LmzCWXwPZpeODYw-A" .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81> ;
+        c:importance     "1" ;
+        c:name           "Kronosaurus" ;
+        c:originalValue  "Kronosaurus" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/79d7e349-c5b7-31c8-a77f-f7816ad2c47a> .
+
+<http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6ed0978-14e8-3365-a379-c8ec6a210c81> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YJcRyfL9YwMYE4b84dRXvJfon+g=|Li54I0uq6WZ2ZpOOseCoCB2n1qhwtOa9La4bRvONM75duDixDt7aow==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:45.088" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

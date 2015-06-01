@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da> ;
+        c:score           "0.720" .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|whw2r1asrLkZq4B9OQKv9nzV+Sk=|U9q5eU5lqDQmyYBB2u6N7vA3rDUecS/CySVCpYcNTUVb73E0G1VOMw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:01.577" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "739d8fcd-7587-594f-14da-54a54c932f98" ;
+        c:docDate          "2015-05-30 09:47:01.811" ;
+        c:docTitle         "" ;
+        c:document         "A look back at Bourdain's path to heroin. Anthony Bourdain travels to Massachusetts where heroin use is rising in small town America. Watch Parts Unknown Sundays 9pm ET on CNN and CNNGo." ;
+        c:id               "http://id.opencalais.com/iVhSpmh0CuviIWLehSN4Og" .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da> ;
+        c:importance     "1" ;
+        c:name           "Heroin" ;
+        c:originalValue  "Heroin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c0ce310-8353-31eb-8184-40ebe975d841> .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da> ;
+        c:importance     "1" ;
+        c:name           "Anthony Bourdain" ;
+        c:originalValue  "Anthony Bourdain" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d71bb4b-99a5-3b57-ae36-989fb2fd3dda> .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da> ;
+        c:importance     "1" ;
+        c:name           "Chemistry" ;
+        c:originalValue  "Chemistry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/176cb94d-bc36-3769-9f04-7f867181dd40> .
+
+<http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6622b57f-8daa-3cb8-9f12-5812b2a4e3da> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .

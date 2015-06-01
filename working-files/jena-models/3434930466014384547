@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:importance     "2" ;
+        c:name           "Arts" ;
+        c:originalValue  "Arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bd5b09-4773-3933-bdf0-6b5be3d6cb0b> .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:importance     "1" ;
+        c:name           "Theatre of the Absurd" ;
+        c:originalValue  "Theatre of the Absurd" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/58eea88b-025f-35bb-b83b-75d90f363861> .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:importance     "2" ;
+        c:name           "Nationality" ;
+        c:originalValue  "Nationality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b44aebf-d341-3c29-99c8-2088e1ee35e9> .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Z0QRxi9pAm2boltsfr4tv5m1Bwk=|ld4dMuyNz+ofIK+Qk8G4lRqZqZZDaJjDtp/1jRLy1Emm5rg26odjDg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:50.957" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7eed4f55-4132-26c6-14da-54cea6d49095" ;
+        c:docDate          "2015-05-30 10:49:51.066" ;
+        c:docTitle         "" ;
+        c:document         "Actor arrested on DUI charges. Oscar-nominated actor and Pulitzer Prize-winning playwright Sam Shepard was arrested on Monday night on suspicion of drunken driving in Santa Fe, New Mexico." ;
+        c:id               "http://id.opencalais.com/DGDddk4l10HisToFrhZ5eg" .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:importance     "1" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:importance     "1" ;
+        c:name           "Sam Shepard" ;
+        c:originalValue  "Sam Shepard" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d81ef5f2-10d7-39fd-93b7-9a58d1e45f0b> .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ff91992-e0bd-3513-a3ad-c69dfc6f9b72> ;
+        c:score           "1.000" .

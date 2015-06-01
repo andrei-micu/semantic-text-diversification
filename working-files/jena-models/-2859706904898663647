@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:importance     "1" ;
+        c:name           "Anti-competitive behaviour" ;
+        c:originalValue  "Anti-competitive behaviour" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/980ccd85-5b05-374f-9dad-99c1ccdefd65> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:importance     "2" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:importance     "2" ;
+        c:name           "Foreign exchange market" ;
+        c:originalValue  "Foreign exchange market" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18c71a26-c2b4-33b8-befd-58ac7b74f5eb> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:importance     "2" ;
+        c:name           "Commerce" ;
+        c:originalValue  "Commerce" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/55d6de58-9d3d-3683-998d-c6f62abc2278> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b2ecfa8e-852d-abcc-14da-5476df232955" ;
+        c:docDate          "2015-05-30 10:43:51.628" ;
+        c:docTitle         "" ;
+        c:document         "Rigging of Foreign Exchange Market Makes Felons of Top Banks. Traders, including some who called themselves “the cartel,” colluded to manipulate the foreign exchange market, federal and state authorities said." ;
+        c:id               "http://id.opencalais.com/LHZn1Gbh4VSF6d3hhm-OyQ" .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:importance     "1" ;
+        c:name           "Cartel" ;
+        c:originalValue  "Cartel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/41b3300d-28bf-363e-9f9b-ffad944b4c91> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:importance     "2" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|JE61/HxdlnsHZDn2UXrUc1j1hLQ=|EyYazokJIXyCN7F66SzBmW/dGIAVlcmBPuBMg8bwxMlSaWZGTC8AHA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:51.410" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:importance     "2" ;
+        c:name           "Exchange" ;
+        c:originalValue  "Exchange (organized market)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1e4a93b6-6b5a-3d8d-b4d0-4fb3ddb67f2b> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:importance     "1" ;
+        c:name           "Imperfect competition" ;
+        c:originalValue  "Imperfect competition" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/79c271ed-f06f-31ac-94a1-e8c15a9ffd8b> .
+
+<http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/39110bd0-00a3-391b-bf9d-f32460d52429> ;
+        c:importance     "2" ;
+        c:name           "Mexican Drug War" ;
+        c:originalValue  "Mexican Drug War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ccf31ec-6316-3d1b-afad-1956fa1c685b> .

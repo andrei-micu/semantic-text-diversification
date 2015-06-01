@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/724d896e-ebd1-3493-9aa2-edcc660d523d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/724d896e-ebd1-3493-9aa2-edcc660d523d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9AyJtvr76nKTP+5ZvB36YxdhYHQ=|YXQYwC/tuWxmqY3MQNfR+ZYNcRt3hNfsBfLLNdBkfnyDET7uVdjbVQ==" ;
+        c:submissionDate  "2015-05-30 09:42:27.326" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/724d896e-ebd1-3493-9aa2-edcc660d523d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/724d896e-ebd1-3493-9aa2-edcc660d523d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/724d896e-ebd1-3493-9aa2-edcc660d523d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ecfb9708-f0bf-52d5-14da-546257e71d39" ;
+        c:docDate          "2015-05-30 09:42:27.388" ;
+        c:docTitle         "" ;
+        c:document         "Best shots from the window seat. " ;
+        c:id               "http://id.opencalais.com/AvoRaGjNG*7Mv9Lm62Uh*g" .

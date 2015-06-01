@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance     "1" ;
+        c:name           "Electronics" ;
+        c:originalValue  "Electronics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae6e6e80-c177-3b47-9ed7-6099774e0f7e> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance     "2" ;
+        c:name           "General Electric" ;
+        c:originalValue  "General Electric" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f11a172c-1bf9-3f09-80aa-4a905913e215> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance     "2" ;
+        c:name           "Qualcomm" ;
+        c:originalValue  "Qualcomm" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2e5c45df-68d9-3b6c-bf0c-8e6d0b8bc536> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:score           "0.994" .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance     "1" ;
+        c:name           "Fabless semiconductor companies" ;
+        c:originalValue  "Fabless semiconductor companies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e7310825-ced2-3b80-b4e7-e1e1c9dec40e> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance     "2" ;
+        c:name           "Apple Inc." ;
+        c:originalValue  "Apple Inc." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1205cb52-d703-34d2-83b2-a09d4d47575c> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:score           "0.968" .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance     "1" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance     "2" ;
+        c:name           "Steve Jobs" ;
+        c:originalValue  "Steve Jobs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/229b3b46-5714-39ac-b664-e032ddd3e6c0> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4xxwGLkAIVvORUptkCBW50vKx+E=|ecJd/plyjIVvvFkWO+UI4fBV8QcqJnXz6RWwNMIusRnY9ENxJykmOA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:27.697" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "692fe9ed-2ed6-819e-14da-53de9911927e" ;
+        c:docDate          "2015-05-30 10:33:27.884" ;
+        c:docTitle         "" ;
+        c:document         "GE ties up with Qualcomm, Apple in new lighting business bet. (Reuters) - General Electric Co on Monday announced collaborations with Qualcomm Inc and Apple Inc as it uses digital technology and the growing appetite for data to reinvigorate its 130-year-old lighting business." ;
+        c:id               "http://id.opencalais.com/ikVUfAVEpXetcrW1vN0*cA" .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance     "2" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ea71e75-e6d6-3c65-a5de-915333e411b5> ;
+        c:importance     "2" ;
+        c:name           "Apple Store" ;
+        c:originalValue  "Apple Store" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d6e373a-7a76-3898-94d7-096c74ffbabf> .

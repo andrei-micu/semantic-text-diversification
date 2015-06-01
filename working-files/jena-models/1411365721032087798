@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance     "1" ;
+        c:name           "Knights Bachelor" ;
+        c:originalValue  "Knights Bachelor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a0e4b4d-6886-32b9-a76f-324c3a18f20f> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance     "2" ;
+        c:name           "MusiCares Person of the Year" ;
+        c:originalValue  "MusiCares Person of the Year" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2a0cd52-acde-3c44-92e1-053f8fa81395> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance     "2" ;
+        c:name           "Elton John" ;
+        c:originalValue  "Elton John" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab2b2c7b-2f99-39ba-97fa-a1ec0b2aa12b> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a94bc566-17f5-7121-14da-53f4fc8719b3" ;
+        c:docDate          "2015-05-30 10:34:59.509" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Aids can be eradicated, says Elton. Sir Elton John says he believes Aids can be eradicated in his lifetime if research funding is continued." ;
+        c:id               "http://id.opencalais.com/uQ9nXss-HUGD9natULQ66A" .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance     "1" ;
+        c:name           "British people" ;
+        c:originalValue  "British people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/504d852b-86a3-321f-96e2-df8194075afc> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance     "2" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|T9fjyL9ACHKUftAqSr3FWlDp9xc=|WQm0XRWSx1mORoei8tGxIe+0iGYGw86wSgmRaqniem73bqeWgx0aNg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:59.400" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance     "2" ;
+        c:name           "Grammy Legend Award" ;
+        c:originalValue  "Grammy Legend Award" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8950e0a7-492c-309c-95d3-ce7cb7dcb824> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance     "1" ;
+        c:name           "English people" ;
+        c:originalValue  "English people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1838496c-93d5-3866-9fe2-536e32464e5b> .
+
+<http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1272177d-53cc-37dd-ad36-4b435ad8824e> ;
+        c:importance     "2" ;
+        c:name           "Elton" ;
+        c:originalValue  "Elton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/643821e6-50af-3dd7-b8a4-d3b1d357e7c1> .

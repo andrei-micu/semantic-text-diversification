@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:importance     "1" ;
+        c:name           "United Kingdom" ;
+        c:originalValue  "United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/96f4ac9c-3b68-3487-a3e9-5eb0dbaa2431> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:importance     "2" ;
+        c:name           "Charlotte" ;
+        c:originalValue  "Charlotte (given name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70137d19-a78a-3dd6-b8cd-68300278bea5> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d704c242-e916-3e28-14da-53d955232955" ;
+        c:docDate          "2015-05-30 10:33:06.364" ;
+        c:docTitle         "" ;
+        c:document         "Charlotte Elizabeth Diana Is Royal Baby’s Name. Many in Britain rejoiced on Monday after Kensington Palace announced that Britain’s new princess would be named Charlotte Elizabeth Diana." ;
+        c:id               "http://id.opencalais.com/Pa9ZZFaNBC3vUg3SONpDOQ" .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:importance     "1" ;
+        c:name           "British people" ;
+        c:originalValue  "British people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/504d852b-86a3-321f-96e2-df8194075afc> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:importance     "2" ;
+        c:name           "Diana, Princess of Wales" ;
+        c:originalValue  "Diana, Princess of Wales" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2402d7b8-8a0d-37f8-8c2b-5085eed6aad3> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:importance     "2" ;
+        c:name           "House of Windsor" ;
+        c:originalValue  "House of Windsor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cd74054-49cc-3fb3-970f-4c51aa3536d8> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:score           "0.895" .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:importance     "1" ;
+        c:name           "London" ;
+        c:originalValue  "London" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca4f4480-323a-3bab-9b54-56e4a6f29a88> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:importance     "2" ;
+        c:name           "Kensington" ;
+        c:originalValue  "Kensington (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e67f6f6a-b6a9-3a59-bd96-e4aa3f5afedd> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:importance     "2" ;
+        c:name           "Kensington Palace" ;
+        c:originalValue  "Kensington Palace" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d53014a2-72be-345c-89e2-1b8207489841> .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+tyGtf3RossQHiwpclRuImnzGME=|MwR1TY7pTMCkoFrnx9+OCKzJDP5NicvKUWxAbSCtz8CPE2RQGo5PmQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:06.130" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a984df57-0cef-36ef-9833-5d04c491b8a7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

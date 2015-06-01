@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72> ;
+        c:importance     "1" ;
+        c:name           "Newsnight" ;
+        c:originalValue  "Newsnight" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4ef95536-8b55-3bae-b2a9-4972cfae53ff> .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72> ;
+        c:importance     "2" ;
+        c:name           "British people" ;
+        c:originalValue  "British people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/504d852b-86a3-321f-96e2-df8194075afc> .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72> ;
+        c:importance     "2" ;
+        c:name           "Wark" ;
+        c:originalValue  "Wark" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7759285-264e-38c2-80eb-1e9738ae4f00> .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|JznsRJotGLrLQpvTX1AWw8YymXg=|KWoi7BmrzdI0fq6Mb8LfbWJT2KpZcla5y4qBBDq4X9IKZbtoo/Mruw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:57.263" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72> ;
+        c:importance     "1" ;
+        c:name           "Television in the United Kingdom" ;
+        c:originalValue  "Television in the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/75ffbd33-9f43-3b75-a439-8579e89be681> .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72> ;
+        c:score           "0.527" .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72> ;
+        c:importance     "1" ;
+        c:name           "British television" ;
+        c:originalValue  "1980 in British television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca9d96a3-2450-38bd-8f75-7304838b432e> .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72> ;
+        c:importance     "2" ;
+        c:name           "Gina" ;
+        c:originalValue  "Gina (given name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f00d9d37-f8e8-3c86-bc91-acff62e0f502> .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72> ;
+        c:importance     "2" ;
+        c:name           "Kirsty" ;
+        c:originalValue  "Kirsty" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b5c4eda8-199a-39c1-aba1-1e30bd3e74c5> .
+
+<http://d.opencalais.com/dochash-1/28f503a1-32ee-387b-90a8-1427e67afd72>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4fa9431a-1332-e2aa-14da-538decf49095" ;
+        c:docDate          "2015-05-30 10:27:57.451" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Kidnapped women speak about ordeal. Gina DeJesus and Amanda Berry have given their first British TV interview to Newsnight's Kirsty Wark." ;
+        c:id               "http://id.opencalais.com/JsxGvPfaQyk4OmDYQrjRPA" .

@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:importance     "1" ;
+        c:name           "Danish design" ;
+        c:originalValue  "Danish design" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45de42e7-a082-3e9e-8137-bdd7ca7649b6> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YZC8BLHB6vbmbdYNjj1hQQgnPf8=|K/re87MAuBZbMUtOF64HMlXGHhEJHYUZ2JsGbnzBF9FUkGnuA5FEQA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:57.798" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:importance     "1" ;
+        c:name           "Embedded operating systems" ;
+        c:originalValue  "Embedded operating systems" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d16e501-5ef9-3dce-b45f-c6a6b843f6d7> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:importance     "2" ;
+        c:name           "BrickOS" ;
+        c:originalValue  "BrickOS" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5d0f7aeb-089f-3602-96d0-968af3079d48> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:importance     "2" ;
+        c:name           "Lego" ;
+        c:originalValue  "Lego" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ef9deb96-8f97-3df7-a159-d08d0a734a6a> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:importance     "1" ;
+        c:name           "Lego Mindstorms" ;
+        c:originalValue  "Lego Mindstorms" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0073812b-bdd6-3b4b-8c01-f52b4e6aed24> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:importance     "2" ;
+        c:name           "Denmark" ;
+        c:originalValue  "Denmark" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a617de6-7aac-3b04-8460-a834713dc55b> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e3c328ee-e07a-3864-14da-53f49861df07" ;
+        c:docDate          "2015-05-30 09:34:58.032" ;
+        c:docTitle         "" ;
+        c:document         "You won't believe this Lego 'man cave'. CNN affiliate KOMO has the story of a man who took his love of Legos and built a \"man cave\" that houses 250,000 pieces." ;
+        c:id               "http://id.opencalais.com/M9LDjUQp5dHRUScUwF0LpQ" .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:importance     "2" ;
+        c:name           "KOMO" ;
+        c:originalValue  "KOMO (AM)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/906e39a6-8349-3ea8-bed9-a665854b090e> .
+
+<http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ed7cf20-3dab-3ee0-aa83-979f3959d555> ;
+        c:importance     "2" ;
+        c:name           "KOMO-TV" ;
+        c:originalValue  "KOMO-TV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/13f82c97-a8a2-3012-88f1-469daec6096e> .

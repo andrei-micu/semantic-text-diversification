@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:importance     "2" ;
+        c:name           "Religion" ;
+        c:originalValue  "Religion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c9f8418-419c-3a9b-92db-f387fc4fb3d7> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3075e8f9-d72f-0597-14da-54496bc34709" ;
+        c:docDate          "2015-05-30 09:40:45.540" ;
+        c:docTitle         "" ;
+        c:document         "Rock singer discloses mental disorder. There was a time last fall when Creed lead singer Scott Stapp claimed he was \"penniless,\" had taken to living in a Holiday Inn and was convinced his family was involved in ISIS." ;
+        c:id               "http://id.opencalais.com/iOy9YPqrCNEqPJBqcIcGIA" .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:importance     "1" ;
+        c:name           "Scott Stapp" ;
+        c:originalValue  "Scott Stapp" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c77b1ba4-2e0d-3eea-84a7-ef27130c9233> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:importance     "2" ;
+        c:name           "Scott" ;
+        c:originalValue  "Scott (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a96fba0-cb4f-3c25-9256-1a7a74fce1ae> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:importance     "2" ;
+        c:name           "The Secrets of Isis" ;
+        c:originalValue  "The Secrets of Isis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ddb3011d-df5e-3d31-b466-3ba4080e9003> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:importance     "1" ;
+        c:name           "Creed" ;
+        c:originalValue  "Creed (band)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c6167e14-ce80-3a11-b841-7b95f0ace552> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:importance     "2" ;
+        c:name           "Comics" ;
+        c:originalValue  "Comics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/938baa31-4207-3ab2-a934-e29b3cd1e3a8> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:importance     "1" ;
+        c:name           "Captain Marvel" ;
+        c:originalValue  "Captain Marvel (DC Comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/15df3ef7-512e-39da-bb87-519e60c91ef0> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|k4rKAHdrIpwOVOFxsJPsveBfFfI=|ICNy0fEMKexpkQM/FHKMSf5GsHIngQkNxgTc5T5WJ5CCUMb5DEozXw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:45.244" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f52c83a8-9f09-3c7c-8036-ef537f7fcb0d> ;
+        c:importance     "2" ;
+        c:name           "Isis" ;
+        c:originalValue  "Isis (DC Comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afe3a960-ba58-3537-8ed1-540bc01f0b0a> .

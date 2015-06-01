@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance     "2" ;
+        c:name           "Monsanto" ;
+        c:originalValue  "Monsanto" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a25abda9-497f-375b-923d-d18ade25aef8> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dcc2919c-33eb-c014-da54-0b2a132955e8" ;
+        c:docDate          "2015-05-30 10:36:30.506" ;
+        c:docTitle         "" ;
+        c:document         "Monsanto set to press ahead with Syngenta takeover plan: source. (Reuters) - U.S. agrochemicals firm Monsanto has not given up on a proposed takeover of Swiss rival Syngenta , a source close to Monsanto said on Friday after its $45 billion offer was rejected." ;
+        c:id               "http://id.opencalais.com/2h8sNcaGfdKTDhK5cHoYzg" .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance     "1" ;
+        c:name           "Droughts" ;
+        c:originalValue  "Droughts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b46a609-67d0-3035-b9bd-766c43209784> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance     "2" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance     "1" ;
+        c:name           "AstraZeneca" ;
+        c:originalValue  "AstraZeneca" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1f2d36c1-1e48-3d10-993f-7d92a7ea3098> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance     "2" ;
+        c:name           "Syngenta" ;
+        c:originalValue  "Syngenta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b39f3415-3770-36a8-ae39-e3c045320897> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:score           "0.894" .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance     "2" ;
+        c:name           "Greater St. Louis" ;
+        c:originalValue  "Greater St. Louis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/651fc9a7-a78e-31e8-9a94-57a0c6b45fe5> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance     "2" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance     "2" ;
+        c:name           "Agriculture" ;
+        c:originalValue  "Agriculture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abea5d68-ec6c-3775-84a7-e9d69bf83209> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:importance     "1" ;
+        c:name           "Companies listed on the New York Stock Exchange" ;
+        c:originalValue  "Companies listed on the New York Stock Exchange" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bbf73163-3786-353b-9acd-03dbc702d650> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8da2ff0d-a0e0-38b1-a451-37be958fe289> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|D5N3zA2hl3VLK7rnfIGvG3khkSY=|ItlPkEkDIpb89INfnq9IeZcOK/19VdQuvwVm7zNN43xRffVE8whRaQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:30.241" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

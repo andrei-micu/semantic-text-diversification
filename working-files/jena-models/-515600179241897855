@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:importance     "1" ;
+        c:name           "Africa" ;
+        c:originalValue  "Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40ba53c0-c97b-3a8d-9376-dccf9e54b90e> .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "15ee84e3-181c-0ab2-14da-53c4b0835464" ;
+        c:docDate          "2015-05-30 10:31:41.841" ;
+        c:docTitle         "" ;
+        c:document         "71 get life sentences for torching church. An Egyptian court has sentenced 71 people to life in prison for their role in the August 2013 burning of a Christian church in the Giza province village of Kafr Hakim, state news reports." ;
+        c:id               "http://id.opencalais.com/klI6i9*mmefhgRBpJ7MdWQ" .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:score           "0.961" .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:importance     "1" ;
+        c:name           "Arab world" ;
+        c:originalValue  "Arab world" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/352eb7c6-e587-3070-adf8-d886ff961834> .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:importance     "2" ;
+        c:name           "Giza" ;
+        c:originalValue  "Giza" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c0511bd-b0db-3e04-bd16-09415eba0f7d> .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:importance     "2" ;
+        c:name           "Egypt" ;
+        c:originalValue  "Egypt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1386121a-b8ec-3151-ae3d-11e81f9940e7> .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|RE7uA5KYZHigL+OYHlVPPOdCpcY=|NauULnU0zNVPLXBImxiew7DCjQ51yKk6A6c5Gi0ePvRZBVvwTKk3HQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:41.576" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:score           "0.870" .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:importance     "1" ;
+        c:name           "Geography of Africa" ;
+        c:originalValue  "Geography of Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/08133a45-1ff2-3a59-8695-543cf21b9cc3> .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50ba81ef-55be-354b-a906-644afae90ec5> ;
+        c:importance     "2" ;
+        c:name           "North Africa" ;
+        c:originalValue  "North Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d95ad734-ad18-3166-93a2-388a14f04140> .

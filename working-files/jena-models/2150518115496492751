@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:importance     "2" ;
+        c:name           "Loretta" ;
+        c:originalValue  "Loretta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7e27407e-2987-3439-a768-74cbd1d3ffde> .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:score           "0.880" .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:importance     "1" ;
+        c:name           "Baltimore Police Department" ;
+        c:originalValue  "Baltimore Police Department" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/669400d7-7c8c-335e-9033-4c3b341ab62a> .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|uk886TN9J8weeL4R9UiGs4onBvk=|d0MuzDTra5LEJSIUB3AJB7ZvmlxXrOmv92kCbrDoNYtqNHEBSN8dyA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:59.197" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:importance     "2" ;
+        c:name           "Police" ;
+        c:originalValue  "Police" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a182b6c-ea20-3768-948c-2d3aa60d757a> .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d3c4e735-935f-8b1d-14da-53f4efd35464" ;
+        c:docDate          "2015-05-30 10:34:59.384" ;
+        c:docTitle         "" ;
+        c:document         "U.S. to launch federal probe into Baltimore police practices: Washington Post. WASHINGTON (Reuters) - Attorney General Loretta Lynch will launch a federal probe into whether Baltimore's police department has engaged in a \"pattern or practice\" of excessive force, the Washington Post reported on Thursday." ;
+        c:id               "http://id.opencalais.com/n0CWVpDs69QUCOlRUu6hfw" .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:importance     "2" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:score           "0.973" .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:importance     "1" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a9a4200c-b07b-3634-8b1f-a6a368280ef9> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .

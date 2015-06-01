@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Npese6XVhwXDvcLHCKART4CwBjE=|UCVwFFU3T5QOc08L/SerMuOrpnIdKavOSuHXv79LIEEUn4n44kCnyQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:59.405" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "30fb375b-2374-104a-14da-5478d2d1df07" ;
+        c:docDate          "2015-05-30 09:43:59.639" ;
+        c:docTitle         "" ;
+        c:document         "Senate Blocks Bill on N.S.A. Collection of Phone Records. The Senate voted 57-42, short of the 60 votes needed to move ahead on a House bill that would have ended the National Security Agency’s bulk collection of domestic phone records." ;
+        c:id               "http://id.opencalais.com/flIwbbKBxP2nwmiovUxEBQ" .
+
+<http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1> ;
+        c:importance     "1" ;
+        c:name           "United States Senate" ;
+        c:originalValue  "United States Senate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01c05ea8-5d0c-3cc6-bc97-ab1e0b48a8bc> .
+
+<http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/366fcd5e-cb4f-31b6-a2cd-36a789b593b1> ;
+        c:score           "0.981" .

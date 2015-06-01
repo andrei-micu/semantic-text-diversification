@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:importance     "1" ;
+        c:name           "Illegal immigration to the United States" ;
+        c:originalValue  "Illegal immigration to the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a8dcd43a-2168-36bb-b02b-1985a4b0ed88> .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:importance     "2" ;
+        c:name           "Deportation" ;
+        c:originalValue  "Deportation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c580c135-1a66-327c-9ab9-1f071a4a15eb> .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bde1e899-915a-0e71-14da-54789dd4551f" ;
+        c:docDate          "2015-05-30 09:43:58.916" ;
+        c:docTitle         "" ;
+        c:document         "Immigrant Family's Hope On Hold After Promises From The President. Six months ago, President Obama announced executive actions that would protect millions of immigrants who are undocumented from deportation. But those actions are on hold pending a lawsuit." ;
+        c:id               "http://id.opencalais.com/Da4pmL5Xg4nzlNIjxNcbUQ" .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:importance     "2" ;
+        c:name           "Human migration" ;
+        c:originalValue  "Human migration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bfb396c9-8e39-3429-bebb-8d0e6157e32e> .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|kth8ZmflS64QbdFe+0aYk8jL+Ow=|UNhe9PwvD8SSotV62P95MjNOxByVy7s5nGMKflnEltC35XLvl1sadw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:58.557" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:importance     "2" ;
+        c:name           "Secure Communities and administrative immigration policies" ;
+        c:originalValue  "Secure Communities and administrative immigration policies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/209670f6-d05f-3db9-a367-851c10c870aa> .
+
+<http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0f133ebb-e9bd-3431-941d-83b5544d688e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

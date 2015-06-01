@@ -1,0 +1,139 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7PESQhynVBr1vnOex5Ytwh5LNz4=|UxzNbgM1O03h74MIoBElHJKFt5iUxC/zIIKMbCZyrXDN/9g+yqGNfA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:30.633" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fc66175b-045b-82de-14da-54bb0a9719b3" ;
+        c:docDate          "2015-05-30 10:48:30.743" ;
+        c:docTitle         "" ;
+        c:document         "As ISIS Expands Its Control, U.S. Policy Is Questioned. The so-called Islamic State captured two strategic cities recently: Ramadi, Iraq, and Palmyra, Syria. NPR's Rachel Martin speaks to Vali Nasr of Johns Hopkins about the U.S. strategy toward ISIS." ;
+        c:id               "http://id.opencalais.com/YCIDHWcg*E3zFAomdpSn8w" .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "2" ;
+        c:name           "Isis" ;
+        c:originalValue  "Isis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afe3a960-ba58-3537-8ed1-540bc01f0b0a> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "2" ;
+        c:name           "Member states of the Arab League" ;
+        c:originalValue  "Member states of the Arab League" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7873175f-83a7-3ece-b0fc-53b09db7215b> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "2" ;
+        c:name           "Institute for Science and International Security" ;
+        c:originalValue  "Institute for Science and International Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c71d202e-bbaf-3611-8503-af60f3896591> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "1" ;
+        c:name           "Fertile Crescent" ;
+        c:originalValue  "Fertile Crescent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5435af2d-c03d-3907-8586-8f38ab6b08eb> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "2" ;
+        c:name           "Vali Nasr" ;
+        c:originalValue  "Vali Nasr" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/719ccf9a-eaf1-3327-8753-d5c61577a99b> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "2" ;
+        c:name           "Palmyra" ;
+        c:originalValue  "Palmyra" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/285d8837-5179-35bf-b053-a498cf4e432d> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "2" ;
+        c:name           "Member states of the Organisation of Islamic Cooperation" ;
+        c:originalValue  "Member states of the Organisation of Islamic Cooperation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1e1e6b77-97ea-32d3-b161-5aa111289ea1> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "1" ;
+        c:name           "Levant" ;
+        c:originalValue  "Levant" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3bbb187a-70ce-3a30-b61f-34126b6498f8> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "2" ;
+        c:name           "Ramadi" ;
+        c:originalValue  "Ramadi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a14fe0e-d3e7-3c2c-9a6b-129bc843d4ed> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:score           "0.960" .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "2" ;
+        c:name           "Nasr" ;
+        c:originalValue  "Nasr (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b7814369-d2d0-3a76-8b7e-1e40fda83c61> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9c0ce348-d1d6-3a39-8293-a7fd55cf6020> ;
+        c:importance     "2" ;
+        c:name           "Member states of the United Nations" ;
+        c:originalValue  "Member states of the United Nations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e911935-f6c4-3599-ba32-e28b931005c3> .

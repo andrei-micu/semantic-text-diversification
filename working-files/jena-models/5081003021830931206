@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance     "1" ;
+        c:name           "Transportation in New Jersey" ;
+        c:originalValue  "Transportation in New Jersey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c66923bf-695c-3f34-b81f-8afe4527f1a6> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance     "2" ;
+        c:name           "New Jersey Turnpike" ;
+        c:originalValue  "New Jersey Turnpike" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d37aa170-81b7-32cd-86e2-96278c3490ea> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|CVhvZtvuBdZbeVUvEzgrd/1Xhtk=|arqFpKZ73Ue3buTEEdUNnvagDeoFWlYSf8PQF56XL6YXNPgNvgkf3w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:36.820" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance     "2" ;
+        c:name           "John Nash" ;
+        c:originalValue  "John Nash" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bab4752e-47d2-3d76-b5bb-111ab8e5d193> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:score           "0.957" .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance     "2" ;
+        c:name           "Schizophrenia" ;
+        c:originalValue  "Schizophrenia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/054fe234-7b56-30d9-afc7-dfcb64e230c0> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance     "2" ;
+        c:name           "John Forbes Nash, Jr." ;
+        c:originalValue  "John Forbes Nash, Jr." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/def5d979-8449-3ff3-92ea-0d70f024fb66> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance     "1" ;
+        c:name           "Russell Crowe" ;
+        c:originalValue  "Russell Crowe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f9eb57b7-5b6f-37ba-a4fb-843610d14e99> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance     "2" ;
+        c:name           "A Beautiful Mind" ;
+        c:originalValue  "A Beautiful Mind (film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40eea369-6df3-3998-96b3-4c6412449cc6> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance     "1" ;
+        c:name           "New Jersey" ;
+        c:originalValue  "New Jersey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcbd9947-1ad7-3f29-bf02-a1588634c720> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance     "2" ;
+        c:name           "Nobel Prize" ;
+        c:originalValue  "Nobel Prize" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40105015-e8e7-30dd-80a6-da56741e024b> .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f50c22ea-2212-8bfb-14da-54bc8d41927e" ;
+        c:docDate          "2015-05-30 10:48:36.976" ;
+        c:docTitle         "" ;
+        c:document         "'Beautiful Mind' Mathematician John Nash, Jr. Dies In New Jersey Car Crash. The Nobel Prize winner who struggled with schizophrenia and was portrayed by Russell Crowe in the 2001 film, died with has wife in a taxi on the New Jersey Turnpike, officials say. He was 86." ;
+        c:id               "http://id.opencalais.com/C1Yry1381-H1NhFGIqZ1qw" .
+
+<http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b007eb31-f796-37d9-83d0-b627785ef355> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

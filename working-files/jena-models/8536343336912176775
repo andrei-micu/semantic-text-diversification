@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/88de78f0-c884-325b-adf9-96b14d88f925/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/88de78f0-c884-325b-adf9-96b14d88f925> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/88de78f0-c884-325b-adf9-96b14d88f925>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f24df170-c72a-cfda-14da-54175e834709" ;
+        c:docDate          "2015-05-30 09:37:20.295" ;
+        c:docTitle         "" ;
+        c:document         "Look again: Haute cuisine or junk food?. " ;
+        c:id               "http://id.opencalais.com/S9NOnk*DCCnyYVoukKhHyQ" .
+
+<http://d.opencalais.com/dochash-1/88de78f0-c884-325b-adf9-96b14d88f925/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/88de78f0-c884-325b-adf9-96b14d88f925> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0ZARJcTv/HxIwnb9tgE+ekblyXQ=|RWrVgxia0BI/M2UH/eKCRFz0UD4vUsS2koorVzG+In4DuLyDpSeIDw==" ;
+        c:submissionDate  "2015-05-30 09:37:20.232" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

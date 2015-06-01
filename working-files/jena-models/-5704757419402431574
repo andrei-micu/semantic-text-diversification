@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:importance     "1" ;
+        c:name           "Cognition" ;
+        c:originalValue  "Cognition" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0dccb6c5-9769-3ca1-aa7d-298dd275dd96> .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|CwMbkurtd2I8CswHC5IzOLTcYnc=|lb4xmmCkw3HzfMtiAXa3kRTaF4MZtnKiHGGr7bpbMJrS+oy/gAVjcw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:01.776" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:importance     "2" ;
+        c:name           "Meme" ;
+        c:originalValue  "Meme" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c320f9e-98af-355d-bafc-36f8c9c80c27> .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:importance     "1" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:score           "0.980" .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:importance     "2" ;
+        c:name           "Jared Leto" ;
+        c:originalValue  "Jared Leto" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9ae424a3-2df0-35c3-8d63-772677e95637> .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:importance     "1" ;
+        c:name           "Comics" ;
+        c:originalValue  "Comics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/938baa31-4207-3ab2-a934-e29b3cd1e3a8> .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ae38a8b2-95af-3785-14da-5380610760f9" ;
+        c:docDate          "2015-05-30 10:27:01.901" ;
+        c:docTitle         "" ;
+        c:document         "With new Joker, many memes launched. Love it or hate it, Jared Leto's interpretation of the Joker is an internet sensation." ;
+        c:id               "http://id.opencalais.com/y3*P5cxQ1j0289c*D8LhmA" .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:importance     "2" ;
+        c:name           "Joker" ;
+        c:originalValue  "Joker (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/626713eb-e835-3b32-8607-d26d38bacc41> .
+
+<http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d10e36b9-dc13-38d3-a2e2-4dfdfd23072a> ;
+        c:score           "0.944" .

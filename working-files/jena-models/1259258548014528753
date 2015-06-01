@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|L1MIpAlPoVzKUUpcjff17Ja5G2U=|O6B+1nBobFQRITJrsaJvvcPSFrtlEd4mTyn4WBkBdbHRS4xb7gYq/w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:28.416" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:importance     "2" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:importance     "1" ;
+        c:name           "Narratology" ;
+        c:originalValue  "Narratology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9090f70f-e755-38fe-b1c2-3a01e3fe8b52> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:importance     "2" ;
+        c:name           "Diary of a Wimpy Kid Do-It-Yourself Book" ;
+        c:originalValue  "Diary of a Wimpy Kid Do-It-Yourself Book" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df0d7d9e-dc33-312b-8933-529a3add689d> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:importance     "1" ;
+        c:name           "Diary of a Wimpy Kid" ;
+        c:originalValue  "Diary of a Wimpy Kid" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cfa8fbc-497e-3d25-8744-30697413155d> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:importance     "2" ;
+        c:name           "Wimpy" ;
+        c:originalValue  "Wimpy (restaurant)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d72c33b-eb3d-3f6d-a0a3-f445e2147e28> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:importance     "2" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:importance     "1" ;
+        c:name           "Jeff Kinney" ;
+        c:originalValue  "Jeff Kinney (writer)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6387e505-f5c4-367d-85f5-0a5d318d9af3> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48> ;
+        c:importance     "2" ;
+        c:name           "The Wimpy Kid Movie Diary" ;
+        c:originalValue  "The Wimpy Kid Movie Diary" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07e67c62-efd4-3434-b217-160a26507f03> .
+
+<http://d.opencalais.com/dochash-1/e2facad1-2a1b-388d-aac6-0642c24e8d48>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c718eaa2-3219-c052-14da-548e8e035464" ;
+        c:docDate          "2015-05-30 10:45:28.619" ;
+        c:docTitle         "" ;
+        c:document         "The Bookstore Built by Jeff Kinney, the ‘Wimpy Kid’. Jeff Kinney has sold more than 150 million copies of his “Diary of a Wimpy Kid” books. Now he is opening a bookstore in his hometown." ;
+        c:id               "http://id.opencalais.com/xVOHg6XaUQiZEBfrVYOloA" .

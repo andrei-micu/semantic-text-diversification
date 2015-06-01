@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:importance     "2" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:importance     "1" ;
+        c:name           "Geography of Europe" ;
+        c:originalValue  "Geography of Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/08eb834b-106b-37e4-83e2-926aa47c1381> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:importance     "2" ;
+        c:name           "Waxing" ;
+        c:originalValue  "Waxing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0fb6d3fd-54a3-3c13-88b3-5f44b5f0ceae> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:score           "0.896" .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:importance     "1" ;
+        c:name           "Tartan" ;
+        c:originalValue  "Tartan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0bfe275-3bda-3364-86ed-c8479fa96283> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:importance     "2" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Sw9SDzLkKMeKWsJJrk0CoUNnfaU=|G5yr9LfZ1bm8s8r9PGiedKyKmdkaS0pBQQWbVJsefeZxIdtwfJrwdQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:59.897" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:importance     "2" ;
+        c:name           "Scotland" ;
+        c:originalValue  "Scotland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/facdb9a5-9daa-39b5-95a1-8bb07d173bf9> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:score           "0.637" .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718> ;
+        c:importance     "1" ;
+        c:name           "Bagpipes" ;
+        c:originalValue  "Bagpipes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6979de72-d7d8-38fe-aeb9-a7ad8dc6449d> .
+
+<http://d.opencalais.com/dochash-1/232cb57a-e89d-3e5a-b75f-151a84a30718>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9e1ef1e6-bf4d-0bc3-14da-5412679760f9" ;
+        c:docDate          "2015-05-30 10:37:00.037" ;
+        c:docTitle         "" ;
+        c:document         "Scotland: What to know before you go. It's almost mandatory that articles about Scotland open by waxing lyrical about the land of tartan, bagpipes and heather." ;
+        c:id               "http://id.opencalais.com/XI854yiB43vMlOB7vDVhiw" .

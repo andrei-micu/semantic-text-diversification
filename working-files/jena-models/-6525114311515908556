@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:importance     "2" ;
+        c:name           "MOO" ;
+        c:originalValue  "MOO" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eb29644f-b473-37db-996e-bcd51672afb2> .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:score           "0.967" .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:importance     "1" ;
+        c:name           "Jeanne Moos" ;
+        c:originalValue  "Jeanne Moos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d9cd3c3-0ea5-359f-860e-086d02725bd6> .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:importance     "1" ;
+        c:name           "National Basketball Association" ;
+        c:originalValue  "National Basketball Association" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6554ea2-1028-3a63-ba63-0251997bf5b1> .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "50d2aeed-98f2-beb5-14da-53ea4c835464" ;
+        c:docDate          "2015-05-30 10:34:15.765" ;
+        c:docTitle         "" ;
+        c:document         "Shaq offers reward to best Internet meme. Win $500 reward for making fun of Shaq's spectacular fall on live TV. CNN's Jeanne Moos has the best entries." ;
+        c:id               "http://id.opencalais.com/8eL7n*j*hHapjpc7vREa5A" .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:importance     "1" ;
+        c:name           "Shaquille O'Neal" ;
+        c:originalValue  "Shaquille O'Neal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3f64ba6d-3546-3015-82fb-23aba142d822> .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ab25932b-d1fa-34b9-961b-d93b66683ee7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bORvs1RwggT1WaO8q3e8R2sAQd0=|a7cnFnae5K+sYrfsP16+ss8V8w1afpjdV9NrgFddmDc5qXJW75mUFQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:15.624" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

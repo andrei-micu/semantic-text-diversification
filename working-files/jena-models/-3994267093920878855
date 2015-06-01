@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0622407b-2a8e-38b4-b618-a4f52dcc59af/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0622407b-2a8e-38b4-b618-a4f52dcc59af> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|dgzdfxAWBhLoVIgOdw+J89AiBeU=|f4G+7gLxHNb1O9LyIn8U8GzINnB+TgUM2xr1t2ica3Vj7pLP9Ojojw==" ;
+        c:submissionDate  "2015-05-30 09:48:40.260" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0622407b-2a8e-38b4-b618-a4f52dcc59af>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6ea98458-4323-4707-14da-54bd64471d39" ;
+        c:docDate          "2015-05-30 09:48:40.322" ;
+        c:docTitle         "" ;
+        c:document         "35 years of CNN. " ;
+        c:id               "http://id.opencalais.com/tEBF-Wr*ngCDczskI406QQ" .
+
+<http://d.opencalais.com/dochash-1/0622407b-2a8e-38b4-b618-a4f52dcc59af/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0622407b-2a8e-38b4-b618-a4f52dcc59af> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117> ;
+        c:score           "0.928" .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117> ;
+        c:importance     "1" ;
+        c:name           "Nail" ;
+        c:originalValue  "Nail (anatomy)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d5a3c111-4364-3355-89d7-cdf86344b236> .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117> ;
+        c:importance     "1" ;
+        c:name           "French culture" ;
+        c:originalValue  "French culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7bb840fe-1a2e-387a-8beb-d833071b0b45> .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117> ;
+        c:score           "0.915" .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117> ;
+        c:importance     "2" ;
+        c:name           "Salon" ;
+        c:originalValue  "Salon (France)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1004f6f6-119b-3233-83b8-4a2ebf721b3b> .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117> ;
+        c:importance     "1" ;
+        c:name           "Nail salon" ;
+        c:originalValue  "Nail salon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/965e46f8-6d95-3471-b13d-ff75a871cb53> .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|lKvGb8P1Lh/p6K1EPlOwbYaUzi0=|iXIyvctNvIR4G4ts04MHQ1EnKLMzOywPG4Y0JwiYZbsggHPjDkccsA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:21.906" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "57ccefae-5d35-1f57-14da-54d635234709" ;
+        c:docDate          "2015-05-30 09:50:22.140" ;
+        c:docTitle         "" ;
+        c:document         "New York Nail Salons Now Required to Post Workers’ Bill of Rights. The placards are the latest effort by city and state leaders to curb the widespread exploitation of workers in the sprawling nail salon industry." ;
+        c:id               "http://id.opencalais.com/yVbPSzZaClgnzmeM4g4KVw" .
+
+<http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ffcbcab4-b337-3873-8890-f9bd58c52117> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .

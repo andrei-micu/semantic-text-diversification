@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:importance     "1" ;
+        c:name           "Credit card" ;
+        c:originalValue  "Credit card" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a6916fd-3a1b-37a0-b086-b918dd6bd55c> .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:importance     "2" ;
+        c:name           "Pentagon Federal Credit Union" ;
+        c:originalValue  "Pentagon Federal Credit Union" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17ecfdb2-4794-3aeb-89bb-5183d2a7a8f4> .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:score           "0.896" .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:importance     "1" ;
+        c:name           "The Pentagon" ;
+        c:originalValue  "The Pentagon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2353cf66-850c-3490-8d15-37327fbdb469> .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|m0UguThxQu1gio/zjXm+UUNhDpc=|HKdRfH8FWaehfGArv3BGXKQsWWYp9GdxgkZzCrW+q57IhZYpCWY0Qg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:58.883" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:importance     "1" ;
+        c:name           "Payment systems" ;
+        c:originalValue  "Payment systems" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5fa5f0fa-9b5f-3b4f-9eb4-9781c88fcd68> .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b8bf76f9-48e6-d7bb-14da-540382313c98" ;
+        c:docDate          "2015-05-30 09:35:59.102" ;
+        c:docTitle         "" ;
+        c:document         "Pentagon credit cards pay for adult services. Some Pentagon employees, apparently attempting to hide personal spending on gambling and adult services, used their government-issued credit cards to pay for the salacious expenses, according to a Department of Defense official." ;
+        c:id               "http://id.opencalais.com/rbrV9vgAiLbnPGhBrVvo7Q" .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:score           "0.862" .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:importance     "2" ;
+        c:name           "Money" ;
+        c:originalValue  "Money" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f1af9688-5498-363e-9052-be898dce559c> .
+
+<http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/990bc089-bdd1-3c32-9b97-f7072f5c4301> ;
+        c:score           "1.000" .

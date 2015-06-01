@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:importance     "2" ;
+        c:name           "Hanging" ;
+        c:originalValue  "Hanging" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a85bf18-4ca9-3392-bbc7-8e9a7419b04c> .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "76f2a856-d978-ac73-14da-54c833913c98" ;
+        c:docDate          "2015-05-30 09:49:24.756" ;
+        c:docTitle         "" ;
+        c:document         "Feds: Hanging wasn't homicide. Federal investigators, saying they could not determine the death of a black man found hanging in a tree was a homicide, will not pursue criminal civil rights charges in the case." ;
+        c:id               "http://id.opencalais.com/owp5GSZpdrS7HE-m*EXujA" .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:importance     "2" ;
+        c:name           "Homicide in Spain" ;
+        c:originalValue  "Homicide in Spain" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77897f98-aa51-3a75-9df3-e5d58d137bc7> .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5R12VpSfjuUwaUOZPE/ynnSR3lg=|gZgVNFIL3Idg6tJPq18N11t0U6wp8F06i1+C9wbGHpA/JdMziFuUvw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:24.537" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:importance     "1" ;
+        c:name           "Homicide" ;
+        c:originalValue  "Homicide" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3cee5f58-0f20-3930-b952-766e4255a604> .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:importance     "1" ;
+        c:name           "Homicide: Life on the Street" ;
+        c:originalValue  "Homicide: Life on the Street" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60649326-d76e-30bb-a753-418ed89cf271> .
+
+<http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9fff6ad8-b1f0-3703-9148-b14286cf9d51> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

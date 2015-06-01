@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d10a8656-8c8b-f27f-14da-5424eae719b3" ;
+        c:docDate          "2015-05-30 10:38:15.976" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: US police: 'We're everyday people too'. The BBC spoke to former law enforcement officers at Police Week in Washington, DC to find out how they think the American public perceives them." ;
+        c:id               "http://id.opencalais.com/LEtWIoTPJAD5WZDZXFrA1Q" .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:importance     "2" ;
+        c:name           "Police" ;
+        c:originalValue  "Police" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a182b6c-ea20-3768-948c-2d3aa60d757a> .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:importance     "1" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:score           "0.642" .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:importance     "2" ;
+        c:name           "Public safety" ;
+        c:originalValue  "Public safety" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db6fb8a-c9ac-3a49-a453-ad0eda49d665> .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|RVROe30NQdcmnUj88+e5FxLxxMY=|USbfOW3f4bhMQQkMbg+RJojtvS5rCAIVP98lBLhRcSQGPUdGF2EOEQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:15.726" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:importance     "1" ;
+        c:name           "Law enforcement" ;
+        c:originalValue  "Law enforcement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93510f9c-4514-3e82-ad67-c26d91124e44> .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c4d64ee-fe5e-3a03-8e8b-ae4590dce520> ;
+        c:importance     "2" ;
+        c:name           "Surveillance" ;
+        c:originalValue  "Surveillance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2899486a-eede-357a-8feb-cc555eede3ea> .

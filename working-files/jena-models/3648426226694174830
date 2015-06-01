@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3ae1e06a-e91b-3d0f-b1f7-d2294e2bc2a8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ae1e06a-e91b-3d0f-b1f7-d2294e2bc2a8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Akc7ianeIxAbkD1B+GMvEdRk/Dc=|Hzmtov3tRz6rGRLjtf7G8xj+86dUQ1Ov3TJJHuvPXxpYSX3n1Y+iBg==" ;
+        c:submissionDate  "2015-05-30 10:38:37.615" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3ae1e06a-e91b-3d0f-b1f7-d2294e2bc2a8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3ae1e06a-e91b-3d0f-b1f7-d2294e2bc2a8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/3ae1e06a-e91b-3d0f-b1f7-d2294e2bc2a8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dda705f0-c1d4-0920-14da-542a42f32955" ;
+        c:docDate          "2015-05-30 10:38:37.678" ;
+        c:docTitle         "" ;
+        c:document         "Canada's celebrity curry chef. The celebrity chef who brought posh curries to Canada" ;
+        c:id               "http://id.opencalais.com/SLVAHy7utxz095VTxEt6mw" .

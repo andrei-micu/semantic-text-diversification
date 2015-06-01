@@ -1,0 +1,52 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gm7Cq7kNNIOehMGM8MX/c5TXIJw=|Ixv6TNca7k/2UFZCJjqF6NtFTrMPhPpW7tyClGEtwo2kTa0ObiqFZA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:56.212" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6> ;
+        c:importance     "1" ;
+        c:name           "Nationality" ;
+        c:originalValue  "Nationality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b44aebf-d341-3c29-99c8-2088e1ee35e9> .
+
+<http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "50321fac-4263-f701-14da-5486b1432955" ;
+        c:docDate          "2015-05-30 10:44:56.478" ;
+        c:docTitle         "" ;
+        c:document         "You won't believe what he looks like now ... and who helped him. Ronnie Brewer's 425-pound weight-loss campaign has gone viral. He credits hard work, his two trainers and Taylor Swift." ;
+        c:id               "http://id.opencalais.com/InAy8cH-3MyNuLGEv6G2-g" .
+
+<http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e94061bd-6400-30cc-98d2-909b7ecf90f6> ;
+        c:importance     "1" ;
+        c:name           "Taylor Swift" ;
+        c:originalValue  "Taylor Swift" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3798152-a315-3a21-affa-1e046026b7b6> .

@@ -1,0 +1,36 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/808d8c56-1d08-3598-b8d8-2270c280920e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/808d8c56-1d08-3598-b8d8-2270c280920e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ehtbobw0BEZtq6RakdluWIDsA5Y=|UBtbdJmKrjyniRppkxXE539PpK0ZGNlUSwf9o5J1YD2ArYELNdEGFw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:33.627" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/808d8c56-1d08-3598-b8d8-2270c280920e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "72a119e5-46e3-604d-14da-540bfdb32f98" ;
+        c:docDate          "2015-05-30 09:36:33.829" ;
+        c:docTitle         "" ;
+        c:document         "Politics Are Set Aside as Thousands Mourn Officer Brian Moore. Nearly a week after he was shot and killed while on patrol in Queens, Officer Moore was laid to rest on Friday surrounded by a sea of blue." ;
+        c:id               "http://id.opencalais.com/0OYSvCQZ09r3zYc6maqxgw" .
+
+<http://d.opencalais.com/dochash-1/808d8c56-1d08-3598-b8d8-2270c280920e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/808d8c56-1d08-3598-b8d8-2270c280920e> ;
+        c:importance     "1" ;
+        c:name           "Brian Moore" ;
+        c:originalValue  "Brian Moore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/12ee035a-fa96-32e0-b9bf-ab0733872547> .
+
+<http://d.opencalais.com/dochash-1/808d8c56-1d08-3598-b8d8-2270c280920e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/808d8c56-1d08-3598-b8d8-2270c280920e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:importance     "1" ;
+        c:name           "Anthony Bourdain" ;
+        c:originalValue  "Anthony Bourdain" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d71bb4b-99a5-3b57-ae36-989fb2fd3dda> .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Q2ybMSeBmbAPiCDPLtiqh1DW58A=|BA+7l0dsHP7FVnQEDMcN4bkFs/1E1iFLrV/SGkmIgPLtvLYINGx8Tg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:33.223" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:score           "0.587" .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:importance     "2" ;
+        c:name           "Salumi" ;
+        c:originalValue  "Salumi (restaurant)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9265c137-180c-3f60-9d0e-fbe40eeaf5e8> .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:score           "0.649" .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:importance  "2" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3dc32086-62f1-55bb-14da-54ca527653ed" ;
+        c:docDate          "2015-05-30 09:49:37.092" ;
+        c:docTitle         "" ;
+        c:document         "'Parts Unknown': New Jersey. Anthony Bourdain goes back to his ancestral homeland of New Jersey on \"Parts Unknown.\"" ;
+        c:id               "http://id.opencalais.com/PXiRQvAtvqFgCNo4RLxc9Q" .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:score           "0.610" .
+
+<http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4bfaa16d-a218-31b5-aaa6-c286d5a6d1f2> ;
+        c:importance     "1" ;
+        c:name           "Anthony Bourdain: No Reservations" ;
+        c:originalValue  "Anthony Bourdain: No Reservations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/31acef2b-3b2c-3b1a-b54f-2a2c2e3b54b4> .

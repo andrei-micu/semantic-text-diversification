@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4a5a658d-3b66-3158-8506-c9c608fd4182/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4a5a658d-3b66-3158-8506-c9c608fd4182> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/4a5a658d-3b66-3158-8506-c9c608fd4182/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4a5a658d-3b66-3158-8506-c9c608fd4182> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|QM0aJ+Cltitc4wQWH+3X3HDp34Q=|D3lk+3/39Lf0WVj4PXF19rG31sp8j7oMtXaZ6i4cHBnrsy8rd/NWGQ==" ;
+        c:submissionDate  "2015-05-30 10:46:30.943" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4a5a658d-3b66-3158-8506-c9c608fd4182>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ee1aa9e9-12d7-2675-14da-549dd1f1927e" ;
+        c:docDate          "2015-05-30 10:46:31.021" ;
+        c:docTitle         "" ;
+        c:document         "Look at me! 28 selfies of the week. " ;
+        c:id               "http://id.opencalais.com/zN81lEEPN7rLvRjFfG2LFA" .

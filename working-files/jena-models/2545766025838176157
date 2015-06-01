@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9> ;
+        c:importance     "1" ;
+        c:name           "Heisman Trophy" ;
+        c:originalValue  "Heisman Trophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0cd95b3-10e3-3038-b2cd-155c6b81178a> .
+
+<http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d886bed0-ebaf-7e49-14da-5404f0313c98" ;
+        c:docDate          "2015-05-30 09:36:05.035" ;
+        c:docTitle         "" ;
+        c:document         "Quarterback Winston Files Counterclaim Against Rape Accuser. Heisman-winning quarterback Jameis Winston on Friday filed a counterclaim against a woman who accused him of raping her in 2012 while she was a student at Florida State University, court records show." ;
+        c:id               "http://id.opencalais.com/L2g5s6G19xErqPjqCuLiWw" .
+
+<http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9> ;
+        c:score           "0.892" .
+
+<http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9> ;
+        c:importance     "1" ;
+        c:name           "Civil law" ;
+        c:originalValue  "Civil law (common law)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/10fc1ad5-640c-39af-89ce-01d2a5020c68> .
+
+<http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|SISanqgL4B9eQgDqvbbDGv1/0/Y=|Tcho+aS5d8CNAcLDTDKhd3+ivFKHihcgRvzqJ/memVr+CuO42eMC/Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:04.739" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9> ;
+        c:score           "0.868" .
+
+<http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9> ;
+        c:importance     "1" ;
+        c:name           "Counterclaim" ;
+        c:originalValue  "Counterclaim" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/688f46b6-4c30-3c78-baaf-6a77c33498b7> .
+
+<http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/41212714-ceb5-3429-8007-5a45aeb01fa9> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

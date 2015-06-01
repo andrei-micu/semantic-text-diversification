@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:importance     "2" ;
+        c:name           "Fast food" ;
+        c:originalValue  "Fast food" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/779a99c7-4a04-336b-a88b-3eba145419a6> .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c618bc09-21aa-cfb5-14da-5440eda1df07" ;
+        c:docDate          "2015-05-30 09:40:10.630" ;
+        c:docTitle         "" ;
+        c:document         "McDonald’s under worker pressure. Thousands of workers and union supporters protest outside McDonald’s headquarters, as the fast food firm continues to face wage pressure." ;
+        c:id               "http://id.opencalais.com/5LUBbwz7RHjfpPs4GSuSAw" .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3zWi36rzG9sBK8RSvN9//qGD/NY=|RGP4xj8IGzoMiKtbPwBKspdGBWOACnh6fABkhTGizVVhT15vuqmV4Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:10.458" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:importance     "2" ;
+        c:name           "McDonald's" ;
+        c:originalValue  "McDonald's" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/86e6cc0a-460e-3fe6-92fb-d6f37d9ac3ed> .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:importance     "1" ;
+        c:name           "Dow Jones Industrial Average" ;
+        c:originalValue  "Dow Jones Industrial Average" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b82fa4a1-1d29-386e-a327-103788618023> .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:importance     "2" ;
+        c:name           "McDonald's legal cases" ;
+        c:originalValue  "McDonald's legal cases" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee8637bb-e73c-3d79-bf40-31066fd0c421> .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:importance     "2" ;
+        c:name           "Oak Brook, Illinois" ;
+        c:originalValue  "Oak Brook, Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4517ff6-996f-334e-a670-cb09f5340a8b> .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:importance     "1" ;
+        c:name           "Globalization" ;
+        c:originalValue  "Globalization" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2bb3eb9-e3b9-3bb5-9b60-9d9d4912a187> .
+
+<http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6ff8f69d-bec2-3356-b743-02ac2ac4435f> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .

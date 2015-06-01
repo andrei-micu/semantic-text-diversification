@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|OsO+3Rh397oye48azHENGlFw1xQ=|E1Ip5tZ3JcQS1c+KqSSWrHaeZD4ZTAqyvRHv9KPaHDCVspfK0MiuqA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:56.077" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "578913bc-ea2a-a8b2-14da-54de8cd32f98" ;
+        c:docDate          "2015-05-30 09:50:56.296" ;
+        c:docTitle         "" ;
+        c:document         "Greece open to compromise to seal deal this week: interior minister. ATHENS (Reuters) - Greece's government is confident of reaching a deal with its creditors this week and is open to pushing back parts of its anti-austerity program to make that happen, the country's interior minister said Saturday." ;
+        c:id               "http://id.opencalais.com/2ClhdRRtR3WppgORjhDhmA" .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:importance     "1" ;
+        c:name           "Economic policy" ;
+        c:originalValue  "Economic policy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff61d3e5-c149-3470-9e7d-011efb5f6837> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:importance     "2" ;
+        c:name           "Austerity" ;
+        c:originalValue  "Austerity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0929e3d7-9b7d-3a71-9758-3a6f7b4fb2f9> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:score           "0.887" .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:importance     "2" ;
+        c:name           "Anti-austerity protests" ;
+        c:originalValue  "Anti-austerity protests" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16fbae0e-9568-3930-8a1a-8c31a0b5d432> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:importance     "2" ;
+        c:name           "Greece" ;
+        c:originalValue  "Greece" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40d563ce-39a3-38f7-9bf1-745f4622e3b6> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:score           "0.772" .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93f468b7-14c4-39f4-a38a-403dcd36b78c> ;
+        c:importance     "2" ;
+        c:name           "Athens" ;
+        c:originalValue  "Athens" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c6139544-e2fe-3116-bf52-972f1d3dcff9> .

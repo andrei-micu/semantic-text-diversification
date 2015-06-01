@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:score           "0.851" .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:importance     "2" ;
+        c:name           "Pakistan" ;
+        c:originalValue  "Pakistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34f13d0f-f789-3a54-a8b6-be7f674bf78f> .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:importance     "1" ;
+        c:name           "Geography of Pakistan" ;
+        c:originalValue  "Geography of Pakistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3a02e55f-4b4b-38ea-add6-1cce5121b8b4> .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "33bcda84-fc8f-f4a1-14da-54a18df32955" ;
+        c:docDate          "2015-05-30 10:46:46.489" ;
+        c:docTitle         "" ;
+        c:document         "Pakistan Widens Inquiry Into Fake Diplomas. Heavy scrutiny has mounted over the past week for Axact, a Karachi-based software company that has made millions selling fake degrees through a sprawling empire of school websites." ;
+        c:id               "http://id.opencalais.com/KVILufLRn29GY6TPkhimvQ" .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:score           "0.985" .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:importance     "2" ;
+        c:name           "Karachi" ;
+        c:originalValue  "Karachi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0ec0579-373f-3469-a808-7e2c5bed9a04> .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nyY64fra7F6RTSqf8MF53Vv+Tic=|QFyz/7ecuXqkOZFjRJNQOjWe8y0KWiRzpLPMBqgVbkYP/0PRc0eUeg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:46.239" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7da553d5-7242-3760-8a62-4366db531863> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .

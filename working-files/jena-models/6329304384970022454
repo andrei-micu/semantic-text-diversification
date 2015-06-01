@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/81ba7077-c9e0-3d21-9ec9-a1ac60f496be/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/81ba7077-c9e0-3d21-9ec9-a1ac60f496be> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bGDx1VG75Rim8qOH28g9KwgOFts=|b/A5mhqTZzlwaUJmbEkl/4hc3ON3eIgZYyaL3vcRG5M1awiGdH4UBg==" ;
+        c:submissionDate  "2015-05-30 09:31:09.603" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/81ba7077-c9e0-3d21-9ec9-a1ac60f496be>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8d8086a8-0270-a3d5-14da-53bce23653ed" ;
+        c:docDate          "2015-05-30 09:31:09.681" ;
+        c:docTitle         "" ;
+        c:document         "'My customers ransacked my shop'. 'My customers ransacked my shop'" ;
+        c:id               "http://id.opencalais.com/MJdPWvFq-vsYy4E7vuDXQQ" .
+
+<http://d.opencalais.com/dochash-1/81ba7077-c9e0-3d21-9ec9-a1ac60f496be/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/81ba7077-c9e0-3d21-9ec9-a1ac60f496be> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

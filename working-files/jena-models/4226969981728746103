@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:importance     "2" ;
+        c:name           "Southeast Asia" ;
+        c:originalValue  "Southeast Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/66c1c264-e9e7-3532-8972-7d2cb73c8b0b> .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:importance     "2" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:importance     "1" ;
+        c:name           "Human trafficking" ;
+        c:originalValue  "Human trafficking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67364582-cb6c-3ccb-91b7-9c993c0031b9> .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:importance     "2" ;
+        c:name           "International criminal law" ;
+        c:originalValue  "International criminal law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/502e5f4f-608e-389d-8cc0-99676b785933> .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|BRF6rGNBkpvha9Ay0kwSjyUlDpc=|Wg7/Rh66vcoS1D2GfPnYUXqvuJ1VoRHjTDM3qMFeATCYX3zdOK8MZA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:29.780" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dce41389-ab22-7bcf-14da-540b0d41927e" ;
+        c:docDate          "2015-05-30 10:36:29.874" ;
+        c:docTitle         "" ;
+        c:document         "Thailand questions 117 migrants as it races to meet crackdown deadline. RATTAPHUM, Thailand (Reuters) - Thai authorities on Saturday questioned more than 100 migrants discovered in the country's south to determine whether they were victims of human trafficking, as Thailand races to meet a deadline to uncover people smuggling camps within its borders." ;
+        c:id               "http://id.opencalais.com/-Xr2k8T3PbfpVA3BJAb8ZA" .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:importance     "1" ;
+        c:name           "Smuggling" ;
+        c:originalValue  "Smuggling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d82e359-7352-3829-8709-c704c84f1ab7> .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a07903b-ad71-3743-9f3f-0039fb328a27> ;
+        c:importance     "1" ;
+        c:name           "Thailand" ;
+        c:originalValue  "Thailand" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43d98d35-8100-3d72-8328-09d463949643> .

@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a> ;
+        c:importance     "1" ;
+        c:name           "Deutsche Bank" ;
+        c:originalValue  "Deutsche Bank" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61a0663-d8d3-3abd-9a02-f02ed9d3384e> .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a> ;
+        c:importance     "1" ;
+        c:name           "Investment" ;
+        c:originalValue  "Investment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f974021-59af-3718-a6ea-cdb8151cb2c1> .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a> ;
+        c:importance     "2" ;
+        c:name           "Financial economics" ;
+        c:originalValue  "Financial economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bb9859-75e0-3b28-acdb-61f6b786cc4c> .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a> ;
+        c:importance     "2" ;
+        c:name           "Bank" ;
+        c:originalValue  "Bank" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd03394e-719b-3719-a44c-b8452d3840a4> .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|CpoK5CdRiZ/XjqOpwmrGVKr0k0A=|Qf+POYU9S4KpNLTrCX6TE/mXmQwXKwR/j51DaP6JLCTqxUoOAQIoqg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:03.528" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a> ;
+        c:importance     "1" ;
+        c:name           "Primary dealers" ;
+        c:originalValue  "Primary dealers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/427712a5-3095-3dc3-ad13-c9b3cd04e1c5> .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a> ;
+        c:importance     "2" ;
+        c:name           "Economy of Germany" ;
+        c:originalValue  "Economy of Germany" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/294763f8-cd81-3e7d-9a4b-d672d88f1954> .
+
+<http://d.opencalais.com/dochash-1/82555ae8-cdf2-3185-ab6e-985ce44ee01a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7df26111-a088-fd3b-14da-538f7481927e" ;
+        c:docDate          "2015-05-30 10:28:03.606" ;
+        c:docTitle         "" ;
+        c:document         "\"Smaller and simpler\" mantra rings through banking boardrooms. LONDON (Reuters) - Deutsche Bank's plan to jettison much of its German retail bank and withdraw from one in ten countries sees it join a growing list of banks choosing to shrink and simplify to survive." ;
+        c:id               "http://id.opencalais.com/LinvYO4DMe6290g3-3roQA" .

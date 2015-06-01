@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d8553044-71a7-3bd3-b4eb-8d4729b910cf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d8553044-71a7-3bd3-b4eb-8d4729b910cf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/d8553044-71a7-3bd3-b4eb-8d4729b910cf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f6ff01d6-d204-313b-14da-545cd7071d39" ;
+        c:docDate          "2015-05-30 09:42:04.862" ;
+        c:docTitle         "" ;
+        c:document         "Oil spill 5 times worse than thought?. [Breaking news update, posted at 8:02 p.m. ET]" ;
+        c:id               "http://id.opencalais.com/c70JK2vQBarZNig4EmV4bQ" .
+
+<http://d.opencalais.com/dochash-1/d8553044-71a7-3bd3-b4eb-8d4729b910cf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d8553044-71a7-3bd3-b4eb-8d4729b910cf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|MZbg5M/3g72d55gtUXh4PgM74rU=|cnhQmIAkGHqMHkG6YxtGKsAqe2ocImvMswzfUtZwuP8uCqZ+RCFduQ==" ;
+        c:submissionDate  "2015-05-30 09:42:04.784" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

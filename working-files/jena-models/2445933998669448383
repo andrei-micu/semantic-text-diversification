@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0b615242-0a45-356a-967f-d6cc0832829a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a4f284e3-45c3-9ebb-14da-53e76bd4551f" ;
+        c:docDate          "2015-05-30 09:34:03.900" ;
+        c:docTitle         "" ;
+        c:document         "Desert covers vast underground reservoir . " ;
+        c:id               "http://id.opencalais.com/yrwOMowe6gYa7loQgV-u8A" .
+
+<http://d.opencalais.com/dochash-1/0b615242-0a45-356a-967f-d6cc0832829a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b615242-0a45-356a-967f-d6cc0832829a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|OU2K8RUCMsXUu51KbzoE9o1mlQ8=|f7pD3bXlW9izD+mwsjwUZJUzWrSL7QDyojNRUt020GeozTV8K4V7lA==" ;
+        c:submissionDate  "2015-05-30 09:34:03.837" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0b615242-0a45-356a-967f-d6cc0832829a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0b615242-0a45-356a-967f-d6cc0832829a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

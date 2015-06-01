@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780> ;
+        c:importance     "1" ;
+        c:name           "Slavic" ;
+        c:originalValue  "Slavic" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14d19fe0-05cd-336d-a723-5421938171c3> .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "81047dcf-62c9-e630-14da-53a2c9a1927e" ;
+        c:docDate          "2015-05-30 10:29:22.839" ;
+        c:docTitle         "" ;
+        c:document         "Ukraine says separatists step up attacks, Poroshenko warns of 'threat of war'. KIEV (Reuters) - Ukraine's leader warned on Tuesday that a war with pro-Russian separatists could still break out again as its military said the rebels had greatly stepped up attacks and widened the area of their operations despite a ceasefire." ;
+        c:id               "http://id.opencalais.com/koRMTBQdLfyO-SC7EIELzw" .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780> ;
+        c:importance     "2" ;
+        c:name           "Ukraine" ;
+        c:originalValue  "Ukraine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad48dbb1-870b-38ad-b593-d62be5251df0> .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|sQepON7rtfC5EnMDn498QKkagJw=|YIDywoIvIy/ydtuj8vvmx0QtTGJf3q5VrQaWLXUOaHhdcQKFYiLxIQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:22.714" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7b29c28-9fdf-3982-888a-a7d46384b780> ;
+        c:importance     "1" ;
+        c:name           "Petro Poroshenko" ;
+        c:originalValue  "Petro Poroshenko" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/81b419c6-a990-3a59-b61f-c9b2ff73bf85> .

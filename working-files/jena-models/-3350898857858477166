@@ -1,0 +1,139 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "2" ;
+        c:name           "Crime prevention" ;
+        c:originalValue  "Crime prevention" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab11aca4-5989-35f1-be71-e5b8f364fb31> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "2" ;
+        c:name           "Closed-circuit television" ;
+        c:originalValue  "Closed-circuit television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6fd9051-b0ed-379f-b6a0-0efd70d597f4> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "2" ;
+        c:name           "Camera" ;
+        c:originalValue  "Camera" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7cca14b1-f009-3f67-a289-e98f1960de0b> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "2" ;
+        c:name           "Security engineering" ;
+        c:originalValue  "Security engineering" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47f55eaa-ad17-3e9c-96a6-51d6599d9840> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "2" ;
+        c:name           "Surveillance" ;
+        c:originalValue  "Surveillance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2899486a-eede-357a-8feb-cc555eede3ea> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|JSbcsyrDRVeqOy9M/V+NtERWVNo=|MJoeNyxeTlbheeRVN5evoy3bAfUnw0+/qHO0AwqD2q5iDa3sfOuzlA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:42.033" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "1" ;
+        c:name           "Public safety" ;
+        c:originalValue  "Public safety" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db6fb8a-c9ac-3a49-a453-ad0eda49d665> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "2" ;
+        c:name           "Optical devices" ;
+        c:originalValue  "Optical devices" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c2c7a06b-30a2-3986-9b61-23af45e6e960> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:score           "0.541" .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "2" ;
+        c:name           "Video" ;
+        c:originalValue  "Video" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/09856956-c3ec-3fe1-a5c9-90224c913f97> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c> ;
+        c:importance     "1" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/fd3c6b2d-e5bd-3d59-898c-1ffb4160396c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ff8c49a5-92d4-fd44-14da-5448a311df07" ;
+        c:docDate          "2015-05-30 09:40:42.298" ;
+        c:docTitle         "" ;
+        c:document         "Mysterious object caught on camera at museum . Surveillance cameras at the U. S. Space Walk Hall of Fame Museum captures a mysterious object on camera. CNN affiliate WKMG has more." ;
+        c:id               "http://id.opencalais.com/s2l-8HeTwkAr1Cd0CH9*BQ" .

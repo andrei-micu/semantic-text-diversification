@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:importance     "1" ;
+        c:name           "Aviation" ;
+        c:originalValue  "Aviation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89c4a16a-35bc-3191-8c7b-2b6daa04e5d7> .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:importance     "2" ;
+        c:name           "Aerospace engineering" ;
+        c:originalValue  "Aerospace engineering" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a903e535-9cff-396f-8e1d-81de574d019f> .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:score           "0.560" .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:importance     "2" ;
+        c:name           "United States Capitol" ;
+        c:originalValue  "United States Capitol" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2f4981d0-b858-3077-81ec-996ad2116616> .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:importance     "1" ;
+        c:name           "Autogyro" ;
+        c:originalValue  "Autogyro" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8652e45f-9297-3c7e-9ce3-ff2b6e5b6dac> .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "73afd913-fc3f-aef6-14da-54667404551f" ;
+        c:docDate          "2015-05-30 09:42:44.472" ;
+        c:docTitle         "" ;
+        c:document         "Pilot charged over US Capitol stunt. A US man who flew a gyrocopter into Washington's restricted airspace, landing at the US Capitol, has been charged with violating national defence airspace." ;
+        c:id               "http://id.opencalais.com/ZuzeMI0jwEtlUBd8gicKrg" .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|EeQIDxOLnC5UiyIa2jkKjRWcsoY=|FHUrrCktt4AE2whDDorfNykEqepwIFOOUT+iWachKaLKMsTGstGkew==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:44.160" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:importance     "1" ;
+        c:name           "Air traffic control" ;
+        c:originalValue  "Air traffic control" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/278cc02b-019b-3c68-983c-2b9649176b38> .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:importance     "2" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:importance     "2" ;
+        c:name           "Airspace" ;
+        c:originalValue  "Airspace" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/462029c2-59c6-3c61-97f8-34ba82e1c124> .
+
+<http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1d19926e-b77e-3545-91e9-bc0e575cabbb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

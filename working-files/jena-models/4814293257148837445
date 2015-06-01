@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4d268b45-1f6c-3f43-b923-c0bef4419584>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4255c270-1daa-278d-14da-53941401df07" ;
+        c:docDate          "2015-05-30 09:28:22.542" ;
+        c:docTitle         "" ;
+        c:document         "Baltimore man dances through riots. Baltimore 'Michael Jackson' tries to keep the peace" ;
+        c:id               "http://id.opencalais.com/U3s1v*JPBo70bzI012-vjw" .
+
+<http://d.opencalais.com/dochash-1/4d268b45-1f6c-3f43-b923-c0bef4419584/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4d268b45-1f6c-3f43-b923-c0bef4419584> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4W2VuahsdE7mNXZ9rnlns/Tssnw=|dAAlaUBEYxGcDoRbK1NTzZJ4VpMwb+rx9hOIpJV+5oIVvd+aLMluUw==" ;
+        c:submissionDate  "2015-05-30 09:28:22.480" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4d268b45-1f6c-3f43-b923-c0bef4419584/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4d268b45-1f6c-3f43-b923-c0bef4419584> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

@@ -1,0 +1,144 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/cat/5>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:score           "0.553" .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:importance     "2" ;
+        c:name           "Anderson Cooper" ;
+        c:originalValue  "Anderson Cooper" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1078799-bea1-3d9b-b61e-5a30d1f5dbc1> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:score           "0.667" .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:score           "0.694" .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2a7754a2-d33f-26fa-14da-5394ac91df07" ;
+        c:docDate          "2015-05-30 09:28:25.263" ;
+        c:docTitle         "" ;
+        c:document         "Protesting son: 'It was World War III' after mom saw me. The Baltimore son who was slapped by his mother several times and pulled out of protests on live TV speaks to CNN's Anderson Cooper." ;
+        c:id               "http://id.opencalais.com/puUbSLaHfEOfyEflyYPzFA" .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:importance     "1" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:score           "0.867" .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5z082DuzmtDlgMN1b5bSVvWw4pg=|i/UnUJK+Xb/ymCFtD1HnM7r+HOon4gE1+2ljiqIibGZbkyNM3/7NnQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:24.905" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:score           "0.960" .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d0637d38-43b4-35d7-b95c-f54aa8a88a4f> ;
+        c:importance     "2" ;
+        c:name           "Vanderbilt family" ;
+        c:originalValue  "Vanderbilt family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72483f9a-c903-36fa-b8e4-c84993b5121d> .

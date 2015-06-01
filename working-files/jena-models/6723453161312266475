@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|IOY3rXIWpUUuKxb5iOFupXIzB4Q=|lOUGt31qM0bCUpQkAHsCareP1cSGO2BFtIHA0fJUYnIcbmUQf0g+fg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:28.054" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:importance     "2" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:importance     "1" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:importance     "1" ;
+        c:name           "WWNY-TV" ;
+        c:originalValue  "WWNY-TV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cb20d7e5-dfd2-307b-88fd-5f7cdd3a6094> .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6> ;
+        c:score           "0.967" .
+
+<http://d.opencalais.com/dochash-1/f3f54be3-691c-3b4d-a974-eb20e49e6fd6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "286dda84-2ec3-40a5-14da-53ed55613c98" ;
+        c:docDate          "2015-05-30 09:34:28.256" ;
+        c:docTitle         "" ;
+        c:document         "Boy, 5, cuffed, put in cop car at school. CNN affiliate WWNY reports that a 5-year-old boy was handcuffed and placed in the backseat of a police car after an incident at school." ;
+        c:id               "http://id.opencalais.com/NKoOgd7EqvveS*RC9FAUwA" .

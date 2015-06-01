@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b9c479f2-6bc6-36e1-b5e8-3b34cd4d7af5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "37f9871e-6356-dd9a-14da-537ccdb23ab1" ;
+        c:docDate          "2015-05-30 10:26:47.194" ;
+        c:docTitle         "" ;
+        c:document         "3.69-carat diamond found in Arkansas park. Can a prayer for diamonds actually turn up a gem?" ;
+        c:id               "http://id.opencalais.com/BPjMrkiKEeuWqCpZhgWkVA" .
+
+<http://d.opencalais.com/dochash-1/b9c479f2-6bc6-36e1-b5e8-3b34cd4d7af5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b9c479f2-6bc6-36e1-b5e8-3b34cd4d7af5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/b9c479f2-6bc6-36e1-b5e8-3b34cd4d7af5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9c479f2-6bc6-36e1-b5e8-3b34cd4d7af5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gUerKjLPy9iXrI1BdXnb+8pYZ+g=|WDIE6iw/KMx19JHZOcoxTOqZRD14Mf+k/x8Hfh0PlNpJsBUsdldwRw==" ;
+        c:submissionDate  "2015-05-30 10:26:47.131" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

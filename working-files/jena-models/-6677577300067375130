@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance     "2" ;
+        c:name           "Palestinian militant groups" ;
+        c:originalValue  "Palestinian militant groups" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74d8f2c2-380f-39ba-a3bb-dd1213694cfd> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance     "2" ;
+        c:name           "Hamas" ;
+        c:originalValue  "Hamas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4018426f-b2e3-3210-a800-17722fda1126> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance     "1" ;
+        c:name           "Gaza Strip" ;
+        c:originalValue  "Gaza Strip" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4ec9bd76-c881-38b9-a090-8cead4de7a31> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d2b9d78a-f88d-28fc-14da-54adb9a1df07" ;
+        c:docDate          "2015-05-30 09:47:36.417" ;
+        c:docTitle         "" ;
+        c:document         "Under Cover Of Conflict, Hamas Killed Palestinians, Amnesty Alleges. The human rights organization says Hamas deliberately killed at least 23 Palestinians during the war with Israel last summer. Those killed were accused by Hamas of collaborating with Israel." ;
+        c:id               "http://id.opencalais.com/-tBigantwEZCqu8ZNx6aWA" .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance     "2" ;
+        c:name           "Gaza War" ;
+        c:originalValue  "Gaza War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a7f7a06-d7ef-34a8-9a0d-eed37e377776> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance     "1" ;
+        c:name           "Palestinian territories" ;
+        c:originalValue  "Palestinian territories" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/35759439-60e8-33d4-a09e-111a4c23f6a9> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance     "2" ;
+        c:name           "Islam" ;
+        c:originalValue  "Islam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a1906a7-789f-31cd-8bd9-993b383e794a> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance     "2" ;
+        c:name           "International Law and the Gaza War" ;
+        c:originalValue  "International Law and the Gaza War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82c903aa-515f-336e-b6f6-76328e1b59c5> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance     "1" ;
+        c:name           "Israeli–Palestinian conflict" ;
+        c:originalValue  "Israeli–Palestinian conflict" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c8d6379-5fe6-32ad-a436-54853b946455> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:importance     "2" ;
+        c:name           "Gaza" ;
+        c:originalValue  "Gaza" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b65cd9c1-9dc1-366a-95c4-da2c665ff89f> .
+
+<http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/febf345e-aaaa-3d7d-ac17-8b8056fbcf88> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|do9OpU9M7lkD16jVz5eYoHPv2lI=|YNDANu7Iv37pmuZx6EoZRBNZuU16JoP19t0ccwrBSuyXaD2ui0RXyQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:36.105" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

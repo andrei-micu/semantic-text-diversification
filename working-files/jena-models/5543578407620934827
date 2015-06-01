@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/941c27c3-f8ab-30af-8d74-0105efe53756/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/941c27c3-f8ab-30af-8d74-0105efe53756> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|VZocz8OVZUzzhX8rFHgeT1e6fbI=|FVgmuoGp39mKJmPM1/l/AoIg7GOQ7Vc8uWeUfj7R6ExEDk7pk5ACcw==" ;
+        c:submissionDate  "2015-05-30 09:44:06.935" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/941c27c3-f8ab-30af-8d74-0105efe53756>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "60d14853-a37d-d32f-14da-547aa9732f98" ;
+        c:docDate          "2015-05-30 09:44:07.044" ;
+        c:docTitle         "" ;
+        c:document         "Is this the 'true face' of Shakespeare?. Is this the Bard I see before me?" ;
+        c:id               "http://id.opencalais.com/bsceQO0-pm4tTSnt0bW8IQ" .
+
+<http://d.opencalais.com/dochash-1/941c27c3-f8ab-30af-8d74-0105efe53756/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/941c27c3-f8ab-30af-8d74-0105efe53756> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

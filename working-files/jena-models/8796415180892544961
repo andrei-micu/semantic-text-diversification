@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:importance     "1" ;
+        c:name           "Atlantic Ocean" ;
+        c:originalValue  "Atlantic Ocean" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d87ec13d-1d78-3fbe-8587-2e1d51d9fbc4> .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:importance     "2" ;
+        c:name           "Geography of North America" ;
+        c:originalValue  "Geography of North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4953ac1c-3f88-3c4f-b079-6ff903751bbf> .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bbe69f70-53e7-cd84-14da-54dadc513c98" ;
+        c:docDate          "2015-05-30 09:50:41.121" ;
+        c:docTitle         "" ;
+        c:document         "Texas seeks presidential disaster declaration after storms kill 21. DALLAS (Reuters) - Texas Governor Greg Abbott sought a presidential disaster declaration on Friday after severe weather this week killed at least 21 people, caused massive flooding and prompted evacuations." ;
+        c:id               "http://id.opencalais.com/R8yz79-c2wJ4cRuQ1iQzRg" .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:importance     "2" ;
+        c:name           "Floods in the United States" ;
+        c:originalValue  "Floods in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6067ce14-7ce6-33be-86e7-ea708af5198d> .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:importance     "1" ;
+        c:name           "Atlantic hurricane season" ;
+        c:originalValue  "2008 Atlantic hurricane season" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba03ce8b-bf5e-35a8-a5aa-f466728ad1a2> .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|L4sH7xzyt8X/paGN2TMfF5G0KdM=|Vn9Odyul/SOiY7/Te+VkCKYBGShozidWZMrlIH2rYMLX9Y0UBF0cOg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:40.965" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:importance     "2" ;
+        c:name           "Meteorology" ;
+        c:originalValue  "Meteorology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/897c2d6f-2365-35ef-8355-f4c70726feaa> .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:score           "0.941" .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9efe1b7-afb2-346c-aeeb-3a7c2c8ef1e2> ;
+        c:importance     "1" ;
+        c:name           "Mexico" ;
+        c:originalValue  "2010 in Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e30aa82-5812-3639-ad43-762891af3a64> .

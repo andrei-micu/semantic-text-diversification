@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:importance     "2" ;
+        c:name           "Extradition" ;
+        c:originalValue  "Extradition" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a845b28-2c59-32c2-b5ad-1c4575e7237b> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:importance     "1" ;
+        c:name           "Cinema of France" ;
+        c:originalValue  "Cinema of France" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43170403-3241-324b-94b9-4e1c12dae26e> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:importance     "2" ;
+        c:name           "Lorenz Erni" ;
+        c:originalValue  "Lorenz Erni" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c35f794-c366-31e1-a93f-764fc1f3fe8d> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:importance     "2" ;
+        c:name           "Polanski" ;
+        c:originalValue  "Polanski (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/09ebea6a-5da0-3555-a2b0-8de0663c2070> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:importance     "1" ;
+        c:name           "Cinema of Poland" ;
+        c:originalValue  "Cinema of Poland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a654e246-8200-3b63-86b8-82a39ab3f018> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9cb8611c-cb28-42ad-14da-549129932955" ;
+        c:docDate          "2015-05-30 10:45:39.300" ;
+        c:docTitle         "" ;
+        c:document         "Polish court adjourns Polanski extradition case until mid-September. WARSAW (Reuters) - A Polish court on Friday adjourned until mid-September a hearing on whether to extradite filmmaker Roman Polanski to the United States over a 1977 child sex conviction." ;
+        c:id               "http://id.opencalais.com/1drJ5fMj*tWYq85xyXg4uA" .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:importance     "2" ;
+        c:name           "Roman Polanski" ;
+        c:originalValue  "Roman Polanski" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50549876-a825-3eb4-90ee-bb07404e6f1a> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:importance     "2" ;
+        c:name           "Roman Polanski sexual abuse case" ;
+        c:originalValue  "Roman Polanski sexual abuse case" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bc55fb52-5d16-3012-a29f-5081d281843c> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/96f9de06-b511-3aec-bbb0-3b5076ffc090> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9y5AJnBGBEZ8nw2CUs0IW40P0zQ=|lglXnXrFN5e8jtRE/V8MGeZSxRtENHfCyJ+9Vomm2QdQuEMr/zFD7Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:39.097" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

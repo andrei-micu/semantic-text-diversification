@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5> ;
+        c:importance     "2" ;
+        c:name           "Chinese language" ;
+        c:originalValue  "Chinese language" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2596417-c305-38b9-b1b0-7e74c3ea644a> .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5> ;
+        c:importance     "1" ;
+        c:name           "Chinese culture" ;
+        c:originalValue  "Chinese culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3483fca4-84fb-3722-b98f-c4b7042e1e8f> .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3f2bd119-1b2a-75d8-14da-5485a3149095" ;
+        c:docDate          "2015-05-30 10:44:52.045" ;
+        c:docTitle         "" ;
+        c:document         "Killing in the heartland; heartbreak in China. A Chinese family chooses rural America for their daughter's college education. And thus she becomes part of a new wave of Chinese students to call Iowa home. But her unsolved death has shattered the one-child couple. And the last person to see her alive, her Chinese boyfriend, has disappeared." ;
+        c:id               "http://id.opencalais.com/YqXgDLo5Kcci7FOcdaA98w" .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5> ;
+        c:importance     "1" ;
+        c:name           "Religion in China" ;
+        c:originalValue  "Religion in China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f23e97e-30a3-39b5-b815-dadb57a43955> .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5> ;
+        c:importance     "2" ;
+        c:name           "Political philosophy" ;
+        c:originalValue  "Political philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77603a14-4820-3d0d-824b-af4fcd03b8bb> .
+
+<http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a00c04dc-600b-3197-8978-5ba74307d9f5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LDbkxKJcYA2qldQUHBFIoKYcO58=|ikDsw1m6n/4YabEBeJuvRudBhvN4tPoPVVHVD7MkfdVQK3T1H3GYPg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:51.889" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

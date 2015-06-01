@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec> ;
+        c:importance     "2" ;
+        c:name           "New York" ;
+        c:originalValue  "New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/461159b1-6be8-3031-b1dd-039ee48ba761> .
+
+<http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec> ;
+        c:importance     "1" ;
+        c:name           "Flatbush Avenue" ;
+        c:originalValue  "Flatbush Avenue" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6436ea70-7b39-3760-8d77-5a75ee2740ea> .
+
+<http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec> ;
+        c:importance     "1" ;
+        c:name           "Geography of New York" ;
+        c:originalValue  "Geography of New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7ef5cbf2-336e-3ab2-b4e8-b6b422a8e6ab> .
+
+<http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a36358f3-e7ce-c204-14da-5374ae31df07" ;
+        c:docDate          "2015-05-30 09:26:14.062" ;
+        c:docTitle         "" ;
+        c:document         "Fatal Shooting Outside Brooklyn Church Was Set Off by Longtime Dispute, Police Say. A law enforcement official said that lingering ill will played a role in instigating the gun battle, with at least 15 shots fired, outside a church on Flatbush Avenue." ;
+        c:id               "http://id.opencalais.com/nvATbgzprKO0RZyYvx0wCw" .
+
+<http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Xq4KNhesOvdHi/oeGj83dn5k00Q=|CTM5kmeUsZnLXCRu+rCoAuPOiXBrYGB/lfj7LNojoYCvhGCgUldWNg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:26:13.859" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec> ;
+        c:importance     "1" ;
+        c:name           "Brooklyn" ;
+        c:originalValue  "Brooklyn" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16ceaffd-ce4b-3e4c-942e-607dc9451df2> .
+
+<http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f8eb18c1-bcde-30cb-a55f-9277a67919ec> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

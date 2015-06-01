@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46> ;
+        c:importance     "1" ;
+        c:name           "Queens" ;
+        c:originalValue  "Queens" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/53cca1f1-a27c-3976-8191-37a6bb162ad0> .
+
+<http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46> ;
+        c:importance     "2" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46> ;
+        c:importance     "2" ;
+        c:name           "Octopus" ;
+        c:originalValue  "Octopus" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/41d99540-7cd6-3a24-86b7-687799beff79> .
+
+<http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|caA/q1RLdAKrHoLs3RptI/oXno8=|jDM/k7vcJpjoMiXFQJ6SeKOnmyABepAvvP0M4QTPEUiaibarlj4SBw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:59.005" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46> ;
+        c:importance     "1" ;
+        c:name           "Brooklyn" ;
+        c:originalValue  "Brooklyn" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16ceaffd-ce4b-3e4c-942e-607dc9451df2> .
+
+<http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d150c849-1957-2489-14da-54875fd760f9" ;
+        c:docDate          "2015-05-30 10:44:59.208" ;
+        c:docTitle         "" ;
+        c:document         "Neighborhood Joint: Strange, Beloved, Local, Endangered: Five Years of the Neighborhood Joint. In a city of change, some small, beloved local establishments, like an ices stand in Queens and a place to buy octopus in Brooklyn, endure." ;
+        c:id               "http://id.opencalais.com/rZFc2rNfK6cDvnpJsvG9Fg" .
+
+<http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46> ;
+        c:importance     "1" ;
+        c:name           "Boroughs of New York City" ;
+        c:originalValue  "Boroughs of New York City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/de7b2c0c-9ef4-3adf-9d77-2d41c4262f9a> .
+
+<http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46> ;
+        c:importance     "2" ;
+        c:name           "Taxonomy" ;
+        c:originalValue  "Taxonomy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e500df30-792c-3e43-9778-5aab66b2614d> .
+
+<http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b7468f8e-1e9e-34d2-9911-67782caa6f46> ;
+        c:importance     "2" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .

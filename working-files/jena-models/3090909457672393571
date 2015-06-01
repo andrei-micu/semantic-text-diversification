@@ -1,0 +1,76 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8> ;
+        c:importance     "1" ;
+        c:name           "Political status of Taiwan" ;
+        c:originalValue  "Political status of Taiwan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c8a8b8d-e2f8-3f05-a3c4-308732e1cc5f> .
+
+<http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8> ;
+        c:importance     "2" ;
+        c:name           "South China Sea" ;
+        c:originalValue  "South China Sea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee225378-329b-3ead-bb63-6915310827d1> .
+
+<http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7f5ec358-aa8f-0c88-14da-54d95b313c98" ;
+        c:docDate          "2015-05-30 09:50:34.943" ;
+        c:docTitle         "" ;
+        c:document         "U.S. says China's island-building erodes security; Beijing angered. SINGAPORE (Reuters) - U.S. Defense Secretary Ash Carter said on Saturday that China's island-building in the South China Sea was undermining security in the Asia-Pacific, drawing a scathing response from the foreign ministry in Beijing." ;
+        c:id               "http://id.opencalais.com/Ae-UXE1dmz68sL9RyPGveA" .
+
+<http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8> ;
+        c:importance     "2" ;
+        c:name           "Sovereignty" ;
+        c:originalValue  "Sovereignty" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4ad81576-6808-3c5b-a6cf-e9dacc5ff401> .
+
+<http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|C8JjAHvjF68t/3baiEBcp5soH8A=|K83+jWZvJadBKHKb1ST4c1gWZyUqQdWXWY5tGXQ/50sNl7LhkYgZpA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:34.803" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a2f2298c-6f03-34cb-beb8-cd9ae41bc2e8> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .

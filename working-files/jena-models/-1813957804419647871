@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|amX4y30ose64tI0ZbAykMzspGBs=|iaFrPN8HO7ttzv5Jm5KxAGdQj+GDH/C6VPHu84/v/qCXa7LBnbscTg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:08.191" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb> ;
+        c:importance     "2" ;
+        c:name           "Late Show with David Letterman" ;
+        c:originalValue  "Late Show with David Letterman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70cb585b-b7f0-352f-862b-81cea1ae58f4> .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb> ;
+        c:importance     "2" ;
+        c:name           "The Tonight Show" ;
+        c:originalValue  "The Tonight Show" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ea207ef4-47e8-35b3-ac3d-9caccdad314d> .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb> ;
+        c:importance     "1" ;
+        c:name           "David Letterman" ;
+        c:originalValue  "David Letterman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54eef261-5ad0-34ea-935b-60819ce936b6> .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b801e323-de8d-150e-14da-549843f71d39" ;
+        c:docDate          "2015-05-30 09:46:08.456" ;
+        c:docTitle         "" ;
+        c:document         "Huge audience for Letterman finale. After a 33-year career, The Tonight Show host David Letterman's goodbye attracts more than 13 million viewers" ;
+        c:id               "http://id.opencalais.com/WQ-VA2wVpfdRKxfpNUe3RQ" .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb> ;
+        c:importance     "2" ;
+        c:name           "Late Night with David Letterman" ;
+        c:originalValue  "Late Night with David Letterman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f0db2dc0-899d-37e3-a25f-c96ecfd200e8> .
+
+<http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/01daa860-6868-37c2-b132-31825a06a3cb> ;
+        c:score           "1.000" .

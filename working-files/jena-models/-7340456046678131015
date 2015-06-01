@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988> ;
+        c:importance     "1" ;
+        c:name           "Waffle House" ;
+        c:originalValue  "Waffle House" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3a9a8273-c03e-3d0e-8aaa-d79b79b8b15c> .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|OJxhh9mMvgL4tt0eAAVLs/DWIS4=|Ms9Hr1j21nw2DGTDOfsErYMUoDAObNx/fAjEk+k560jJnA4TSvysiw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:20.662" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988> ;
+        c:importance     "2" ;
+        c:name           "WAFF" ;
+        c:originalValue  "WAFF (TV)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3928bfe2-d7be-3d02-94e4-7adcdc8e084b> .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988> ;
+        c:importance     "1" ;
+        c:name           "WSFA" ;
+        c:originalValue  "WSFA" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/215f2cbb-110f-3dd9-aaa4-0ce0532ab8ba> .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4d8253a7-b7bd-a703-14da-546f5d6719b3" ;
+        c:docDate          "2015-05-30 10:43:20.787" ;
+        c:docTitle         "" ;
+        c:document         "5-year-old's touching gesture goes viral . A 5-year-old boy offered to feed a homeless man at a Waffle House. CNN affiliate WSFA reports." ;
+        c:id               "http://id.opencalais.com/s*L1PA23gvryQ4W0dR7XNw" .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988> ;
+        c:importance     "2" ;
+        c:name           "Homelessness" ;
+        c:originalValue  "Homelessness" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ff3f512-4acb-35df-bce0-2184407c542b> .
+
+<http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/65aaa2e5-0d54-3ff8-91ae-b8e056dcc988> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

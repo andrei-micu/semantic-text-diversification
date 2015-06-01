@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2> ;
+        c:importance     "1" ;
+        c:name           "Submarine" ;
+        c:originalValue  "Submarine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5039f393-83bc-3959-b4db-1718565b806b> .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "363fca1a-afe8-12ac-14da-53dabcb23ab1" ;
+        c:docDate          "2015-05-30 10:33:12.023" ;
+        c:docTitle         "" ;
+        c:document         "NATO starts anti submarine exercise in North Sea as tension with Russia rise. ABOARD THE USS VICKSBURG, North Sea (Reuters) - NATO launched one of its biggest-ever anti-submarine exercises in the North Sea on Monday, inviting non-member Sweden for the first time, amid increasing tensions between Russia and its northern neighbors." ;
+        c:id               "http://id.opencalais.com/u5ffPOTwF1N2SK3Wht9aRg" .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2> ;
+        c:importance     "1" ;
+        c:name           "Military" ;
+        c:originalValue  "Military" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/628c4e54-7bba-3c87-80aa-ecabcf30215e> .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2> ;
+        c:score           "0.952" .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2> ;
+        c:importance     "2" ;
+        c:name           "NATO" ;
+        c:originalValue  "NATO" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8c6fd685-273d-3b89-8c78-a673751da543> .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fdq5Ug0In2dBdRnrf2KMKuxNJMA=|ki7vvCStD0RMlPyAvxRGE32syZAZxI9Qvrec/BvFXh0K6ouBeK30Sg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:11.883" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2> ;
+        c:score           "0.918" .
+
+<http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/58c36fde-5f46-3e5f-ad60-a5b05d99b6e2> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .

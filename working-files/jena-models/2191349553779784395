@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:importance     "2" ;
+        c:name           "Red Sea" ;
+        c:originalValue  "Red Sea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a8e7ef22-c4d1-39de-be99-22638a75bfde> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:importance     "1" ;
+        c:name           "Hajj" ;
+        c:originalValue  "Hajj" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/12d3b169-2dd3-3f05-865f-b766a79a5aa0> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:importance     "2" ;
+        c:name           "Abraj Al Bait Mall" ;
+        c:originalValue  "Abraj Al Bait Mall" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0de97e64-1541-34f9-a429-71d635ee34da> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:importance     "2" ;
+        c:name           "Saudi Arabia" ;
+        c:originalValue  "Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/287525b4-3bb6-30f6-a8b8-1757b06a0b54> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7iwleHIX/McV5axNQrriVqr7770=|SiD4GD6ELnqit1GBrjOBSNOwchBpRIOdIWxfVhRudWpXSyBAwJRREQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:11.311" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7e37c645-40ad-b9f9-14da-549906f32955" ;
+        c:docDate          "2015-05-30 10:46:11.436" ;
+        c:docTitle         "" ;
+        c:document         "This will be the world's largest hotel. Twelve towers, 10,000 rooms and 70 restaurants, plus helipads and a full-size convention center: That's the plan for Abraj Kudai, a complex in Mecca, Saudi Arabia, that's set to become the world's largest hotel by room count when it opens in 2017." ;
+        c:id               "http://id.opencalais.com/8WgMg1lTtxst9Zs2*rFiYg" .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:importance     "1" ;
+        c:name           "Mecca" ;
+        c:originalValue  "Mecca" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0227c3ab-3be5-39a9-8575-4c30e0b6f22b> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:importance     "2" ;
+        c:name           "Abraj Al Bait" ;
+        c:originalValue  "Abraj Al Bait" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/048d93fd-6835-3baa-bfcb-de708343350d> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:score           "0.658" .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/819648e8-7db9-3f4c-8268-ca875e38c9e2> ;
+        c:importance     "2" ;
+        c:name           "Hotel" ;
+        c:originalValue  "Hotel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab387486-1d2a-360c-b09b-ae7ce9e59ad3> .

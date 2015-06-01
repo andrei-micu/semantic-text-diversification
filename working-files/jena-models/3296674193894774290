@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:importance     "2" ;
+        c:name           "Trademark" ;
+        c:originalValue  "Trademark" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dc3f3fe5-de15-34f1-82c3-44f5e0ba789a> .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:importance     "1" ;
+        c:name           "ACC Athlete of the Year" ;
+        c:originalValue  "ACC Athlete of the Year" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/468706d6-76c1-34cb-ab62-47776b726882> .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d71f6ee6-01ba-1890-14da-545175835464" ;
+        c:docDate          "2015-05-30 10:41:18.277" ;
+        c:docTitle         "" ;
+        c:document         "Michael Jordan to take trademark case to China's highest court. SHANGHAI (Reuters) - Michael Jordan will take a trademark dispute with a Chinese sports firm to China's supreme court, lawyers for the basketball star said on Friday, escalating one of several cases accusing local firms of illegally imitating global brands." ;
+        c:id               "http://id.opencalais.com/XNODNHGofTNICDUUlhyO5g" .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:score           "0.780" .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:importance     "1" ;
+        c:name           "Michael Jordan" ;
+        c:originalValue  "Michael Jordan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/21d2e89a-4b74-3816-be6e-b4f92b92d313> .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:importance     "1" ;
+        c:name           "National Basketball Association" ;
+        c:originalValue  "National Basketball Association" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6554ea2-1028-3a63-ba63-0251997bf5b1> .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:score           "0.469" .
+
+<http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/16a6d5e7-7a01-39eb-b3ad-d50967624b9d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0usYU86itST3bL1KIVC3kV/b7uI=|hQMHooItYDyLCQrHY89aJcfvkhxNo8st0s4OjZEFWGUQI3CDsGNL5g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:41:18.168" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

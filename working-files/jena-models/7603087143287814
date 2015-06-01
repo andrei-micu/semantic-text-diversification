@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ve2cNAMco+6dcXmHRJ6BE+rpNIY=|Im8WkWK4MTEwnsYaHaBz8rp+z7kBcF9TmlcJxu1yQYFZ/dX52v3MLg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:26:39.961" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2> ;
+        c:importance     "1" ;
+        c:name           "Andrew Cuomo" ;
+        c:originalValue  "Andrew Cuomo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/10ac9108-e7e9-3b28-a530-3d26b08cde30> .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2> ;
+        c:importance     "2" ;
+        c:name           "Mario Cuomo" ;
+        c:originalValue  "Mario Cuomo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2143c626-682a-3ec9-926b-18c966ba4bcb> .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2> ;
+        c:importance     "1" ;
+        c:name           "New York" ;
+        c:originalValue  "New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/461159b1-6be8-3031-b1dd-039ee48ba761> .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2> ;
+        c:importance     "2" ;
+        c:name           "Political philosophy" ;
+        c:originalValue  "Political philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77603a14-4820-3d0d-824b-af4fcd03b8bb> .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2> ;
+        c:importance     "2" ;
+        c:name           "Kennedy family" ;
+        c:originalValue  "Kennedy family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/85e5a243-efde-3667-a5f4-668e9a5d7c79> .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2> ;
+        c:importance     "2" ;
+        c:name           "Cuba" ;
+        c:originalValue  "Cuba" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8d03a57-9280-36f5-8166-8678edc3b07e> .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2> ;
+        c:importance     "1" ;
+        c:name           "Socialism" ;
+        c:originalValue  "Socialism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/094957d2-880e-3193-8e42-dd16b5462f0b> .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "487d1f3d-83f7-4af7-14da-537b0d9719b3" ;
+        c:docDate          "2015-05-30 10:26:40.210" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Cuba isolation 'has not worked'. New York's governor Andrew Cuomo has visited Cuba following the thaw in relations between the two countries." ;
+        c:id               "http://id.opencalais.com/7brUAWZIXBkE0QwiDgSg8A" .
+
+<http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a3e80a2-f6d9-3a3a-876c-71392cdb1ea2> ;
+        c:importance     "2" ;
+        c:name           "Cuomo" ;
+        c:originalValue  "Cuomo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/740152cd-7ff2-3be3-88b9-c2023f9f0019> .

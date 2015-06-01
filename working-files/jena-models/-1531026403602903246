@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624> ;
+        c:score           "0.656" .
+
+<http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7cb620a5-0d0e-ae08-14da-54367db32955" ;
+        c:docDate          "2015-05-30 10:39:28.003" ;
+        c:docTitle         "" ;
+        c:document         "FBI: 51 Law Enforcement Officers 'Feloniously Killed' In 2014. After a sharp drop in 2013, the number of police and other law enforcement officers who died in the line of duty as a result of felonious incidents rose in 2014, from 27 to 51, the FBI says." ;
+        c:id               "http://id.opencalais.com/gHIaBmdSOYEFF1zLHrpa-Q" .
+
+<http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0wWJaXU+b/4wBIW7dLNi5Bn7Dnw=|HLa7QrhPVXRlXkMp2dHQld2kYld3CJBFJulW9JDnsU3KnSgD6zhvdQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:27.707" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c29b03ec-4b75-343f-b565-e717d988b624> ;
+        c:importance     "1" ;
+        c:name           "Federal Bureau of Investigation" ;
+        c:originalValue  "Federal Bureau of Investigation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4e3add3-1d4a-307d-bbd0-27107d78bbf7> .

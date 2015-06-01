@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:score           "0.531" .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:importance     "2" ;
+        c:name           "Wind" ;
+        c:originalValue  "Wind" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56a412f6-75fa-352e-a3f3-8904223daaf6> .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qAmgjXFauJ8cZdtDBvv5mrY6qzs=|SF6qLx4zaeOxbBHJcR3uB7yPf39P7TNIrPIuIvDh1ywpZ7rfBPGC/w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:14.647" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:importance     "1" ;
+        c:name           "Weather" ;
+        c:originalValue  "Weather" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "13738598-13fd-d172-14da-5441f3771d39" ;
+        c:docDate          "2015-05-30 09:40:15.100" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Deadly tornadoes rip across US states. One person has died and a number of others are missing after tornadoes, heavy winds and hail storms caused widespread damage in several American states." ;
+        c:id               "http://id.opencalais.com/A8oQkKNFuWOjgZSvSr3BPw" .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:importance     "2" ;
+        c:name           "Tornadoes" ;
+        c:originalValue  "Tornadoes of 2011" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/808fee59-6cd5-3b3c-9b4d-fe42d6581160> .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:importance     "1" ;
+        c:name           "Meteorology" ;
+        c:originalValue  "Meteorology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/897c2d6f-2365-35ef-8355-f4c70726feaa> .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:importance     "2" ;
+        c:name           "Storm" ;
+        c:originalValue  "Storm" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17b57b79-c90b-36a2-b44b-120839361ed3> .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:importance     "1" ;
+        c:name           "Atmospheric sciences" ;
+        c:originalValue  "Atmospheric sciences" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88403548-ec7e-3011-917e-da243df51138> .
+
+<http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a7cd458c-6f1e-3205-a2cc-27398b7e4ff8> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

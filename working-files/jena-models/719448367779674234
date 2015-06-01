@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41> ;
+        c:importance     "1" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e29d64fd-bb45-bacf-14da-545e2f5653ed" ;
+        c:docDate          "2015-05-30 09:42:10.511" ;
+        c:docTitle         "" ;
+        c:document         "'No one noticed when I tried to scream'. \"I tried to scream, but I couldn't take a deep breath. No one noticed when I tried to scream -- everyone was overwhelmed by the number of victims.\"" ;
+        c:id               "http://id.opencalais.com/S1j7LKWLbdPTRqsAtDrViQ" .
+
+<http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41> ;
+        c:importance     "1" ;
+        c:name           "Narratology" ;
+        c:originalValue  "Narratology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9090f70f-e755-38fe-b1c2-3a01e3fe8b52> .
+
+<http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41> ;
+        c:importance     "1" ;
+        c:name           "Scream" ;
+        c:originalValue  "Scream (film series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c225e032-db50-305e-a1ef-39c5c209086d> .
+
+<http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|N+BqWpdr/NGDPLlPCBJa1vgzZ+Y=|G+QKc3i1YAS2IEjOmXj5T/ID9Ld1zwsaMtWwqAhNpU/OUYJKPp4kSQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:10.293" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/eea454e3-141a-3887-a810-e1a9c3f1de41> ;
+        c:importance     "2" ;
+        c:name           "Fiction" ;
+        c:originalValue  "Fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8802cc97-e83a-3d7d-b3b5-b3efb8e1d8de> .

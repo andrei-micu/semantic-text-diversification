@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:importance     "2" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|sjO9Jb4GqEEJkmWv3rGbEAZ7rhs=|NesSDnGPdclDSUI8ZpZyVOgV5ap7Mex0Y2wNd8ejJGrJYBDhTqyypw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:45:16.500" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:score           "0.993" .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage in Connecticut" ;
+        c:originalValue  "Same-sex marriage in Connecticut" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eb01d22f-daec-3e4c-844c-ff9b082cb05b> .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage in the United States" ;
+        c:originalValue  "Same-sex marriage in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bdcd460c-629a-331e-b2c6-af5d5447ab33> .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "160d85f3-da4c-b485-14da-548ba541df07" ;
+        c:docDate          "2015-05-30 09:45:16.672" ;
+        c:docTitle         "" ;
+        c:document         "Donor presses Rubio on gay unions. In public and behind closed doors, 2016 Republican presidential candidates are being put on the spot on an increasingly tricky issue: same-sex marriage." ;
+        c:id               "http://id.opencalais.com/5EGSJ7M43l-SgdcNKAM8nw" .
+
+<http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6cc53ea5-56b6-372f-b9f3-3c8cfe8edae9> ;
+        c:importance     "1" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .

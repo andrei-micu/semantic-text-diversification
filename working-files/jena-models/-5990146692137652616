@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2fed7a6d-30dc-b543-14da-5468af313c98" ;
+        c:docDate          "2015-05-30 09:42:53.533" ;
+        c:docTitle         "" ;
+        c:document         "Wreckage of missing U.S. helicopter found in Nepal; no survivors. KATHMANDU (Reuters) - The wreckage of a U.S. military helicopter lost on an earthquake relief mission in Nepal was found on Friday high on a mountainside, with all eight on board presumed dead, U.S. officials said." ;
+        c:id               "http://id.opencalais.com/3aGX3IeFcPRGxPZipBIiDQ" .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:importance     "1" ;
+        c:name           "Kathmandu" ;
+        c:originalValue  "Kathmandu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7886b3bd-0443-364a-ab85-30cd8e5f26ac> .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:score           "0.994" .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:importance     "1" ;
+        c:name           "Newar" ;
+        c:originalValue  "Newar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7146c404-7aff-395b-a681-c65d5d963b59> .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9OiUi1iLXip9QuwQXe/FNLB3ayM=|CI4iO0BH8DQ7gbaq8hNdsBqv9wIwQXa8zFJtZXWiPwwb8i+sp4mTYQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:53.299" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:importance     "2" ;
+        c:name           "Nepal" ;
+        c:originalValue  "Nepal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47cb7fb8-c179-378d-94c8-3ee216a55ec3> .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:score           "0.984" .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5dc30425-e56b-3ecc-88d5-efbc8202bcc5> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .

@@ -1,0 +1,131 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "2" ;
+        c:name           "Political philosophy" ;
+        c:originalValue  "Political philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77603a14-4820-3d0d-824b-af4fcd03b8bb> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "144b203e-1154-950d-14da-541098735464" ;
+        c:docDate          "2015-05-30 10:36:52.597" ;
+        c:docTitle         "" ;
+        c:document         "An American take on the Conservative rout. Predictions of post-election chaos melt away as David Cameron and the Tories cruise to a surprisingly easy win." ;
+        c:id               "http://id.opencalais.com/O9vUsyz79TuUee9HAfLnoA" .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "2" ;
+        c:name           "History of the United Kingdom" ;
+        c:originalValue  "History of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7df32772-9127-34d5-819c-64eba3dbfce3> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "2" ;
+        c:name           "David Cameron" ;
+        c:originalValue  "David Cameron" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2f7fa478-7c94-3470-9d1a-a5bc838c6f8b> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "1" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "2" ;
+        c:name           "Tory" ;
+        c:originalValue  "Tory" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/339e20c1-1815-357c-9b42-ef82aa738f67> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2jB/rMm6YXn/F0Qyskfr8DUF9jM=|ejj646Tiuj26cdzXoBjsZVo28pBsQRnN47yggJzhhHm65mIpKDFV0g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:52.487" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "1" ;
+        c:name           "Georgian era" ;
+        c:originalValue  "Georgian era" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb2622c1-ef11-3cdb-b0b6-35c9839e9bcb> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "2" ;
+        c:name           "Corporatism" ;
+        c:originalValue  "Corporatism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/987ea39e-ff24-3be1-8e9f-dc3d330a7544> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "2" ;
+        c:name           "Chaos theory" ;
+        c:originalValue  "Chaos theory" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/48a0f4ef-ed58-36b8-b483-2018af775637> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "2" ;
+        c:name           "Political history of Canada" ;
+        c:originalValue  "Political history of Canada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45bd9474-1101-3b6d-8c0f-f5140644b3c3> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "2" ;
+        c:name           "Conservative Party" ;
+        c:originalValue  "Conservative Party (UK)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2e250358-8f97-367d-993c-16cf7490c572> .
+
+<http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5dbe030d-4daf-303c-aae1-c9d7d15a3e8e> ;
+        c:importance     "1" ;
+        c:name           "Jacobitism" ;
+        c:originalValue  "Jacobitism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70a08065-7ca1-3b45-943e-ff8a9eacb486> .

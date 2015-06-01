@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance     "2" ;
+        c:name           "Social information processing" ;
+        c:originalValue  "Social information processing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f76e7ee2-dea7-3a33-8bf8-4df8dd73b4f4> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance     "2" ;
+        c:name           "Web 2.0" ;
+        c:originalValue  "Web 2.0" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b5386f7-28c7-39fd-8071-8290dbc329a2> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance     "1" ;
+        c:name           "Computing" ;
+        c:originalValue  "Computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:score           "0.922" .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance     "2" ;
+        c:name           "Website" ;
+        c:originalValue  "Website" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d8c6a2d-05ce-30c7-956b-2b7b73124feb> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:score           "0.987" .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|i72AYcWN02smA0WEHVS5wNQmF8s=|O2DBdoa/TL05oBBwOLqm5EE7uyRyHz4OhYcump7VBP2I/eBi2TJKGw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:22.504" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance     "1" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance     "2" ;
+        c:name           "Social media" ;
+        c:originalValue  "Social media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26585b85-a498-31bb-abc9-70fdd3d7fb7c> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance     "1" ;
+        c:name           "World Wide Web" ;
+        c:originalValue  "World Wide Web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9234a67-1d5c-3451-83e0-fb48ce4187d8> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance     "2" ;
+        c:name           "Photo sharing" ;
+        c:originalValue  "Photo sharing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/37265ce8-0e57-377a-b088-9ec4d1a5e30e> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7e71be94-6b50-3ac7-14da-53dd548719b3" ;
+        c:docDate          "2015-05-30 10:33:22.613" ;
+        c:docTitle         "" ;
+        c:document         "Facebook opens Internet.org to developers amid open web debate in India. MUMBAI (Reuters) - Facebook Inc opened up its Internet.org platform to new websites and applications from developers on Monday, a move the social media giant said would boost efforts to get people online in low-income and rural areas in emerging markets." ;
+        c:id               "http://id.opencalais.com/n5aHLy5-an9wsD09S2JtTw" .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23867236-6649-3c5a-93c4-276ffef491ce> ;
+        c:importance     "2" ;
+        c:name           "Facebook" ;
+        c:originalValue  "Facebook" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b4f3a1a1-a94a-380c-8fb6-7d61fd802b3d> .

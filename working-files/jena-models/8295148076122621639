@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:importance     "2" ;
+        c:name           "Open Travel Alliance" ;
+        c:originalValue  "Open Travel Alliance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a27c376-0a42-33df-b535-81ca652288ac> .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ccacee4a-fbed-f580-14da-544f0d771d39" ;
+        c:docDate          "2015-05-30 09:41:08.592" ;
+        c:docTitle         "" ;
+        c:document         "Amtrak Train Possibly Hit Before Wreck. An assistant conductor on the Amtrak train said she heard the engineer tell another operator in a radio transmission that the train had just been struck by something." ;
+        c:id               "http://id.opencalais.com/f6QNmrmE4ziEghIZxPtg6g" .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:importance     "1" ;
+        c:name           "Transportation in the United States" ;
+        c:originalValue  "Transportation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06280394-af41-3ddd-ac2c-6f149bd1e55c> .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:importance     "2" ;
+        c:name           "Acela Express" ;
+        c:originalValue  "Acela Express" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06923e0d-4f47-3db3-a72d-9a4c974073c4> .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Q/TVMuisOFMMZhD70qcj7rjW+AM=|DxmStOxNF9rr37Hz7oVJqGxJXn9bMkEDQUOjQ1ZhjHVoWOS32lsEdA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:08.311" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:score           "0.789" .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:importance     "2" ;
+        c:name           "Conductor" ;
+        c:originalValue  "Conductor (transportation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb417bfa-417b-373e-9b7a-966a242cf2e4> .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:importance     "1" ;
+        c:name           "Amtrak" ;
+        c:originalValue  "Amtrak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/620180fd-d75e-31be-838e-e8cb90654b1f> .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:importance  "2" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:importance     "1" ;
+        c:name           "Rail transportation in the United States" ;
+        c:originalValue  "Rail transportation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c130d05b-c224-351c-a231-bf5c867870c0> .
+
+<http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/449ff8da-97d1-37f5-bcdc-b3879c412c3b> ;
+        c:importance     "2" ;
+        c:name           "Auto Train" ;
+        c:originalValue  "Auto Train" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ac037559-8c6d-3379-b577-117a5e3b214a> .

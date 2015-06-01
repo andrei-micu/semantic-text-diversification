@@ -1,0 +1,68 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628> ;
+        c:importance     "1" ;
+        c:name           "WhatsApp" ;
+        c:originalValue  "WhatsApp" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c102978-3fde-3de0-b70c-2c1b6b2f2d7d> .
+
+<http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628> ;
+        c:importance     "1" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628> ;
+        c:importance     "2" ;
+        c:name           "Chechnya" ;
+        c:originalValue  "Chechnya" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0f0df7b1-0893-3ebb-beb6-31b988f0078f> .
+
+<http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628> ;
+        c:importance     "1" ;
+        c:name           "Ramzan Kadyrov" ;
+        c:originalValue  "Ramzan Kadyrov" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee9066a3-6e02-3c5e-ae7d-40da67896b93> .
+
+<http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4e2f9f96-3ba9-5c6e-14da-5479f4034709" ;
+        c:docDate          "2015-05-30 09:44:04.250" ;
+        c:docTitle         "" ;
+        c:document         "Open Source: Chechen Leader Scolds WhatsApp Users for Spreading ‘Rumors’ About Official’s Wedding. Chechnya’s Instagram-addicted Ramzan Kadyrov accused citizens of using WhatsApp to spread rumors about a police chief." ;
+        c:id               "http://id.opencalais.com/NAvsgzFOptb8vw8I-4pCiA" .
+
+<http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Fuy42Kqhw1YPSf2ojKsZ9v5Jp+0=|FKSC+vElT7WWfnr+ZSBiyDzRLo+Hlxc3BNzIR5a83V5DrOiE9ppp2g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:04.032" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628> ;
+        c:importance     "2" ;
+        c:name           "Ramzan" ;
+        c:originalValue  "Ramzan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c8e0b5e-4dfc-3ecf-a5ab-c845fdce2c97> .
+
+<http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4d80b9ad-e837-354b-a091-7412d0a9d628> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

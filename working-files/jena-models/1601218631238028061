@@ -1,0 +1,76 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7> ;
+        c:importance     "1" ;
+        c:name           "Saint Pierre and Miquelon" ;
+        c:originalValue  "Saint Pierre and Miquelon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/98fe9054-32e2-382e-82ab-05a088b6b841> .
+
+<http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7> ;
+        c:importance     "2" ;
+        c:name           "Index of Saint Pierre and Miquelon-related articles" ;
+        c:originalValue  "Index of Saint Pierre and Miquelon-related articles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e93ca1c-9fc6-3a7e-b624-bfcff70ebbab> .
+
+<http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7> ;
+        c:importance     "2" ;
+        c:name           "French language" ;
+        c:originalValue  "French language" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65035412-2e89-37ab-aae2-7c4463c01129> .
+
+<http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|dQuMrnrOTTxhKKzUkc9PYOo0rfY=|GDRP4PUGS3GtILSU8NxPC6wAzsYDyNoC6Z8hZl8Pm7ZsFqTLhQix+g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:06.598" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7> ;
+        c:importance     "1" ;
+        c:name           "Outline of Saint Pierre and Miquelon" ;
+        c:originalValue  "Outline of Saint Pierre and Miquelon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/73c18a85-cf80-3290-afab-a1da6c261d6a> .
+
+<http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7> ;
+        c:importance     "2" ;
+        c:name           "Americas" ;
+        c:originalValue  "Americas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ee66e22-b241-33cf-9a16-9b3901e1e435> .
+
+<http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7> ;
+        c:importance     "1" ;
+        c:name           "Communes of Saint Pierre and Miquelon" ;
+        c:originalValue  "Communes of Saint Pierre and Miquelon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d580b65-50ec-35b9-a59a-c73e5ebc4011> .
+
+<http://d.opencalais.com/dochash-1/fd2df080-cf9b-372d-b01d-829cec4694b7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6c066364-c031-4f21-14da-53bc26613c98" ;
+        c:docDate          "2015-05-30 09:31:06.770" ;
+        c:docTitle         "" ;
+        c:document         "St Pierre and Miquelon profile. Provides an overview of what remains of France's once-extensive possessions in North America" ;
+        c:id               "http://id.opencalais.com/mLZitkCP8xOzcR0Ps3dGeQ" .

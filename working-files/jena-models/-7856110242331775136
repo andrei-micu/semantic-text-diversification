@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:importance     "1" ;
+        c:name           "Meteorology" ;
+        c:originalValue  "Meteorology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/897c2d6f-2365-35ef-8355-f4c70726feaa> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:importance     "2" ;
+        c:name           "Flood" ;
+        c:originalValue  "Flood" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b04b944-fd3e-3996-b598-e95f36764379> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:importance     "2" ;
+        c:name           "Geography of Texas" ;
+        c:originalValue  "Geography of Texas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d4e7aeef-a522-3540-b10e-11291a906cef> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hFkXZRD295DxwlQf2vEzZkACjkE=|BO80o/rvr9flwXFYnsvKwT1tikB+IHEqhqaTeQYU/hTgP5IwZgusMw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:10.587" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:score           "0.997" .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:importance     "1" ;
+        c:name           "Atmospheric sciences" ;
+        c:originalValue  "Atmospheric sciences" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88403548-ec7e-3011-917e-da243df51138> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:importance     "2" ;
+        c:name           "Houston" ;
+        c:originalValue  "Houston" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8e629cc-fa4f-3721-b037-b11c399f136b> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "13bb01a0-f587-e6ff-14da-54c4cbb653ed" ;
+        c:docDate          "2015-05-30 09:49:10.977" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Aerial footage of swamped Houston. The mayor of Houston has asked the governor of Texas to declare the city a disaster area after flash floods left at least two people dead and turned streets into rivers." ;
+        c:id               "http://id.opencalais.com/zaGTZ-hC6YDWIHcUC-3NAg" .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:importance     "2" ;
+        c:name           "Flash flood" ;
+        c:originalValue  "Flash flood" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9954b650-12e7-3fb9-88f5-700b7b31b400> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:importance     "1" ;
+        c:name           "Water waves" ;
+        c:originalValue  "Water waves" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/22c7de51-9728-3c92-b4e7-4991a57ac1e9> .
+
+<http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/067810dc-737f-303d-a3d7-8f4b2b0e35dd> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

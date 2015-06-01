@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/33873d43-a868-3c3b-88ca-21963a41f102/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/33873d43-a868-3c3b-88ca-21963a41f102> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Qf4pLxivlOs6GuFeYhJU7+3kSQI=|bdIQQzZQ0KjJwQT8Ex/ZAcsrgFc7y7+D4BNA5Hlb8nFx6eaSw9gXGw==" ;
+        c:submissionDate  "2015-05-30 09:40:12.524" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/33873d43-a868-3c3b-88ca-21963a41f102/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/33873d43-a868-3c3b-88ca-21963a41f102> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/33873d43-a868-3c3b-88ca-21963a41f102>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6131d3ba-6e0d-7072-14da-54416dd653ed" ;
+        c:docDate          "2015-05-30 09:40:12.587" ;
+        c:docTitle         "" ;
+        c:document         "Life after shooting a US president. Life after shooting a US president" ;
+        c:id               "http://id.opencalais.com/CdqaEMvmwzf2cPLXVzT6PQ" .

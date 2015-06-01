@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf> ;
+        c:importance     "2" ;
+        c:name           "Participation of medical professionals in American executions" ;
+        c:originalValue  "Participation of medical professionals in American executions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d5ac8062-88bd-342b-a1bb-5846f5384250> .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf> ;
+        c:importance     "1" ;
+        c:name           "Lethal injection" ;
+        c:originalValue  "Lethal injection" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afd86c8e-6eb0-3dc8-add2-2e87d42d8ccd> .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Nn3crTF4YLYQeh5SSq7VMwoDRKo=|aa6OR35YVRDw19JqFRtIGIaDl6VskzvHnETa8ApVtH8egGcW8h7VeQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:59.026" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf> ;
+        c:importance     "1" ;
+        c:name           "Capital punishment in Florida" ;
+        c:originalValue  "Capital punishment in Florida" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/171f91d7-5b29-31d1-907a-7d6268dc58d2> .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6e96bddb-f4c3-31f1-14da-539d01271d39" ;
+        c:docDate          "2015-05-30 09:28:59.229" ;
+        c:docTitle         "" ;
+        c:document         "Supreme Court Hears Oklahoma Inmates’ Lethal Injection Case. One year after a botched execution, the justices will examine whether a new drug combination violates the Eighth Amendment by posing a risk of terrible suffering." ;
+        c:id               "http://id.opencalais.com/xfbJC1-UK0QoITILDYpwdQ" .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf> ;
+        c:score           "0.975" .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf> ;
+        c:importance     "1" ;
+        c:name           "Capital punishment" ;
+        c:originalValue  "Capital punishment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47a29b10-9dfe-3cd8-9d95-8cda59bc4410> .
+
+<http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d8577706-f46c-3869-a2e7-ded83db65cbf> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

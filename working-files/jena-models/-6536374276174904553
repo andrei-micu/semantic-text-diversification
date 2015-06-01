@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ab840135-3754-8014-14da-5482d6749095" ;
+        c:docDate          "2015-05-30 10:44:40.563" ;
+        c:docTitle         "" ;
+        c:document         "What's China really planning?. China has been busy building -- and it is worrying some of its regional neighbors. Since early 2014, China has undertaken widespread land reclamation and construction in the Spratly Islands, in the South China Sea, at seven known locations. The work has involved converting several formerly submerged reefs into artificial islands, and increasing the size of other features many times over. Now, the country is building military facilities, including large ports and at least one airstrip, on these new outposts." ;
+        c:id               "http://id.opencalais.com/YQiIqDWzzr-YCiMMrameYQ" .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:score           "0.927" .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:importance     "2" ;
+        c:name           "Land reclamation" ;
+        c:originalValue  "Land reclamation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a6c75a21-80b9-34e3-aff3-b494ec518d98> .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5cnirFvnt8wWko0OFMDaLg78+3Q=|a1zWEY0AWEICUYlxNY+ocIC8k7MuT/FIh8W4IoZFIVyURkfFYVtO6g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:40.423" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:score           "0.628" .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:importance     "1" ;
+        c:name           "Spratly Islands" ;
+        c:originalValue  "Spratly Islands" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2fbd8a6-03b5-37e5-86bd-a80e21812b69> .
+
+<http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6fa9c72c-a7fd-3e7b-a737-293b3ad288cf> ;
+        c:importance     "2" ;
+        c:name           "Spratly" ;
+        c:originalValue  "Spratly (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/85ca82bc-99ca-377a-af90-97f6095b0eab> .

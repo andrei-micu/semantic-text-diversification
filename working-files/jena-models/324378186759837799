@@ -1,0 +1,161 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dd761254-c834-144f-14da-544d14e1df07" ;
+        c:docDate          "2015-05-30 09:41:00.363" ;
+        c:docTitle         "" ;
+        c:document         "Secret space plane launches. The Air Force's mysterious space plane is back above the Earth -- along with Bill Nye's solar sail." ;
+        c:id               "http://id.opencalais.com/hX*6e1GDvOpM9JYePWaQMA" .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "2" ;
+        c:name           "Spaceplane" ;
+        c:originalValue  "Spaceplane" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61767ad8-6038-3d8a-b860-d2460019aa0c> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "2" ;
+        c:name           "Interstellar travel" ;
+        c:originalValue  "Interstellar travel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/990a6285-ef9c-39e0-91bb-c4fe7b05b535> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|594CCVXLy8LQhhdWxKf7cfaturs=|BtCsCMG56YGlsDEkvcUvcdzISPhTBxWEpGTLS1tb/v8Itcxm3rjpng==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:00.238" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:score           "0.966" .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "2" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:score           "0.970" .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "1" ;
+        c:name           "Aerospace engineering" ;
+        c:originalValue  "Aerospace engineering" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a903e535-9cff-396f-8e1d-81de574d019f> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "2" ;
+        c:name           "Plane" ;
+        c:originalValue  "Plane (Dungeons & Dragons)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/361234f0-29e7-30f6-9809-708c66727c70> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:score           "0.971" .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "1" ;
+        c:name           "Spaceflight" ;
+        c:originalValue  "Spaceflight" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a047fab-a818-39e0-b940-49bc12ce74f3> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "2" ;
+        c:name           "Spacecraft propulsion" ;
+        c:originalValue  "Spacecraft propulsion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/49c71bcf-76aa-3fb9-8b26-712b16e86382> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "1" ;
+        c:name           "Emerging technologies" ;
+        c:originalValue  "Emerging technologies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/02d7f262-19fa-3c1d-93aa-58a0a46ae8ed> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "2" ;
+        c:name           "Solar sail" ;
+        c:originalValue  "Solar sail" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca7e4346-ce3c-3dbe-87f9-caf80b8a01b4> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "2" ;
+        c:name           "Bill Nye" ;
+        c:originalValue  "Bill Nye" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/525d6ccb-57fe-3666-acd5-5c75e6692bad> .
+
+<http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/95930b9c-f1fd-3f78-af41-8f0dfcec073a> ;
+        c:importance     "2" ;
+        c:name           "Photonics" ;
+        c:originalValue  "Photonics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0962b603-abe5-3f0b-8732-b89a47e5d054> .

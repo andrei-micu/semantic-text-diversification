@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:importance     "1" ;
+        c:name           "Finance" ;
+        c:originalValue  "Finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/acd44d54-d8f3-3c36-a78c-2da2af5a2ae8> .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:importance     "2" ;
+        c:name           "Yield" ;
+        c:originalValue  "Yield (finance)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/11c0b048-ae49-38b4-b868-a6ccaf2053e0> .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:importance     "2" ;
+        c:name           "Bond" ;
+        c:originalValue  "Bond (finance)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa27325e-823a-3134-9798-dfd4ac989711> .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:importance     "1" ;
+        c:name           "Deflation" ;
+        c:originalValue  "Deflation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/beba3bea-2578-3765-afd3-638ccdb0a799> .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "50838338-f0ce-cde3-14da-53dd5414551f" ;
+        c:docDate          "2015-05-30 09:33:22.591" ;
+        c:docTitle         "" ;
+        c:document         "Stocks gain on factory data, bund yields rise. NEW YORK (Reuters) - Global equity markets rose on Monday, lifted by the biggest gain in U.S. factory orders in eight months and solid manufacturing data in Germany, while German bund yields rose as investors shook off deflation fears that had gnawed European bonds." ;
+        c:id               "http://id.opencalais.com/3E4DeaD8Ow8ww7TDavPBRg" .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:importance     "2" ;
+        c:name           "Stock market" ;
+        c:originalValue  "Stock market" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06fb4dfb-0f17-320f-a936-8a3d8807cef9> .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:importance     "2" ;
+        c:name           "Inflation" ;
+        c:originalValue  "Inflation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d20d036a-66a9-3aac-880a-f54bc6b55aed> .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|pKo4Udgo5fZKYygs8ZgT42UdfBI=|iYhVnt6EpbA5A4U6C3N83gbdgUUv7BZXVDWhMehrQOomWF/nzDPVBg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:33:22.497" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7b754554-eaaf-3da2-9408-b0aa83c95f55> ;
+        c:score           "0.760" .

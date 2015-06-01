@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:importance     "2" ;
+        c:name           "Imam Samudra" ;
+        c:originalValue  "Imam Samudra" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/00def731-0116-3ab8-b705-47c381dad2df> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:importance     "1" ;
+        c:name           "Terrorism in Indonesia" ;
+        c:originalValue  "Terrorism in Indonesia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9ed523ac-8bcf-34f0-b29f-4b0e6b5c22ca> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:score           "0.978" .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:importance     "2" ;
+        c:name           "Capital punishment in Utah" ;
+        c:originalValue  "Capital punishment in Utah" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32e89356-f658-3421-9c54-7224367c840d> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:importance     "1" ;
+        c:name           "Execution by firing squad" ;
+        c:originalValue  "Execution by firing squad" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e6d7657c-1c7e-3035-873b-cfaae34dd9f7> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1GCjMo8Hmcb8cpmJLKGHM281/74=|BakCxe6iZZcG8eSR4Mq5YOKSikwJHr75bRPfc+fGO3hJ69aamc7ctA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:13.585" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:importance     "2" ;
+        c:name           "Indonesia" ;
+        c:originalValue  "Indonesia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1f9a82db-e988-3242-9834-689358d46e2c> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:score           "0.608" .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "38fff04c-7509-f4fb-14da-538343171d39" ;
+        c:docDate          "2015-05-30 09:27:13.882" ;
+        c:docTitle         "" ;
+        c:document         "Nine executed by firing squad. The families of death row prisoners who are expected to be executed within the next 24 hours by Indonesian firing squad made their final visit Tuesday to the island where they're being held." ;
+        c:id               "http://id.opencalais.com/CuV4KQqu3kS1IiqDZgpaRg" .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:importance     "1" ;
+        c:name           "Jemaah Islamiyah" ;
+        c:originalValue  "Jemaah Islamiyah" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/322f4589-536e-3a98-ace2-b9f8a65a196a> .
+
+<http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d9c761e-759d-312f-b306-4b751058820d> ;
+        c:score           "1.000" .

@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance     "1" ;
+        c:name           "Baseball" ;
+        c:originalValue  "Baseball" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/81a6d889-b583-396a-824c-0fccbe051640> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance     "2" ;
+        c:name           "Willie Mays" ;
+        c:originalValue  "Willie Mays" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30a30f5f-1520-3791-829e-7c8fa398ce80> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance     "2" ;
+        c:name           "Alex Rodriguez" ;
+        c:originalValue  "Alex Rodriguez" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1f5221ba-3e09-36b2-9cc3-42f861c93d44> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance     "2" ;
+        c:name           "Giants–Yankees rivalry" ;
+        c:originalValue  "Giants–Yankees rivalry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8019b624-4410-3c4d-9cc9-7860d3d9db89> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:score           "0.984" .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance     "2" ;
+        c:name           "Major League Baseball rivalries" ;
+        c:originalValue  "Major League Baseball rivalries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32096c10-fc54-327b-96b9-88e3e94b5f40> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XF+E4iWGDEZScKJ7yG+aldytwsM=|OwVXA7WakpTY8e0tqA6du4IFlUgwqyobMl+ONlnO79WftqJMwKG3LQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:32.221" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance     "1" ;
+        c:name           "500 home run club" ;
+        c:originalValue  "500 home run club" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bb2e5a3a-6001-333f-b791-c95ce19a8dd1> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance     "2" ;
+        c:name           "Collectors" ;
+        c:originalValue  "Collectors" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/31fbedeb-fefc-34ea-875d-40e1f080878d> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance     "1" ;
+        c:name           "New York Yankees players" ;
+        c:originalValue  "New York Yankees players" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c94b8e97-2138-3281-b651-db0174a11620> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93> ;
+        c:importance     "2" ;
+        c:name           "New York Yankees" ;
+        c:originalValue  "New York Yankees" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3d899d48-ca01-3f75-8d3e-3c5d946bc66d> .
+
+<http://d.opencalais.com/dochash-1/285bf4ad-3fb2-312d-8bfc-de1cc3a2ff93>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c4464f46-fd4c-a4e7-14da-53ee59d34709" ;
+        c:docDate          "2015-05-30 09:34:32.501" ;
+        c:docTitle         "" ;
+        c:document         "Yankees 4, Orioles 3: Rodriguez Passes Mays but Still Does Not Collect. Alex Rodriguez hit his 661st home run to pass Willie Mays for fourth on the career list, but the Yankees, who edged the Orioles, were not planning to pay him a bonus for the achievement." ;
+        c:id               "http://id.opencalais.com/ilylBtlV58fpbKt2eZIBiA" .

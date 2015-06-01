@@ -1,0 +1,120 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|In7uMZqIQd5FubO16uIcyQLvhvE=|T6eA0WAbxgoLUq5ZpXOgXCqtWoqD57pNF0EOoN2kOXUjw8Eg5Y3JrA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:45.696" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "890cf88e-cbca-789c-14da-53c5b2013c98" ;
+        c:docDate          "2015-05-30 09:31:45.961" ;
+        c:docTitle         "" ;
+        c:document         "Hundreds March in Manhattan to Protest the Death of Freddie Gray. The protest, which resulted in more than 60 arrests, was meant to show solidarity with demonstrators in Baltimore and to criticize the tactics of the police in both cities." ;
+        c:id               "http://id.opencalais.com/EuQIgwc0vkLiU7PCJGkPiA" .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:importance     "1" ;
+        c:name           "Impact of the Arab Spring" ;
+        c:originalValue  "Impact of the Arab Spring" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72ea2b1b-7894-34de-929d-53cbdb816805> .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:score           "0.873" .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:importance     "1" ;
+        c:name           "Exarcheia" ;
+        c:originalValue  "Exarcheia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9c8da0a7-a84d-3a06-ae60-04afdbcfe8b3> .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:importance     "1" ;
+        c:name           "Occupy movement in the United States" ;
+        c:originalValue  "Occupy movement in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91f71b20-f165-3f72-aa78-716140ee56d1> .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:importance     "2" ;
+        c:name           "Greek riots" ;
+        c:originalValue  "2008 Greek riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3859cc5-4d11-3caf-9561-8c58549511bf> .
+
+<http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76716bf7-76d1-3714-84de-626d21c071a0> ;
+        c:score           "0.951" .

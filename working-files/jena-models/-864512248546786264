@@ -1,0 +1,97 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:score           "0.960" .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:importance     "1" ;
+        c:name           "Theme music" ;
+        c:originalValue  "Theme music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cda1228a-3f4f-3c79-bbc8-ed6f44e2b058> .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|NMVDoR/kSUNwhyXeQ/PnkRUlevk=|jaPs3F4c3FUSNEXXI75+RSHGiZ+HE/jLXo5KaqzdSm7StS7iCTZ7Fg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:19.671" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:importance     "1" ;
+        c:name           "Don't Cry Out Loud" ;
+        c:originalValue  "Don't Cry Out Loud (song)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0066c81d-8504-3559-8869-c9bfdf326606> .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:importance     "1" ;
+        c:name           "Crush 'Em" ;
+        c:originalValue  "Crush 'Em" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0984450e-f5df-36d3-a525-1d0a4ef0aed2> .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "54ce2f3c-4619-e31b-14da-540895734709" ;
+        c:docDate          "2015-05-30 09:36:19.921" ;
+        c:docTitle         "" ;
+        c:document         "What Song Makes You Cry Every Time?. Tell us about the songs that crush you no matter how many times you hear them." ;
+        c:id               "http://id.opencalais.com/iWGFyWe0uGx3ID*BIB4GEQ" .
+
+<http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/63da5a63-2dbd-391b-8c6a-9742cdb2d1ac> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .

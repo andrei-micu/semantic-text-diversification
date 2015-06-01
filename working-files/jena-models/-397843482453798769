@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance     "1" ;
+        c:name           "United States courts of appeals" ;
+        c:originalValue  "United States courts of appeals" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7448422c-daea-3ea3-9217-104226626622> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance     "2" ;
+        c:name           "Samuel Alito Supreme Court nomination" ;
+        c:originalValue  "Samuel Alito Supreme Court nomination" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7abff00-f686-341d-8994-fa8a8007fe33> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance     "2" ;
+        c:name           "Samuel Alito" ;
+        c:originalValue  "Samuel Alito" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36b6054a-d5ff-3559-9f97-212ea777a6dd> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:score           "0.963" .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ad13bfb7-bcee-f205-14da-539c9224551f" ;
+        c:docDate          "2015-05-30 09:28:57.546" ;
+        c:docTitle         "" ;
+        c:document         "Supreme Court Hears Challenge To 4 States' Same-Sex-Marriage Ban. Justice Scalia asked whether ministers would be able to refuse to marry two gay men. Justice Alito asked, why not marry four gay men together?" ;
+        c:id               "http://id.opencalais.com/efDDu6lbHVPbLkEoHNYpaw" .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance     "1" ;
+        c:name           "Conservatism in North America" ;
+        c:originalValue  "Conservatism in North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/85a508f2-7854-3c39-9b9b-784817cbfed9> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wV9Bp/G3FMa3BnT24pCy51WtKe4=|RCJiGNVbkttpUGU7lUxAclf72FyJ0PnVT1IgT2CjX2KyYkzwIiR1eQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:57.250" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage in the United States" ;
+        c:originalValue  "Same-sex marriage in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bdcd460c-629a-331e-b2c6-af5d5447ab33> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance     "1" ;
+        c:name           "Conservatism in the United States" ;
+        c:originalValue  "Conservatism in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f71ba5a5-389e-3a2f-818b-278a17dcd775> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance     "2" ;
+        c:name           "Supreme Court of the United States" ;
+        c:originalValue  "Supreme Court of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/10b96c2a-3598-3d01-b681-ad38ab2c32bf> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:score           "0.780" .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance     "2" ;
+        c:name           "Antonin Scalia" ;
+        c:originalValue  "Antonin Scalia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/545e9b8e-4393-39b8-96d5-f56116747c33> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2278214a-f389-37e9-b51d-06de2ffb51ea> ;
+        c:score           "0.994" .

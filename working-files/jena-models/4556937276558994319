@@ -1,0 +1,96 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:importance     "1" ;
+        c:name           "Ted Cruz" ;
+        c:originalValue  "Ted Cruz" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7fea4bbb-c0a9-3544-bf00-b586372f1a2d> .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:score           "0.918" .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dd2f7112-abc4-b263-14da-54ca42a49095" ;
+        c:docDate          "2015-05-30 10:49:33.173" ;
+        c:docTitle         "" ;
+        c:document         "Flooding puts Cruz in bind on climate. The heavy flooding that's overwhelmed Texas and killed more than 30 people has put Sen. Ted Cruz in a bind on climate change." ;
+        c:id               "http://id.opencalais.com/JNezH-9g-*C8vbeF013qzA" .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|sW5+kFTIbNTWxkBLEv0CXaaUuH0=|YjUS+O7QBA+OYOoDSRF3jn0enJs3Kv/FOYngJ4DXHulxTm3Oxa+GTA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:32.970" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9d28a217-675f-33ee-8ad4-5a06d8842079> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:importance     "2" ;
+        c:name           "South Asia" ;
+        c:originalValue  "South Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/572dbf93-d568-3a83-ae42-4503b7bec542> .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:importance     "2" ;
+        c:name           "Administrative units of Pakistan" ;
+        c:originalValue  "Administrative units of Pakistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/741657d5-244d-3cf1-8e7e-127bbc42c589> .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:importance     "2" ;
+        c:name           "Pakistan" ;
+        c:originalValue  "Pakistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34f13d0f-f789-3a54-a8b6-be7f674bf78f> .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3c5ffc39-fc59-1ef2-14da-5404db123ab1" ;
+        c:docDate          "2015-05-30 10:36:04.666" ;
+        c:docTitle         "" ;
+        c:document         "Bodies of Pakistan crash victims brought to capital. ISLAMABAD (Reuters) - Pakistan's military brought the bodies of two ambassadors and two ambassadors' wives to Islamabad on Saturday, a day after they were killed in a helicopter crash in northern mountains as they where inspecting a tourism project." ;
+        c:id               "http://id.opencalais.com/-rzAnBDd14ZdcQIPUIp6Og" .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:importance     "2" ;
+        c:name           "Islamabad" ;
+        c:originalValue  "Islamabad" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/02ce5154-3a63-3b62-a0b5-703087727f81> .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|rYmaS2kydxUnigwF35QKP5mY8sc=|AsfTmDEKSV9bsvhPH2sZb4okhJBYF/yCWMlsk40VzWH/qXND/m0fgA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:04.401" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aea20938-cee0-358b-ab38-8e6839ad92af> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .

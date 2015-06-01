@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance     "2" ;
+        c:name           "Employment compensation" ;
+        c:originalValue  "Employment compensation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2389f7b-f3ad-3337-9e93-670bd108a205> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance     "2" ;
+        c:name           "Radio" ;
+        c:originalValue  "Radio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d716e304-d6f8-379b-8369-e49ba5bb361b> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance     "2" ;
+        c:name           "Socioeconomics" ;
+        c:originalValue  "Socioeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a2df6d2-5d17-33e9-939c-305e2d9fc018> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance     "1" ;
+        c:name           "Sylvia Poggioli" ;
+        c:originalValue  "Sylvia Poggioli" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1c51ec37-8c24-311d-9903-3c6f01114c58> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance     "2" ;
+        c:name           "Gender pay gap" ;
+        c:originalValue  "Gender pay gap" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2afd49c0-0170-3fd2-a790-a789fdb1906e> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance     "2" ;
+        c:name           "Income distribution" ;
+        c:originalValue  "Income distribution" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/be39394c-ba1a-34d2-a6cd-076c153d390e> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance     "1" ;
+        c:name           "Economic inequality" ;
+        c:originalValue  "Economic inequality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b58b1a8e-5f6e-3f28-bff0-78f83ce1ddd1> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance     "2" ;
+        c:name           "Audience" ;
+        c:originalValue  "Audience (meeting)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/262a6eaa-517f-320f-9290-1ab7817923cf> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qCiadOeC2YnRfxUfn/3Bxh4giNU=|WJc8zDo+CTQZiav+HJHObF/iBCmMlvluVsoKpkb3P1UI63k9QHW6fw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:30:25.076" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86> ;
+        c:importance     "2" ;
+        c:name           "NPR" ;
+        c:originalValue  "NPR" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0410c98-2061-3c90-8b44-3a246fbc5541> .
+
+<http://d.opencalais.com/dochash-1/bc57d2cc-b5e0-332c-8ff6-4324838f2b86>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2f483b87-895b-9308-14da-53b203432955" ;
+        c:docDate          "2015-05-30 10:30:25.200" ;
+        c:docTitle         "" ;
+        c:document         "Pope Francis Calls Gender Pay Gap A 'Pure Scandal'. NPR's Sylvia Poggioli reports that Francis' remarks, at his weekly general audience in St. Peter's Square, are some of his most forceful statements yet in favor of women." ;
+        c:id               "http://id.opencalais.com/Wawgae72JXn1PUe6mbfJ9Q" .

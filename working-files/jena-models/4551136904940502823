@@ -1,0 +1,89 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac> ;
+        c:score           "0.891" .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|iOW0Klo27vke/LxzV69Cb9pEMLA=|N2LtLWCFkZkBV3+MTPiDCzO4UNeInimpeummqoDZxN9bUNylC+NKVA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:27.172" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac> ;
+        c:importance     "1" ;
+        c:name           "Aurora" ;
+        c:originalValue  "Aurora" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9539af16-6c3a-3599-a29c-e3f8decc6a2b> .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac> ;
+        c:score           "0.750" .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac> ;
+        c:importance     "1" ;
+        c:name           "Holmes" ;
+        c:originalValue  "Holmes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b1edfeb5-595a-37e9-8a42-a5480ad0ae8e> .
+
+<http://d.opencalais.com/dochash-1/6b6610ba-cb7e-357c-b626-ef4d572037ac>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "105f5bce-f648-e677-14da-53ed1d571d39" ;
+        c:docDate          "2015-05-30 09:34:27.438" ;
+        c:docTitle         "" ;
+        c:document         "Fiancé killed shielding partner from bullets. Amanda Teves testifies at the trial of James Holmes who is charged with killing 12 people and injuring 70 at an Aurora, Colorado movie theater." ;
+        c:id               "http://id.opencalais.com/vwDUVYYeJ57s5BhsuwJNUA" .

@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e1cada7f-32ec-3978-9dc7-784672ba753f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e1cada7f-32ec-3978-9dc7-784672ba753f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/e1cada7f-32ec-3978-9dc7-784672ba753f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f721273b-969d-7e2c-14da-53ff070653ed" ;
+        c:docDate          "2015-05-30 09:35:40.590" ;
+        c:docTitle         "" ;
+        c:document         "The week in 38 photos . " ;
+        c:id               "http://id.opencalais.com/CJJg5zHl5fZo6sYwY-OFhg" .
+
+<http://d.opencalais.com/dochash-1/e1cada7f-32ec-3978-9dc7-784672ba753f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e1cada7f-32ec-3978-9dc7-784672ba753f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hJEAVrcopl0Q4Vx9CngGdTKukkE=|AGNTxA118KijgDFXLp+1ZZs4wnhP3p3uI/3Pl7EuT6EYaBn3MmPJtw==" ;
+        c:submissionDate  "2015-05-30 09:35:40.528" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

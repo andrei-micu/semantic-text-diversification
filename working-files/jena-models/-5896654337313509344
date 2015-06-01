@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|K8NMmTUhNYfJ2KCzqIHWH/oq4jY=|WcXOIiRm25YPxG92TBH3uNdqL9Qw+Yx7zl4zUaUDVV7Pb9HtOSxadw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:25.793" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:importance     "1" ;
+        c:name           "Mother" ;
+        c:originalValue  "Mother (1952 film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5061da2f-bfe4-3bcb-9383-b67061be129e> .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:score           "0.966" .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "422269d9-38d1-af83-14da-547f441719b3" ;
+        c:docDate          "2015-05-30 10:44:25.902" ;
+        c:docTitle         "" ;
+        c:document         "The mother who 'outed' her daughter's Facebook lie. Was it right for mother to publicly scold her teenage daughter?" ;
+        c:id               "http://id.opencalais.com/z5tRrRZX8JCUccVAy-560g" .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:importance     "1" ;
+        c:name           "Common scold" ;
+        c:originalValue  "Common scold" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/13aee0bc-d691-3773-826f-fd2f0bf05d2c> .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:score           "0.938" .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:importance     "1" ;
+        c:name           "Outing" ;
+        c:originalValue  "Outing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ed32eed5-ff33-3946-a965-360d8361f4fd> .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:score           "0.982" .
+
+<http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91adb592-9748-3183-aac6-9af376cc4a16> ;
+        c:importance     "2" ;
+        c:name           "Ethics" ;
+        c:originalValue  "Ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f579fc5-eed2-3113-a4f8-658e638275f1> .

@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:importance     "1" ;
+        c:name           "Iran" ;
+        c:originalValue  "Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0249c322-e67c-3627-bd67-41c134686d4c> .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:importance     "2" ;
+        c:name           "Nuclear program of Iran" ;
+        c:originalValue  "Nuclear program of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e55ddb64-2b4a-3d36-ab91-61afd402b42a> .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:importance     "2" ;
+        c:name           "Human rights in Iran" ;
+        c:originalValue  "Human rights in Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e8cba9e0-cdb5-3d46-a007-58a9d64c27e4> .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:score           "0.889" .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c8669615-8283-45f3-14da-53c782049095" ;
+        c:docDate          "2015-05-30 10:31:53.276" ;
+        c:docTitle         "" ;
+        c:document         "Iran suggests U.S. intelligence operative may have taken advantage of detained reporter. NEW YORK (Reuters) - Iran's foreign minister on Wednesday suggested that an intelligence operative, possibly linked to the U.S. government, may have taken advantage of Washington Post journalist Jason Rezaian, who has been charged in Iran with espionage and other crimes." ;
+        c:id               "http://id.opencalais.com/Bn8yrCn2RmwGriWJG*kpMw" .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:importance     "1" ;
+        c:name           "Iran–United States relations" ;
+        c:originalValue  "Iran–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cc4f0d1-5a61-38ff-9a0d-6996481b513d> .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Srg1wvye0MUSGLgQNSIOdRu1jZo=|hqesQ7/+SIovOd2JlF3k4A0/on9RDhFO61kd6csD20MKOD9TbzDuoA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:53.120" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:importance     "2" ;
+        c:name           "Iran–United States relations after" ;
+        c:originalValue  "Iran–United States relations after 1979" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eedbc5ca-69cf-3bd7-a1a0-a14a2656359a> .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:importance     "1" ;
+        c:name           "Politics of Iran" ;
+        c:originalValue  "Politics of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c472f367-69ac-34bf-8ddd-fe9911935ccf> .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/42819d15-8ba4-3042-a3db-79f2e8d15340> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

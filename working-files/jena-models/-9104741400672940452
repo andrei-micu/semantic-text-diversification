@@ -1,0 +1,97 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:importance     "1" ;
+        c:name           "African American music" ;
+        c:originalValue  "African American music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fea3a3b4-8cba-3ab2-88a9-ba192429f69e> .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4519deee-3ec3-5d51-4da5-44faf832f984" ;
+        c:docDate          "2015-05-30 09:41:11.170" ;
+        c:docTitle         "" ;
+        c:document         "Voice of the Blues for Generations. Mr. King’s world-weary voice and wailing guitar lifted him from the cotton fields of Mississippi to a global stage and the apex of American blues. He died Thursday at 89." ;
+        c:id               "http://id.opencalais.com/U-NFw4AK7JhU0cOdABIZ1A" .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:score           "0.907" .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|R7FGKVkA7/1qLmDfGHEFjyO4Mz0=|RHv3rbLgD9/IAipnoTr6z/CPaaaTCHdcFOY4iKtmit1WMZgD8pZCJg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:10.920" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:importance     "1" ;
+        c:name           "African-American culture" ;
+        c:originalValue  "African-American culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74f8f4b0-3196-35a0-ad95-2f4e3c73b0ff> .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:importance     "1" ;
+        c:name           "Blues" ;
+        c:originalValue  "Blues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/90d37ee3-e4fe-3548-b839-feade09154b2> .
+
+<http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dd276e93-77e2-3a52-8e03-aae516c15749> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

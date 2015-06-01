@@ -1,0 +1,131 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "2" ;
+        c:name           "Warez" ;
+        c:originalValue  "Warez" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ea4918cf-8aa9-3d2b-8c72-87db352d5f4c> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:score           "0.931" .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "2" ;
+        c:name           "Military personnel" ;
+        c:originalValue  "Military personnel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3df1101-0b09-37b1-89c4-540c1143c61d> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "2" ;
+        c:name           "South Korea" ;
+        c:originalValue  "South Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e01189c4-0bf9-3da9-b2d3-dc5091502a13> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "2" ;
+        c:name           "North Korea" ;
+        c:originalValue  "North Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6366d8f-94a3-392d-9664-3df45419a56c> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "1" ;
+        c:name           "Member states of the United Nations" ;
+        c:originalValue  "Member states of the United Nations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e911935-f6c4-3599-ba32-e28b931005c3> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|vUM2sYql2CuGgO+hX+CC4OXMf+U=|BI7s0TPWTNx5KxEaUzFsdMPKDaVCJ85PAmzIlZWxQSOH8e0iS22coA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:46.628" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d656cae0-54ef-ca6a-14da-53e3384760f9" ;
+        c:docDate          "2015-05-30 10:33:46.800" ;
+        c:docTitle         "" ;
+        c:document         "North Korea: We'll nuke, if forced. A member of North Korea's inner circle tells CNN the country would use nukes if \"forced.\" FULL STORY" ;
+        c:id               "http://id.opencalais.com/kZl5qbmB9dzPMSjiOgbxBQ" .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "1" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "2" ;
+        c:name           "Nuke" ;
+        c:originalValue  "Nuke (warez)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eaa09a54-95b1-32d2-aef4-51ef85bdb0d0> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91fa9009-1661-340f-a40d-466a468734d0> ;
+        c:importance     "1" ;
+        c:name           "Divided regions" ;
+        c:originalValue  "Divided regions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c3adcd7-f7e6-327f-ac6e-02cfd1b3fda4> .

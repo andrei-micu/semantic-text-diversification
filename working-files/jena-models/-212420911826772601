@@ -1,0 +1,60 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3> ;
+        c:score           "0.538" .
+
+<http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3> ;
+        c:importance     "1" ;
+        c:name           "Freddie" ;
+        c:originalValue  "Freddie" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b024b5d4-fa1b-32d6-a520-4353c684f330> .
+
+<http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3> ;
+        c:importance     "1" ;
+        c:name           "Gray's Anatomy" ;
+        c:originalValue  "Gray's Anatomy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a3b4c664-5404-3800-acb5-2ce4e9a15976> .
+
+<http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "93b5dd7f-9ef0-5001-14da-53bdc7e13c98" ;
+        c:docDate          "2015-05-30 09:31:13.465" ;
+        c:docTitle         "" ;
+        c:document         "Person close to officer offers information on Freddie Gray's arrest . Precious little is known about how exactly Freddie Gray died." ;
+        c:id               "http://id.opencalais.com/tkurBYbijuo1ktVycxv1-A" .
+
+<http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2ba49ff4-7ae1-3a93-afb4-638521f734c3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|phcueiexRXC6W5WH1n9SB8PSV7A=|ZPF3Ey9eT9Wjx2mIinRy1PlDXcl2owbCxWt5s0na9RlSKm9hfmSY/A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:13.278" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

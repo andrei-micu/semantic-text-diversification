@@ -1,0 +1,152 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|kVkbIKkxEtrMbgFKyYBGQxc5Abc=|YGJoaMGZLolCu1xsr0nk7JZlqacDTEj7kWfewpFbtefTOXU92mOJVQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:45:59.299" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance     "1" ;
+        c:name           "Gunfighter" ;
+        c:originalValue  "Gunfighter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04fae002-c9c4-3259-97bf-75bea3a2ba80> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance     "2" ;
+        c:name           "Operation Michoacán" ;
+        c:originalValue  "Operation Michoacán" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ac2a4873-39ea-394c-8837-ff579ee6dce4> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a9664efb-d6bf-7521-14da-549618371d39" ;
+        c:docDate          "2015-05-30 09:45:59.548" ;
+        c:docTitle         "" ;
+        c:document         "Gunfight in western Mexico kills at least 42: officials. MEXICO CITY (Reuters) - At least 42 people were killed on Friday in western Mexico in a gunfight between suspected gang members and security forces, two government officials said, the latest bloodshed in an area that has been plagued by violent drug gangs." ;
+        c:id               "http://id.opencalais.com/-xin3gBkRAXXJOHyL6y7uQ" .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:score           "0.726" .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance     "1" ;
+        c:name           "American folklore" ;
+        c:originalValue  "American folklore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5aa3812d-b30b-39ea-bb2c-bacbfc060d7f> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance     "2" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance     "2" ;
+        c:name           "Structure" ;
+        c:originalValue  "Structure" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/348713fc-e23f-345e-9921-23f372113c2a> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance     "2" ;
+        c:name           "Law enforcement" ;
+        c:originalValue  "Law enforcement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93510f9c-4514-3e82-ad67-c26d91124e44> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance     "2" ;
+        c:name           "Gang" ;
+        c:originalValue  "Gang" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72885e85-702b-360e-893c-602d7a4fdfe2> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance     "1" ;
+        c:name           "Western" ;
+        c:originalValue  "Western (genre)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5b8649f0-3d9b-33a8-8d29-44abb0468e0c> .
+
+<http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c2e7a41-bb8f-3148-b1fc-75fecc5fe21f> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

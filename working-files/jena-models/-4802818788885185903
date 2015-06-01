@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:score           "0.514" .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:importance     "2" ;
+        c:name           "Animal welfare" ;
+        c:originalValue  "Animal welfare" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/685c370c-0594-3201-a8a6-b5899e6d3eeb> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:importance     "2" ;
+        c:name           "Soviet space dogs" ;
+        c:originalValue  "Soviet space dogs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/524e8277-4251-349c-8ef7-841d793c8e92> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:importance     "1" ;
+        c:name           "Animals in space" ;
+        c:originalValue  "Animals in space" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/15cb60f1-0109-3dbd-9a1d-4d9360fc82f0> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:importance     "2" ;
+        c:name           "Laika" ;
+        c:originalValue  "Laika" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d4109fa6-4a55-3b23-a5a8-20b1eafb550a> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|WKePhZwrnwUPcxi+VlwXSgzV1dY=|VigfkxwuFwGhxUOET9JyW434VtNSH0n/nEChNluKS77FbYrc7u9QVw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:20.837" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:importance     "2" ;
+        c:name           "Dog breeds" ;
+        c:originalValue  "Dog breeds" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c0da125-c4e1-30aa-bc35-0d658f088f7c> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:score           "0.955" .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:importance     "2" ;
+        c:name           "Aftershock" ;
+        c:originalValue  "Aftershock" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2208fec5-78bf-36d3-a582-10b664f07116> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:importance     "1" ;
+        c:name           "Animal rights" ;
+        c:originalValue  "Animal rights" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9ad12ba5-28fe-35ce-b269-b277f7f26be7> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1dda4bf1-55ba-9e11-4da5-38508549095c" ;
+        c:docDate          "2015-05-30 10:27:20.931" ;
+        c:docTitle         "" ;
+        c:document         "Latest News: Nepal Aftershocks, Colorado Trial, Laika the Space Dog. Here’s what you need to know to start your day." ;
+        c:id               "http://id.opencalais.com/L4Mlg0RC-VjQYJXkVUW7Kw" .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:importance     "1" ;
+        c:name           "Spaceflight" ;
+        c:originalValue  "Spaceflight" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a047fab-a818-39e0-b940-49bc12ce74f3> .
+
+<http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f258ace-6559-34b3-9276-5910354c2d52> ;
+        c:importance     "2" ;
+        c:name           "Animal testing" ;
+        c:originalValue  "Animal testing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2e54d79-1246-3a10-9c42-3e027ad444b5> .

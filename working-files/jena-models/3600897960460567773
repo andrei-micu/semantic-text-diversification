@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/75ddc7ab-0ed0-33f7-9f17-97b55b7b27de/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/75ddc7ab-0ed0-33f7-9f17-97b55b7b27de> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/75ddc7ab-0ed0-33f7-9f17-97b55b7b27de/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/75ddc7ab-0ed0-33f7-9f17-97b55b7b27de> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hpiwR3naQB+QcI4J/AXE1GoNY2s=|IMH2gY35D4JUhrug6lYYrFRs2qFK4gPLEdmumado4KXPnMlGZXQZ0w==" ;
+        c:submissionDate  "2015-05-30 09:42:07.282" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/75ddc7ab-0ed0-33f7-9f17-97b55b7b27de>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6212b3a8-5d3a-106b-14da-545d73234709" ;
+        c:docDate          "2015-05-30 09:42:07.329" ;
+        c:docTitle         "" ;
+        c:document         "In my backyard: Iceland. " ;
+        c:id               "http://id.opencalais.com/ygF34diIYjFXFmMkU2voCQ" .

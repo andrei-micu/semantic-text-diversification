@@ -1,0 +1,160 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance  "2" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance     "1" ;
+        c:name           "Greetings" ;
+        c:originalValue  "Greetings" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50830e0e-1ab1-36c1-b44e-9116c351c793> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance     "2" ;
+        c:name           "John Gibson" ;
+        c:originalValue  "John Gibson (police officer)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afdb4025-52bc-36d7-a011-79d445df752c> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance     "1" ;
+        c:name           "Gestures" ;
+        c:originalValue  "Gestures" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8dd610be-3354-3597-9580-a14790495217> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance     "2" ;
+        c:name           "21-gun salute" ;
+        c:originalValue  "21-gun salute" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/601a3467-1702-36c9-8602-d47ec88a403f> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:score           "0.796" .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bWfgENDUUH5mb4CSI5O76PZURsY=|MJsrqYJSTCrmbjbx2b0io55PVWZ40exe+7iMvbxWUBHBfF0Dw/XHWg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:12.256" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "234922e3-87d7-3a62-14da-545eaa0760f9" ;
+        c:docDate          "2015-05-30 10:42:12.381" ;
+        c:docTitle         "" ;
+        c:document         "Obama Salutes Fallen Law Enforcement Officers as Heroes. The president spoke at a memorial ceremony to thousands of officers and family members of those killed in action." ;
+        c:id               "http://id.opencalais.com/IpuuFg3d-XsYQvDYmvTSeA" .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:score           "0.819" .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance     "2" ;
+        c:name           "Ceremony" ;
+        c:originalValue  "Ceremony" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/602d172a-6234-3923-8675-ccebaf624561> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbac1ffd-c79d-3330-8984-65eb3cfa4bc1> ;
+        c:importance     "2" ;
+        c:name           "Salute" ;
+        c:originalValue  "Salute" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/066a10e9-09fd-3ae8-a6d9-0333d70767a5> .

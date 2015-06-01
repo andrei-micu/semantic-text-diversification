@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43> ;
+        c:score           "0.994" .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43> ;
+        c:importance     "2" ;
+        c:name           "Mad" ;
+        c:originalValue  "Mad (magazine)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2aaf358-ec0a-3821-b513-ae7516b9c212> .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43> ;
+        c:importance     "2" ;
+        c:name           "Mad Men" ;
+        c:originalValue  "Mad Men" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/370e3559-d160-3960-a5c4-f0090b9f377e> .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Jo9boDeSozOMy5Isy3bb+KCw+iM=|klRFsG+NRPMzrnWGH7a+n52UGqo7TqHlQcLI+BevOvwokGMLlw7BUA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:51.663" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43> ;
+        c:importance     "1" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43> ;
+        c:importance     "2" ;
+        c:name           "Weiner" ;
+        c:originalValue  "Weiner" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3045885b-cd71-30a6-be7d-463f403c6c87> .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e7f2489f-032c-6ad2-14da-5476eef13c98" ;
+        c:docDate          "2015-05-30 09:43:51.850" ;
+        c:docTitle         "" ;
+        c:document         "ArtsBeat: Matthew Weiner on the Coke Ad and the Meaning of ‘Mad Men’. Mr. Weiner, the creator of “Mad Men,” discussed the show’s ambiguous finale in a talk at the New York Public Library." ;
+        c:id               "http://id.opencalais.com/CIPYZZVUu94KiGCQ19Eigg" .
+
+<http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/021accc4-ade7-3915-ba4e-e3e32bca4f43> ;
+        c:importance     "1" ;
+        c:name           "Matthew Weiner" ;
+        c:originalValue  "Matthew Weiner" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/86cd6ee2-2b32-3118-9fe4-bda2566053a4> .

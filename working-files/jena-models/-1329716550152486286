@@ -1,0 +1,52 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3c9ce9e0-dac8-5fce-14da-54d253323ab1" ;
+        c:docDate          "2015-05-30 10:50:06.175" ;
+        c:docTitle         "" ;
+        c:document         "Bringing Tales Of WWII To American Radios And Bookshelves. Bill Shirer brought stories of war in Europe into American homes. NPR's Scott Simon talks with Ken Cuthbertson about his new book, A Complex Fate: William L. Shirer and the American Century." ;
+        c:id               "http://id.opencalais.com/p3KbccpoEhFIW-cASM8LXw" .
+
+<http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c> ;
+        c:importance     "1" ;
+        c:name           "Journalism" ;
+        c:originalValue  "Journalism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a2e08222-c2e2-38ed-b1b9-cb3b8b00def8> .
+
+<http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bqtBDj7J2zFQX3JZFtBytxXtwfU=|ECJEJ8jpDhpGASh91jCnPHnBjZsQin6aKBkoxFRvPUgf6umlgsEBEw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:50:06.003" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c> ;
+        c:importance     "1" ;
+        c:name           "William L. Shirer" ;
+        c:originalValue  "William L. Shirer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/416ce1bf-7af7-3c22-b917-aeddf59db04c> .
+
+<http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/00f9fbd1-8040-3db9-9448-f318609ec01c> ;
+        c:score           "0.591" .

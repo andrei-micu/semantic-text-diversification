@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54> ;
+        c:importance     "2" ;
+        c:name           "Jets–Patriots rivalry" ;
+        c:originalValue  "Jets–Patriots rivalry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e70c7f19-2c52-3f63-804e-211a9a2d1260> .
+
+<http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9a8556eb-9475-b8e5-14da-5444d2a719b3" ;
+        c:docDate          "2015-05-30 10:40:26.582" ;
+        c:docTitle         "" ;
+        c:document         "Goodell to decide Brady appeal. It's official: New England Patriots quarterback Tom Brady will fight the four-game suspension the NFL dealt him this week." ;
+        c:id               "http://id.opencalais.com/NiwWLOKS19qBBa*rSAorew" .
+
+<http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54> ;
+        c:importance     "1" ;
+        c:name           "New England Patriots" ;
+        c:originalValue  "New England Patriots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/53e5a9ce-ca26-374d-8e9e-a1aea4c2db35> .
+
+<http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1ioPS61x3OnbnRY6tO94LL5CL2o=|On0Igb7ERK+aMDTfOtgZdw3OAyqSSDTX5otKpu4Krn+FbxOn9Vh6Pw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:26.410" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54> ;
+        c:importance     "1" ;
+        c:name           "National Football League" ;
+        c:originalValue  "National Football League" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/911c58d3-69ff-36bb-8448-54ede0a84d89> .
+
+<http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54> ;
+        c:importance     "2" ;
+        c:name           "New England Patriots season" ;
+        c:originalValue  "2011 New England Patriots season" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f053f37-b012-3c3d-bfb1-36ab71e7945e> .
+
+<http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54> ;
+        c:importance     "1" ;
+        c:name           "Tom Brady" ;
+        c:originalValue  "Tom Brady" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52dcf606-d4c6-3477-a5fe-ad3eb7ec165e> .
+
+<http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/303f31c7-cbc3-365d-b76e-da0a67e86b54> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

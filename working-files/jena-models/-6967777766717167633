@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:importance     "1" ;
+        c:name           "Nepal" ;
+        c:originalValue  "Nepal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47cb7fb8-c179-378d-94c8-3ee216a55ec3> .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "973d3c99-65c8-2df0-14da-53d1a8832955" ;
+        c:docDate          "2015-05-30 10:32:34.805" ;
+        c:docTitle         "" ;
+        c:document         "Journey to epicenter of quake. More than 1,400 meters above sea level, amidst Nepal's treacherous alpine terrain, an entire mountain is shaking." ;
+        c:id               "http://id.opencalais.com/NKqE3gdyAN2XJ3Sz*TnYtg" .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:importance     "1" ;
+        c:name           "Quake" ;
+        c:originalValue  "Quake (series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b539ba79-f6f4-3b1b-8a4d-49b6037ca637> .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9kUIzQiy8v8vlMIcyKxMZSuyaYU=|eoEDamydFP8f4dM9+XoaG1jEPfYFz0gNBRYs8hDeg16LmlcxvWteSQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:34.696" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:importance     "2" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f249c9a3-c15b-333b-aeb2-c04f47df04f5> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .

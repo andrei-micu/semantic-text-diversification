@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b> ;
+        c:importance     "1" ;
+        c:name           "Juries" ;
+        c:originalValue  "Juries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a361383-133a-38da-87ac-2a57f217a60f> .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b> ;
+        c:score           "0.563" .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e6d95c2e-9b9d-afaf-14da-53b5a3e1927e" ;
+        c:docDate          "2015-05-30 10:30:40.028" ;
+        c:docTitle         "" ;
+        c:document         "Boston bomber wanted life, brother wanted death, jurors hear. BOSTON (Reuters) - Lawyers seeking to spare convicted Boston Marathon bomber Dzhokhar Tsarnaev the death penalty on Wednesday presented different stories of how he and his older brother Tamerlan behaved when medics treated their wounds after being captured." ;
+        c:id               "http://id.opencalais.com/7VN3OQGwJLdWnXAS7MGuSQ" .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b> ;
+        c:importance     "1" ;
+        c:name           "Boston" ;
+        c:originalValue  "Boston (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/deec38cf-c474-3c08-a409-085f7c593917> .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b> ;
+        c:score           "0.562" .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|31EpUXCFHr0iZ5NhNGxzuM4x5jY=|cCPDqT9scOxfFURv6+UqSxPRaL6ED4fnJLtg7ZuUsgm2QkovMaYO+Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:30:39.934" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6921fc7d-f546-3053-bba1-28f29996d44b> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

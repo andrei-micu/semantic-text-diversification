@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f> ;
+        c:importance     "1" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f> ;
+        c:importance     "2" ;
+        c:name           "George Steinmetz" ;
+        c:originalValue  "George Steinmetz" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ffe40218-d0be-3b84-a91b-cacadaa7a352> .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f> ;
+        c:importance     "2" ;
+        c:name           "Africa" ;
+        c:originalValue  "Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40ba53c0-c97b-3a8d-9376-dccf9e54b90e> .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f> ;
+        c:importance     "1" ;
+        c:name           "Military dictatorship" ;
+        c:originalValue  "Military dictatorship" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/78785b19-9c5c-30d6-a73e-db620d9653a5> .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "694eef7e-04b7-d1d3-14da-54cb66349095" ;
+        c:docDate          "2015-05-30 10:49:37.822" ;
+        c:docTitle         "" ;
+        c:document         "Soaring above deserts on a 'leaf blower'. Several years ago, in Gadhafi-controlled Libya, George Steinmetz found himself hidden in a kind of \"safe house\" where he was assembling his personal aircraft." ;
+        c:id               "http://id.opencalais.com/hwEe47yusrZE0wdrysIh6w" .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f> ;
+        c:importance     "2" ;
+        c:name           "Libya" ;
+        c:originalValue  "Libya" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aab7445b-f6fb-3a43-9727-49d4e591ae3d> .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|OXOGbh9OvrLMNtfSLEF7sLcVOnw=|GvnwkTvhHg9nDkTVW1vfAI6czcuNVPezoQQ/B9oTSs14mjhxmjJA6w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:37.635" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f> ;
+        c:importance     "2" ;
+        c:name           "Desert" ;
+        c:originalValue  "Desert" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d3da631-e0c7-3493-8c5e-450d26442ea5> .
+
+<http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08ad3fd9-f1b4-3a02-83c3-79c4fd3df78f> ;
+        c:importance     "2" ;
+        c:name           "Muammar Gaddafi" ;
+        c:originalValue  "Muammar Gaddafi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1fdedafb-b5bf-3ba7-9e97-32af61a1cea6> .

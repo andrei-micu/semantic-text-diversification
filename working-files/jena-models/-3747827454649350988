@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance     "2" ;
+        c:name           "Weapons of mass destruction" ;
+        c:originalValue  "Weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9562e4d9-0ad0-3dde-80ea-ba76fafed720> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance     "2" ;
+        c:name           "Military" ;
+        c:originalValue  "Military" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/628c4e54-7bba-3c87-80aa-ecabcf30215e> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YGA+0m7FZHeL94C05rCXjE5lXMY=|byCLS2PZrtXIHu9j6ZUc8Iq9WqBBN6+CnPyZMyvAc7mcq90rqhxqdA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:23.057" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance     "2" ;
+        c:name           "Artillery Guidance Bureau" ;
+        c:originalValue  "Artillery Guidance Bureau" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4155c3be-d54a-3db3-813d-db43256f980c> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance     "1" ;
+        c:name           "Missile defense" ;
+        c:originalValue  "Missile defense" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/142236b0-72ed-3886-9254-e7d3ffb0e699> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance     "2" ;
+        c:name           "Ballistics" ;
+        c:originalValue  "Ballistics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61d56b68-c565-30a7-ad9e-8d93f8acbd6b> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance     "1" ;
+        c:name           "Ballistic missiles" ;
+        c:originalValue  "Ballistic missiles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/92ed6444-7f3c-3731-b62a-e1db73a12566> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance     "2" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8aa2156f-c013-74c0-14da-54355b123ab1" ;
+        c:docDate          "2015-05-30 10:39:23.338" ;
+        c:docTitle         "" ;
+        c:document         "North Korea seen years from sub-launched missile to threaten the U.S.. SEOUL (Reuters) - North Korea made a key step in its nuclear weapons program by test-launching a ballistic missile from a submarine, but remains years away from developing a missile system or submarine which could threaten its sworn enemy the United States, experts said." ;
+        c:id               "http://id.opencalais.com/1lzX4pFog850MSV5frYrvA" .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance     "2" ;
+        c:name           "Military science" ;
+        c:originalValue  "Military science" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5243dcb6-9968-3417-b6cf-ccda8917767e> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance     "2" ;
+        c:name           "India and weapons of mass destruction" ;
+        c:originalValue  "India and weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4daf3be0-3190-3a18-bf8f-664bcf8870c1> .
+
+<http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/192c1566-b570-3ebc-9735-4f33528cc099> ;
+        c:importance     "1" ;
+        c:name           "Defence Research and Development Organisation" ;
+        c:originalValue  "Defence Research and Development Organisation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/15586210-862a-38a6-9caa-4237099ec84b> .

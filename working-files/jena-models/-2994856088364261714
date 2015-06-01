@@ -1,0 +1,136 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:score           "0.980" .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:importance     "1" ;
+        c:name           "Conservatorship" ;
+        c:originalValue  "Conservatorship" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7e25456f-334b-3643-ab47-5fb3f6debf10> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|svxvYrRebjLHQixiH+9+QroxKdc=|WQXXdMnuGgUqLzelXncwMMvsm8RfUUucxVr1F3SRhmyEuVRJ2AOncQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:09.906" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:importance     "1" ;
+        c:name           "Joni Mitchell" ;
+        c:originalValue  "Joni Mitchell" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30b7d23e-ca7b-35f6-8442-033aa542b4b3> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:importance     "2" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:score           "0.951" .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f0909b2d-e84c-f664-14da-53bcf52719b3" ;
+        c:docDate          "2015-05-30 10:31:10.046" ;
+        c:docTitle         "" ;
+        c:document         "Joni Mitchell's friend files for conservatorship. A longtime friend of Joni Mitchell has filed a legal petition seeking to be named the singer-songwriter's conservator." ;
+        c:id               "http://id.opencalais.com/dFYl0n0BxogS4tZLAUX-ig" .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:importance     "1" ;
+        c:name           "Crossover" ;
+        c:originalValue  "Crossover (music)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/449ea285-abe4-3664-ac05-9de3a9ce3ba0> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:importance     "2" ;
+        c:name           "Song to a Seagull" ;
+        c:originalValue  "Song to a Seagull" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8e71589d-ffc7-3dfe-ac21-8fa209e9544f> .
+
+<http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bd4626e5-9f3b-3a84-a27b-0c2de59b4d9b> ;
+        c:score           "0.705" .

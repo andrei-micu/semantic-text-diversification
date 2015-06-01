@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "92180b58-6592-7756-14da-546d4ce23ab1" ;
+        c:docDate          "2015-05-30 10:43:12.393" ;
+        c:docTitle         "" ;
+        c:document         "Video shows police officer hitting football fan. Video shows a Benfica football fan being struck by police in front of his children. CNN's Isa Soares has the story." ;
+        c:id               "http://id.opencalais.com/b0NHggktaU8Xk0eDlit7kw" .
+
+<http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d> ;
+        c:importance     "1" ;
+        c:name           "Association football culture" ;
+        c:originalValue  "Association football culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1edffc13-6ec0-3f86-b3ec-f31385748d44> .
+
+<http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d> ;
+        c:score           "0.933" .
+
+<http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1Gdcz+/IfxVAxsaAjmyYqFWhO1A=|AVUQkgw88s1bqzz7xvxQVxQEsuw+JxSP60b7IjewLbDA85GzqrYAjg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:12.206" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d> ;
+        c:importance     "1" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1c54bb5-34a5-3156-b2be-6f69a5f5510d> ;
+        c:importance     "1" ;
+        c:name           "S.L. Benfica" ;
+        c:originalValue  "S.L. Benfica" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3a0fde96-74ad-397e-ba07-820cc543248d> .

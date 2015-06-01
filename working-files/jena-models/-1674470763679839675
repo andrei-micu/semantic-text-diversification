@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:importance     "1" ;
+        c:name           "New York" ;
+        c:originalValue  "New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/461159b1-6be8-3031-b1dd-039ee48ba761> .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:score           "0.609" .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:importance     "1" ;
+        c:name           "Dean Skelos" ;
+        c:originalValue  "Dean Skelos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/998d3bd4-e411-3218-891e-225f0a552191> .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:importance     "2" ;
+        c:name           "Christopher Nixon Cox" ;
+        c:originalValue  "Christopher Nixon Cox" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/29be2ca1-77c0-3886-b06b-3769926764af> .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d39bfb3f-708f-a925-14da-53f5c7232f98" ;
+        c:docDate          "2015-05-30 09:35:02.912" ;
+        c:docTitle         "" ;
+        c:document         "Dean Skelos, Albany Senate Leader, Takes Leave of Absence From Law Firm. The Long Island law firm that employed the state senator accused of corruption said in a statement that he is “currently on a leave of absence.”" ;
+        c:id               "http://id.opencalais.com/tIVQnA2gijH33BJm9So4rA" .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:importance     "2" ;
+        c:name           "State governments of the United States" ;
+        c:originalValue  "State governments of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf4c3516-1d6d-3066-8fe6-5658d2ac1df9> .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:importance     "1" ;
+        c:name           "New York State Senate" ;
+        c:originalValue  "New York State Senate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d7a8851-1412-3f19-953f-1f28ff7aa770> .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:importance     "2" ;
+        c:name           "Roy Simon" ;
+        c:originalValue  "Roy Simon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba79b8da-846e-3994-a49c-38e5bb2c7563> .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zESnhro4WeJGHugi2MFpWGjdWvE=|Yt3U3NXrzTMmg1LgYWLjJ5LMOqiTvSZB9N2WpnMfwM8V3G1XvSdJDQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:02.642" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/acd982fa-43c0-3b74-8a13-62d3e869efba> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

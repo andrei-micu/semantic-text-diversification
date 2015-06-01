@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:importance     "1" ;
+        c:name           "Politics of Iraq" ;
+        c:originalValue  "Politics of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2a147ea-ee41-3c0a-a7e3-4ef16e7d271c> .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|H9AaI02lH3F6U18q2Wqzb+posAo=|aaDcZQeHlAJrsmIXkEDDVY2Z8d03CC9x2BRT55TaYLdOvRN5u6vBXw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:38.196" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:score           "0.829" .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:importance     "2" ;
+        c:name           "Iraqi insurgency" ;
+        c:originalValue  "Iraqi insurgency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/21e18d4a-5c56-31de-9a44-b846fcbc2f98> .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "307e29c0-0a2a-8e16-14da-54ae3d41df07" ;
+        c:docDate          "2015-05-30 09:47:38.445" ;
+        c:docTitle         "" ;
+        c:document         "Thousands Who Run, Few Who Fight: A Journalist On Ramadi's Fall. Ayman Oghanna was embedded with Iraqi special forces in Ramadi two days before the city fell to the self-declared Islamic State. He says Iraq's elite forces are capable, but need far more support." ;
+        c:id               "http://id.opencalais.com/dIXF2TCN5UqCciySn-k8WQ" .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:importance     "2" ;
+        c:name           "Occupation of Iraq" ;
+        c:originalValue  "Occupation of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3825fb7d-8a38-39a5-864b-fbcbfcba7d70> .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:importance     "2" ;
+        c:name           "Iraq War" ;
+        c:originalValue  "Iraq War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30f6b3bb-177a-3ed7-89cb-1f573d732616> .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:importance     "1" ;
+        c:name           "Iraq–United States relations" ;
+        c:originalValue  "Iraq–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c94883e-2a3b-3d03-a3f2-ad42f9533e2d> .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:score           "0.949" .
+
+<http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d7aa5c61-c3db-3517-8b50-cfc0fc964465> ;
+        c:importance     "2" ;
+        c:name           "Iraq" ;
+        c:originalValue  "Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/33ecfc09-2dca-3a72-9cc0-81d284a7bd4f> .

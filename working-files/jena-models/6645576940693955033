@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance     "1" ;
+        c:name           "Referendum" ;
+        c:originalValue  "Referendum" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/804c1316-64fb-3b5c-aaa2-aeb1dc576c7d> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance     "2" ;
+        c:name           "Popular sovereignty" ;
+        c:originalValue  "Popular sovereignty" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06109b96-a046-3b0c-84a6-820d73158d55> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:score           "0.871" .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3fef8e2a-f26e-c304-14da-54a0b7f1927e" ;
+        c:docDate          "2015-05-30 10:46:43.064" ;
+        c:docTitle         "" ;
+        c:document         "Ireland Appears Set to Legalize Same-Sex Marriage. Opinion polls and high turnout in urban areas favored a yes vote on the referendum, which would make Ireland the first nation to approve same-sex marriage by popular vote." ;
+        c:id               "http://id.opencalais.com/jYyepNd60HDPPqyLEyNwgg" .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance     "1" ;
+        c:name           "Direct democracy" ;
+        c:originalValue  "Direct democracy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d1ceb9d-e204-3d2f-b093-ed790afe699c> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage in the United States" ;
+        c:originalValue  "Same-sex marriage in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bdcd460c-629a-331e-b2c6-af5d5447ab33> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage in Maine" ;
+        c:originalValue  "Same-sex marriage in Maine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7adc0391-c375-3884-b364-6bfa078e6ab8> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:score           "0.667" .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance     "1" ;
+        c:name           "Elections" ;
+        c:originalValue  "Elections" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2edb7528-a80b-3329-a4a0-271d21fecf2e> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance     "2" ;
+        c:name           "Democracy" ;
+        c:originalValue  "Democracy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51448d21-7961-3ccd-bd71-23f9571d33fe> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gBdZqE7mME9s+YU/oQcJYVIutzw=|WDBaHIzqYl6yYL1hsfYzAg5PZEUOx3exKn/pDexgbcpD6dK593y67g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:42.815" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2c184af-67e8-34d0-b68f-159707a7b00e> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

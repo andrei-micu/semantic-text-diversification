@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d> ;
+        c:importance     "2" ;
+        c:name           "Nick Clooney" ;
+        c:originalValue  "Nick Clooney" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e95e379-92bc-3cab-85e4-15d2bbc60e59> .
+
+<http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d> ;
+        c:importance     "1" ;
+        c:name           "George Clooney" ;
+        c:originalValue  "George Clooney" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9ff6df43-1bb8-3b4d-93e0-f8ccc372b5b9> .
+
+<http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d> ;
+        c:importance     "1" ;
+        c:name           "Syria" ;
+        c:originalValue  "Syria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34e250e7-a386-38cf-8d7b-6b45399ed952> .
+
+<http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "317fe754-a6d4-fb2e-14da-549c9ba32f98" ;
+        c:docDate          "2015-05-30 09:46:26.275" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Clooney: Syria 'incredibly complex'. George Clooney has told the BBC that he intends to do more to help the people of Syria - but without being formally involved in politics." ;
+        c:id               "http://id.opencalais.com/FOHdeKHiir*41Sq3jWBEsQ" .
+
+<http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4f7a5339-bd70-3bca-89af-1fc949d4615d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|OzH467uBK5bri9QHNaZxKysUu28=|Jtdz2sjr/kGLyna2+1X9DJrB53Ft5M6Z0ZiC1HXr86mvR8/Z2ovKXA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:25.978" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

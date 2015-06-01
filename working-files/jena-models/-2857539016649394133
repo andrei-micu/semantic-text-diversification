@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b6d1467a-c7fd-3e7d-8f6c-6adca755ac2e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "24875381-f05e-192c-14da-542cf63719b3" ;
+        c:docDate          "2015-05-30 10:38:48.768" ;
+        c:docTitle         "" ;
+        c:document         "The man who invented Turkey. " ;
+        c:id               "http://id.opencalais.com/tOmn2zvhgHQk6Mpthxb3Hg" .
+
+<http://d.opencalais.com/dochash-1/b6d1467a-c7fd-3e7d-8f6c-6adca755ac2e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b6d1467a-c7fd-3e7d-8f6c-6adca755ac2e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HEL20U9Q64nd202FhWNBPIqsrAg=|c3tlU7hNHZQ/Xl0ZJcy3dxBJzTsHY+RyfZLBrSjFrZIf5LQVzcDm8A==" ;
+        c:submissionDate  "2015-05-30 10:38:48.675" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b6d1467a-c7fd-3e7d-8f6c-6adca755ac2e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b6d1467a-c7fd-3e7d-8f6c-6adca755ac2e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

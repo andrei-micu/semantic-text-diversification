@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:importance     "2" ;
+        c:name           "Ramadi" ;
+        c:originalValue  "Ramadi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a14fe0e-d3e7-3c2c-9a6b-129bc843d4ed> .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:score           "0.633" .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:importance     "1" ;
+        c:name           "Institute for Science and International Security" ;
+        c:originalValue  "Institute for Science and International Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c71d202e-bbaf-3611-8503-af60f3896591> .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:importance     "2" ;
+        c:name           "Isis" ;
+        c:originalValue  "Isis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afe3a960-ba58-3537-8ed1-540bc01f0b0a> .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|REpTJ+/lalB0AQ/Exr7jS/HpOFA=|bpzFCh40ielZlvI2VuJaJCA60TGDgvYpKyDGIyXHqi7B6NZIcsoYYw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:33.804" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6f457445-fec4-ab1f-14da-5446a0c71d39" ;
+        c:docDate          "2015-05-30 09:40:33.882" ;
+        c:docTitle         "" ;
+        c:document         "U.S. sends weapons to Iraq as ISIS advances. The U.S. is \"expediting\" weapon shipments to Iraq in light of the ISIS advances in Ramadi. FULL STORY" ;
+        c:id               "http://id.opencalais.com/JHmz-3q3qkHD0OtAIhl2Jg" .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:importance     "1" ;
+        c:name           "Nuclear proliferation" ;
+        c:originalValue  "Nuclear proliferation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f667b49b-2db2-3365-a7c3-43453c82b78f> .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:score           "0.990" .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:importance     "1" ;
+        c:name           "Religion" ;
+        c:originalValue  "Religion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c9f8418-419c-3a9b-92db-f387fc4fb3d7> .
+
+<http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4b2c28aa-42d9-3304-bbf0-da48bec8297a> ;
+        c:importance     "2" ;
+        c:name           "Geography of Asia" ;
+        c:originalValue  "Geography of Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45c50930-6538-3a50-99a2-7746fd3b3a5b> .

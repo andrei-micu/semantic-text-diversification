@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:importance     "2" ;
+        c:name           "Sudan" ;
+        c:originalValue  "Sudan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/803063cc-7a6c-3a9b-b0b1-d7307030b1c4> .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:score           "0.942" .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:importance     "1" ;
+        c:name           "White Rhinoceros" ;
+        c:originalValue  "White Rhinoceros" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c5cd76e2-8380-3187-be5b-949badf0f8d8> .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|QCh9zp/uexKsGG/7j+/Vws0X3Lk=|Yo/E+KCyaJlYT82+L1JjLitwyk9V4UEvPXeWs8YX8PK+TF9ptEWmDw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:41.589" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f778ffbc-c416-0eda-14da-53d357549095" ;
+        c:docDate          "2015-05-30 10:32:41.823" ;
+        c:docTitle         "" ;
+        c:document         "With 1 male left worldwide, northern white rhinos under guard. At first glance, Sudan looks like any other northern white rhino: stout and agile, with square lips." ;
+        c:id               "http://id.opencalais.com/Tj6RjP2pzm7Gcp4Z4uOmoA" .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:importance     "1" ;
+        c:name           "Fauna of Africa" ;
+        c:originalValue  "Fauna of Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3fbf3a94-4fb1-3808-948c-1d02201dc238> .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:importance     "2" ;
+        c:name           "Stout" ;
+        c:originalValue  "Stout" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ca7e034-7d01-3791-b67c-6077b215be3c> .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:score           "0.915" .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:importance     "2" ;
+        c:name           "Rhino" ;
+        c:originalValue  "Rhino (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/69b960bf-20bf-36fe-93e1-3a9f86fe5fed> .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:importance     "1" ;
+        c:name           "Rhinoceroses" ;
+        c:originalValue  "Rhinoceroses" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ccc22165-b3f9-3fd1-8af5-2709c4ad4d98> .
+
+<http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1b0f6958-aa8e-38cb-a4a5-add3bf43d01d> ;
+        c:importance     "2" ;
+        c:name           "Black Rhinoceros" ;
+        c:originalValue  "Black Rhinoceros" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65034dfb-5d18-32a8-b615-522f3bb1d309> .

@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:importance     "1" ;
+        c:name           "Education" ;
+        c:originalValue  "Education" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:importance     "2" ;
+        c:name           "Ceremonies" ;
+        c:originalValue  "Ceremonies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e8f4810-d5e0-3d5b-a7ec-8cc576882547> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dcf34d27-90a8-3823-14da-54300ef32955" ;
+        c:docDate          "2015-05-30 10:39:01.702" ;
+        c:docTitle         "" ;
+        c:document         "Last year's big-name college commencement speakers. It's that time of year when colleges around the country show off the people who will offer the last lesson to soon-to-be graduates: the commencement speakers." ;
+        c:id               "http://id.opencalais.com/YXIdKtgu1LQswKALZWzfMQ" .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:importance     "2" ;
+        c:name           "North Central Association of Colleges and Schools" ;
+        c:originalValue  "North Central Association of Colleges and Schools" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bda033c5-62a1-3361-a0e2-e8d4cb752f6d> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:importance     "1" ;
+        c:name           "Academia" ;
+        c:originalValue  "Academia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/edd007cf-7e4e-3ec4-9974-d0761c6c97ba> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:importance     "2" ;
+        c:name           "Graduation" ;
+        c:originalValue  "Graduation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/84d8ade5-6dac-3818-9034-ca18ea8d44cc> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5LELGYPkf3JhcmPayFcJIAnDCG8=|LAMvtkbL3hB6hdb0bSdXchzViNWTxIoauVgsZ0hb9RUkJdeiB8nQUQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:01.359" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:importance     "2" ;
+        c:name           "Liberal arts colleges" ;
+        c:originalValue  "Liberal arts colleges" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a53e604c-6385-3752-8f82-ef50a77d6036> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:importance     "2" ;
+        c:name           "Commencement speech" ;
+        c:originalValue  "Commencement speech" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/15e44c4f-44c1-3ae2-972a-432fdfd1169b> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:importance     "1" ;
+        c:name           "Knowledge" ;
+        c:originalValue  "Knowledge" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9acd56fd-8228-3b51-a940-ca773c57c896> .
+
+<http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/af73e254-e226-3224-9bbf-5101bffccc0c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

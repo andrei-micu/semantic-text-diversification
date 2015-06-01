@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9be34252-79f7-e121-14da-54677d171d39" ;
+        c:docDate          "2015-05-30 09:42:48.635" ;
+        c:docTitle         "" ;
+        c:document         "Episode 625: The Last Job. What if robots did all the work? In today's show, we imagine a world without jobs." ;
+        c:id               "http://id.opencalais.com/Aao*Gzp*gzOESD9DLmLKvA" .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:importance     "1" ;
+        c:name           "Arts" ;
+        c:originalValue  "Arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bd5b09-4773-3933-bdf0-6b5be3d6cb0b> .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:importance     "2" ;
+        c:name           "Future of robotics" ;
+        c:originalValue  "Future of robotics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ef6b148b-b4b2-3593-aa7d-6eff2b4ae536> .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:score           "0.722" .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:importance     "2" ;
+        c:name           "John Lennon" ;
+        c:originalValue  "John Lennon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a120da8-58da-3fb2-b3bb-01635dcf242d> .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:importance     "1" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:importance     "2" ;
+        c:name           "Dirty Jobs" ;
+        c:originalValue  "Dirty Jobs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ba37e70-c841-354e-833d-09fd6fbf521d> .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:score           "0.547" .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:importance     "2" ;
+        c:name           "Imagine" ;
+        c:originalValue  "Imagine (song)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/22685934-d39c-3c0d-90e1-a22142a04ca8> .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:score           "0.964" .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|kbc6eq2X/mNCM6EDPHvyIEPBN5Q=|XhqlMD0Af8a8mnEfYg8XDA3QBYZb41AHThngzCZYe49DJlZ5OkVsvQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:48.401" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:importance     "1" ;
+        c:name           "Robot" ;
+        c:originalValue  "Robot" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/861b0222-8510-3bae-8415-61ac3c53e909> .
+
+<http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4a59e863-2c66-3da6-a635-dd1b3da3703c> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .

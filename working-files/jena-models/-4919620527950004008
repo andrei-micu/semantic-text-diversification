@@ -1,0 +1,136 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|R6g2pGm0usfpmIBa7Vei6aEVgwA=|Hl7+eJOBLWJYwz93yNgkTRRsBwMXPr+krFALxfAtLkB3cJ8dnKQhFg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:41.593" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:importance     "1" ;
+        c:name           "Kim Jong-il" ;
+        c:originalValue  "Kim Jong-il" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/92be970e-0bdf-397e-9931-a6910abc3713> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:score           "0.866" .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:importance     "1" ;
+        c:name           "Korea" ;
+        c:originalValue  "Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c228654-048e-323a-b158-19dd884a146a> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:importance     "2" ;
+        c:name           "Kim Jong-nam" ;
+        c:originalValue  "Kim Jong-nam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e70529c2-385f-3e8a-be01-2b5d949ae31d> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:score           "0.962" .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:importance     "2" ;
+        c:name           "Kim Jong-un" ;
+        c:originalValue  "Kim Jong-un" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/85c7850a-c712-3724-8c6a-7ebcbddf890e> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:score           "0.871" .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "19c7e4c0-252b-35df-14da-542b3b932955" ;
+        c:docDate          "2015-05-30 10:38:41.687" ;
+        c:docTitle         "" ;
+        c:document         "Kim Jong Un ordered aunt killed? . A North Korean defector claims Kim Jong Un ordered his aunt killed." ;
+        c:id               "http://id.opencalais.com/GcH8q35M8ASMkyaWXSSNaw" .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:importance     "2" ;
+        c:name           "North Korean defectors" ;
+        c:originalValue  "North Korean defectors" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/37c2e65f-c308-3ab8-a98b-c09c44687f08> .
+
+<http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/143552ef-3326-3bc7-834b-73d7e75d36bd> ;
+        c:score           "1.000" .

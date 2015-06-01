@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/80a9c60a-8471-3925-bedf-45d0d3081284/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/80a9c60a-8471-3925-bedf-45d0d3081284> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/80a9c60a-8471-3925-bedf-45d0d3081284>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "75ef0930-b2ca-b1ce-14da-545e796653ed" ;
+        c:docDate          "2015-05-30 09:42:11.541" ;
+        c:docTitle         "" ;
+        c:document         "'Mindy Project' moves to Hulu. \"Mindy Project\" fans, rejoice." ;
+        c:id               "http://id.opencalais.com/sypQAN2blWIwVDFFyMoT0g" .
+
+<http://d.opencalais.com/dochash-1/80a9c60a-8471-3925-bedf-45d0d3081284/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/80a9c60a-8471-3925-bedf-45d0d3081284> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|V3q3Gh/dQRpMBCq6HMuphVU+0yg=|ea+N8Z2Fe+rRH7A6w/TBwBy+MG4bqS+24aEQ9KU9ZuWQpVP6j4bXXQ==" ;
+        c:submissionDate  "2015-05-30 09:42:11.478" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

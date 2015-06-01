@@ -1,0 +1,76 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa> ;
+        c:importance     "1" ;
+        c:name           "Computing" ;
+        c:originalValue  "Computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169> .
+
+<http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|VIMSaOKWNm/RHAUSIeURPWhiEU8=|gJi222jIZrLKOdUovkC1htpq7akrHvgH4M5/SicXIKtuN4LkRJQgJQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:20.439" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa> ;
+        c:importance     "2" ;
+        c:name           "Internet" ;
+        c:originalValue  "Internet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3f32ae31-f0e1-3522-a388-69fcd5835292> .
+
+<http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa> ;
+        c:score           "0.543" .
+
+<http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa> ;
+        c:importance     "1" ;
+        c:name           "Expat" ;
+        c:originalValue  "Expat (library)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0509c230-c665-34dc-bfb2-b32f9fb871d7> .
+
+<http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5c029f90-1155-6f78-14da-548c9b7760f9" ;
+        c:docDate          "2015-05-30 10:45:20.689" ;
+        c:docTitle         "" ;
+        c:document         "The Recipients. Cynthia McCabe was checking her email one last time before she went to bed when a strange message caught her attention. \"I'm an American expat writer,\" it said. \"And this is my last day on Earth.\"" ;
+        c:id               "http://id.opencalais.com/X-hEer2sJTI03kbjCYQoZg" .
+
+<http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa> ;
+        c:importance     "1" ;
+        c:name           "Email" ;
+        c:originalValue  "Email" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0b61d02b-5d2f-3694-b75c-01ce404aeeda> .
+
+<http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f164d83f-2393-3051-9e1d-8a874ce3dcfa> ;
+        c:importance     "2" ;
+        c:name           "McCabe" ;
+        c:originalValue  "McCabe (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a736535e-045e-3ba4-b0c6-98fbb0bf2d8e> .

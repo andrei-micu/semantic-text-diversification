@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48> ;
+        c:score           "0.630" .
+
+<http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48> ;
+        c:importance     "1" ;
+        c:name           "Anthony" ;
+        c:originalValue  "Anthony (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a2ce0c00-a925-313a-960f-4a1494da4c94> .
+
+<http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "276c8f29-8e7b-4d11-14da-54cbe0034709" ;
+        c:docDate          "2015-05-30 09:49:39.786" ;
+        c:docTitle         "" ;
+        c:document         "Jersey Shore -- America's first dream vacation. Anthony Bourdain looks back on summers at the Jersey Shore with nothing but fondness. \"Anthony Bourdain: Parts Unknown\" airs Sundays at 9 p.m. ET/PT." ;
+        c:id               "http://id.opencalais.com/qZq1ho5DycHZVTGn2uvhQw" .
+
+<http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Hiw94JB0GR5NM8mI64RTIgePAMY=|QVcKMd+lPi3n2HuOpG6bPa2LDAVwomMwpQ06Gmfu1McoDjFd+sJPTQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:39.584" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48> ;
+        c:importance     "1" ;
+        c:name           "Anthony Bourdain" ;
+        c:originalValue  "Anthony Bourdain" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d71bb4b-99a5-3b57-ae36-989fb2fd3dda> .
+
+<http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/67ddf254-e717-37f0-9eac-78ece0949c48> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

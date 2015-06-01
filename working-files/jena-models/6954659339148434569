@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance     "2" ;
+        c:name           "Bull" ;
+        c:originalValue  "Bull" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e74da310-45d1-31ee-a4ac-a02d925cd7e6> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance     "1" ;
+        c:name           "Animal rights" ;
+        c:originalValue  "Animal rights" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9ad12ba5-28fe-35ce-b269-b277f7f26be7> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:score           "0.642" .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1ad9e4d8-fcec-aa39-14da-53ec6b834709" ;
+        c:docDate          "2015-05-30 09:34:24.483" ;
+        c:docTitle         "" ;
+        c:document         "Job advice from the guy who has tried them all . Mike Rowe is taking the bull by the horns (or, at the very least, trying not to get gored) in the season premiere of \"Somebody's Gotta Do It,\" where he tries out niche jobs anywhere from bullfighting to water ballet." ;
+        c:id               "http://id.opencalais.com/bbaRAov*TDfPHCRVKUrpFQ" .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance     "2" ;
+        c:name           "Bullfighting" ;
+        c:originalValue  "Bullfighting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aae3ff24-6f9a-356f-bd84-da5c4031db32> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance     "2" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance     "1" ;
+        c:name           "Animal cruelty" ;
+        c:originalValue  "Animal cruelty" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/81c63613-e9c0-349d-9da1-8be6a3291eed> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance     "2" ;
+        c:name           "King" ;
+        c:originalValue  "King (2003 TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/12e3697a-62d6-39ec-b419-613b7448dcd5> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance     "2" ;
+        c:name           "Mike Rowe" ;
+        c:originalValue  "Mike Rowe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2927dd60-2f92-333f-80db-5b325d27429e> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:score           "0.804" .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|MtARpq3V2I0vwyXsekRmRAbsSNQ=|E8vFOvkmn8l1ZkyWVs5EJ2NUfellxsW8M+acvmvzqGo9ZS4KyjLYRA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:24.327" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance     "1" ;
+        c:name           "Animal killing" ;
+        c:originalValue  "Animal killing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/647ec82d-c5c4-345d-919b-df193e667f72> .
+
+<http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef7e0e7d-dc32-351e-9b75-9de9bb2d065a> ;
+        c:importance     "2" ;
+        c:name           "Animal welfare" ;
+        c:originalValue  "Animal welfare" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/685c370c-0594-3201-a8a6-b5899e6d3eeb> .

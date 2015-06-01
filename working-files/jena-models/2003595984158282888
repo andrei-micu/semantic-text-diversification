@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:importance     "2" ;
+        c:name           "United States presidential debates" ;
+        c:originalValue  "United States presidential debates" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/de28a27a-2388-344a-9406-494484ffb6d2> .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bcab9324-bff8-1802-14da-54784df13c98" ;
+        c:docDate          "2015-05-30 09:43:57.576" ;
+        c:docTitle         "" ;
+        c:document         "First Draft: Fox News to Limit First Presidential Debate to 10 Republicans. The sprawling field of Republican presidential hopefuls will be abruptly winnowed down to as few as 10 — at least for debating purposes — when the first presidential debate is held in early August, said Fox News, the debate sponsor." ;
+        c:id               "http://id.opencalais.com/BYljWXmja-ciBJF8Z7Yg4w" .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:importance     "1" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hR25uPmu0/v7ePH8uDjDAeYqWvA=|PEwDTO1L0mUBIFlFk/dkspkUw8Es5TZ9cHDNk+NzVWunWHcJcsHWLQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:57.295" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:importance     "1" ;
+        c:name           "Debate" ;
+        c:originalValue  "Debate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6cc540f6-6785-34bc-b3d9-7e92d55050fc> .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:importance     "2" ;
+        c:name           "United States presidential primaries" ;
+        c:originalValue  "United States presidential primaries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d7c7565e-24dd-37ae-b185-81e73f744f12> .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:importance     "2" ;
+        c:name           "Elections in the United States" ;
+        c:originalValue  "Elections in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e11164df-ff5e-316b-a28e-d310f58eb52b> .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:importance     "1" ;
+        c:name           "United States presidential election debates" ;
+        c:originalValue  "United States presidential election debates, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e31ec110-629e-3b52-b28f-3bb0ed5b0e96> .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:importance     "2" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/532452bd-444a-3919-b341-645ba3c9d2d0> ;
+        c:score           "1.000" .

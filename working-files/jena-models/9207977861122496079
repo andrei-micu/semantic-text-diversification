@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance     "2" ;
+        c:name           "Taunting" ;
+        c:originalValue  "Taunting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7265bb34-779c-3f76-897e-7dae09dfecaf> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance     "1" ;
+        c:name           "Year of birth missing" ;
+        c:originalValue  "Year of birth missing (living people)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3412379a-c58d-3f2e-b182-3e92b0b33f05> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance     "2" ;
+        c:name           "Obscenity" ;
+        c:originalValue  "Obscenity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3f4a5e88-f5b5-3690-b050-20849640beb0> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance     "2" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "30810090-63bd-0b14-da54-4511e49095cc" ;
+        c:docDate          "2015-05-30 10:40:27.531" ;
+        c:docTitle         "" ;
+        c:document         "Reporter turns tables on obscene hecklers . An obscene taunt backfires when a reporter gets fed up. CNN's Jeanne Moos reports on the backlash against vulgar hecklers." ;
+        c:id               "http://id.opencalais.com/PKVaIYYtODKSEeq886gI5Q" .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance     "1" ;
+        c:name           "Jeanne Moos" ;
+        c:originalValue  "Jeanne Moos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d9cd3c3-0ea5-359f-860e-086d02725bd6> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance     "2" ;
+        c:name           "Backlash" ;
+        c:originalValue  "Backlash (engineering)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bbe34a3c-7ab8-3aac-8c85-fce8e13acbc0> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance     "1" ;
+        c:name           "Behavior" ;
+        c:originalValue  "Behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe1e19-9c21-37dc-af60-02531de42118> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|v/H4/x3YKZHXb5JGdD25zbpKG6Q=|HO0JT95zRcXwAFdz+xwFXNxoyRt8JXP/drEH8YyEDoMgw5Ge1cPSAw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:27.422" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/111c068a-94ab-38fa-854e-c3c7e2036c19> ;
+        c:importance     "2" ;
+        c:name           "Heckler" ;
+        c:originalValue  "Heckler" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/af267c49-ad6a-3da6-b5e0-31fe1d3f2ad8> .

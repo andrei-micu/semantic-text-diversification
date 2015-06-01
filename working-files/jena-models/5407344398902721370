@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31> ;
+        c:score           "0.909" .
+
+<http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31> ;
+        c:importance     "1" ;
+        c:name           "Hip hop" ;
+        c:originalValue  "Hip hop" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e8f499d-f97b-3193-923a-1f258a30e636> .
+
+<http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31> ;
+        c:importance     "1" ;
+        c:name           "Cross Movement Records" ;
+        c:originalValue  "Cross Movement Records" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72ffbf20-93d0-39e6-93d3-d0ce0113b6eb> .
+
+<http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|lS+tW2Byg5OYdHdGLobgivXFloc=|GTuRwAknwC9FVEkHLAaX4u3vw9dxyr3lWl24AjZvJekTNOXKRqOWiw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:11.165" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8ad7fc13-d416-2b8c-14da-5423cce34709" ;
+        c:docDate          "2015-05-30 09:38:11.368" ;
+        c:docTitle         "" ;
+        c:document         "Lecrae Makes Music Concerned With The Soul. The hip-hop artist tells NPR's Rachel Martin how his music incorporates his faith, and describes how \"the brokenness of humanity\" has fueled conflict in Baltimore and Ferguson." ;
+        c:id               "http://id.opencalais.com/xFaiJVOsLqo9z2*WzdAI*g" .
+
+<http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/edaf0e37-7aa1-3363-a8a2-64f7999bfd31> ;
+        c:importance     "1" ;
+        c:name           "Lecrae" ;
+        c:originalValue  "Lecrae" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/703897c5-934a-3ec4-92bd-d896756dbaed> .

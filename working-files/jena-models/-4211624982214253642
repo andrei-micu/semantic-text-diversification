@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:score           "0.538" .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7VR9oGr8ZtV9RDFt5ipClMRFVa8=|RhiOjs6dBX0XmN+BzbWY2OiL8yUMuB0uovunj2Os6EUNAujQVK0u6Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:06.226" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:importance     "2" ;
+        c:name           "Manny Pacquiao" ;
+        c:originalValue  "Manny Pacquiao" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebe50782-5013-3995-a9e1-f6769b52e4a6> .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:importance     "1" ;
+        c:name           "Boxing" ;
+        c:originalValue  "Boxing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7ca63f2-7de1-3e00-9675-849734b5d318> .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:importance     "2" ;
+        c:name           "Ricky Hatton vs. Manny Pacquiao" ;
+        c:originalValue  "Ricky Hatton vs. Manny Pacquiao" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bb8921e-2d84-3dde-b4c3-2df16c69ab76> .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5bc01b58-f071-9cd3-14da-53cab52760f9" ;
+        c:docDate          "2015-05-30 10:32:06.382" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Heavyweight: Manila baker's boxer cake. A baker in Manila has made a life-size edible replica of Philippine boxer Manny Pacquiao, as he prepares to fight rival Floyd Mayweather in Las Vegas." ;
+        c:id               "http://id.opencalais.com/EZCfsod7hlUiXi0nCGtuTA" .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:importance     "2" ;
+        c:name           "Floyd Mayweather, Jr." ;
+        c:originalValue  "Floyd Mayweather, Jr." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c87819e1-0a82-3823-8ede-f17fa20137b4> .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:score           "0.781" .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:importance     "1" ;
+        c:name           "Golden Boy Promotions" ;
+        c:originalValue  "Golden Boy Promotions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18182930-2963-37b2-8df5-8e7b92cdb209> .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:importance     "1" ;
+        c:name           "Boxers" ;
+        c:originalValue  "Boxers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3efd9ea-f523-3c07-a91a-b5c6a62ab60d> .
+
+<http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de56e6cd-534f-344f-80cd-85418ad51ba2> ;
+        c:importance     "2" ;
+        c:name           "Manny Pacquiao vs. Joshua Clottey" ;
+        c:originalValue  "Manny Pacquiao vs. Joshua Clottey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc1c9dae-f1d7-38d0-bf7a-0c06d9aceb9f> .

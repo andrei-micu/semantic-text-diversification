@@ -1,0 +1,136 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:importance     "2" ;
+        c:name           "Athletics" ;
+        c:originalValue  "Athletics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1cc612e7-8a68-30c9-9186-fc4284cb2b0b> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:score           "0.601" .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:importance     "1" ;
+        c:name           "Linda Thompson" ;
+        c:originalValue  "Linda Thompson" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/313a962a-15b7-380b-b155-150382724d02> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:score           "0.993" .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:importance     "1" ;
+        c:name           "Kardashian family" ;
+        c:originalValue  "Kardashian family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/307d9532-b16f-3055-b92e-d3512fe26802> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:importance     "2" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6d226747-0558-ee6e-14da-5380333760f9" ;
+        c:docDate          "2015-05-30 10:27:01.262" ;
+        c:docTitle         "" ;
+        c:document         "Jenner's ex-wife talks about their relationship. Actress Linda Thompson, Bruce Jenner's second wife, says she can \"breathe a little easier\" knowing her ex-husband has found the strength to publicly declare he is transgender." ;
+        c:id               "http://id.opencalais.com/2rNZ0rJwXerQbFgPdNW5Jw" .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:importance     "2" ;
+        c:name           "Transgender" ;
+        c:originalValue  "Transgender" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d0f1fbda-fc98-39e0-8a60-ffa7bdd102dd> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:score           "0.895" .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|17inztl9AOzeIb/YWgR5YKzf6jQ=|N1ZyfuuA5gpy82WqXIQ7uclv1MAfntVMh1+um6jUYYh4Nb25Waro3A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:01.043" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e49e3da0-fb95-3598-b5bd-db26b3cd2b7f> ;
+        c:importance     "1" ;
+        c:name           "Bruce Jenner" ;
+        c:originalValue  "Bruce Jenner" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cfa51b3f-7840-376d-848b-c7625190d516> .

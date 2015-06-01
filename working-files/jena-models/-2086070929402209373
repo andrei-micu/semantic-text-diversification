@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c> ;
+        c:score           "0.928" .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c> ;
+        c:importance     "1" ;
+        c:name           "Boston Marathon" ;
+        c:originalValue  "Boston Marathon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aa93fdaa-33fb-33aa-87ba-6b82a29b86ff> .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "485e8a08-aa2a-b9ef-14da-538abe0760f9" ;
+        c:docDate          "2015-05-30 10:27:44.302" ;
+        c:docTitle         "" ;
+        c:document         "Boston bomber's lawyer urges 'unrelenting punishment' over death. BOSTON (Reuters) - Convicted Boston Marathon bomber Dzhokhar Tsarnaev was adrift and following his obsessive older brother when he carried out the deadly 2013 attack, a defense lawyer said on Monday as he urged a jury to spare his client's life." ;
+        c:id               "http://id.opencalais.com/1*BjcT1NMNPPnhbx1gVg9Q" .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c> ;
+        c:score           "0.570" .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c> ;
+        c:importance     "1" ;
+        c:name           "Boston" ;
+        c:originalValue  "Boston (novel)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/deec38cf-c474-3c08-a409-085f7c593917> .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c> ;
+        c:score           "0.945" .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c> ;
+        c:importance     "1" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/72018de0-feb4-33d8-96af-861dfbeeb50c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|62VsdBQF8qd70A1xdVEdJn0uI+g=|N9ggkMh5aqYrovROm8ObYlIItpmGqlMkqLF7aAbxX8Db4MtlhmtnFA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:44.224" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

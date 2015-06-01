@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:importance     "2" ;
+        c:name           "Grateful Dead: Backstage Pass" ;
+        c:originalValue  "Grateful Dead: Backstage Pass" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/322ff0aa-771d-3b71-8277-8c6d6ff735ad> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fb37b72a-7dec-fdbd-14da-543755935464" ;
+        c:docDate          "2015-05-30 10:39:31.348" ;
+        c:docTitle         "" ;
+        c:document         "Jerry Garcia's Advice To Bill Kreutzmann: 'Don't Rush'. \"You can learn so much from [Jerry Garcia]. Doesn't matter what instrument you play,\" the Grateful Dead drummer says. He has a new memoir out called Deal." ;
+        c:id               "http://id.opencalais.com/OsS0EIWKxFw79LH123TRFA" .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:importance     "1" ;
+        c:name           "Jam bands" ;
+        c:originalValue  "Jam bands" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/445e1427-0365-36bc-8ced-7c3c6349f9bc> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:importance     "2" ;
+        c:name           "San Francisco Bay Area" ;
+        c:originalValue  "San Francisco Bay Area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/034d23a0-b8f1-3776-b283-add77bf68df8> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:importance     "2" ;
+        c:name           "Jerry Garcia" ;
+        c:originalValue  "Jerry Garcia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c5cc725e-2185-30c1-b533-e317e1eeeca9> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:importance     "1" ;
+        c:name           "Grateful Dead" ;
+        c:originalValue  "Grateful Dead" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61993e2c-a2eb-3847-8d09-51a85a7614c0> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:importance     "2" ;
+        c:name           "Touch of Grey" ;
+        c:originalValue  "Touch of Grey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d9678ae-3847-37b2-9a3b-04768c2dd2c6> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:importance     "1" ;
+        c:name           "Rock music" ;
+        c:originalValue  "Rock music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e5c6e1b-e8d0-3a19-8a76-4d603de5cff2> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:importance     "2" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cVVvzIbObGRWxGrUv13J9z7tzXo=|c3fmb9D7bLbr2SirEiXTC5deZuck8w1X6fMoPPTGKx2mFEJbzeRoMw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:31.161" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/44870665-2fb6-3780-b21c-1faa48c3e2db> ;
+        c:importance     "2" ;
+        c:name           "Bill Kreutzmann" ;
+        c:originalValue  "Bill Kreutzmann" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cb3e76e3-7753-38f9-99c5-d6d3a2691736> .

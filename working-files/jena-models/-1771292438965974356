@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:score           "0.970" .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:importance     "1" ;
+        c:name           "Rooms" ;
+        c:originalValue  "Rooms" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/775685f2-0531-3c53-9af8-89c755ab3e19> .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7Rky7DEJY8sz51zOyyc4rNxprSc=|DbROhWMp1McJUJyiWDCzkYZcCxYCZlUeZPNy58P/740Zjt1Nb2T6vw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:31.028" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:importance     "2" ;
+        c:name           "Architecture" ;
+        c:originalValue  "Architecture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aa1d29da-57c5-3911-99f3-80af459b9d50> .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:importance     "1" ;
+        c:name           "Handcuffs" ;
+        c:originalValue  "Handcuffs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/38600bc2-9474-3c7c-b810-1fe1979b103d> .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:importance     "1" ;
+        c:name           "Courtroom" ;
+        c:originalValue  "Courtroom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/911fe42a-4fef-3e35-80f1-93c32ac5f6d1> .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:importance     "2" ;
+        c:name           "Law enforcement" ;
+        c:originalValue  "Law enforcement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93510f9c-4514-3e82-ad67-c26d91124e44> .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "40387af3-fff2-e1d8-14da-53962b435464" ;
+        c:docDate          "2015-05-30 10:28:31.184" ;
+        c:docTitle         "" ;
+        c:document         "Same-sex marriage goes before Supreme Court. Update 11:13 a.m.: The man who disrupted court arguments this morning was yelling and screaming outside the courtroom doors before police officers dragged him out of the building and put him in handcuffs, according to Lane Hudson, a witness who was standing outside the courtroom doors." ;
+        c:id               "http://id.opencalais.com/fmr7tapH*jgtz127vTGzNA" .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:importance     "2" ;
+        c:name           "Supreme Court of Canada" ;
+        c:originalValue  "Supreme Court of Canada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14f1bc31-8e25-3733-8932-9f391df9791b> .
+
+<http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/efbfa5b9-7fd1-3c1d-a521-3da5dc0329f2> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

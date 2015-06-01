@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance     "2" ;
+        c:name           "Implants" ;
+        c:originalValue  "Implants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f576c602-944e-3d4a-899a-8a760479e8c0> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance     "2" ;
+        c:name           "Facial prosthetic" ;
+        c:originalValue  "Facial prosthetic" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2aca74e5-1653-30ac-8dc7-41cff612281b> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance     "1" ;
+        c:name           "Bionics" ;
+        c:originalValue  "Bionics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c6186bf-f017-31da-b26c-3cf0795269ba> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance     "2" ;
+        c:name           "Prosthesis" ;
+        c:originalValue  "Prosthesis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40288bce-ddef-30a3-a30d-4ad27058e530> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:score           "0.908" .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Fk28avp/ZyImMZOBwQQHpkKU69E=|K069SwQ/6RZobXdhuffgc8K1wEwQNwcsr33jzX911BfhqDfwuQXLMQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:13.616" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance     "1" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance     "2" ;
+        c:name           "Medical equipment" ;
+        c:originalValue  "Medical equipment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0c1596ee-afd5-335e-bbcf-df0dbde6a847> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance     "2" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance     "2" ;
+        c:name           "Disability" ;
+        c:originalValue  "Disability" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5ff3f993-39b8-35c5-9574-38cb81c976a0> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "92a66bfc-9021-a2c3-14da-5441b3049095" ;
+        c:docDate          "2015-05-30 10:40:13.834" ;
+        c:docTitle         "" ;
+        c:document         "Engaged young couple made over to look 70 years older. A month before they get married, this couple got a peak into their future with the help of life-like makeup and prosthetics." ;
+        c:id               "http://id.opencalais.com/PNv-F0CgzlpC6hMdclM5EQ" .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance     "1" ;
+        c:name           "Health" ;
+        c:originalValue  "Health" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec> .
+
+<http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/82aeb301-aca7-342b-b975-5c9adb313c34> ;
+        c:importance     "2" ;
+        c:name           "Neuroprosthetics" ;
+        c:originalValue  "Neuroprosthetics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b4b42a92-5b01-3be0-92e0-d02b566276f3> .

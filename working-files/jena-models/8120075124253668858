@@ -1,0 +1,136 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:importance     "1" ;
+        c:name           "WWMT" ;
+        c:originalValue  "WWMT" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e07f745b-7a98-3ab5-a00f-6d032aa1de62> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dafa28fb-cb0a-77e5-14da-53834d013c98" ;
+        c:docDate          "2015-05-30 09:27:14.056" ;
+        c:docTitle         "" ;
+        c:document         "Girl fighting cancer kicked out of school. A young girl who has just finished battling leukemia has been dealt another blow, she was kicked out of her Catholic school. CNN affiliate WWMT reports." ;
+        c:id               "http://id.opencalais.com/-4jUmHoHZc8X3OF5yq2hSg" .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:score           "0.889" .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:importance     "2" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|b1KmoKZBC2jGSJySilddNT6g82w=|IWwqSfqLlhtjG0EOtPibCCtANZwT8tey2uqFhcmPUhP1CPDyU1wVuQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:13.744" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:importance     "1" ;
+        c:name           "Freedom Communications" ;
+        c:originalValue  "Freedom Communications" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f4af1500-78bc-3c59-b059-95a7c0c7e3c4> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1d5b4ec7-f6e5-301c-aff0-ce947a445c00> ;
+        c:score           "0.967" .

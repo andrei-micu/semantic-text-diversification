@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb> ;
+        c:importance     "2" ;
+        c:name           "Papandreou" ;
+        c:originalValue  "Papandreou" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/387c16c6-d52d-3de7-bfe8-ef8465f0aa8b> .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb> ;
+        c:importance     "1" ;
+        c:name           "Greece" ;
+        c:originalValue  "Greece" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40d563ce-39a3-38f7-9bf1-745f4622e3b6> .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "605d6ca8-34cf-f851-4da5-43b77171d399" ;
+        c:docDate          "2015-05-30 09:39:48.315" ;
+        c:docTitle         "" ;
+        c:document         "How Can You Restore Trust In Government? . Former Greek Prime Minister George Papandreou says politicians like him have lost the trust of their citizens and it needs to be restored." ;
+        c:id               "http://id.opencalais.com/Mrd*c9dMprrIdUYEXXc3zg" .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb> ;
+        c:importance     "2" ;
+        c:name           "Andreas Papandreou" ;
+        c:originalValue  "Andreas Papandreou" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d989edb-69ef-39b5-bd58-c24cd612ce51> .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HCFcf7+kSAMWQ4zmeeXGnKf+Tyo=|dgopEWY/J97xqU0iSE4PYond5208uM9F+RM1bdOcn4atfU/O36wEkA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:39:48.081" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb> ;
+        c:importance     "1" ;
+        c:name           "Politics of Greece" ;
+        c:originalValue  "Politics of Greece" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b3ef354-c266-333b-903e-f63cf2730b74> .
+
+<http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e1ce7feb-3ed3-38f6-8bbb-7987af225bdb> ;
+        c:importance     "2" ;
+        c:name           "Apostasia" ;
+        c:originalValue  "Apostasia of 1965" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d5c51855-e60f-390e-942f-317aff785422> .

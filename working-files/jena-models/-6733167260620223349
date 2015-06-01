@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "78a79da5-7eeb-f08a-14da-54862071927e" ;
+        c:docDate          "2015-05-30 10:44:54.114" ;
+        c:docTitle         "" ;
+        c:document         "New species: Feathered dino, morbid wasp. An international committee of taxonomists selected their top 10 favorite new species for the annual list by State University of New York's College of Environmental Science and Forestry." ;
+        c:id               "http://id.opencalais.com/PtIG01J21HXy60aEyIrsHA" .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:importance     "2" ;
+        c:name           "Adirondacks" ;
+        c:originalValue  "Adirondacks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d91ed349-4109-320a-b9da-98c8c17329aa> .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:score           "0.837" .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:importance     "1" ;
+        c:name           "New York State College of Forestry" ;
+        c:originalValue  "New York State College of Forestry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74185870-578f-3ccf-852e-b963bf80346e> .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:importance     "2" ;
+        c:name           "Middle States Association of Colleges and Schools" ;
+        c:originalValue  "Middle States Association of Colleges and Schools" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f12bab2b-c9f2-3196-883d-fea2f41dd859> .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zIkC78AQ8hWdyCB1JzUD4/NHzq4=|LlrhPCBDxHxnFT2NQqy05v2dIRA3Q7ZjErMqzMtn5Q6assr8m+e8DQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:53.895" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:importance     "1" ;
+        c:name           "State University of New York College of Environmental Science and Forestry" ;
+        c:originalValue  "State University of New York College of Environmental Science and Forestry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c1c4f10-6b47-3592-8075-4476ba94726d> .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:importance     "1" ;
+        c:name           "Forestry" ;
+        c:originalValue  "Forestry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6844f0e7-830b-3d12-b4de-40d4fb0bd67d> .
+
+<http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b66eaaf7-be51-357f-b6fe-ac0f46e6ad0e> ;
+        c:importance     "2" ;
+        c:name           "State University of New York" ;
+        c:originalValue  "State University of New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36b0235f-da35-385e-b6dc-89503661bb36> .

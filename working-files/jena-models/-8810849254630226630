@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:importance     "2" ;
+        c:name           "Wide-body aircraft" ;
+        c:originalValue  "Wide-body aircraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f0358f37-cd2d-3252-aa70-82e0de54e765> .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|PIpHoglb7TKwXieAWM0zwIOW0DU=|RDAieT+ilNVhdChNwe158GhEg0GRZrgY5Ub2Aqa8PyGz1fY4ISs9sA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:25:56.817" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:importance     "1" ;
+        c:name           "Airbus A380" ;
+        c:originalValue  "Airbus A380" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f60fb817-eb21-36d2-9bce-5f08441bfc12> .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:importance     "2" ;
+        c:name           "Emirates" ;
+        c:originalValue  "Emirates (airline)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/762e9c7f-eaa3-301b-b27b-31d2e00edffb> .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fbdd41bb-57ef-4cbe-14da-537085171d39" ;
+        c:docDate          "2015-05-30 09:25:57.083" ;
+        c:docTitle         "" ;
+        c:document         "Does A380 superjumbo have a future?. So what do you get one of the world's biggest aircraft for its 10th birthday?" ;
+        c:id               "http://id.opencalais.com/a1GJIbSIKgrmbfs7HhsTnQ" .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:importance     "2" ;
+        c:name           "A380" ;
+        c:originalValue  "A380 (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ab2b50b-07ae-3ec2-9663-eeb13add9d69> .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:importance     "1" ;
+        c:name           "Aircraft" ;
+        c:originalValue  "Aircraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bb3def0c-6842-3ee7-b6d4-eae8159a0e41> .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:importance     "2" ;
+        c:name           "Engine Alliance GP7000" ;
+        c:originalValue  "Engine Alliance GP7000" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d129beb-5239-3164-877e-a8ae35864238> .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:importance     "1" ;
+        c:name           "Aviation" ;
+        c:originalValue  "Aviation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89c4a16a-35bc-3191-8c7b-2b6daa04e5d7> .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:importance     "2" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5f60a649-7dc3-3cf2-9f04-6e1ae058acff> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

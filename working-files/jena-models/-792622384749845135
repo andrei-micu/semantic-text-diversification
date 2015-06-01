@@ -1,0 +1,68 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f> ;
+        c:importance     "1" ;
+        c:name           "Kent" ;
+        c:originalValue  "Kent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/509534e5-bf74-31d0-a593-76415c58aeb1> .
+
+<http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f> ;
+        c:importance     "2" ;
+        c:name           "Dover" ;
+        c:originalValue  "Dover" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87f3d241-4d2e-3258-8890-4cb4882029cb> .
+
+<http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ce8d839e-19e2-1983-14da-54bccf81927e" ;
+        c:docDate          "2015-05-30 10:48:38.036" ;
+        c:docTitle         "" ;
+        c:document         "At Dover Air Force Base, Bringing Home The Fallen With Grief And Joy . The rituals of caring for the remains of service members are carried out with special grace by the staff at Dover Air Force Base. \"We believe in what we're doing here,\" says one. \"We love them.\"" ;
+        c:id               "http://id.opencalais.com/itDrGaUVBaDNJDNXovSpYA" .
+
+<http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f> ;
+        c:importance     "1" ;
+        c:name           "Dover, Delaware" ;
+        c:originalValue  "Dover, Delaware" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e53b0ec8-13ee-36fe-847f-2981aacc268a> .
+
+<http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f> ;
+        c:importance     "1" ;
+        c:name           "Delaware" ;
+        c:originalValue  "Delaware" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bc10c06e-0fcb-3070-bbff-02e8fccbc793> .
+
+<http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hAkJFbm7QVmGWXDQaKyinyWqaks=|a5My5evRxu1IuLU0unjd4BtYDmyNg05N/6HqFijgNsc53JMoXgq8mw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:37.880" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3292890-98a3-3317-8e8d-d3ea457b549f> ;
+        c:importance     "2" ;
+        c:name           "Counties of England" ;
+        c:originalValue  "Counties of England" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ffae2e12-aa2c-3687-b546-08153e1e205b> .

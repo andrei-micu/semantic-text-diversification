@@ -1,0 +1,100 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8gfbJwQkvIdNj+HF1Lo0NFNJUkw=|PtU2H6KxiRUAwdjuJy1DiXZkuguOB//kbAnbr4p6u1wbZNWYAIeZyQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:33:34.100" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:importance     "1" ;
+        c:name           "Lingerie" ;
+        c:originalValue  "Lingerie" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ee691a6-2360-3172-9268-dde376f2325f> .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:importance     "2" ;
+        c:name           "Jacki Lyden" ;
+        c:originalValue  "Jacki Lyden" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a23ff75-ba92-373e-9cfd-93e6bda354b9> .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:importance     "1" ;
+        c:name           "Clothing" ;
+        c:originalValue  "Clothing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7e69392-3647-3ee8-8855-e5c77e538de5> .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:importance     "2" ;
+        c:name           "Victorian era" ;
+        c:originalValue  "Victorian era" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a3eac401-3885-3192-a857-31b5648b244d> .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4fcfacea-b085-fbad-14da-53e02941df07" ;
+        c:docDate          "2015-05-30 09:33:34.459" ;
+        c:docTitle         "" ;
+        c:document         "Shake What Your Mama Didn't Give You: Shapewear Through The Ages. From corsets and codpieces to shapewear and Spanx, people have tried to change their silhouettes for centuries. From The Seams, Jacki Lyden takes us on a sartorial tour of shapewear." ;
+        c:id               "http://id.opencalais.com/MBaHdqwAYWb5YXjFfeJ10g" .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:importance     "2" ;
+        c:name           "Foundation garment" ;
+        c:originalValue  "Foundation garment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c0ef0bb-3501-3f33-9690-5cb43809ab12> .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:importance     "2" ;
+        c:name           "Corset" ;
+        c:originalValue  "Corset" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6733553-32d6-3b4d-b245-e71b83b6e9c8> .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:importance     "1" ;
+        c:name           "Corsetry" ;
+        c:originalValue  "Corsetry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68e0d21e-d37d-367b-aa3c-bf6a73118458> .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:importance     "2" ;
+        c:name           "Codpiece" ;
+        c:originalValue  "Codpiece" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca2c307f-3f04-3d43-a375-43d4c5cb90f2> .
+
+<http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc3a1296-ae58-300c-8b55-c56d7527dfe2> ;
+        c:importance     "2" ;
+        c:name           "Spanx" ;
+        c:originalValue  "Spanx" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ce51f149-d250-30b4-82cd-f763a7bb3987> .

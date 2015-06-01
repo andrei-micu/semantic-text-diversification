@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:importance     "2" ;
+        c:name           "Watchers" ;
+        c:originalValue  "Watchers (novel)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4cde7d1-2709-3abe-8c93-4091ce35f506> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:importance     "2" ;
+        c:name           "Diets" ;
+        c:originalValue  "Diets" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b4889974-d3b2-3397-89bf-2f09e60f8ccb> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:importance     "1" ;
+        c:name           "Jean Nidetch" ;
+        c:originalValue  "Jean Nidetch" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f27f78a-5dd0-3d8b-8aff-f4d671099289> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "124e3ab8-c2a1-6486-14da-53bf20332955" ;
+        c:docDate          "2015-05-30 10:31:18.911" ;
+        c:docTitle         "" ;
+        c:document         "Weight Watchers founder Jean Nidetch dies at 91. Combining healthy eating with moral support, Jean Nidetch became a heavyweight in the weight-loss industry. The founder of Weight Watchers died Wednesday at her home in Florida." ;
+        c:id               "http://id.opencalais.com/bI3rO5GTjLetEKGmeOISDw" .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:importance     "1" ;
+        c:name           "Weight Watchers" ;
+        c:originalValue  "Weight Watchers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0de45aa2-05de-3540-a8ad-99ca052c2aae> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:importance     "2" ;
+        c:name           "Structure" ;
+        c:originalValue  "Structure" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/348713fc-e23f-345e-9921-23f372113c2a> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:importance     "1" ;
+        c:name           "Obesity" ;
+        c:originalValue  "Obesity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c013a490-de26-34d2-b6ed-9444f0437e22> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:importance     "2" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/099d043e-122e-3301-886f-e75ff2453ace> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hR6jrixCGrT2gnPCQ6S98CmF7K0=|emGcoVOaEUEWpm0h2IkNzDGyBmhv1VIRS34j+lDcuBFxoJhfindOTw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:18.787" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

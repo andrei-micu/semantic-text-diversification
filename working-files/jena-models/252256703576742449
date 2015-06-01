@@ -1,0 +1,176 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "2" ;
+        c:name           "Police" ;
+        c:originalValue  "Police" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a182b6c-ea20-3768-948c-2d3aa60d757a> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "1" ;
+        c:name           "Criminology" ;
+        c:originalValue  "Criminology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61f9a7b8-b7ca-3548-8b6d-e695a3d84b51> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "2" ;
+        c:name           "Baltimore Police Department" ;
+        c:originalValue  "Baltimore Police Department" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/669400d7-7c8c-335e-9033-4c3b341ab62a> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:score           "0.933" .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "1" ;
+        c:name           "Law enforcement" ;
+        c:originalValue  "Law enforcement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93510f9c-4514-3e82-ad67-c26d91124e44> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "2" ;
+        c:name           "Urban decay" ;
+        c:originalValue  "Urban decay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52fa4f1a-710e-39cb-a0f3-f403e5f61a38> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:score           "0.948" .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e46b4be5-0672-bb2a-14da-537be5034709" ;
+        c:docDate          "2015-05-30 09:26:43.689" ;
+        c:docTitle         "" ;
+        c:document         "'Gang threat' to Baltimore police. Baltimore police say rival gangs have formed alliances to \"take-out\" officers, as thousands pay tribute to a man who died in police custody." ;
+        c:id               "http://id.opencalais.com/pUnoV9N0w5XEBDoljfC0kg" .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "2" ;
+        c:name           "Glasgow razor gangs" ;
+        c:originalValue  "Glasgow razor gangs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9ccc99fd-c42c-381a-b6f9-e341044ea162> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "2" ;
+        c:name           "Sociology" ;
+        c:originalValue  "Sociology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa1414f0-8e54-3eba-bbfe-e4e5b4dcb745> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "2" ;
+        c:name           "Gangs in the United Kingdom" ;
+        c:originalValue  "Gangs in the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/732c092e-617a-3102-8984-07561d0c2105> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "2" ;
+        c:name           "Gang" ;
+        c:originalValue  "Gang" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72885e85-702b-360e-893c-602d7a4fdfe2> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qrsc0yLvEb650+9UCykL9URF78s=|OSNg7xcHJJdTfJJrdFMLA1Wkn14FYIFqMHilcc/7ucQ4MxKapTqtZQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:26:43.408" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/15>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "2" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7058d604-dc7e-327e-a654-53c32b7d8223> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .

@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Q0eHZR6el8DYgPI2Ugp+pG8hxXA=|eyVKim0FO8k1ELfcDTAhPd4ctIxhavq3SCrNkkkpYuvCIt68LjetlQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:50.351" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983> ;
+        c:importance     "2" ;
+        c:name           "Public image of Barack Obama" ;
+        c:originalValue  "Public image of Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1b90a97-916e-329a-b1a4-aed1cee6a061> .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983> ;
+        c:importance     "2" ;
+        c:name           "International reaction to the United States presidential election" ;
+        c:originalValue  "International reaction to the United States presidential election, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/164b02b4-5fbe-387f-96d8-74368ccbd6a0> .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983> ;
+        c:importance     "1" ;
+        c:name           "Presidency of Barack Obama" ;
+        c:originalValue  "Presidency of Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca6fc8a9-a961-3e5e-a941-14c957361c83> .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "de077a70-800b-061f-14da-53f2c6f719b3" ;
+        c:docDate          "2015-05-30 10:34:50.476" ;
+        c:docTitle         "" ;
+        c:document         "Obama leads VE Day events in US. President Barack Obama marks the 70th anniversary of the defeat of Nazi Germany with a special address, ahead of a flyover in Washington." ;
+        c:id               "http://id.opencalais.com/RTpnVi6nbrfsZgyiHoRDhA" .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6175fa5-f238-3069-ade1-d4e7156d9983> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .

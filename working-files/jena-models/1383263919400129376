@@ -1,0 +1,128 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:importance     "1" ;
+        c:name           "Presidency of Barack Obama" ;
+        c:originalValue  "Presidency of Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca6fc8a9-a961-3e5e-a941-14c957361c83> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:score           "0.698" .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:importance     "2" ;
+        c:name           "Mexico" ;
+        c:originalValue  "2010 in Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e30aa82-5812-3639-ad43-762891af3a64> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "20efc9b0-b0af-380a-14da-54b457a71d39" ;
+        c:docDate          "2015-05-30 09:48:03.584" ;
+        c:docTitle         "" ;
+        c:document         "Flood disaster declared in Texas. Every drop of rain is a drop too many in much of Texas where 22 people have died and President Barack Obama has declared a major disaster. Showers were in the forecast for Saturday." ;
+        c:id               "http://id.opencalais.com/8-xqqFLiVqlGn*Cd0tTifQ" .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|MCUxeTowuZOx7AfLTSUTHBGEoQg=|f3xsiW09mcyoPRDqvqQ/hFKa8O9sdQsmhtSYz1aMBQBZjFrNedgMUw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:48:03.194" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5c02c5f6-7be4-3fe4-bd85-e01ec59d1ecf> ;
+        c:score           "0.970" .

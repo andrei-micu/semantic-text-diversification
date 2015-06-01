@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038> ;
+        c:importance     "2" ;
+        c:name           "The Jitsu Foundation" ;
+        c:originalValue  "The Jitsu Foundation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/121a1078-17f8-35c6-9b15-8ceeba019891> .
+
+<http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038> ;
+        c:importance     "1" ;
+        c:name           "Combat" ;
+        c:originalValue  "Combat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9e8e5d3-43e7-3376-9748-c24e00c9d20d> .
+
+<http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Il7UOvJyskVr9Dx2X/yT1l5dcc8=|Yrl9B16DO00mME5qgDoIbmHpHn1f0xyPkrQ/jA6HCjzPKGigP0d0/A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:32.152" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038> ;
+        c:importance     "1" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038> ;
+        c:importance     "2" ;
+        c:name           "Pedro Sauer" ;
+        c:originalValue  "Pedro Sauer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83b3d11c-1762-307d-85e0-59ef53847309> .
+
+<http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038> ;
+        c:importance     "2" ;
+        c:name           "Brazilian Jiu-Jitsu" ;
+        c:originalValue  "Brazilian Jiu-Jitsu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a0d7d5b-84fe-34da-982d-1a6f263333a4> .
+
+<http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9f2420c9-aab1-ca2d-14da-53ee5581df07" ;
+        c:docDate          "2015-05-30 09:34:32.433" ;
+        c:docTitle         "" ;
+        c:document         "Scotland's favorite four-letter word. These days, most mornings, wherever I am, I wake up early and go train in Brazilian jiu jitsu." ;
+        c:id               "http://id.opencalais.com/VTfqjiSkzlOeDvAkmWaxZQ" .
+
+<http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038> ;
+        c:importance     "1" ;
+        c:name           "Martial arts" ;
+        c:originalValue  "Martial arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/589431ce-2069-330a-9a9a-fd52be3df39a> .
+
+<http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e02213b2-b2db-30a6-93eb-27565ee8e038> ;
+        c:importance     "2" ;
+        c:name           "Peter Letsos" ;
+        c:originalValue  "Peter Letsos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7986021a-00bb-3d6d-9a33-f1aa93a28f33> .

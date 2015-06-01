@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590> ;
+        c:importance     "1" ;
+        c:name           "Weedeater" ;
+        c:originalValue  "Weedeater (band)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/652c36c5-03ce-3a35-87fc-6a0081ac0bd6> .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590> ;
+        c:importance     "2" ;
+        c:name           "Heavy metal" ;
+        c:originalValue  "Heavy metal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f043c1c5-a85e-32a4-a77b-30684001bc0e> .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "13976897-32ab-bf8f-14da-53774241df07" ;
+        c:docDate          "2015-05-30 09:26:24.498" ;
+        c:docTitle         "" ;
+        c:document         "Viking's Choice: Weedeater, 'Bully'. Weedeater's \"Bully\" is a squirrely sludge-punk bruiser with bassist Dixie Dave cackling like a supervillain." ;
+        c:id               "http://id.opencalais.com/860DYsyMtECsg1MiPJOMuQ" .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590> ;
+        c:importance     "1" ;
+        c:name           "Bully" ;
+        c:originalValue  "Bully (Farthing Wood)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8502458e-65cb-336b-a2f5-5d0973484da8> .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590> ;
+        c:importance     "1" ;
+        c:name           "Bruiser" ;
+        c:originalValue  "Bruiser (band)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2c3e166-1d21-3221-98cc-c742dc5fea86> .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/935649f3-c13e-3df1-9bc4-b18969000590> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|6/oEcwsoRIFM4GRzjnIQJ77aLpM=|ao6bAlw1yR/iwEDZARbjww21X44QMMXTtIuKqzdVwb7Rjgo6aIeI9w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:26:24.420" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

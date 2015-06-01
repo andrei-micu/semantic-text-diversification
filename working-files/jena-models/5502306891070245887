@@ -1,0 +1,68 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e> ;
+        c:importance     "2" ;
+        c:name           "Claire Bennet" ;
+        c:originalValue  "Claire Bennet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f20fdbb-79f3-350b-91f1-d1ba27fc40ce> .
+
+<http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e> ;
+        c:importance     "1" ;
+        c:name           "Mother's Day" ;
+        c:originalValue  "Mother's Day" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae7219ab-b652-3469-ad82-de96b7396289> .
+
+<http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e> ;
+        c:importance     "2" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|M8+SrIkiozZLBWDf7oz3qbUxjj0=|XlwBn/h47nM4LjIdH5A8L9+S4E5sVvoAZJhNdnVMd/2MGKpsxM3SJw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:10.476" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e> ;
+        c:importance     "1" ;
+        c:name           "Moms" ;
+        c:originalValue  "Moms (TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0054161-64b8-3d63-8485-603485ccd5b8> .
+
+<http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "73c44d30-d406-0f6d-14da-540656c71d39" ;
+        c:docDate          "2015-05-30 09:36:10.694" ;
+        c:docTitle         "" ;
+        c:document         "Happy Mother's Day to beloved TV moms. Celebrate Mother's Day with these photos of our favorite TV moms from June Cleaver to Claire Dunphy." ;
+        c:id               "http://id.opencalais.com/v9CthxA-H2izY4lLJk7WTw" .
+
+<http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0a4bb9b9-aa9a-3212-a55f-065daa9a739e> ;
+        c:importance     "1" ;
+        c:name           "Cleaver" ;
+        c:originalValue  "Cleaver" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f47218ea-cb59-35b7-a72f-93ccdbe4e952> .

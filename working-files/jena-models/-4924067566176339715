@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869> ;
+        c:importance     "1" ;
+        c:name           "Ax" ;
+        c:originalValue  "Ax (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba944557-807c-3034-b66d-ee6c8b494e3d> .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869> ;
+        c:importance     "1" ;
+        c:name           "Aximili-Esgarrouth-Isthill" ;
+        c:originalValue  "Aximili-Esgarrouth-Isthill" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c456dd67-de13-331e-9aac-8fe0e41da535> .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869> ;
+        c:importance     "2" ;
+        c:name           "The Alien" ;
+        c:originalValue  "The Alien (Animorphs)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0b58f55f-36d4-3b03-9124-c500c75e15d3> .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|dYAbHLMDVI81a5LLvkGrmWjm5iY=|M2Bb88ETge6quqzm78M/vn1q8IgxiKvx83Sz1iAoHf9Oz52EPbrypQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:27.386" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d6bb9cfe-c3c9-e802-14da-53fbd1a719b3" ;
+        c:docDate          "2015-05-30 10:35:27.620" ;
+        c:docTitle         "" ;
+        c:document         "Networks swing the ax on 'Constantine,' more. View this list of canceled TV shows to see which ones have gotten the ax." ;
+        c:id               "http://id.opencalais.com/BE3JXSBu-5E8XmmNRv99DQ" .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869> ;
+        c:score           "0.599" .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869> ;
+        c:importance     "1" ;
+        c:name           "Keytars" ;
+        c:originalValue  "Keytars" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e64bb650-92cf-38f8-b836-95f1d628379a> .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869> ;
+        c:importance     "2" ;
+        c:name           "AX.25" ;
+        c:originalValue  "AX.25" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f8a9e856-3234-3f97-9302-5e69748ea1d2> .
+
+<http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f03d5bcb-4a34-3827-9aa6-5222c9ced869> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

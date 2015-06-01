@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:importance     "1" ;
+        c:name           "Africa" ;
+        c:originalValue  "Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40ba53c0-c97b-3a8d-9376-dccf9e54b90e> .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:importance     "2" ;
+        c:name           "Tuareg Rebellion" ;
+        c:originalValue  "Tuareg Rebellion (2007–2009)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c8460dc-e254-3221-951f-2e0b30b5ed5a> .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ZkrRefb4TPm1rqn4Zu4v4mgMvoI=|XHoNF/5pPYcrKkjxju0badfuDDcUNfsF6+GBoyAOxKcwyT8zekqoLQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:12.891" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:importance     "1" ;
+        c:name           "Mali" ;
+        c:originalValue  "Mali" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d62f6915-ee47-3c22-bd40-d8e4f635d265> .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:importance     "2" ;
+        c:name           "National Movement for the Liberation of Azawad" ;
+        c:originalValue  "National Movement for the Liberation of Azawad" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c6202450-f44b-3120-b837-e3ea2c937494> .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:score           "0.979" .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4b3fc4bb-8f0d-6b4c-14da-54a80fb1927e" ;
+        c:docDate          "2015-05-30 10:47:13.001" ;
+        c:docTitle         "" ;
+        c:document         "U.N. investigates reports of executions, abuses in Mali. BAMAKO (Reuters) - The United Nations said on Friday it was investigating reports of serious human rights abuses, including the execution of civilians, in northern Mali following clashes this week between northern Tuareg separatist rebels and pro-government militia." ;
+        c:id               "http://id.opencalais.com/gk1HUPtFaOjfLCNb24cxcA" .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:importance     "1" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/099d407e-2d91-33a6-a8c4-8e56f7a08940> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .

@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9> ;
+        c:importance     "2" ;
+        c:name           "Palmyra" ;
+        c:originalValue  "Palmyra" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/285d8837-5179-35bf-b053-a498cf4e432d> .
+
+<http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9> ;
+        c:importance     "1" ;
+        c:name           "Fertile Crescent" ;
+        c:originalValue  "Fertile Crescent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5435af2d-c03d-3907-8586-8f38ab6b08eb> .
+
+<http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wV/mN3ix/bkeNyeUjTfHa4BL5+A=|EFci98t/s5k1UGEJ+79keX3v39txfaTqtklZlIbq2gZpvyAw/JgVVQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:30.182" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9> ;
+        c:importance     "2" ;
+        c:name           "Beirut" ;
+        c:originalValue  "Beirut" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee3de2da-1cda-35e7-bb05-1b00164368a0> .
+
+<http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9> ;
+        c:importance     "1" ;
+        c:name           "Syria" ;
+        c:originalValue  "Syria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34e250e7-a386-38cf-8d7b-6b45399ed952> .
+
+<http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c726c16e-13da-b88b-14da-548efc6719b3" ;
+        c:docDate          "2015-05-30 10:45:30.322" ;
+        c:docTitle         "" ;
+        c:document         "Islamic State says it has full control of Syria's Palmyra. BEIRUT (Reuters) - Islamic State fighters tightened their grip on the historic Syrian city of Palmyra on Thursday and overran Iraqi government defenses east of Ramadi, the provincial capital that they seized five days earlier." ;
+        c:id               "http://id.opencalais.com/BYfQpzbgLWa0JNdEWOwwJg" .
+
+<http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c7c57ae2-bf23-3702-a939-eb50fc8553d9> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

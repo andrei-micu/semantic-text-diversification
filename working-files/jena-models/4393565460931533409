@@ -1,0 +1,51 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1> ;
+        c:importance     "1" ;
+        c:name           "BP" ;
+        c:originalValue  "BP" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04a94b58-0e3d-35e1-8bdf-8f2b3ca50ae0> .
+
+<http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3cd2c472-5f98-4215-14da-54a7d8813c98" ;
+        c:docDate          "2015-05-30 09:47:12.149" ;
+        c:docTitle         "" ;
+        c:document         "Safety measures ordered for failed oil pipeline in California. LOS ANGELES (Reuters) - Owners of an oil pipeline that burst in California this week must take numerous corrective measures, including an in-depth analysis of factors contributing to the spill and a plan to fix any flaws found, before they can restart the line, U.S. safety officials said on Friday." ;
+        c:id               "http://id.opencalais.com/t87nocQFsi8Kjfe2EZ8MqQ" .
+
+<http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2592d4a1-e72b-3499-abdf-35a7675595f1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Z3Wb1rxWQ1yqi8OwCGWJv0Cv4vc=|BoaAGbwNVDrw4EALlcpo2FjQki4k+NTL168lh7ZtnpP3JRiPkrp5CA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:12.008" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

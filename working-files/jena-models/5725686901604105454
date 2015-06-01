@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70> ;
+        c:importance     "1" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70> ;
+        c:importance     "2" ;
+        c:name           "Political status of Taiwan" ;
+        c:originalValue  "Political status of Taiwan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c8a8b8d-e2f8-3f05-a3c4-308732e1cc5f> .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fdRrd7vydMTH7Ezwwvr9pcXVYzQ=|QbfZQPNmGpBzoYJVguT+BzUDXpM5QaKtlspcyem1DfS0DNlPJTD2mA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:12.355" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d963afdc-18ab-c9c2-14da-53bd8e332f98" ;
+        c:docDate          "2015-05-30 09:31:12.511" ;
+        c:docTitle         "" ;
+        c:document         "China fires back at South China Sea claimants with reclamation accusations. BEIJING (Reuters) - After facing weeks of criticism about its reclamation work on disputed islands in the South China Sea, China on Wednesday turned the tables on Vietnam, the Philippines and others by accusing them of carrying out their own illegal building work." ;
+        c:id               "http://id.opencalais.com/cotTuwX4A4FJsatBKSzcbA" .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70> ;
+        c:importance     "2" ;
+        c:name           "South China Sea" ;
+        c:originalValue  "South China Sea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee225378-329b-3ead-bb63-6915310827d1> .
+
+<http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b3946ed-eb06-3d55-b42d-3e937938af70> ;
+        c:score           "0.991" .

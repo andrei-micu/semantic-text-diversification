@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cfffe0e1-afa4-3a6a-9cdb-831c65cb425a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cfffe0e1-afa4-3a6a-9cdb-831c65cb425a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|t54LUh2sgRjZOL/Vl49hg8M4O6s=|W1Uzz4lalwLFB+EfEkcH7B/wAagpLn6duPsajtr3QSOX76NE3aj6CA==" ;
+        c:submissionDate  "2015-05-30 09:31:59.467" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cfffe0e1-afa4-3a6a-9cdb-831c65cb425a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "146b00f2-9fa3-c3c6-14da-53c90eb32f98" ;
+        c:docDate          "2015-05-30 09:31:59.545" ;
+        c:docTitle         "" ;
+        c:document         "Look at trees in a different way . It all started by looking up." ;
+        c:id               "http://id.opencalais.com/GqmFHFCbKLx3X0s20BeRuw" .
+
+<http://d.opencalais.com/dochash-1/cfffe0e1-afa4-3a6a-9cdb-831c65cb425a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cfffe0e1-afa4-3a6a-9cdb-831c65cb425a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

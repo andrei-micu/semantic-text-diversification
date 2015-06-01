@@ -1,0 +1,36 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/58186355-3dfd-3971-a328-3065207d1fb8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7ed08919-9bf7-9831-14da-5443b4935464" ;
+        c:docDate          "2015-05-30 10:40:21.989" ;
+        c:docTitle         "" ;
+        c:document         "Husband's last text haunts distraught wife. A woman says she received a suicidal text message from her husband moments before her Southwest flight took off and the flight crew did not let her call to try to stop him. WTMJ reports." ;
+        c:id               "http://id.opencalais.com/vE8QDFhZcMKTrBT3IzVyRA" .
+
+<http://d.opencalais.com/dochash-1/58186355-3dfd-3971-a328-3065207d1fb8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/58186355-3dfd-3971-a328-3065207d1fb8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/58186355-3dfd-3971-a328-3065207d1fb8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58186355-3dfd-3971-a328-3065207d1fb8> ;
+        c:importance     "1" ;
+        c:name           "WTMJ" ;
+        c:originalValue  "WTMJ" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ef3da521-db82-32b0-aaf8-75aca4207969> .
+
+<http://d.opencalais.com/dochash-1/58186355-3dfd-3971-a328-3065207d1fb8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58186355-3dfd-3971-a328-3065207d1fb8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qJ6xyuPmxjWjIkIVRe+P3S09M3c=|RUTYgn2JhPCzF8W5YHtjc61QmCF3Guvn4MGmllwp7KENn8SmSTWt3g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:21.833" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f> ;
+        c:importance     "2" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f> ;
+        c:score           "0.540" .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f> ;
+        c:importance     "1" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f> ;
+        c:importance     "1" ;
+        c:name           "Jaguar" ;
+        c:originalValue  "Jaguar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/76082756-17a8-3afe-97ba-97f3b07d72ab> .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2fe208c5-0c73-d51e-14da-53bca9349095" ;
+        c:docDate          "2015-05-30 10:31:08.769" ;
+        c:docTitle         "" ;
+        c:document         "Woman in Jaguar caught stealing packages. A woman driving a Jaguar luxury car is caught on a homeowners security camera stealing a deliver off the front porch. KOMO's Lindsay Cohen reports." ;
+        c:id               "http://id.opencalais.com/Ov6znRwDtSRTrl5CVhyxuA" .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f> ;
+        c:importance     "2" ;
+        c:name           "KOMO" ;
+        c:originalValue  "KOMO (AM)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/906e39a6-8349-3ea8-bed9-a665854b090e> .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f> ;
+        c:score           "0.873" .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|kYDTR7EJXIA5pCwtorFVuUBsM68=|PmHV2a/1QRoP+0JFU5GIgCHe1KUhjkXrkvQ3ZOO3HMqZh2uw9Y58KA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:08.691" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c69bf12-c5bf-317b-bd22-15047950c47f> ;
+        c:importance     "1" ;
+        c:name           "Jaguar Cars" ;
+        c:originalValue  "Jaguar Cars" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7db2d5ab-b95b-3097-9286-9d4509d816a4> .

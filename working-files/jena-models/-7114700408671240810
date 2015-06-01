@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593> ;
+        c:importance     "1" ;
+        c:name           "Steering" ;
+        c:originalValue  "Steering" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c43bf84e-ef44-3f6b-b9b8-1fdbdee8c8c9> .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|dfNPmJ8/KFuN3tNSGsSeWQaIOsU=|hFV2KXYwYzq9jdwhumaKLIAb/vGGLXGdyif5/xAM9/PzTxOuMZcLhw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:28.017" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593> ;
+        c:importance     "1" ;
+        c:name           "Ammunition" ;
+        c:originalValue  "Ammunition" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/de930fc0-a61d-3590-bb63-56756694ae8d> .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593> ;
+        c:score           "0.916" .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593> ;
+        c:importance     "2" ;
+        c:name           "Ballistics" ;
+        c:originalValue  "Ballistics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61d56b68-c565-30a7-ad9e-8d93f8acbd6b> .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "17035754-6056-c801-14da-53c1611719b3" ;
+        c:docDate          "2015-05-30 10:31:28.111" ;
+        c:docTitle         "" ;
+        c:document         "Military develops self-steering bullet. You know the phrase \"dodging a bullet\"? Forget about it. Probably not going to happen anymore." ;
+        c:id               "http://id.opencalais.com/NIKz-HkXxDpfjkRfBBHf1g" .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593> ;
+        c:importance     "1" ;
+        c:name           "Bullet" ;
+        c:originalValue  "Bullet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd4bb6d8-e37c-31f7-868c-407d99686c64> .
+
+<http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c8aab7b6-ddfb-33be-99a2-0302b3159593> ;
+        c:score           "0.640" .

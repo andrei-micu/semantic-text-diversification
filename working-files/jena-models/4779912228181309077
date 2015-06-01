@@ -1,0 +1,175 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:score           "0.820" .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance     "2" ;
+        c:name           "Belting" ;
+        c:originalValue  "Belting (music)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/08cfd02d-8049-3a3e-85e3-e5163afa3614> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:score           "0.964" .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1124800f-763d-0383-14da-545dcdd653ed" ;
+        c:docDate          "2015-05-30 09:42:08.904" ;
+        c:docTitle         "" ;
+        c:document         "Singing Sergeant has big lesson on military. Army Sgt. Corrin Campbell is a chameleon. Tough combat U.S. Army veteran. Buttoned up officer. And that female singer with the pink hair and the red lips, on a high school stage, belting out Taylor Swift's' \"Blank Space.\"" ;
+        c:id               "http://id.opencalais.com/EPgQpS3zaMNc7i7X66v*9g" .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance     "2" ;
+        c:name           "Corrin Campbell" ;
+        c:originalValue  "Corrin Campbell" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f9ad7c9-fe02-357d-85a1-93a8dd88f421> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance     "2" ;
+        c:name           "Taylor Swift" ;
+        c:originalValue  "Taylor Swift" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3798152-a315-3a21-affa-1e046026b7b6> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|frF9ze7X4dwHxZkMNoJS7+xgGS0=|TtpZlGricW4REAHUJlizfGV2aG1WwvQuIpZW8bmIHzpXYyARCXnJpA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:08.733" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance     "2" ;
+        c:name           "Sergeant" ;
+        c:originalValue  "Sergeant" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bc6e7484-d231-3a78-90ac-56298bdc653a> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/cat/5>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:score           "0.747" .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance     "1" ;
+        c:name           "Military" ;
+        c:originalValue  "Military" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/628c4e54-7bba-3c87-80aa-ecabcf30215e> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance     "2" ;
+        c:name           "Dr. Teeth and The Electric Mayhem" ;
+        c:originalValue  "Dr. Teeth and The Electric Mayhem" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9c8a932a-f82d-3d5c-9ffe-46bf6cc3d5e9> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:score           "0.774" .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance     "1" ;
+        c:name           "Military organization" ;
+        c:originalValue  "Military organization" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a2519e1-60a4-37c8-a8f5-d84de61d5815> .
+
+<http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c98d079d-07fa-39f1-ad8e-8d0c52a0cab7> ;
+        c:importance     "2" ;
+        c:name           "Chameleon" ;
+        c:originalValue  "Chameleon (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c5fd60f8-fbe3-361c-adf7-420129c09750> .

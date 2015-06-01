@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26> ;
+        c:importance     "2" ;
+        c:name           "Terrorist incidents in Pakistan" ;
+        c:originalValue  "Terrorist incidents in Pakistan in 2011" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93848e1c-bd41-3e15-8067-d346c3a80f9b> .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26> ;
+        c:importance     "1" ;
+        c:name           "War on Terror" ;
+        c:originalValue  "War on Terror" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff2ebef8-8f60-3bf7-b43d-ee429c20752f> .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26> ;
+        c:importance     "2" ;
+        c:name           "Quetta" ;
+        c:originalValue  "Quetta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ddfadc1f-8ddb-32f5-9725-aabbf8c434ae> .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26> ;
+        c:importance     "1" ;
+        c:name           "Pakistan" ;
+        c:originalValue  "Pakistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34f13d0f-f789-3a54-a8b6-be7f674bf78f> .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "50136001-e198-dd51-14da-54d4bde49095" ;
+        c:docDate          "2015-05-30 10:50:16.011" ;
+        c:docTitle         "" ;
+        c:document         "Gunmen kill 22 bus passengers in Pakistan attack. QUETTA, Pakistan (Reuters) - Gunmen disguised as members of the Pakistani security forces killed at least 22 passengers on Friday night after forcing them off buses traveling from the western city of Quetta to Karachi on the southern coast, officials said." ;
+        c:id               "http://id.opencalais.com/hY1DuOTT8CJVtdiGj6bF1g" .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|6fvIkhFMvG2vW3cMAeZnz3N+miM=|btFqkUoQz9rf4uYLmUaFcDXBi4cAVe00ZDnRm6D3DQAJPQJMC8dRbw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:50:15.902" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26> ;
+        c:importance     "1" ;
+        c:name           "Terrorism in Pakistan" ;
+        c:originalValue  "Terrorism in Pakistan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a139e22a-42e3-3158-99d7-ebcc8c8cd9d1> .
+
+<http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9876b2c3-52ae-3674-89c7-1f1ba3ce5b26> ;
+        c:importance     "2" ;
+        c:name           "Persecution of Hazara people" ;
+        c:originalValue  "Persecution of Hazara people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a1c3ec4-0baf-3fd2-bc24-0d5bbb9cbf18> .

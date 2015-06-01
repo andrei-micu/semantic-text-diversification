@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:score           "0.873" .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:importance     "1" ;
+        c:name           "Bartending" ;
+        c:originalValue  "Bartending" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f5a39adc-746f-3334-81d3-6bc01bf0440b> .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:importance     "2" ;
+        c:name           "Alcoholic beverage" ;
+        c:originalValue  "Alcoholic beverage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d916a8b-58d1-37e7-a994-adb7f269aca6> .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:importance     "1" ;
+        c:name           "Geography of Texas" ;
+        c:originalValue  "Geography of Texas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d4e7aeef-a522-3540-b10e-11291a906cef> .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3e6bcdbf-d424-78d8-14da-538ad2332f98" ;
+        c:docDate          "2015-05-30 09:27:44.765" ;
+        c:docTitle         "" ;
+        c:document         "America's hottest liquor shot is .... When drinkers in Clayton's, a beachfront bar in South Padre Island, Texas, belly up for a round of shots, bartender Casey Belue can usually guess what they'll order." ;
+        c:id               "http://id.opencalais.com/F8R8VewOERTIt9AmWmVDmQ" .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:importance     "2" ;
+        c:name           "South Padre Island" ;
+        c:originalValue  "South Padre Island" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/079bf881-5def-3faf-9f9a-06ab0fbf345f> .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:importance     "2" ;
+        c:name           "Bar" ;
+        c:originalValue  "Bar (establishment)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/224871aa-d260-365c-8c19-fd794363aa39> .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|EOqsMwYyD1h5um1O87O/c+RgkZ0=|RX1kONYYi22bHzr8zufnt/Mtqz45AfST44yo3BNmTgbeOaC4/z4pCg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:44.547" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:importance     "1" ;
+        c:name           "Texas" ;
+        c:originalValue  "Texas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1eab17dd-cf34-382d-8a2c-75f19df3cb84> .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6b139d70-8d1e-301b-bb93-38595da2318a> ;
+        c:importance     "2" ;
+        c:name           "Padre Island" ;
+        c:originalValue  "Padre Island" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3fffd31-f533-378a-8436-cfeca99e8335> .

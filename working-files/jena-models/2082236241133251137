@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:importance     "1" ;
+        c:name           "Occupy movement in the United States" ;
+        c:originalValue  "Occupy movement in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91f71b20-f165-3f72-aa78-716140ee56d1> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:importance     "1" ;
+        c:name           "Protests" ;
+        c:originalValue  "Protests" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cb32845-5207-3795-8e94-b72fe5488a2d> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:importance     "2" ;
+        c:name           "Greek riots" ;
+        c:originalValue  "2008 Greek riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3859cc5-4d11-3caf-9561-8c58549511bf> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:importance     "2" ;
+        c:name           "Culture jamming" ;
+        c:originalValue  "Culture jamming" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3402dd41-23b3-33b1-940e-ef127108c9cb> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:importance     "1" ;
+        c:name           "Political riots" ;
+        c:originalValue  "Political riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ee335ca-e415-316a-a37e-6a8c05e4ccc6> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:importance     "2" ;
+        c:name           "Occupy Oakland" ;
+        c:originalValue  "Occupy Oakland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/300c2ab2-9ab2-359d-95d5-f516c8b8b46d> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FaFULS1NmLgy9MzH5xTlszxCEIQ=|h2Cui6eoUukdVkoHLLyOffMzmZ1s/NQ1r61saGW5PlsudB70mR/kSg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:50.981" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:score           "0.999" .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0> ;
+        c:importance     "2" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/e3824a16-1337-3578-82b3-84f2a8caa1d0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "707ab5a5-3550-bb91-14da-53c6fc5719b3" ;
+        c:docDate          "2015-05-30 10:31:51.169" ;
+        c:docTitle         "" ;
+        c:document         "Marchers protest police violence in Baltimore, New York. BALTIMORE (Reuters) - Protesters marched against police violence in cities from New York to Denver on Wednesday, and a large demonstration in Baltimore ended peacefully two days after rioting over the death of a black man injured in police custody." ;
+        c:id               "http://id.opencalais.com/ftmsmQjhnTjufwgcokqoUg" .

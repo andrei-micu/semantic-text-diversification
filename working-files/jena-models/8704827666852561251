@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1159c032-433f-d112-14da-544b7ce653ed" ;
+        c:docDate          "2015-05-30 09:40:53.991" ;
+        c:docTitle         "" ;
+        c:document         "Public Editor's Journal: A ‘Jewish Litmus Test’ Was Unacceptable. In an interview about Israel and college students, some questions should not have been asked." ;
+        c:id               "http://id.opencalais.com/4wevQj5h0hkoxPX3NMhsXQ" .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|efrD1JE9Ri3i4rsEZPLwYrc1lRk=|ZynpkpGOO9DjeJ2ASp0E/GtoNWqS2KPD+KII+inpyCyT7fRZGk8GqA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:53.710" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e> ;
+        c:importance     "1" ;
+        c:name           "Litmus" ;
+        c:originalValue  "Litmus" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5ba588a5-4196-3479-984c-a0518109460a> .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e> ;
+        c:score           "0.978" .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e> ;
+        c:importance     "1" ;
+        c:name           "Decision theory" ;
+        c:originalValue  "Decision theory" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/25e88cec-6a96-36d3-9fe9-cabb9d4d3302> .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e> ;
+        c:importance     "2" ;
+        c:name           "Computing" ;
+        c:originalValue  "Computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169> .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e> ;
+        c:importance     "1" ;
+        c:name           "Litmus test" ;
+        c:originalValue  "Litmus test (politics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/99ce7f0d-f68f-35e7-9dc5-e861af3487a4> .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cd574edc-411f-3432-b94a-a38f0ba5cc0e> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .

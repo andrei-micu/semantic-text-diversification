@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937> ;
+        c:score           "0.994" .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|80AGLnExyPXgDVhbZmScM3Pp0r0=|iixMUIvl1k1Omld9wp3YrFDJOqiS7PXGlGW83K+2TcrwUdJLIN94GA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:26.286" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage in Maine" ;
+        c:originalValue  "Same-sex marriage in Maine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7adc0391-c375-3884-b364-6bfa078e6ab8> .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937> ;
+        c:score           "0.990" .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937> ;
+        c:importance     "1" ;
+        c:name           "Referendum" ;
+        c:originalValue  "Referendum" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/804c1316-64fb-3b5c-aaa2-aeb1dc576c7d> .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "32056c4f-95b6-68ed-14da-5470bce1df07" ;
+        c:docDate          "2015-05-30 09:43:26.505" ;
+        c:docTitle         "" ;
+        c:document         "Reports: Ireland voters back same-sex marriage. Early indications are that Ireland has voted in favor of same-sex marriage, Irish media reported Saturday, as the process of counting votes in the landmark referendum continues." ;
+        c:id               "http://id.opencalais.com/0mPEH3ySX8UUFMDbEZfdXg" .
+
+<http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e2298dc-957d-356b-878f-3b1b665df937> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage in the United States" ;
+        c:originalValue  "Same-sex marriage in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bdcd460c-629a-331e-b2c6-af5d5447ab33> .

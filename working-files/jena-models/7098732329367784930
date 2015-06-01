@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b8571b77-21ba-b8fa-14da-545239e34709" ;
+        c:docDate          "2015-05-30 09:41:21.451" ;
+        c:docTitle         "" ;
+        c:document         "Obama vows to 'stand by' Gulf allies amid concern over Iran threat. CAMP DAVID, Md. (Reuters) - President Barack Obama vowed on Thursday to back Gulf allies against any \"external attack,\" seeking to reassure them of Washington's iron-clad commitment to their security amid Arab anxiety over U.S.-led efforts to reach a nuclear deal with Iran." ;
+        c:id               "http://id.opencalais.com/XBU2ADuEJEOfb0qwnF3mLQ" .
+
+<http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|dfRCryfQqi1OYKJFmtIydyAdsrs=|PILXLU3f10tH6ACcF6OoHobHnscCAwUQT0KL2l7WbLP5ED7CaORgPQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:21.326" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7> ;
+        c:importance     "2" ;
+        c:name           "Foreign policy of the Barack Obama administration" ;
+        c:originalValue  "Foreign policy of the Barack Obama administration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1d727f6c-8401-3c65-9e32-fdb2777044fe> .
+
+<http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/515a51c1-6ff5-3928-a391-de6111cf6ca7> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .

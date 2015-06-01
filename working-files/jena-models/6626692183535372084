@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|m2CmNMKvzV1SZ/wu2rbMn1w0hYM=|UdCe4ccOuomsKIRLLMjIFXHhdSwu4hXxso+8x287Hoi323bW7cT1WA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:05.882" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:importance     "2" ;
+        c:name           "Publishing" ;
+        c:originalValue  "Publishing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ba7b8fb-0e34-3daf-8c13-5d12b195640a> .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:score           "0.891" .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3f1fe737-72b3-8df1-14da-543129a719b3" ;
+        c:docDate          "2015-05-30 10:39:06.101" ;
+        c:docTitle         "" ;
+        c:document         "Tornado’s Destruction Cuts Deep in a Small Texas Town. In the rural town of Van, Tex., many were grateful that children were not inside when their schools were struck." ;
+        c:id               "http://id.opencalais.com/2k6LS4ohD*YzHnejqdX*Xw" .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:importance     "1" ;
+        c:name           "Tex" ;
+        c:originalValue  "Tex (novel)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5259dd78-962b-3f09-bdb4-b93259aa7334> .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:score           "0.821" .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:importance     "1" ;
+        c:name           "Application software" ;
+        c:originalValue  "Application software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3dd160c1-2ca0-3913-8fe9-4dca175b0bee> .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:importance     "1" ;
+        c:name           "Typography" ;
+        c:originalValue  "Typography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cbf4f7c5-9995-373a-a1f5-4b83f22b4bd0> .
+
+<http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/875e9f36-f543-3a12-9fb2-1bc41eda4d6c> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .

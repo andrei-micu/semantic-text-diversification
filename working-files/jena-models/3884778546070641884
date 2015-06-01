@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:importance     "2" ;
+        c:name           "Demographic history of Macedonia" ;
+        c:originalValue  "Demographic history of Macedonia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6aa05551-2343-310f-8fda-05d9f6485353> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:score           "0.882" .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:importance     "2" ;
+        c:name           "Macedonia" ;
+        c:originalValue  "Macedonia (region)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7a9e838-ce44-3fdf-8250-a7aa56f9f691> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1e9e20b1-740a-2fe0-14da-541362013c98" ;
+        c:docDate          "2015-05-30 09:37:04.091" ;
+        c:docTitle         "" ;
+        c:document         "5 officers killed in gun battles in Macedonia. Gun battles in a Balkan city with a history of ethnic tensions took the lives of five police officers, Macedonian authorities said." ;
+        c:id               "http://id.opencalais.com/lMYk9LCsdRfrRtU8-A01HA" .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:importance     "1" ;
+        c:name           "History of the Republic of Macedonia" ;
+        c:originalValue  "History of the Republic of Macedonia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f325445b-f631-3cd0-98d3-c441ea28ddfa> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:importance     "2" ;
+        c:name           "National Liberation War of Macedonia" ;
+        c:originalValue  "National Liberation War of Macedonia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d99be4d5-43c5-3bca-a1fe-67ff6776bc9a> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:score           "0.941" .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:importance     "2" ;
+        c:name           "Politics of the Republic of Macedonia" ;
+        c:originalValue  "Politics of the Republic of Macedonia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/13b8c005-d8fd-3f78-8240-594a240dd202> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/40e50ffb-752d-3633-8c3f-623e9bfaf453> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|n3m35Df1IBhjOKGmnm/90+pzI+8=|S6/lElM7l4glnPMT14b9+8PAglkOkJMC/db7WGNTtmd81OAmflG5oQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:03.904" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

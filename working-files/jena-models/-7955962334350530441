@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:importance     "2" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7968dd41-bf5e-55c3-14da-548734f719b3" ;
+        c:docDate          "2015-05-30 10:44:58.443" ;
+        c:docTitle         "" ;
+        c:document         "Nightmare dental procedures done on kids. A Florida dentist is accused of harming children while collecting millions of dollars for unwanted procedures. CNN's Victor Blackwell is Keeping Them Honest." ;
+        c:id               "http://id.opencalais.com/zz7TFcS70ZXN*dSeyYOwVg" .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:importance     "1" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|L5GjiFj141IyaFOjCxl5F2KfY/M=|kjmDnuMGwlgCMrPE3OOC8GeiZGhjknOqBv86w1r0up1VmQrJ1jCxmw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:58.319" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:importance     "1" ;
+        c:name           "Dentist" ;
+        c:originalValue  "Dentist" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf698e15-6697-3341-bbf4-cf5154029f8a> .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:score           "0.895" .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:importance     "2" ;
+        c:name           "Health" ;
+        c:originalValue  "Health" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec> .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:importance     "1" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cd3c242b-31eb-346d-b793-217a0a422f40> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

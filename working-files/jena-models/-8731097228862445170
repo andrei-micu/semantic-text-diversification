@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|dKbX+CqIp+pcxQT1F3gL/qZhOZ4=|LcjP4wT/arjcOvg1bjmVjRbPWbZ9/5chfnJV1EaV3MCBB17e1Kgwiw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:35.079" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f099f748-40cd-9bb4-14da-54bc207719b3" ;
+        c:docDate          "2015-05-30 10:48:35.313" ;
+        c:docTitle         "" ;
+        c:document         "Syria says Islamic State executes hundreds in Palmyra. BEIRUT (Reuters) - Islamic State fighters have executed at least 400 people in Palmyra since capturing the ancient Syrian city four days ago, Syrian state media said on Sunday." ;
+        c:id               "http://id.opencalais.com/AfygeqVvrcuTfGYNcT1GRA" .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:importance     "2" ;
+        c:name           "Syrian uprising" ;
+        c:originalValue  "2011 Syrian uprising" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5ffa5c76-7418-379b-b3a8-c23eefeeac75> .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:score           "0.916" .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:importance     "1" ;
+        c:name           "Fertile Crescent" ;
+        c:originalValue  "Fertile Crescent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5435af2d-c03d-3907-8586-8f38ab6b08eb> .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:importance     "2" ;
+        c:name           "Palmyra" ;
+        c:originalValue  "Palmyra" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/285d8837-5179-35bf-b053-a498cf4e432d> .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:importance     "2" ;
+        c:name           "Syria" ;
+        c:originalValue  "Syria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34e250e7-a386-38cf-8d7b-6b45399ed952> .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:importance     "1" ;
+        c:name           "Royal Family of Emesa" ;
+        c:originalValue  "Royal Family of Emesa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3919ae2c-c441-342a-ab9e-a4b70df4c718> .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:importance     "2" ;
+        c:name           "Free Syrian Army" ;
+        c:originalValue  "Free Syrian Army" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/470d11bc-3748-3948-a775-46925cdf5957> .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20f96910-739b-3dbf-9f85-081e3df77aab> ;
+        c:importance     "2" ;
+        c:name           "Western Asia" ;
+        c:originalValue  "Western Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/631fb2b9-52dc-3d33-b119-8bf56d76a361> .

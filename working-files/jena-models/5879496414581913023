@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7> ;
+        c:importance     "1" ;
+        c:name           "Science fiction" ;
+        c:originalValue  "Science fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6550b1e8-4194-3f11-b275-e229c5205adf> .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7> ;
+        c:importance     "2" ;
+        c:name           "Jonny Quest" ;
+        c:originalValue  "Jonny Quest" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e29b215-a062-3db9-ae4d-18e40a797f00> .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7> ;
+        c:importance     "1" ;
+        c:name           "Quest" ;
+        c:originalValue  "Quest (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4ac3159c-229d-38b1-9c09-fae44a7485fc> .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2WDU7JAOBIcGXbz+mTfo28R2Vok=|GbjOXfStwqQONcIZSlKZVf300qlg9cYi8w5edfocLtZGIkjUAY/eFw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:25.605" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7> ;
+        c:importance     "2" ;
+        c:name           "TV1" ;
+        c:originalValue  "TV1 (Australia)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f635da50-6145-3260-b698-3978e97ba0f7> .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "782b4495-e805-6a5e-14da-53863251927e" ;
+        c:docDate          "2015-05-30 10:27:25.714" ;
+        c:docTitle         "" ;
+        c:document         "'Galaxy Quest' TV series in the works. A TV series based on the 1999 sci-fi film \"Galaxy Quest\" is in the works at Paramount Television." ;
+        c:id               "http://id.opencalais.com/1f9thF7Aatx5SoIld05SKQ" .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef345c63-a720-34d9-b017-c84a65a6b4a7> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .

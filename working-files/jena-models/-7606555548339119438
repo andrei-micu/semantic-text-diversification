@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:importance     "1" ;
+        c:name           "Gender studies" ;
+        c:originalValue  "Gender studies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ac5ccb9f-ba2d-3c71-9ab1-2edc2194d508> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:importance     "2" ;
+        c:name           "Theresa Sparks" ;
+        c:originalValue  "Theresa Sparks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f91c4e80-d652-300f-a7cc-6d9d167649ac> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:importance     "1" ;
+        c:name           "Gender" ;
+        c:originalValue  "Gender" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68502b1e-12f9-3466-ac94-9d9ca76df055> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ef7fffe8-0d42-248b-14da-53e93181927e" ;
+        c:docDate          "2015-05-30 10:34:11.268" ;
+        c:docTitle         "" ;
+        c:document         "America's transgender moment. It's only April, but 2015 may be remembered as the year the term \"transgender\" fully entered mainstream consciousness." ;
+        c:id               "http://id.opencalais.com/WaGSEExOROxm9jn3wElQDA" .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:importance     "2" ;
+        c:name           "Genderqueer" ;
+        c:originalValue  "Genderqueer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df80f818-4efa-353a-9f42-cfa0932af49c> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|tFPUINo09rBdNpRbnf5NuDHt0uo=|hWmAfuvfMos2uyMLy9H2iAWwxUFC7xl1wKnB4QeXwQLeajxViQnCKg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:11.096" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:score           "0.709" .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:importance     "1" ;
+        c:name           "LGBT" ;
+        c:originalValue  "LGBT" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/927e11b0-bea4-3c4f-afb6-419026258426> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:importance     "2" ;
+        c:name           "Transgender musicians" ;
+        c:originalValue  "Transgender musicians" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9e26837-3d65-33e8-8062-5419390d651d> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c8f0430-e142-3c64-8623-a84519f7b0b4> ;
+        c:importance     "2" ;
+        c:name           "Transgender" ;
+        c:originalValue  "Transgender" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d0f1fbda-fc98-39e0-8a60-ffa7bdd102dd> .

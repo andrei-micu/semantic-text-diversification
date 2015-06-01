@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:importance     "2" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|A0SIhcaqlJdeCBdFq9q8cztvSw0=|M7G4mEreq05KA77zj5pnvAmTLNshiT6RxzMx2OF2GL8QyvQa0Z6cRQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:32:19.939" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:score           "0.527" .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:importance     "1" ;
+        c:name           "Pension" ;
+        c:originalValue  "Pension" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d7f03f5-a625-387a-9bef-112e344faa07> .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b3b813fc-37e0-d07f-14da-53ce0e371d39" ;
+        c:docDate          "2015-05-30 09:32:20.063" ;
+        c:docTitle         "" ;
+        c:document         "Pension, labor disputes dog Greek talks as cash dwindles. ATHENS/BRUSSELS (Reuters) - Wide differences over pension and labor reforms continued to dog intensive negotiations between Greece's leftist government and its international creditors despite progress in other areas as the country's cash position becomes increasingly critical." ;
+        c:id               "http://id.opencalais.com/3b7HHNRjUowlj5NfCDeFog" .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:importance     "1" ;
+        c:name           "Employment compensation" ;
+        c:originalValue  "Employment compensation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2389f7b-f3ad-3337-9e93-670bd108a205> .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:importance     "2" ;
+        c:name           "Personal finance" ;
+        c:originalValue  "Personal finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e43d5378-edca-370e-b12f-6bb11863aeef> .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:score           "0.836" .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:importance     "1" ;
+        c:name           "Investment" ;
+        c:originalValue  "Investment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f974021-59af-3718-a6ea-cdb8151cb2c1> .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/93595de4-a947-3e3a-b649-ac681f2d3fb3> ;
+        c:score           "1.000" .

@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ifqFFUygDhWn/7Wca7VrVL/1nYI=|AO4Je9l1RsUAehXAlAN4VXWU5Pkmvg4cvfGEgAqWNGXgbKqfItTmvA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:40.792" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70> ;
+        c:importance     "1" ;
+        c:name           "New York Yankees players" ;
+        c:originalValue  "New York Yankees players" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c94b8e97-2138-3281-b651-db0174a11620> .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a88f7671-4793-c470-14da-5389e78653ed" ;
+        c:docDate          "2015-05-30 09:27:41.010" ;
+        c:docTitle         "" ;
+        c:document         "Rinaldo Ardizoia, the Oldest Living Yankee, Reflects on His Career. Ardizoia, 95, a pitcher who appeared in just one major league game, attended Joe DiMaggio’s wedding, gave a helping hand to Babe Ruth and spent a season playing for Casey Stengel in the minors." ;
+        c:id               "http://id.opencalais.com/UXjyg9mx-7YmR-QzSuzuzA" .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70> ;
+        c:importance     "2" ;
+        c:name           "Whitey Ford" ;
+        c:originalValue  "Whitey Ford" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf190538-25ae-3ef1-a4b7-a523e36b20a9> .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70> ;
+        c:importance     "1" ;
+        c:name           "Casey Stengel" ;
+        c:originalValue  "Casey Stengel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b68d91c-2c79-381e-a075-b6750c3401e5> .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70> ;
+        c:importance     "1" ;
+        c:name           "Baseball" ;
+        c:originalValue  "Baseball" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/81a6d889-b583-396a-824c-0fccbe051640> .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70> ;
+        c:importance     "2" ;
+        c:name           "Jim Coates" ;
+        c:originalValue  "Jim Coates" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7442711-fda8-3f84-95e8-d04de109ad4c> .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c23fe35-447d-3332-a1b0-03dd4735ce70> ;
+        c:importance     "2" ;
+        c:name           "Babe Ruth" ;
+        c:originalValue  "Babe Ruth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3454675c-2e46-35b6-955d-fd07fd967a05> .

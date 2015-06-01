@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848> ;
+        c:importance     "2" ;
+        c:name           "Humanities" ;
+        c:originalValue  "Humanities" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/109c54e2-e0ff-3985-ab43-e2886439ebd2> .
+
+<http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848> ;
+        c:importance     "1" ;
+        c:name           "Euro" ;
+        c:originalValue  "Euro" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bf21442-7464-3b25-a569-c1a14e2f70a9> .
+
+<http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848> ;
+        c:score           "0.903" .
+
+<http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "aff1913c-c79a-cc81-14da-53a10ba32955" ;
+        c:docDate          "2015-05-30 10:29:15.656" ;
+        c:docTitle         "" ;
+        c:document         "Tsipras presses for May debt deal, threatens referendum. ATHENS (Reuters) - Greek Prime Minister Alexis Tsipras said on Tuesday he was confident of an outline deal with international creditors within two weeks, after shaking up his negotiating team and sidelining his finance minister who has infuriated euro zone partners." ;
+        c:id               "http://id.opencalais.com/zeRbqgf*rMq6P2ws2EZp5w" .
+
+<http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848> ;
+        c:importance     "1" ;
+        c:name           "Alexis Tsipras" ;
+        c:originalValue  "Alexis Tsipras" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d8e47bb-8307-3de3-a45b-9b417918f394> .
+
+<http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|diW4uKuapv2x9woyOGBg+cTyVJc=|CVvOFD2MKPIZxG/tK8SDM+PnmGpF30VdOyIPBheUhBLaU5WtSgPsCg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:15.578" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848> ;
+        c:importance     "2" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848> ;
+        c:importance     "1" ;
+        c:name           "Economy of the European Union" ;
+        c:originalValue  "Economy of the European Union" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/802b6173-f214-30da-9e3a-ed0ea6face42> .
+
+<http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f20317a3-e7a7-330f-96a2-73155967d848> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b43b5c2a-e403-bb02-14da-53eeb5734709" ;
+        c:docDate          "2015-05-30 09:34:33.843" ;
+        c:docTitle         "" ;
+        c:document         "Guy Carawan Dies at 87; Taught a Generation to Overcome, in Song. With his performance of “We Shall Overcome” at the inaugural meeting of the Student Nonviolent Coordinating Committee in 1960, Mr. Carawan turned a little-known folk song into an anthem." ;
+        c:id               "http://id.opencalais.com/Yd9ipQf8rDRbQHQ7PI47sA" .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fN+R9e+VoftUYCm/QK+GN0N2FK0=|GxDvkMHl+7mHygetpI67ESJH5t2IemtVsg7I9Nuub0pSnS1jFZZHxw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:33.687" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:score           "0.966" .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:importance     "1" ;
+        c:name           "We Shall Overcome" ;
+        c:originalValue  "We Shall Overcome" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dc7c936d-a15e-3e79-bfd3-fa1c4b5960ac> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:importance     "2" ;
+        c:name           "Evan Carawan" ;
+        c:originalValue  "Evan Carawan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/baf04b49-ea93-3d80-b1f4-5f335eaa3d72> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:importance     "1" ;
+        c:name           "Guy Carawan" ;
+        c:originalValue  "Guy Carawan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c480f597-3001-3944-9f26-73a0eb3476d7> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:importance     "2" ;
+        c:name           "Student Nonviolent Coordinating Committee" ;
+        c:originalValue  "Student Nonviolent Coordinating Committee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0740a7e3-3e1b-3c5a-9122-184e7bd29d5c> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:importance     "2" ;
+        c:name           "History of the United States" ;
+        c:originalValue  "History of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72b4f2c4-ec73-3c08-b425-1ffb4426c44d> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:importance     "1" ;
+        c:name           "American folk songs" ;
+        c:originalValue  "American folk songs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70bd0c8d-9506-33bb-8b86-3ffd0793000c> .
+
+<http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dc6948ae-3aa2-3168-af98-31b0b6cb1f06> ;
+        c:importance     "2" ;
+        c:name           "Highlander Research and Education Center" ;
+        c:originalValue  "Highlander Research and Education Center" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d9bec97e-f67e-3013-b90d-e4c01044cade> .

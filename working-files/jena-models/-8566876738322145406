@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance     "2" ;
+        c:name           "Water supply" ;
+        c:originalValue  "Water supply" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60c88c60-4a9a-3948-a9a8-bbebd0a0f526> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance     "1" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cAHODl8AHe3kAxwnjRwkuKZf/DM=|d+2gaYkOLn+B6BU9AVW2UDmuTMGAgVKG+3bFYOGfWcQD6txedahoOw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:04.858" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance     "1" ;
+        c:name           "Atmospheric sciences" ;
+        c:originalValue  "Atmospheric sciences" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88403548-ec7e-3011-917e-da243df51138> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance     "2" ;
+        c:name           "Drinking water" ;
+        c:originalValue  "Drinking water" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8e869bf3-07fd-3619-a1fe-afdf8ab124ac> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance     "2" ;
+        c:name           "Environmental issues" ;
+        c:originalValue  "Environmental issues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abf82648-3bc6-3807-9c39-b0678c628d4b> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance     "2" ;
+        c:name           "Water treatment" ;
+        c:originalValue  "Water treatment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aee27420-b85a-3e56-8212-7e87c3fe0c69> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:score           "0.941" .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance     "1" ;
+        c:name           "Meteorology" ;
+        c:originalValue  "Meteorology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/897c2d6f-2365-35ef-8355-f4c70726feaa> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance     "2" ;
+        c:name           "Water crisis" ;
+        c:originalValue  "Water crisis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d697e15a-763c-3cc9-8339-6d56d14be0aa> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "af69dd2d-a138-0afb-14da-538fc6a32f98" ;
+        c:docDate          "2015-05-30 09:28:05.045" ;
+        c:docTitle         "" ;
+        c:document         "The Parched West: Drought Frames Economic Divide of Californians. The persistent water shortage is illustrating parallel worlds in which wealthy communities guzzle water as poorer neighbors conserve by necessity." ;
+        c:id               "http://id.opencalais.com/vulszuNyGmHSy*9k7oroXw" .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:importance     "2" ;
+        c:name           "Droughts" ;
+        c:originalValue  "Droughts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b46a609-67d0-3035-b9bd-766c43209784> .
+
+<http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/48cef2f7-7f7a-3254-9d00-79910114641e> ;
+        c:score           "0.821" .

@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8AKjbhUv/EbYS1LM3sq8xUrf3Oo=|WhUBImfRT4fImo30flxwcpZpdsYnJMKCgIdAPsY+enF/7bWrJmaGLw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:28.726" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e> ;
+        c:importance     "1" ;
+        c:name           "Baltimore Police Department" ;
+        c:originalValue  "Baltimore Police Department" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/669400d7-7c8c-335e-9033-4c3b341ab62a> .
+
+<http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5a01729d-f0aa-dbbf-14da-547ffb634709" ;
+        c:docDate          "2015-05-30 09:44:28.944" ;
+        c:docTitle         "" ;
+        c:document         "Baltimore police charged over death. Baltimore's top prosecutor announces revised charges, but the most serious charges - including second-degree murder - remain." ;
+        c:id               "http://id.opencalais.com/QdDNHllzl8jHTvxT9NplAg" .
+
+<http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e> ;
+        c:importance     "2" ;
+        c:name           "Geography of North America" ;
+        c:originalValue  "Geography of North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4953ac1c-3f88-3c4f-b079-6ff903751bbf> .
+
+<http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b993f6e-e3c2-3cd2-9941-4bbceb24e08e> ;
+        c:importance     "1" ;
+        c:name           "Murder" ;
+        c:originalValue  "Murder (United States law)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4442334b-792e-34c3-9fb9-ebc855c20658> .

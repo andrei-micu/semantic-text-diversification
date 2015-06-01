@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892> ;
+        c:importance     "2" ;
+        c:name           "Chicago Blackhawks" ;
+        c:originalValue  "Chicago Blackhawks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ac80b88-869c-3c21-9859-f53c838eec9e> .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|F5Gg+qPH4O2Upwqjw5FEscN8nAc=|CRPxYYsaN5dQ81g0+6zAnwKRyLNI8dX7PmZsfu7+P0Av79Els6fXMw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:27.861" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892> ;
+        c:importance     "1" ;
+        c:name           "Anaheim Ducks" ;
+        c:originalValue  "Anaheim Ducks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc5ab839-29d2-308b-8f6e-c40e29704099> .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "408fc2b4-0309-c3e4-14da-54d7a9513c98" ;
+        c:docDate          "2015-05-30 09:50:28.064" ;
+        c:docTitle         "" ;
+        c:document         "Blackhawks Or Ducks: Whom Will The Lightning Face In NHL Finals?. NPR's Tom Goldman joins Scott Simon to talk about the Women's World Cup. He'll also talk hockey playoffs, previewing the Chicago Blackhawks - Anaheim Ducks matchup." ;
+        c:id               "http://id.opencalais.com/X3VpkHCRHNBltNmV6vsayw" .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892> ;
+        c:importance     "2" ;
+        c:name           "Teemu Selänne" ;
+        c:originalValue  "Teemu Selänne" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2a843751-26c3-3071-bb0b-2f9aff34102f> .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892> ;
+        c:importance     "1" ;
+        c:name           "Pacific Division" ;
+        c:originalValue  "Pacific Division (NHL)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bdb7f258-eda5-36d7-a669-4e3bbfc04525> .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892> ;
+        c:importance     "1" ;
+        c:name           "National Hockey League" ;
+        c:originalValue  "National Hockey League" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f06b9bc9-f662-35d0-91ab-4dcea8b49cc3> .
+
+<http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3dae5372-a6f2-3740-82e8-30bf89bde892> ;
+        c:importance     "2" ;
+        c:name           "Paul Kariya" ;
+        c:originalValue  "Paul Kariya" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/05524d62-2b0a-31ad-a189-7d6e94fef72a> .

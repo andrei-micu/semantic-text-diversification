@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:importance     "2" ;
+        c:name           "B.B. King" ;
+        c:originalValue  "B.B. King" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43f0188d-5b8f-32b8-9c45-d4fe6a686bb1> .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:importance     "1" ;
+        c:name           "Lead guitarists" ;
+        c:originalValue  "Lead guitarists" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a02953b1-e7e2-33c6-98f4-5c45d9a0ab2a> .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|p84nPRVJyQBMmraJKm7kvEgvzeM=|hBuRtTgXiG8hIXod4CPHteI0gPNaFEFo+3B83ml06APamcGQ6OxQAg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:23.291" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b5a5f279-b1f8-cdcb-14da-5452b5b32f98" ;
+        c:docDate          "2015-05-30 09:41:23.634" ;
+        c:docTitle         "" ;
+        c:document         "B. B. King, Defining Bluesman for Generations, Dies at 89. Mr. King’s world-weary voice and wailing guitar lifted him from the cotton fields of Mississippi to a global stage and the apex of American blues." ;
+        c:id               "http://id.opencalais.com/gGJObndFsKw30Q8hKXcxKQ" .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:importance     "1" ;
+        c:name           "Mississippi Blues Trail" ;
+        c:originalValue  "Mississippi Blues Trail" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ef3e966-ffb1-33c5-b6dc-2cf5ec0d92d2> .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:score           "0.937" .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:importance     "1" ;
+        c:name           "Blues" ;
+        c:originalValue  "Blues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/90d37ee3-e4fe-3548-b839-feade09154b2> .
+
+<http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/669af52f-6f57-3cc1-9ed9-9a54f8bc1131> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23> ;
+        c:importance     "1" ;
+        c:name           "Nationality" ;
+        c:originalValue  "Nationality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b44aebf-d341-3c29-99c8-2088e1ee35e9> .
+
+<http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23> ;
+        c:importance     "1" ;
+        c:name           "Whitney Houston" ;
+        c:originalValue  "Whitney Houston" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f8cecbb-09e1-30a3-a693-58db6004bf26> .
+
+<http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f76a4ad7-9e66-6db4-14da-540a9b31927e" ;
+        c:docDate          "2015-05-30 10:36:28.189" ;
+        c:docTitle         "" ;
+        c:document         "Father, aunt of Bobbi Kristina Brown named co-guardians. (Reuters) - The father and aunt of Bobbi Kristina Brown, the daughter of late singer Whitney Houston who was hospitalized in January after being found unresponsive in her bathtub, have been named her co-guardians, attorneys for the parties said on Friday." ;
+        c:id               "http://id.opencalais.com/XJ2e*bNfBJDzgsqlK5DcDw" .
+
+<http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23> ;
+        c:importance     "1" ;
+        c:name           "Cassadine family" ;
+        c:originalValue  "Cassadine family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/57ef94e8-0c92-35ea-ac03-6559a8d70d9f> .
+
+<http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/abc6f198-1a30-36cd-8d30-bc1dd2820a23> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|oYQqqGrsyxNnWv9xDVoPsP7QmWk=|HjdmaNBzxs8jGV1Io6NIX4sxHoyNi1Ia5j4+UM4KFhBJXH6bxpRYBw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:27.955" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

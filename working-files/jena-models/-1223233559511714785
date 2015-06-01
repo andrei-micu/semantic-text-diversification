@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:score           "0.784" .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:importance     "1" ;
+        c:name           "Supreme Court of Canada" ;
+        c:originalValue  "Supreme Court of Canada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14f1bc31-8e25-3733-8932-9f391df9791b> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:importance     "2" ;
+        c:name           "Status of same-sex marriage" ;
+        c:originalValue  "Status of same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c312d5b8-52e6-37d1-8618-330a13901719> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:score           "0.994" .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:importance     "2" ;
+        c:name           "LGBT in the United States" ;
+        c:originalValue  "LGBT in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/599f7e1b-a4ef-3441-9ed1-193c89131d73> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5cfbaee8-3a77-dc8a-14da-53a5d3371d39" ;
+        c:docDate          "2015-05-30 09:29:35.343" ;
+        c:docTitle         "" ;
+        c:document         "Top US court divided on gay marriage. The US Supreme Court hears arguments in a historic case that could legalise same-sex marriage across a country bitterly divided on the issue." ;
+        c:id               "http://id.opencalais.com/kIglWzDm1sXiT8h-GUGOsw" .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:score           "0.977" .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bRNBILhvZfp1mYFzyC9MlxtlCoE=|PcuUV4seW+WxZiWB+SPl5tQvhUJoaaWdsGnUXMg1RBVeTTJeoCSDfw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:35.155" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7fc72ea7-2fd1-3075-9cb7-c1d8278d2e3b> ;
+        c:importance     "2" ;
+        c:name           "Recognition of same-sex unions in Costa Rica" ;
+        c:originalValue  "Recognition of same-sex unions in Costa Rica" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b3d8a2b0-f615-3d5e-b756-07ff5ace1700> .

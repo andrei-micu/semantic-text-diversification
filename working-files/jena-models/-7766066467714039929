@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72> ;
+        c:importance     "1" ;
+        c:name           "Eric Holder" ;
+        c:originalValue  "Eric Holder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56d41690-0eec-3175-95a6-2cecd96d23aa> .
+
+<http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72> ;
+        c:score           "0.655" .
+
+<http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "63acd0ce-2b76-bf14-14da-537d6ef719b3" ;
+        c:docDate          "2015-05-30 10:26:49.929" ;
+        c:docTitle         "" ;
+        c:document         "Loretta Lynch makes history. Loretta Lynch was sworn in as the new U.S. attorney general on Monday, replacing Eric Holder. Lynch, the country's first African-American woman to serve in the role, had her nomination held up more than five months over politicking in the Senate." ;
+        c:id               "http://id.opencalais.com/RSWxRg2ouq9X5NBSVB2CdQ" .
+
+<http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72> ;
+        c:importance     "1" ;
+        c:name           "Loretta" ;
+        c:originalValue  "Loretta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7e27407e-2987-3439-a768-74cbd1d3ffde> .
+
+<http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|vb+v3MoCzuHQTqA0ynHOCC0U3oE=|MGhyi+4RzV89xJ3qMj2hBEZBBc5X/gZdJZlOu1zRC2BaRXTEirRelg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:26:49.711" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d4a7e23c-89c8-3177-8fa7-e644c6a82d72> ;
+        c:score           "0.944" .

@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:importance     "2" ;
+        c:name           "United States Army" ;
+        c:originalValue  "United States Army" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aafbc6ac-e4e9-3273-81c2-ea051e41d187> .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8017103a-258a-0166-14da-54599b5653ed" ;
+        c:docDate          "2015-05-30 09:41:51.931" ;
+        c:docTitle         "" ;
+        c:document         "Two from World War I to get Medal of Honor. Nearly a century after their heroic efforts, two World War I veterans who may have been overlooked for the Medal of Honor because of their respective race and religion will receive the honor posthumously, the White House announced Thursday." ;
+        c:id               "http://id.opencalais.com/AEItIDGVYx307jj2ef65sw" .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:score           "0.935" .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:importance     "1" ;
+        c:name           "Medal of Honor" ;
+        c:originalValue  "Medal of Honor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59bd339b-fa48-3f33-b7f2-59c36afca2f2> .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:importance     "2" ;
+        c:name           "United States Marines" ;
+        c:originalValue  "United States Marines" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ffb51ba4-a730-3157-b440-af69c2743410> .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:score           "0.785" .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:importance     "1" ;
+        c:name           "Military organization" ;
+        c:originalValue  "Military organization" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a2519e1-60a4-37c8-a8f5-d84de61d5815> .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zIHSd8Pi9Hb2MqXC4Bx+a8ZdSZE=|G9YfA9ohj4tk9FbOKpz3yVbM3996K4TOU9SYD6Eui7SBxUJ6LXcg0A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:51.541" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:importance     "1" ;
+        c:name           "Military personnel" ;
+        c:originalValue  "Military personnel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3df1101-0b09-37b1-89c4-540c1143c61d> .
+
+<http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f1514da-8142-3e6f-aca8-0af46971907d> ;
+        c:importance     "2" ;
+        c:name           "Woodrow W. Keeble" ;
+        c:originalValue  "Woodrow W. Keeble" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0f3352cb-9685-31ef-b785-3b53666ba5fa> .

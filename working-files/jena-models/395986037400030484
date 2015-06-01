@@ -1,0 +1,100 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:importance     "1" ;
+        c:name           "Arts" ;
+        c:originalValue  "Arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bd5b09-4773-3933-bdf0-6b5be3d6cb0b> .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:importance     "2" ;
+        c:name           "Monroeville, Alabama" ;
+        c:originalValue  "Monroeville, Alabama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/57adbf37-b814-33ae-bddb-a22819064596> .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6f31d21e-15db-91cb-14da-537b46832955" ;
+        c:docDate          "2015-05-30 10:26:41.044" ;
+        c:docTitle         "" ;
+        c:document         "Harper Lee saves Mockingbird play. Author Harper Lee starts a non-profit company to produce a play of To Kill a Mockingbird in her hometown of Monroeville, after a dispute threatened to end the show." ;
+        c:id               "http://id.opencalais.com/a1TpfsuGDpnoO1ejCH2OUg" .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:importance     "1" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:importance     "2" ;
+        c:name           "Monroeville, Pennsylvania" ;
+        c:originalValue  "Monroeville, Pennsylvania" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7dd2a7d-f864-3616-8679-cba1264606a2> .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:importance     "2" ;
+        c:name           "Andrew Smith" ;
+        c:originalValue  "Andrew Smith (author)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34575895-0f63-312e-92a8-bbe5424c90d9> .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:importance     "2" ;
+        c:name           "Harper Lee" ;
+        c:originalValue  "Harper Lee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61cf4d1d-30ba-34ce-a9b4-3b2ab38782bf> .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|g20ykO9tjeVl4i69gxsNlW2R9sw=|V1+dZ0W1rI8QgXmus4BakW0JFlkkeDxFGv+PrCCajMwUS0v9Trv60Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:26:40.872" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:importance     "1" ;
+        c:name           "To Kill a Mockingbird" ;
+        c:originalValue  "To Kill a Mockingbird" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aa5987d0-ccb9-3370-bfaa-387aefd26160> .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:importance     "2" ;
+        c:name           "Harper" ;
+        c:originalValue  "Harper (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a064e7b2-0772-3678-9f74-7e6998bcdee2> .
+
+<http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b281f7c-c573-35ae-b2c1-10aed9700b3a> ;
+        c:importance     "2" ;
+        c:name           "Mockingbird" ;
+        c:originalValue  "Mockingbird (Inez & Charlie Foxx song)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/20f9451a-1419-3e36-9e69-d657a6e88a6a> .

@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "db4d326e-1791-f1fc-14da-54997791df07" ;
+        c:docDate          "2015-05-30 09:46:13.425" ;
+        c:docTitle         "" ;
+        c:document         "US discovers more anthrax shipments. The US military orders a review into how it handles anthrax, after discovering more cases of live anthrax sent to laboratories, including one in Australia." ;
+        c:id               "http://id.opencalais.com/96kS5HH-ygSaQIVDu*tZwg" .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance     "2" ;
+        c:name           "Anthrax hoaxes" ;
+        c:originalValue  "Anthrax hoaxes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/525cab16-24d0-3b05-a565-9624dfe2ff53> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance     "1" ;
+        c:name           "Bacteria" ;
+        c:originalValue  "Bacteria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0f86da6c-a051-39d1-814f-42f79075659a> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance     "2" ;
+        c:name           "Anthrax attacks" ;
+        c:originalValue  "2001 anthrax attacks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/79646fa1-395a-39e8-829d-5026584e23f4> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance     "2" ;
+        c:name           "Livestock" ;
+        c:originalValue  "Livestock" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a368a653-d610-3240-8b4b-b917f58daacc> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|piQFC081YOzXhDjwfHSNW7A+rlw=|WpGFX8lAJjD5DbfE6WedDwOtQN4+YVyEU0kUeidClSHTg0JEXHYoRw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:13.113" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance     "2" ;
+        c:name           "Biological weapons" ;
+        c:originalValue  "Biological weapons" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd37e546-024f-3844-b54d-bd1ea76496e2> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:score           "0.560" .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:score           "0.891" .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance     "2" ;
+        c:name           "Microbiology" ;
+        c:originalValue  "Microbiology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/78d7930a-75f4-302b-987f-12305914128b> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:importance     "1" ;
+        c:name           "Anthrax" ;
+        c:originalValue  "Anthrax" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d7be5b2-c5a0-31a9-a813-05e8d5c66448> .
+
+<http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d136938-d9c3-35f5-96d3-bb56cf03eeb4> ;
+        c:score           "0.983" .

@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:importance     "1" ;
+        c:name           "Juries" ;
+        c:originalValue  "Juries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a361383-133a-38da-87ac-2a57f217a60f> .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:importance     "2" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:importance     "1" ;
+        c:name           "Legal procedure" ;
+        c:originalValue  "Legal procedure" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ebdfabc-ead7-365f-a9c2-45622a965c50> .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:importance     "2" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "68dc66a1-aca5-2d20-14da-548421b23ab1" ;
+        c:docDate          "2015-05-30 10:44:45.832" ;
+        c:docTitle         "" ;
+        c:document         "The 13th Juror: An insider's guide to the Tsarnaev trial. No cameras are allowed at the trial of accused Boston Marathon bomber Dzhokhar Tsarnaev. But CNN's Ann O'Neill will be there every day. Think of her as The 13th Juror, bringing insights here weekly." ;
+        c:id               "http://id.opencalais.com/rLy0r5fupKSi*3ZWOAsnhw" .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:importance     "1" ;
+        c:name           "Marathon" ;
+        c:originalValue  "Marathon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d322de36-9af4-3ba9-abae-790f9b39acf9> .
+
+<http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3a9b8204-6076-3fea-81c0-47214ef68850> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|D4iL14d/n4LB9XqWC2FS0XZbFPs=|FO2qvG+kJCqQtzdKOFB/vBjPQt5pAmk9Got9ArPcx3d4pYBfvD8lGQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:45.723" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance     "2" ;
+        c:name           "Bus stop" ;
+        c:originalValue  "Bus stop" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/710d47c6-8cf4-37e3-847e-7d30fcc4af15> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance     "1" ;
+        c:name           "KOMO" ;
+        c:originalValue  "KOMO (AM)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/906e39a6-8349-3ea8-bed9-a665854b090e> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance     "2" ;
+        c:name           "School bus" ;
+        c:originalValue  "School bus" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47354639-4703-3dcb-a529-99495c59d9ca> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:score           "0.804" .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance     "1" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "87a9f010-ea14-a67a-14da-53be594760f9" ;
+        c:docDate          "2015-05-30 10:31:15.854" ;
+        c:docTitle         "" ;
+        c:document         "SUV speeds through kids at bus stop. A speeding car came within inches of hitting three children who were boarding a school bus in Graham, Washington. CNN affiliate KOMO reports." ;
+        c:id               "http://id.opencalais.com/e5pOpcFa0Ec40PQaJ7TcCg" .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance     "2" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance     "2" ;
+        c:name           "Bus" ;
+        c:originalValue  "Bus" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/98fbe1af-c0e9-3793-acc8-1cb19e6b9cfc> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance     "2" ;
+        c:name           "KOMO-TV" ;
+        c:originalValue  "KOMO-TV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/13f82c97-a8a2-3012-88f1-469daec6096e> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ALWJb6f0KmQP32rmu1TZG1SCKzw=|jYzj+YdPpwDeeeQ+BkcY3uBSy0kpdu/39+uZRSPBjSu+cZn/V6zlSA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:15.604" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance     "2" ;
+        c:name           "Speed" ;
+        c:originalValue  "Speed (1994 film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a471d67-228f-30ff-a300-8f79047bd6b6> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d5ef5c08-53dc-30c3-ac24-c43c01aba30b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

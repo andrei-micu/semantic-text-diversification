@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e> ;
+        c:importance     "1" ;
+        c:name           "Human sexuality" ;
+        c:originalValue  "Human sexuality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/131825b8-da79-3da3-b023-ea477cd9dc15> .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FJSVlHpOlBxz+gCSEmM7GyyPQIA=|MzkTHxB/+HZTuFYWiwy1dMQ4kB5iVHX6JU/TfaAXB2lLnu7+RwLzww==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:43.949" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "76023b14-f0f0-6931-4da5-4be4ad1927e3" ;
+        c:docDate          "2015-05-30 10:48:44.136" ;
+        c:docTitle         "" ;
+        c:document         "Author Says Researcher Faked Gay Marriage Opinon Study. A much-publicized study suggesting door-to-door canvassing could change opinions about same-sex marriage has been discredited. The co-author of the study has asked Science to retract its article." ;
+        c:id               "http://id.opencalais.com/JzELFgovYOPUWaGCvQ4uDQ" .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e> ;
+        c:importance     "1" ;
+        c:name           "Personal life" ;
+        c:originalValue  "Personal life" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59840208-5881-3e7f-891c-045f3a9a9a46> .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e> ;
+        c:importance     "1" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e> ;
+        c:importance     "2" ;
+        c:name           "Homosexuality" ;
+        c:originalValue  "Homosexuality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59d6665a-acff-3b49-b4f2-3e2e02c59a5e> .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7d917f0a-6aa9-309c-8a5a-b5edc4bb5f6e> ;
+        c:importance     "2" ;
+        c:name           "Canvassing" ;
+        c:originalValue  "Canvassing (Parks and Recreation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f4c0a5ee-bf82-3384-b56a-182b20f4ca04> .

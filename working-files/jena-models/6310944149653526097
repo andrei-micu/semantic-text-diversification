@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:importance     "1" ;
+        c:name           "Geography of Colorado" ;
+        c:originalValue  "Geography of Colorado" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b792f607-97e9-33af-b5c3-5867e111a122> .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:importance     "2" ;
+        c:name           "Breckenridge Ski Resort" ;
+        c:originalValue  "Breckenridge Ski Resort" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5d55c347-1eaf-3d48-9ad8-773aa9d2bd85> .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:score           "0.926" .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:importance     "1" ;
+        c:name           "Colorado" ;
+        c:originalValue  "Colorado" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/575cae24-a67e-30ed-bb1e-88a1b139c3c0> .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:importance     "2" ;
+        c:name           "Breckenridge" ;
+        c:originalValue  "Breckenridge (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a3b7b24-2a3d-3b56-9dec-35f131e07262> .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:importance     "1" ;
+        c:name           "Colorado counties" ;
+        c:originalValue  "Colorado counties" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff78d076-86de-31f7-8b4d-61e68c375da2> .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "172ade9a-63e2-9150-14da-54ac4ac23ab1" ;
+        c:docDate          "2015-05-30 10:47:30.329" ;
+        c:docTitle         "" ;
+        c:document         "Is Breckenridge a party town or 'Disneyland'?. Residents of Breckenridge, Colorado, disagree on how to sell their town's image. \"High Profits\" airs Sundays at 10 p.m. ET/PT." ;
+        c:id               "http://id.opencalais.com/6JhGwjL1puAXj0Lke6M4tw" .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:score           "0.607" .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:importance     "2" ;
+        c:name           "Breckenridge, Colorado" ;
+        c:originalValue  "Breckenridge, Colorado" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3cf4d05-cdd0-3cc8-970c-9e7c2e928991> .
+
+<http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d541e4d3-4019-3876-a49a-3b36c25b9fab> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|BsFaVfHuxjmuHkqEJVWKbdIXn30=|NMooKXirJjVsSUGOOdRtgrK3/048AmzFyk7OsjtRYDmroOJMVMzx9A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:30.220" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

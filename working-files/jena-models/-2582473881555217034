@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:score           "0.935" .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:importance     "1" ;
+        c:name           "Silk Road" ;
+        c:originalValue  "Silk Road (marketplace)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b3ae7a7-b18a-3ac3-ab54-973855b6489e> .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4MIoCGx/cqNMRwO8sz0dF1PELyk=|YXd4KEXN56NbcWkSV/xeF0HubZENOcvzwjiEbv+OvyXRFwUA/Q8Mgg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:56.063" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:importance     "1" ;
+        c:name           "Underground culture" ;
+        c:originalValue  "Underground culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f5996374-d5e7-3628-bc31-941188ea31ae> .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:importance     "2" ;
+        c:name           "Silk" ;
+        c:originalValue  "Silk" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cb8e7668-15d9-3f86-b738-68a71ad29a1c> .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:score           "0.993" .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:importance     "1" ;
+        c:name           "Informal economy" ;
+        c:originalValue  "Informal economy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87e96843-f150-3219-ac75-899bb1e4083f> .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b6792f0a-fb81-1981-14da-54c13ff32955" ;
+        c:docDate          "2015-05-30 10:48:56.156" ;
+        c:docTitle         "" ;
+        c:document         "Silk Road drug site founder jailed. Ross Ulbricht, the founder of online illegal drug marketplace the Silk Road, is sentenced to life in prison." ;
+        c:id               "http://id.opencalais.com/ahqugJh0WkeFO4qNP*bCeg" .
+
+<http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e36d6d6e-688f-397c-aada-f2171a10622e> ;
+        c:importance     "2" ;
+        c:name           "Illegal drug trade" ;
+        c:originalValue  "Illegal drug trade" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ce7f140-a225-3e05-bfe1-6c69087e018a> .

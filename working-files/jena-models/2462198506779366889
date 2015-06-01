@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:score           "0.576" .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "632d2c13-ba8f-4d2e-14da-53ee4ea4551f" ;
+        c:docDate          "2015-05-30 09:34:32.229" ;
+        c:docTitle         "" ;
+        c:document         "Baltimore Police Will Be Target Of Broad Justice Department Inquiry. Following the death of Freddie Gray, the city's mayor and Maryland's congressional delegations had asked the federal agency to look for possible discriminatory practices by local law enforcement." ;
+        c:id               "http://id.opencalais.com/vfb5AHHZGjlGpm3eHjcWWA" .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:importance     "2" ;
+        c:name           "Geography of North America" ;
+        c:originalValue  "Geography of North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4953ac1c-3f88-3c4f-b079-6ff903751bbf> .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:importance     "1" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ltdezkAY1ZPb5qTWr95+GpUmXdw=|bIQjBtWGl7trb6y4cZzKBzd6OTsqlQzyvd6TwbW/2O970WXuAqIVFw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:32.042" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:importance     "1" ;
+        c:name           "Maryland" ;
+        c:originalValue  "Maryland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36be6429-3aa3-342a-bbd8-c647cc7fb217> .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/83445b8f-c7eb-37c4-80d7-bb20a74844fc> ;
+        c:score           "0.988" .

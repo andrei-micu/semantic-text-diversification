@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:importance     "1" ;
+        c:name           "Political philosophy" ;
+        c:originalValue  "Political philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77603a14-4820-3d0d-824b-af4fcd03b8bb> .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:importance     "2" ;
+        c:name           "United States Interests Section in Havana" ;
+        c:originalValue  "United States Interests Section in Havana" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18d9a298-616e-3808-81d1-7b509bc0a430> .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3a23d855-edc2-b328-14da-54884b41927e" ;
+        c:docDate          "2015-05-30 10:45:02.912" ;
+        c:docTitle         "" ;
+        c:document         "The Stars and Stripes in Cuba. Click through the pictures to see how Cubans are displaying and even wearing the American flag." ;
+        c:id               "http://id.opencalais.com/P9qFf-1DIODtHtLjepkVAw" .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:importance     "2" ;
+        c:name           "Americas" ;
+        c:originalValue  "Americas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ee66e22-b241-33cf-9a16-9b3901e1e435> .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:importance     "1" ;
+        c:name           "Flag of the United States" ;
+        c:originalValue  "Flag of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b7f4365f-d9db-3348-a422-c4dc9e3b6161> .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|iAjxq5+/w9hhg7zrac/EsVe1Hts=|IcRq3WdvabVEG7LCyLjMrg+/CE9PdCRwRMlEPAgDIq1UsiGHv265Zw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:02.772" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:importance     "1" ;
+        c:name           "Cubans" ;
+        c:originalValue  "Cubans" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/22fb3dd3-a01a-3e54-8d9a-6097088ea40c> .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:importance     "2" ;
+        c:name           "Sociology" ;
+        c:originalValue  "Sociology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa1414f0-8e54-3eba-bbfe-e4e5b4dcb745> .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:importance     "2" ;
+        c:name           "Cuba" ;
+        c:originalValue  "Cuba" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8d03a57-9280-36f5-8166-8678edc3b07e> .
+
+<http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1047d500-3c34-3abb-96b2-0fb5d428ece9> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

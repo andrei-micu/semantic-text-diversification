@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6b14be45-9faa-4969-14da-548812c1df07" ;
+        c:docDate          "2015-05-30 09:45:02.164" ;
+        c:docTitle         "" ;
+        c:document         "Elephant grabs camera, takes excellent 'elphie'. Plenty of tourists have snapped a selfie of themselves posing with an elephant during their travels. Even U.S. Secretary of State John Kerry has done it." ;
+        c:id               "http://id.opencalais.com/YP6IboItiRO6Mf6V3dHJ9g" .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:importance     "1" ;
+        c:name           "John Kerry" ;
+        c:originalValue  "John Kerry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/12487276-3cd9-372c-b525-5a3a867eb33d> .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:importance     "2" ;
+        c:name           "Massachusetts" ;
+        c:originalValue  "Massachusetts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/adb682b0-294c-3698-bc2f-afbe25cb8e72> .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:importance     "2" ;
+        c:name           "Elephants" ;
+        c:originalValue  "Elephants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c21f154e-0bc6-3daf-939f-15471f70bf5e> .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gQL1dZixTXg/nFYdAIdtRf2Ysaw=|Tc+dGf/gfIxA5yQIc7bzahNqqpdwmUmt6aAbeZh6CtLYxHGSq2pJ1w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:45:01.868" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:importance     "1" ;
+        c:name           "Military personnel" ;
+        c:originalValue  "Military personnel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3df1101-0b09-37b1-89c4-540c1143c61d> .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9e9dba1f-6ed1-38e6-8061-f7840abbe50f> ;
+        c:score           "0.908" .

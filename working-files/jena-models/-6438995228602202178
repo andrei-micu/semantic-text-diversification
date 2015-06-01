@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75> ;
+        c:importance     "1" ;
+        c:name           "Amtrak" ;
+        c:originalValue  "Amtrak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/620180fd-d75e-31be-838e-e8cb90654b1f> .
+
+<http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|t/cebU5VD3AYvUkdPV8NdTcSMy0=|OzfqsDea0CZA1oAyXShl+eFA+jdatDkaqgM6UXzfIn1RBqk6aXoGUg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:02.573" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75> ;
+        c:importance     "1" ;
+        c:name           "Rail transportation in the United States" ;
+        c:originalValue  "Rail transportation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c130d05b-c224-351c-a231-bf5c867870c0> .
+
+<http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75> ;
+        c:importance     "2" ;
+        c:name           "Open Travel Alliance" ;
+        c:originalValue  "Open Travel Alliance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a27c376-0a42-33df-b535-81ca652288ac> .
+
+<http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "97a045e1-3d4d-a92e-14da-544da6d4551f" ;
+        c:docDate          "2015-05-30 09:41:02.667" ;
+        c:docTitle         "" ;
+        c:document         "Philadelphia train crash engineer lays low as scrutiny heats up. PHILADELPHIA/NEW YORK (Reuters) - A portrait of the engineer at the helm of a speeding Amtrak train that derailed in Philadelphia began to emerge on Thursday as the man's lawyer said his client could not remember the crash, and rescuers pulled an eighth body from the wreckage." ;
+        c:id               "http://id.opencalais.com/BCozRob2FvhFG2EDFp82FA" .
+
+<http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75> ;
+        c:importance     "1" ;
+        c:name           "Transportation in the United States" ;
+        c:originalValue  "Transportation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06280394-af41-3ddd-ac2c-6f149bd1e55c> .
+
+<http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1f54c7ed-dd3c-39af-bc9f-9c0fbee1ef75> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

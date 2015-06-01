@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance     "1" ;
+        c:name           "Mind" ;
+        c:originalValue  "Mind" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ed712bce-3fbb-39bf-a23d-45c5638a21e3> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance     "2" ;
+        c:name           "Perception" ;
+        c:originalValue  "Perception" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd29e9f3-cd9f-35ef-ae8a-a0dcda4f2b8c> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance     "1" ;
+        c:name           "Tattooing" ;
+        c:originalValue  "Tattooing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e49ab6e3-2a1a-36fe-b7cd-37355968293d> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance     "2" ;
+        c:name           "Infection" ;
+        c:originalValue  "Infection" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b16b7b3b-2da2-32f3-9900-c2cdda562f89> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance     "2" ;
+        c:name           "Fashion" ;
+        c:originalValue  "2000s fashion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d7e85d55-9111-311d-8bbb-4432b9997ead> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance     "2" ;
+        c:name           "Tattoo medical issues" ;
+        c:originalValue  "Tattoo medical issues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/84b5a337-b493-3fc8-9eff-d481a69bc0a1> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance     "2" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance     "1" ;
+        c:name           "Pain" ;
+        c:originalValue  "Pain" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91f1d3d3-07c4-302a-9c5f-cc3e5171c1c3> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|tAiUOVttj1ftfPooKNopfhx+8lY=|ib7J4jb718qU4tv56xbiVL6VFlNEFOkZ6AZ4Xprj8K2d2uQWvgSVLw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:59.602" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance     "2" ;
+        c:name           "Irritation" ;
+        c:originalValue  "Irritation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70152f25-624b-39e3-aa68-f9058bffc5a6> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dc72c6a9-641c-39b1-4da5-4d0c3232955e" ;
+        c:docDate          "2015-05-30 10:49:59.805" ;
+        c:docTitle         "" ;
+        c:document         "Tattoos last, but for some, so does the pain. A new study suggests people suffer infections, itching and chronic complications for their body art." ;
+        c:id               "http://id.opencalais.com/qrkNHFcIYDFZ*CO4CFU7Yw" .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:importance     "2" ;
+        c:name           "Tattoo" ;
+        c:originalValue  "Tattoo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c1b27de-c245-36c7-9779-6b1eb86cb430> .
+
+<http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/efb99617-a208-31cb-9f6a-e9d80c2fde4c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

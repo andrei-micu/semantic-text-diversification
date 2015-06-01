@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance     "1" ;
+        c:name           "BP" ;
+        c:originalValue  "BP" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04a94b58-0e3d-35e1-8bdf-8f2b3ca50ae0> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance     "2" ;
+        c:name           "Companies listed on the New York Stock Exchange" ;
+        c:originalValue  "Companies listed on the New York Stock Exchange" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bbf73163-3786-353b-9acd-03dbc702d650> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5e6fb5c1-be2f-26b8-14da-53903644551f" ;
+        c:docDate          "2015-05-30 09:28:06.908" ;
+        c:docTitle         "" ;
+        c:document         "BP profit hit by oil price fall. Oil giant BP has reported a sharp fall in profit for the three months to the end of March as the dramatic fall in oil prices takes its toll." ;
+        c:id               "http://id.opencalais.com/d8IlDU7IUI6I5U3W7KyPDg" .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance     "2" ;
+        c:name           "Alaska" ;
+        c:originalValue  "Alaska" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d92fc6d0-5fa5-3a80-bf54-b8169a60a824> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance     "2" ;
+        c:name           "Chronology of world oil market events" ;
+        c:originalValue  "Chronology of world oil market events (1970–2005)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b716ce6-0507-3d07-bb77-9bae4fdd999b> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance     "1" ;
+        c:name           "Economy of Alaska" ;
+        c:originalValue  "Economy of Alaska" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c72e7d3-3051-3d4e-83ab-1813717de3e9> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance     "2" ;
+        c:name           "Price of petroleum" ;
+        c:originalValue  "Price of petroleum" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/390a5238-5a49-3b20-9206-0de64121d421> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance     "2" ;
+        c:name           "Petroleum" ;
+        c:originalValue  "Petroleum" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e290a734-10e6-3ada-af1d-4d7bd12242e9> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance     "2" ;
+        c:name           "TNK-BP" ;
+        c:originalValue  "TNK-BP" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/86a50d8e-0e0b-3822-86f6-a7d2e2d265c1> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:importance     "1" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2f527cd1-d238-358f-9c77-8827b1ccd829> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|AcfNNSFAgjJPX2PEYLl+t/ANh18=|NHRxIon4eNci9wiZ0UyD2Z9UXlWS7HHIvT7c0nUinns/yzT2+chhSg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:06.628" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

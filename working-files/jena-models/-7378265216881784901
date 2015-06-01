@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d> ;
+        c:importance     "1" ;
+        c:name           "Basketball" ;
+        c:originalValue  "Basketball" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c897b43-c147-3e96-a6b7-6c05eacfbead> .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d> ;
+        c:score           "0.685" .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d> ;
+        c:importance     "1" ;
+        c:name           "Marques Haynes" ;
+        c:originalValue  "Marques Haynes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f07341a3-727e-3061-a930-9e83b18cbe3c> .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1290ec85-2da5-b875-14da-549e099719b3" ;
+        c:docDate          "2015-05-30 10:46:31.958" ;
+        c:docTitle         "" ;
+        c:document         "Marques Haynes, 89, Dies; Dribbled as a Globetrotter and Dazzled Worldwide. Haynes was a stellar cog on the Globetrotter squads of the late 1940s and early ’50s, and was later inducted into the Naismith Basketball Hall of Fame." ;
+        c:id               "http://id.opencalais.com/JRc-PvIi5DAA5OUj8*DFvg" .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d> ;
+        c:importance     "1" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d> ;
+        c:score           "0.896" .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d> ;
+        c:importance     "2" ;
+        c:name           "Naismith Memorial Basketball Hall of Fame" ;
+        c:originalValue  "Naismith Memorial Basketball Hall of Fame" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88657b8b-a72c-3bc2-93af-f0f6e843a2d5> .
+
+<http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c5dd4b09-f0c6-32c1-a7a8-a4fc11f46f1d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2NTR9N2SaQvL9foBgqMdfH7OyvQ=|EciBFoG8RlybhRARMCS3sBqhJzEP2V3Ifl4sJqJD3fxf9Y0TMd68qg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:31.833" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

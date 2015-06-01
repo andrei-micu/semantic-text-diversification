@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/17aa1c60-beb2-30a1-92ea-01385db40481>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bb3fdac7-f20d-c1a6-14da-542c68823ab1" ;
+        c:docDate          "2015-05-30 10:38:46.470" ;
+        c:docTitle         "" ;
+        c:document         "These are the best states for bicycling. " ;
+        c:id               "http://id.opencalais.com/tOBEOMAeBCuOBkz3Gkb2dw" .
+
+<http://d.opencalais.com/dochash-1/17aa1c60-beb2-30a1-92ea-01385db40481/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/17aa1c60-beb2-30a1-92ea-01385db40481> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/17aa1c60-beb2-30a1-92ea-01385db40481/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/17aa1c60-beb2-30a1-92ea-01385db40481> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|30mTK06gdraGG7P7TI6JIS6sc4U=|hFzpueIeSjFSAlkMsTWKlLdlY49DNC+gGWTtqB8kEurW57JJKMR61A==" ;
+        c:submissionDate  "2015-05-30 10:38:46.408" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

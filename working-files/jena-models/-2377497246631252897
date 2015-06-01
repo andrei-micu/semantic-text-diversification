@@ -1,0 +1,28 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fb6e14b3-e3d3-3208-a419-5f54a3da38a6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fb6e14b3-e3d3-3208-a419-5f54a3da38a6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fb6e14b3-e3d3-3208-a419-5f54a3da38a6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fb6e14b3-e3d3-3208-a419-5f54a3da38a6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FlqZBgl+TsyL1+eCrhfoSEvvK0o=|XHzvz59OqMsgGBpg+s6aXWKpdawkPEwJiDPhvYEgxC6ZNVT8txdMSg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:54.286" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fb6e14b3-e3d3-3208-a419-5f54a3da38a6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cdfc8168-84db-e105-14da-53e516e49095" ;
+        c:docDate          "2015-05-30 10:33:54.488" ;
+        c:docTitle         "" ;
+        c:document         "Why teens don't use birth control. Parents, if the following finding doesn't make you sit up and take notice when it comes to talking to your kids about sex and birth control, I'm not sure what will get your attention." ;
+        c:id               "http://id.opencalais.com/qaCMptnHT4J0CAQketpwjw" .

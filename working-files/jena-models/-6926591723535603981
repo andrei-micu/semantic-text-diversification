@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb> ;
+        c:score           "0.772" .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|oeXF99WxFNk9YA+Jo5qUi4uBMvc=|C0qrvQGukrXbVr4Wy2cHthJOOl8Xfe9OneufDxelRZHM0M1Qiz3UNA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:01.332" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a33f68ce-5af1-2719-14da-544d59413c98" ;
+        c:docDate          "2015-05-30 09:41:01.613" ;
+        c:docTitle         "" ;
+        c:document         "All Songs +1: How Music Can Really Save Your Life. For this week's All Songs +1 podcast, we talk with NPR Music's Stephen Thompson about his most recent \"Good Listener\" column on the life-saving powers of music." ;
+        c:id               "http://id.opencalais.com/c-lghUDb9znprz-Hck8e3A" .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb> ;
+        c:importance     "1" ;
+        c:name           "NPR" ;
+        c:originalValue  "NPR" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0410c98-2061-3c90-8b44-3a246fbc5541> .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb> ;
+        c:importance  "2" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb> ;
+        c:importance     "2" ;
+        c:name           "Radio" ;
+        c:originalValue  "Radio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d716e304-d6f8-379b-8369-e49ba5bb361b> .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/df1e63bf-41f7-36ab-9081-05737c7a9eeb> ;
+        c:importance     "1" ;
+        c:name           "Corporation for Public Broadcasting" ;
+        c:originalValue  "Corporation for Public Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf557537-f416-3883-8d46-4f8009b2b6cb> .

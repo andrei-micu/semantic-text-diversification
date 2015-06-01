@@ -1,0 +1,169 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "2" ;
+        c:name           "South Korea" ;
+        c:originalValue  "South Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e01189c4-0bf9-3da9-b2d3-dc5091502a13> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "2" ;
+        c:name           "Aftermath of the Korean War" ;
+        c:originalValue  "Aftermath of the Korean War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/176d3db5-016e-3ad5-832a-c0c53f141a85> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "35298150-2fdb-24cf-14da-54bf70d32955" ;
+        c:docDate          "2015-05-30 10:48:48.840" ;
+        c:docTitle         "" ;
+        c:document         "Women activists cross DMZ to mixed reception on South Korean side. PAJU, South Korea (Reuters) - A group of international women activists crossed the heavily-fortified Demilitarised Zone (DMZ) between North and South Korea on Sunday in what they said was a symbolic act for peace." ;
+        c:id               "http://id.opencalais.com/P9fbaUwEloD6vsbqhPfViQ" .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "2" ;
+        c:name           "Demilitarized zone" ;
+        c:originalValue  "Demilitarized zone" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c0588b40-500f-337a-8d31-88e2de93e929> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "2" ;
+        c:name           "North Korea" ;
+        c:originalValue  "North Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6366d8f-94a3-392d-9664-3df45419a56c> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "1" ;
+        c:name           "Member states of the United Nations" ;
+        c:originalValue  "Member states of the United Nations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e911935-f6c4-3599-ba32-e28b931005c3> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "2" ;
+        c:name           "Paju" ;
+        c:originalValue  "Paju" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2134cb63-10f9-3ba4-8263-179800e779ae> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/15>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:score           "0.884" .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YTp/AQJe226MV0H6GffmKgxRx3Q=|ETEZdsQXZdoE1Ekw1XsdBeng6jmS2j2jjhPzhCU0VFRHZBzFQWIPOA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:48.653" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "1" ;
+        c:name           "Divided regions" ;
+        c:originalValue  "Divided regions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c3adcd7-f7e6-327f-ac6e-02cfd1b3fda4> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "2" ;
+        c:name           "DMZ" ;
+        c:originalValue  "DMZ (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89b3f481-dd7f-3f2a-bbb1-d41341e576b6> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:score           "0.886" .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance     "2" ;
+        c:name           "Korean Demilitarized Zone" ;
+        c:originalValue  "Korean Demilitarized Zone" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ba8687e-69ba-3864-b117-da4bd6af07a7> .
+
+<http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7bcf3649-b0a7-3f2c-8a6b-233a2e223fb5> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

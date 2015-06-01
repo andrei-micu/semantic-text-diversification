@@ -1,0 +1,68 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa> ;
+        c:importance     "2" ;
+        c:name           "Chrysanthemum" ;
+        c:originalValue  "Chrysanthemum" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/449efe1e-5f36-3bb3-bbf0-6ff0e1cdd808> .
+
+<http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KXVSsWP5c8jYuFfndsH/akRrWC8=|CN7D2uh7SbAz++RyybxaVh12I0EfuzEiU2FWjZshdu0x6q0MyN3GQg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:13.259" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "82c72267-f7d5-9308-14da-54419cb71d39" ;
+        c:docDate          "2015-05-30 09:40:13.477" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Obama calls mums on Mother's Day. President Obama marked Mother's Day in the US by calling three mums to thank them \"for being great\"." ;
+        c:id               "http://id.opencalais.com/45EsSt3XIB8W90d3hxPStA" .
+
+<http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f76222e4-bb9c-331d-97ff-63c232add8aa> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .

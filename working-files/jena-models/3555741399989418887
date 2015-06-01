@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:importance     "1" ;
+        c:name           "Charles Hazlewood" ;
+        c:originalValue  "Charles Hazlewood" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ed44d660-e3f5-3e1e-abc0-9fa44adebcc3> .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:importance     "2" ;
+        c:name           "Boots" ;
+        c:originalValue  "Boots (album)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6943c5e-dc91-3bdf-91de-444118b220ad> .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:importance     "2" ;
+        c:name           "Ethology" ;
+        c:originalValue  "Ethology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4fbc4bc-144a-3f1d-bd78-7d93cf65019f> .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:importance     "1" ;
+        c:name           "Trust" ;
+        c:originalValue  "Trust (social sciences)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/338f9e64-a9bf-3758-a2e0-be6b7828d7a3> .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:importance     "2" ;
+        c:name           "Social philosophy" ;
+        c:originalValue  "Social philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a5a5ecc8-fb68-3779-ac9b-57bfd93cebf3> .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1614d718-9036-e9a1-14da-54267181df07" ;
+        c:docDate          "2015-05-30 09:38:22.225" ;
+        c:docTitle         "" ;
+        c:document         "How Does Trust Happen In Music? . Conductor Charles Hazlewood talks about the role of trust between conductor and orchestra, which he describes as a \"miracle.\"" ;
+        c:id               "http://id.opencalais.com/gkyOQn9SedZprilObGLU5w" .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:importance     "1" ;
+        c:name           "Behavior" ;
+        c:originalValue  "Behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe1e19-9c21-37dc-af60-02531de42118> .
+
+<http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6106a495-d4f3-3628-a421-1aeafc610bfe> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5kIsISGO/lOl5m8bivNGrnRl1wo=|QRBfIGNBxvf0rkH4D0jLbwG/PhQwhW1CRzAy2pSTho7FP8pJQ3kvZw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:21.991" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

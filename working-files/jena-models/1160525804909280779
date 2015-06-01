@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d> ;
+        c:score           "0.973" .
+
+<http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|w33OsPrEMCtZJQsbh5Q2Hk7gKSk=|RKqRLuTSduM2QbPgrb9EJgPH0Z4YjBuXzSRTnS6XKpQaAdmkWsuwtg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:38.159" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d> ;
+        c:importance     "1" ;
+        c:name           "Robot" ;
+        c:originalValue  "Robot" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/861b0222-8510-3bae-8415-61ac3c53e909> .
+
+<http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/1cdbeb02-5166-3827-b75a-ae9565bcbf1d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "eaa12aba-61f8-3565-14da-5490eef49095" ;
+        c:docDate          "2015-05-30 10:45:38.330" ;
+        c:docTitle         "" ;
+        c:document         "US woman shoots at police robot. An elderly Californian woman surrenders to police after a 22-hour stand-off, in which she shot at a police robot sent to communicate with her." ;
+        c:id               "http://id.opencalais.com/8pIWFDudhcrTZ*BC3qPyXw" .

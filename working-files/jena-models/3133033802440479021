@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:score           "0.746" .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:importance     "1" ;
+        c:name           "Cantons of Switzerland" ;
+        c:originalValue  "Cantons of Switzerland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/85868d81-75d3-3dc1-a1a1-cb9c0ef74968> .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:importance     "2" ;
+        c:name           "Lägern" ;
+        c:originalValue  "Lägern" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6390658c-4bc2-327f-a0f7-9e8553393b30> .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:importance     "2" ;
+        c:name           "Canton of Zurich" ;
+        c:originalValue  "Canton of Zurich" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/653a07dd-4a52-3b20-9e31-2602886d0ad3> .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yvDE+ZJtaQO4boAZ7Cc3VCYwF60=|LFhU91tzoxwKaTgz6RL7ohqdzYxFAJ6MB2z4lrXPNbbXN/8nwKX6NA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:59.990" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:importance     "1" ;
+        c:name           "Aargau" ;
+        c:originalValue  "Aargau" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/494e8e9d-2eb7-3600-8eb6-a89b30934a58> .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:importance     "2" ;
+        c:name           "Zurich metropolitan area" ;
+        c:originalValue  "Zurich metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4ce4236b-a38a-3b56-b80e-5f1f555d2ca4> .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:importance     "2" ;
+        c:name           "Mountains of Switzerland" ;
+        c:originalValue  "Mountains of Switzerland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/24c54b70-3149-3b1e-a0da-a2fff674a37c> .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:importance     "1" ;
+        c:name           "Zurich" ;
+        c:originalValue  "Zurich" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0100be48-c5d6-3ceb-a36e-13d051daa5f2> .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/f7771019-ecff-3478-a057-d1e3f92199ed>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "205a66dd-b9b7-1de5-14da-54211364551f" ;
+        c:docDate          "2015-05-30 09:38:00.256" ;
+        c:docTitle         "" ;
+        c:document         "Several dead in shooting in Switzerland: police. ZURICH (Reuters) - Several people were killed in a shooting late on Saturday in a town in the Swiss canton of Aargau, local police said on Sunday." ;
+        c:id               "http://id.opencalais.com/MJJ3vzjFCMQ1VandNaKFoQ" .

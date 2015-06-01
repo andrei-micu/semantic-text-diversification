@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:importance     "2" ;
+        c:name           "Kat" ;
+        c:originalValue  "Kat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/09f30448-f761-3857-8768-4a4ea684b072> .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:importance     "1" ;
+        c:name           "Edmonson" ;
+        c:originalValue  "Edmonson" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a852fe14-8eb4-3894-aa93-53561ff73931> .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:importance     "2" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1EhH8wN6s2fNbLUBggpqoFKMu60=|C5JEWavJ6QPWUtcOBkU3pXYvbEFgedWUBrjKi7dTKsiWuWx3w4Yf2w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:39:42.153" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:importance     "1" ;
+        c:name           "Feinstein" ;
+        c:originalValue  "Feinstein" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/49cd1207-a371-3bf3-a6d4-3cc403e4b681> .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "141faae9-2b7f-4c78-14da-543a04971d39" ;
+        c:docDate          "2015-05-30 09:39:42.277" ;
+        c:docTitle         "" ;
+        c:document         "Kat Edmonson On Song Travels. Hear the arresting singer-songwriter perform her song \"Long Way Home\" with host Michael Feinstein." ;
+        c:id               "http://id.opencalais.com/Y6QipIU-Ta08oQaBNbU81Q" .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:importance     "1" ;
+        c:name           "Michael Feinstein" ;
+        c:originalValue  "Michael Feinstein" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dae2e8b9-dc9a-3029-852e-a564fdcd2428> .
+
+<http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/528a564d-08e9-3de3-9d41-64c7fa3bc841> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .

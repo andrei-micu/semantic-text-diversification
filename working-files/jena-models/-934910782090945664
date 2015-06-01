@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:score           "0.601" .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance     "1" ;
+        c:name           "Obesity" ;
+        c:originalValue  "Obesity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c013a490-de26-34d2-b6ed-9444f0437e22> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance     "2" ;
+        c:name           "Weight Watchers" ;
+        c:originalValue  "Weight Watchers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0de45aa2-05de-3540-a8ad-99ca052c2aae> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance     "2" ;
+        c:name           "Imperial units" ;
+        c:originalValue  "Imperial units" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/708b37b3-2792-3570-a436-c340eeb19868> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance     "1" ;
+        c:name           "Jean Nidetch" ;
+        c:originalValue  "Jean Nidetch" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f27f78a-5dd0-3d8b-8aff-f4d671099289> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance     "2" ;
+        c:name           "Currency" ;
+        c:originalValue  "Currency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9261a51d-b9b9-3c5b-b3fc-5e57613d7751> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:score           "0.927" .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance     "2" ;
+        c:name           "Units of mass" ;
+        c:originalValue  "Units of mass" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1f7e5d2-f0c1-3488-9932-0a77c0f1f585> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance     "1" ;
+        c:name           "Measurement" ;
+        c:originalValue  "Measurement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1cf2a1b7-e4b2-3b20-8ec9-7890a842935a> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|H4CNj67H5yATM47QCwjn1lZf0C0=|kuNhp8u+TtuBTwwjbm2bcz82cnA3dBbXGnwynqbJ+8wwvXJuNXwcgQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:07.949" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance     "2" ;
+        c:name           "Pound" ;
+        c:originalValue  "Pound (mass)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6da64426-9907-3d1f-afd5-e7f24a4554e3> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617> ;
+        c:importance     "2" ;
+        c:name           "Customary units in the United States" ;
+        c:originalValue  "Customary units in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8d105bda-ce9b-3408-b45a-cd2ec9e4a3e8> .
+
+<http://d.opencalais.com/dochash-1/ef064955-6148-307c-b25b-4e1f3db83617>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6e497508-5aff-8730-14da-539f2ed71d39" ;
+        c:docDate          "2015-05-30 09:29:08.105" ;
+        c:docTitle         "" ;
+        c:document         "Jean Nidetch Dies at 91; Co-Founder of Weight Watchers and Dynamic Speaker. A 214-pound Queens housewife struggled with an addiction to food, shed 72 pounds and became the public face of a worldwide weight-control enterprise." ;
+        c:id               "http://id.opencalais.com/XkLy0Nf-IufBi6OkbtcBEA" .

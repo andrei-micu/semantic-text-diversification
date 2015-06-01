@@ -1,0 +1,51 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "62ad47a2-4224-bc6c-14da-54739cf1927e" ;
+        c:docDate          "2015-05-30 10:43:38.219" ;
+        c:docTitle         "" ;
+        c:document         "Mother, son both fighting cancer. Cheryl Mauthe is hoping that 2015 is the year when good things begin again." ;
+        c:id               "http://id.opencalais.com/gdw3UlbwjKF7cGej8HtzuQ" .
+
+<http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d> ;
+        c:importance     "1" ;
+        c:name           "Cheryl Brady" ;
+        c:originalValue  "Cheryl Brady" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/522b765c-f498-33b1-b647-bec01a516412> .
+
+<http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ws2HKgjveuNgR4GYJUOUladRl8w=|bVRGgrWv0bHl2rseb7eTeevkQ8tRKoaYJE+D4XOjR0Bdk0WO1wDgYg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:38.063" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/bbf30819-83bb-375c-8b58-6d1fd1e4417d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

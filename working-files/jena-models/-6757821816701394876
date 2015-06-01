@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:importance     "2" ;
+        c:name           "Land reclamation" ;
+        c:originalValue  "Land reclamation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a6c75a21-80b9-34e3-aff3-b494ec518d98> .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|NnCSYcqYpVDjxLaKjLHdaOqACqI=|H5qLnGWwit/MnqDrzGAkEOXpIb9d2K5L6usyOArVzeeVXN/wSVlnTA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:42.317" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:importance     "2" ;
+        c:name           "Republic of China" ;
+        c:originalValue  "Republic of China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/973def8d-1d14-3c3b-b29f-fc145b7973b8> .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:importance     "2" ;
+        c:name           "South China Sea" ;
+        c:originalValue  "South China Sea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee225378-329b-3ead-bb63-6915310827d1> .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ac7a9e3b-9ddd-cb45-14da-54bde4d49095" ;
+        c:docDate          "2015-05-30 10:48:42.457" ;
+        c:docTitle         "" ;
+        c:document         "US demands China halt reclamations. The US calls for an \"immediate halt\" to land reclamation in disputed areas of the South China Sea, saying China is \"out of step\" with international rules." ;
+        c:id               "http://id.opencalais.com/GJvDKjxa3d956ch55Sr8mA" .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:importance     "1" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9915d97-e281-3523-82f4-f3ef3abef352> ;
+        c:importance     "2" ;
+        c:name           "Political status of Taiwan" ;
+        c:originalValue  "Political status of Taiwan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c8a8b8d-e2f8-3f05-a3c4-308732e1cc5f> .

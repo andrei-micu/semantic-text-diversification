@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|uBE3QR5Ii2n44SVUAq8Zh05wKZM=|XUMQUiyTHIlQUJCWQXAc3nywlckYbwC7judVH84eKz700z6OA+BamA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:50:07.905" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance     "1" ;
+        c:name           "Egyptian revolution" ;
+        c:originalValue  "2011 Egyptian revolution" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6fc4e8c-3e0a-3196-9410-bd3f5087230b> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance     "2" ;
+        c:name           "Activism" ;
+        c:originalValue  "Activism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68dd2c60-108b-34dc-a3e5-677ddd8c94f2> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:score           "0.976" .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance     "2" ;
+        c:name           "Hunger strike" ;
+        c:originalValue  "Hunger strike" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b10ebdcd-a318-38b2-8401-38fdb2a299dd> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4800b86d-d5cb-ef1e-14da-54d2ca1760f9" ;
+        c:docDate          "2015-05-30 10:50:08.155" ;
+        c:docTitle         "" ;
+        c:document         "Egypt Agrees To Deport U.S. Citizen Sentenced For Protests. In April, Mohamed Soltan, 27, was sentenced to life in prison for his ties to the outlawed Muslim Brotherhood. He had been on a more than year-long hunger strike." ;
+        c:id               "http://id.opencalais.com/cDblpq*pRKKBPD7mdy1RFw" .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance     "1" ;
+        c:name           "Islam in Egypt" ;
+        c:originalValue  "Islam in Egypt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/737ac461-e4d9-3f97-996b-df78ec0262b0> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance  "2" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:score           "0.760" .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance     "1" ;
+        c:name           "Politics of Egypt" ;
+        c:originalValue  "Politics of Egypt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a5fe2aec-02b6-31de-a428-a35ab3a928aa> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance     "2" ;
+        c:name           "Egypt" ;
+        c:originalValue  "Egypt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1386121a-b8ec-3151-ae3d-11e81f9940e7> .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:score           "0.998" .
+
+<http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/46c2cb12-ee72-3801-81b7-a547c2016f84> ;
+        c:importance     "2" ;
+        c:name           "Muslim Brotherhood" ;
+        c:originalValue  "Muslim Brotherhood" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2e5b7fdd-7d6e-3a6f-89c5-8f8e5c84f0c8> .

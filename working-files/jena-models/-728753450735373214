@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2d8bc9f9-e480-5067-14da-53d975935464" ;
+        c:docDate          "2015-05-30 10:33:06.883" ;
+        c:docTitle         "" ;
+        c:document         "Baby born after mom dies. A newborn infant survived against the odds just weeks after his mother suffered a fatal intracranial hemorrhage. CNN affiliate KETV has the story." ;
+        c:id               "http://id.opencalais.com/sOIFrU0*0gmwP8LA33UlMQ" .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:importance     "1" ;
+        c:name           "Infant" ;
+        c:originalValue  "Infant" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cfede6d4-0d9b-33f3-b9c2-b5cee61f63ce> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|/6NnlZRA9iVecLGBJ3B4DVY7QPE=|BtS0Y+9wZ+oOCYKoSgNTgwpxEmAU1qYsrTHOMe034/1Zhr3VFDOmHg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:06.649" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:score           "0.600" .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:importance     "1" ;
+        c:name           "Infancy" ;
+        c:originalValue  "Infancy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c60a9c7-53be-35ed-abc4-2ac5a6fed18c> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:importance     "2" ;
+        c:name           "Neurotrauma" ;
+        c:originalValue  "Neurotrauma" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9dcf5d1f-b483-3028-9df3-7b950cf96df6> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:importance     "2" ;
+        c:name           "Pediatrics" ;
+        c:originalValue  "Pediatrics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aa22bb88-71ac-3ff6-b3bc-a2fe9e0fe354> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:importance     "1" ;
+        c:name           "KETV" ;
+        c:originalValue  "KETV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/73e5294a-4364-3370-a3f6-515a26cba86f> .
+
+<http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6020bd9a-d9aa-398f-bdac-86b5c0bd2d0b> ;
+        c:importance     "2" ;
+        c:name           "Intensive care medicine" ;
+        c:originalValue  "Intensive care medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26c5c996-6a93-315c-8607-5e7821f10971> .

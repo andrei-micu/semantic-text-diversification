@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:score           "0.534" .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ffc99c9e-35b1-80b9-14da-5381bb623ab1" ;
+        c:docDate          "2015-05-30 10:27:07.474" ;
+        c:docTitle         "" ;
+        c:document         "Mom pens her own heartbreaking obituary . A Massachusetts woman wrote her own moving obituary before she lost her years-long battle with cancer. CNN affiliate WFXT reports." ;
+        c:id               "http://id.opencalais.com/qaJAxV4Etp5T7vxepKvDzQ" .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:importance     "1" ;
+        c:name           "WFXT" ;
+        c:originalValue  "WFXT" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/751a39c3-d16f-3f17-ad13-0a47ea2699f2> .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|D6Zj+vdVAC6YfCLxBXTFfur0jCs=|TKOTyyj8lTgqzZc3wgIrwpiDhJtriMWOIJu32bYruq/g+IQDoyHu4Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:07.318" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:score           "0.984" .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:importance     "1" ;
+        c:name           "Fox Television Stations Group" ;
+        c:originalValue  "Fox Television Stations Group" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e75e475-b146-3a68-999b-e2d7ae68d8ce> .
+
+<http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8d8e66bf-9673-3321-a84c-5c4689845a77> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .

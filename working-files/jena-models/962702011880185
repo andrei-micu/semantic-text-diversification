@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a7b35ada-f6c3-3621-14da-54d0695719b3" ;
+        c:docDate          "2015-05-30 10:49:58.368" ;
+        c:docTitle         "" ;
+        c:document         "Families Press for Changes in Policy on Hostages. A White House-ordered review is expected to produce recommendations such as a new interdepartmental “fusion cell” for recovering American captives, but not a shift in the government’s stance against ransom payments." ;
+        c:id               "http://id.opencalais.com/henvjMXxpzu2lzqymGXcbQ" .
+
+<http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|n1Dhc1hv0aO5RV/cp4+LSNLJ69w=|VufgMbRHBISZ8v1l2WcJj9Am5sI+VB7tRgJz2xPtR4VVCDtfESVLzQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:58.165" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b> ;
+        c:importance     "1" ;
+        c:name           "Ransom" ;
+        c:originalValue  "Ransom (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/822fcee9-600e-3de5-8d1e-8b4d3fa43f2b> .
+
+<http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bbd6e145-ba53-33ba-a07f-5e1675a1f90b> ;
+        c:importance     "1" ;
+        c:name           "Hostage taking" ;
+        c:originalValue  "Hostage taking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7887a4c1-165d-3f23-9c20-a2000f897ee3> .

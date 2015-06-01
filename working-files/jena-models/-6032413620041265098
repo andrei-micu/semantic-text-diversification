@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:importance     "1" ;
+        c:name           "Military personnel" ;
+        c:originalValue  "Military personnel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3df1101-0b09-37b1-89c4-540c1143c61d> .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama foreign policy" ;
+        c:originalValue  "Barack Obama foreign policy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3d3dad14-2751-3afd-b311-14b9d159f4d2> .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|v/YF2L0//cu4HZ4UyWFQ18jn3VE=|DxMuuT7CR9tCjVLkTprI+zsCosGJVZ3i7+ivQAfJj/eBiNZ4wN9Ypg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:31.973" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:importance     "2" ;
+        c:name           "John McCain" ;
+        c:originalValue  "John McCain" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7d63454d-17bd-3fa2-8dde-0d34d820b9a7> .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:importance     "2" ;
+        c:name           "Public image of Barack Obama" ;
+        c:originalValue  "Public image of Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1b90a97-916e-329a-b1a4-aed1cee6a061> .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74> ;
+        c:importance     "2" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/1becaa0d-186f-375e-9b03-eeb4890fab74>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5b482068-4770-5967-14da-5387c0532f98" ;
+        c:docDate          "2015-05-30 09:27:32.129" ;
+        c:docTitle         "" ;
+        c:document         "Obama: No CIA drone control. President Barack Obama and his 2008 campaign rival, Sen. John McCain, R-Arizona, are bitter rivals on almost every aspect of U.S. foreign policy. Yet they are allies on one particularly thorny subject -- the use of armed drones." ;
+        c:id               "http://id.opencalais.com/A0yBAHiVl4--ajk2wf22ZA" .

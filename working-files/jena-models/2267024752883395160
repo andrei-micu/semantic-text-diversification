@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gw5aHLsXy7kkWisvtbPOUHP6wDE=|bbTXz7a7S0FxecpRE7FiuC/G0qWTCHW5i0DAO59REbzEoL4AETc8JQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:07.527" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:importance     "1" ;
+        c:name           "Juries" ;
+        c:originalValue  "Juries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a361383-133a-38da-87ac-2a57f217a60f> .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:importance     "2" ;
+        c:name           "John Carneglia" ;
+        c:originalValue  "John Carneglia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e668fd54-fb4d-3cf5-b779-a720b264acd8> .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f72d41f3-64d1-cb3c-14da-53f6f8735464" ;
+        c:docDate          "2015-05-30 10:35:07.808" ;
+        c:docTitle         "" ;
+        c:document         "NY boy murder case is ruled mistrial. A New York judge declares a mistrial in the murder case of six-year-old boy who went missing in 1979 after the jury could not reach a verdict." ;
+        c:id               "http://id.opencalais.com/G6ocmdF9bfS3u5BS*fzg1g" .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:importance     "2" ;
+        c:name           "Hung jury" ;
+        c:originalValue  "Hung jury" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51c96a3d-4c9a-3c7c-90ea-a5a0769a8056> .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:importance     "1" ;
+        c:name           "Legal procedure" ;
+        c:originalValue  "Legal procedure" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ebdfabc-ead7-365f-a9c2-45622a965c50> .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:importance     "2" ;
+        c:name           "Legal terms" ;
+        c:originalValue  "Legal terms" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/20c0c6e4-23d1-3b45-97b2-44e063391fca> .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:importance     "2" ;
+        c:name           "Trial" ;
+        c:originalValue  "Trial" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88e02e3d-e15b-3f70-82c5-8b918c8c087c> .
+
+<http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cf5b136d-6228-3a1a-abe0-cd8c51e05ade> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

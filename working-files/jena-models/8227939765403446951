@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:importance     "2" ;
+        c:name           "Kuala Lumpur" ;
+        c:originalValue  "Kuala Lumpur" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e71f542b-3773-36a1-9efc-413612f6ba69> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:importance     "2" ;
+        c:name           "Human trafficking in Australia" ;
+        c:originalValue  "Human trafficking in Australia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b973333-9667-32f7-8534-03a0d08e3fcd> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|s/a6SgU9XW8m+LHTL0bvFlGNHKs=|kAK/RuA4pb2GcMJlxECV45+yNv2TQsPOWGN8Jl6/sXo8InU2oiI2AA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:37.591" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:importance     "2" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:importance     "2" ;
+        c:name           "Human trafficking" ;
+        c:originalValue  "Human trafficking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67364582-cb6c-3ccb-91b7-9c993c0031b9> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:importance     "1" ;
+        c:name           "Klang Valley" ;
+        c:originalValue  "Klang Valley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/489a284d-13a3-34e9-80a2-a9f865576abc> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:importance     "2" ;
+        c:name           "Human trafficking in Malaysia" ;
+        c:originalValue  "Human trafficking in Malaysia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fbf5c32d-9bb4-308c-94fd-c2548d1f3c2f> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e63eb2fe-b182-f9ec-14da-54bcbd7719b3" ;
+        c:docDate          "2015-05-30 10:48:37.747" ;
+        c:docTitle         "" ;
+        c:document         "Mass graves of suspected trafficking victims found in Malaysia. KUALA LUMPUR (Reuters) - Mass graves and suspected human-trafficking detention camps have been discovered by Malaysian police in towns and villages bordering Thailand, the country's home minister said on Sunday." ;
+        c:id               "http://id.opencalais.com/1ZT9bxGy4V*cClTzH0BqGw" .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a1a217-8b12-33c7-b0eb-62009812f2cc> ;
+        c:importance     "2" ;
+        c:name           "Malaysia" ;
+        c:originalValue  "Malaysia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7501b1f-9587-3522-b527-f78c7bfa1206> .

@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+5pMeMUs9jSlSO6J41e5eRzgKjs=|FeMvJa70aqfs2W48HdxdXfRxL6coHXSYoWAYmeZlD7sTpFULBHFEGg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:41.072" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:importance     "1" ;
+        c:name           "Old Etonians" ;
+        c:originalValue  "Old Etonians" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/99c91de7-f494-3787-9b21-7260205273c0> .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:importance     "2" ;
+        c:name           "Conservatism" ;
+        c:originalValue  "Conservatism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f8b0a81-5b19-322c-b977-78df72aa62db> .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:importance     "2" ;
+        c:name           "Boris Johnson" ;
+        c:originalValue  "Boris Johnson" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba8559f4-e358-34ea-9d16-7dd4d1f0f88e> .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:importance     "1" ;
+        c:name           "English people" ;
+        c:originalValue  "English people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1838496c-93d5-3866-9fe2-536e32464e5b> .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fad2c289-3ac7-0e2e-14da-53e1dd049095" ;
+        c:docDate          "2015-05-30 10:33:41.197" ;
+        c:docTitle         "" ;
+        c:document         "UK vote: Johnson wins seat, Conservatives roll. Boris Johnson, the colorful, Conservative mayor of London, won a seat in Parliament. Conservatives and Scotish nationals are making big gains. FULL STORY | Live blog" ;
+        c:id               "http://id.opencalais.com/b8txiHZCLIAilHx*HtW-Aw" .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:importance     "2" ;
+        c:name           "Politics of Europe" ;
+        c:originalValue  "Politics of Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/735f0592-a363-3b24-a707-df9bf40621fa> .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:score           "0.942" .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:importance     "1" ;
+        c:name           "Henley-on-Thames" ;
+        c:originalValue  "Henley-on-Thames" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30c91efe-afcc-39f7-b7ed-c9d45cd4fcb0> .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:importance     "2" ;
+        c:name           "Conservative Party" ;
+        c:originalValue  "Conservative Party (UK)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2e250358-8f97-367d-993c-16cf7490c572> .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:importance     "2" ;
+        c:name           "British people" ;
+        c:originalValue  "British people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/504d852b-86a3-321f-96e2-df8194075afc> .
+
+<http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/45361569-6fd9-3bf1-b24d-8f4ba9c558f4> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

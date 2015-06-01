@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|WtCjkW4eyeeJw/ocInyAXlLlkok=|VQAyCzMr9uLaDCP4YcY71c2TPPAhoB1eoGH37SWPUiHbt4FyEiOXeg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:51.185" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:importance     "1" ;
+        c:name           "Tiger" ;
+        c:originalValue  "Tiger" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e45b2824-e905-38a4-a325-efcf8caef54d> .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:importance     "1" ;
+        c:name           "Fictional technology" ;
+        c:originalValue  "Fictional technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/21615671-a51e-3000-849f-7e925fc07ae0> .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4d007855-4208-7458-14da-54a2c3171d39" ;
+        c:docDate          "2015-05-30 09:46:51.309" ;
+        c:docTitle         "" ;
+        c:document         "Crane fights off two tigers at zoo. A crane that stumbled into a tigers' den bravely fights off two tigers that are on the prowl." ;
+        c:id               "http://id.opencalais.com/mY21163Z8SElKQuDQ2UJkw" .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:importance     "2" ;
+        c:name           "Crane" ;
+        c:originalValue  "Crane (bird)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/02533607-ff43-3858-8faa-15728a765a1a> .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:score           "0.656" .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:importance     "2" ;
+        c:name           "Prowl" ;
+        c:originalValue  "Prowl (Transformers)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cfadef1-4640-3bda-b757-9ba5468390e7> .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:importance     "1" ;
+        c:name           "Fauna of Asia" ;
+        c:originalValue  "Fauna of Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2a8eea6-98b4-35c3-b399-6c90bb00f519> .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6bce92b9-444e-39de-967d-56cc5e0feabd> ;
+        c:importance     "2" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .

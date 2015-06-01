@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a> ;
+        c:importance     "1" ;
+        c:name           "Racism in the United States" ;
+        c:originalValue  "Racism in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0b992aa-c648-356e-9a28-2726e48ca7bc> .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a> ;
+        c:importance     "1" ;
+        c:name           "Affirmative action" ;
+        c:originalValue  "Affirmative action" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54220bec-f369-307e-b802-d1c8bff5b358> .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a> ;
+        c:importance     "2" ;
+        c:name           "Blindness" ;
+        c:originalValue  "Blindness (film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04455a8f-7eb9-3ac4-8973-e9e4dc4de5cf> .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|z/fdZy96jwpvwSj1YX2WQNRKhzY=|Ng+0nTK1vlfMMQyOm3iU7eZWcs0kKKAB7Kwxq6lVCM8zeBZXlJP+zQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:02.648" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a> ;
+        c:importance     "2" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a> ;
+        c:importance     "1" ;
+        c:name           "Color blindness" ;
+        c:originalValue  "Color blindness (race)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a58f5c1f-cf97-3583-a5d4-5ae2c7a69ad8> .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c5788cd9-a7ff-6767-14da-54a58e813c98" ;
+        c:docDate          "2015-05-30 09:47:02.913" ;
+        c:docTitle         "" ;
+        c:document         "Expats Find Brazil's Reputation For Race-Blindness Is Undone By Reality. Brazil is touted as one of the most racially harmonious places in the world, but people of color who move there say they are surprised at the degree of discrimination they face, based on skin color." ;
+        c:id               "http://id.opencalais.com/AtE6Tffl3htVML0keSyoRw" .
+
+<http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e2e1f6f-ff80-3268-93af-d5a6dd12b06a> ;
+        c:importance     "2" ;
+        c:name           "Discrimination" ;
+        c:originalValue  "Discrimination" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a85c07a-9a89-398d-a796-bfecdec4e916> .

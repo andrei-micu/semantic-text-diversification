@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51> ;
+        c:importance     "1" ;
+        c:name           "Ballet" ;
+        c:originalValue  "Ballet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/117c508d-2119-3834-a11d-4ceef406cdd7> .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51> ;
+        c:importance     "2" ;
+        c:name           "Vertigo" ;
+        c:originalValue  "Vertigo (DC Comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a3aa4135-e4f8-353a-a44e-80e55b65ff23> .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51> ;
+        c:importance     "2" ;
+        c:name           "Danseurs" ;
+        c:originalValue  "Danseurs" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0386fc1-309c-3df9-9a84-b012034e7c4b> .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51> ;
+        c:importance     "1" ;
+        c:name           "Dance" ;
+        c:originalValue  "Dance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/857b6ce7-8144-3069-915c-a65772ddd6ed> .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51> ;
+        c:importance     "2" ;
+        c:name           "Ballets by Jerome Robbins" ;
+        c:originalValue  "Ballets by Jerome Robbins" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ea7755cf-435f-301f-963d-ea3751b01d11> .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GhnvLimJBMc6rOCN3MCB/k/FfIw=|hDgSSxy/0ue3K4kB1ArlQbuGGakjXgh9L4r7Ydw7dCaer8/AmqvQEw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:17.310" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51> ;
+        c:importance     "1" ;
+        c:name           "Benjamin Millepied" ;
+        c:originalValue  "Benjamin Millepied" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/11fa03f2-bd78-3f37-9287-8e35b057c358> .
+
+<http://d.opencalais.com/dochash-1/88c1ab6a-8917-3c5e-83ec-e452dcff8d51>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "48a76c17-d273-8017-14da-540801e653ed" ;
+        c:docDate          "2015-05-30 09:36:17.529" ;
+        c:docTitle         "" ;
+        c:document         "ArtsBeat: Millepied to Take On ‘Vertigo’ at Cannes. Benjamin Millepied, the director of the Paris Opera Ballet, will present a piece at Cannes set to music from “Vertigo.”" ;
+        c:id               "http://id.opencalais.com/UpG4YPCqgFQNmENmVkiCmw" .

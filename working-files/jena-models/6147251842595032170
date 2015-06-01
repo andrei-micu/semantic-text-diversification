@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bdcadcf4-3a71-7d60-14da-54995191df07" ;
+        c:docDate          "2015-05-30 09:46:12.676" ;
+        c:docTitle         "" ;
+        c:document         "Israel thanks U.S. for stand on Mideast nuclear arms ban at U.N.. UNITED NATIONS (Reuters) - Israeli Prime Minister Benjamin Netanyahu thanked the United States for blocking an Egyptian-led drive on a possible Middle East nuclear weapons ban at a major United Nations conference, an Israeli official said on Saturday." ;
+        c:id               "http://id.opencalais.com/0Vstv54-Sb5501FjuTJDvA" .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:importance     "1" ;
+        c:name           "Jews" ;
+        c:originalValue  "Jews" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f82a475-9fbc-3d00-b30f-12897da2b294> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:importance     "2" ;
+        c:name           "Direct negotiations between Israel and the Palestinians" ;
+        c:originalValue  "Direct negotiations between Israel and the Palestinians (2010-2011)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/db56b5c0-733d-3011-a145-174f97c54118> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:importance     "2" ;
+        c:name           "Politics of Israel" ;
+        c:originalValue  "Politics of Israel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cae77e2-8d5d-3587-8cf1-734964836d5e> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:importance     "1" ;
+        c:name           "Israeli–Palestinian conflict" ;
+        c:originalValue  "Israeli–Palestinian conflict" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c8d6379-5fe6-32ad-a436-54853b946455> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:importance     "2" ;
+        c:name           "Reactions to the Gaza flotilla raid" ;
+        c:originalValue  "Reactions to the Gaza flotilla raid" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcad510b-a599-304e-9288-872808824e91> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:score           "0.981" .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:importance     "1" ;
+        c:name           "Benjamin Netanyahu" ;
+        c:originalValue  "Benjamin Netanyahu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa3716bb-410c-3494-be77-92c6171124fb> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1sK4iqn1BTTmODDChkC0Yj7qG4Y=|jODcfscQ0Hly2Qa5CtlwdLyRWOUAAOhcnqsX2TBUC6lkNhqQCh2lQA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:12.505" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:importance     "2" ;
+        c:name           "Netanyahu" ;
+        c:originalValue  "Netanyahu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b55cd8af-3362-3047-bb93-2c3f5d728819> .
+
+<http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8ffaea22-000c-3858-99fa-6a498534bf76> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .

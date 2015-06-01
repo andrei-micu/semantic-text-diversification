@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:importance     "1" ;
+        c:name           "Witchcraft" ;
+        c:originalValue  "Witchcraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/845a8e0f-9f42-3a04-a81c-4edd3182f24b> .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "913b1a24-c368-7be7-14da-548f10c1927e" ;
+        c:docDate          "2015-05-30 10:45:30.680" ;
+        c:docTitle         "" ;
+        c:document         "'All Souls Trilogy' Author Deborah Harkness. The hugely successful books are set in a world where witches, vampires and demons live alongside humans." ;
+        c:id               "http://id.opencalais.com/vxuCjupS9gn0FSz1yNbeeA" .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5Jl9kZuwxdktIJUi6I1o2iaCpps=|hWbECUSAKKJtPjVfxaDmxhy7ZqtGXcp/kICaDM8Xd7E2vzPamEQxOQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:30.508" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:importance     "1" ;
+        c:name           "Deborah Harkness" ;
+        c:originalValue  "Deborah Harkness" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcad1e83-0203-3dcb-8429-e2adcffa5d2c> .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:importance     "2" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:importance     "2" ;
+        c:name           "Vampire" ;
+        c:originalValue  "Vampire" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/edad3911-cc1d-3572-96ad-cd7947022e51> .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:importance     "1" ;
+        c:name           "Fiction" ;
+        c:originalValue  "Fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8802cc97-e83a-3d7d-b3b5-b3efb8e1d8de> .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:importance     "2" ;
+        c:name           "Hollows" ;
+        c:originalValue  "Hollows (series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04668f61-16e4-3c98-a26a-a132c196aad4> .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:importance     "2" ;
+        c:name           "Cultural anthropology" ;
+        c:originalValue  "Cultural anthropology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d330c312-bf45-3dd1-9a05-f5842900d84e> .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2dec2254-d593-371d-b493-377a82ffa47c> ;
+        c:score           "1.000" .

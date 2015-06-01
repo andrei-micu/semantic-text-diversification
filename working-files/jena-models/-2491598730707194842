@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5cca1663-d971-8e6f-14da-53a5ca3719b3" ;
+        c:docDate          "2015-05-30 10:29:35.245" ;
+        c:docTitle         "" ;
+        c:document         "What happened to the man detained on live TV?. As viewers watched on live television, a man held his hands up and walked in front of a phalanx of police in Baltimore on Tuesday night, after a citywide curfew had started." ;
+        c:id               "http://id.opencalais.com/q6aDjXm2osfmya*0UHJbmQ" .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:importance     "1" ;
+        c:name           "Terminology" ;
+        c:originalValue  "Terminology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b1c09c6-658b-3deb-8070-e61548e80c3d> .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:importance     "2" ;
+        c:name           "Ancient history" ;
+        c:originalValue  "Ancient history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f825dfa2-1830-32bf-a541-caef4067a040> .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:importance     "1" ;
+        c:name           "Phalanx" ;
+        c:originalValue  "Phalanx (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40e7c6e5-efcb-3cae-bbd0-bfbb867267ca> .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Lf1xgIgZPhag2l20jCLxvjrcSNM=|PANabzKnh3m6amR2PM1mzI6fTSRK5SoUsdWLiHQNq/ikGs3vK9AH4g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:35.011" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:score           "0.906" .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:importance     "2" ;
+        c:name           "Live television" ;
+        c:originalValue  "Live television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b43df9d-08e8-3bd0-b32c-3f3fa408e3d7> .
+
+<http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c693496a-4e77-33cc-a6e4-8a0098ce9c99> ;
+        c:importance     "1" ;
+        c:name           "Military terminology" ;
+        c:originalValue  "Military terminology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/374f222f-7c39-3b84-9c64-0c2dfd5e96d4> .

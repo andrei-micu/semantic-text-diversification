@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wDKgA8yTdbVfBPRn/ZWIGXarFHI=|PllIg/4mqL2WYj4KpPl7LzY6pvx+YespRKRfBQpPckGLvwfhACDvHw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:27.144" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023> ;
+        c:importance     "1" ;
+        c:name           "Insolvency" ;
+        c:originalValue  "Insolvency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba3262b5-8395-35c7-9a53-b59c785b1792> .
+
+<http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023> ;
+        c:score           "0.835" .
+
+<http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023> ;
+        c:importance     "1" ;
+        c:name           "Draft" ;
+        c:originalValue  "Draft (sports)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc3df2d9-e9ce-318c-881a-1769f7e926c8> .
+
+<http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023> ;
+        c:importance     "1" ;
+        c:name           "Bankruptcy" ;
+        c:originalValue  "Bankruptcy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/11098114-6034-3b77-962b-32b4b1a0c053> .
+
+<http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "325f4613-b25a-11eb-14da-53b284813c98" ;
+        c:docDate          "2015-05-30 09:30:27.565" ;
+        c:docTitle         "" ;
+        c:document         "‘Was It All Worth It?’ The Draft Class of '90. The 25 players selected in the first round of the 1990 N.F.L. draft paint a complex picture of life after football. Some have millions in the bank, while others have declared bankruptcy." ;
+        c:id               "http://id.opencalais.com/Pm9nB7tKEEqd3ppRsWT6DA" .
+
+<http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/08220449-09af-3051-9863-90c904db1023> ;
+        c:score           "1.000" .

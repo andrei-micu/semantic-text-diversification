@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:importance     "1" ;
+        c:name           "Bridges" ;
+        c:originalValue  "Bridges" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9971e60-2248-3b44-a489-79e6c49532c2> .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:importance     "1" ;
+        c:name           "Louisiana" ;
+        c:originalValue  "Louisiana" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2a2fa43e-4021-3c59-b21f-9f4cac3f3ceb> .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:importance     "2" ;
+        c:name           "Norfolk Southern Lake Pontchartrain Bridge" ;
+        c:originalValue  "Norfolk Southern Lake Pontchartrain Bridge" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3aa87720-8196-359d-ba59-436b563118bc> .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9c74bf53-30c2-3a84-14da-53afc6934709" ;
+        c:docDate          "2015-05-30 09:30:16.133" ;
+        c:docTitle         "" ;
+        c:document         "Video shows train blown off bridge by storm. Video shows the moment a train was blown off the Huey P. Long Bridge by a storm in Jefferson Parrish, Louisiana. No injuries were reported." ;
+        c:id               "http://id.opencalais.com/5SF0aFQ5c9iUrz9i28g8OA" .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:score           "0.565" .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:importance     "2" ;
+        c:name           "Huey P. Long Bridge" ;
+        c:originalValue  "Huey P. Long Bridge (Baton Rouge)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f19ab80c-95e9-35cc-ac54-0750e8ad002d> .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|dNJG6lrwYtad3Hy3h3ne9EhXsWQ=|QLQkIwgPJR8pbtq51uHBNjTmJJhb9uAouS/qQqWrn4eCWkyeB9IHjQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:15.913" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:importance     "1" ;
+        c:name           "Truss bridges" ;
+        c:originalValue  "Truss bridges" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ce8c62a5-a721-3b81-8ef9-7f5255f81060> .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a25db15b-008a-3434-8dd6-c2d096ed03fd> ;
+        c:importance     "2" ;
+        c:name           "Huey Long" ;
+        c:originalValue  "Huey Long" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a8e933fc-4d35-394e-b04e-9c300d48fea7> .

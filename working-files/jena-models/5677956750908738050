@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:importance     "1" ;
+        c:name           "Healthcare in the United Kingdom" ;
+        c:originalValue  "Healthcare in the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2345989e-7d1f-35de-b16d-b057c4dc8b9e> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:importance     "2" ;
+        c:name           "Games" ;
+        c:originalValue  "Games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9105f47f-e9e6-3839-8cf4-9c5d7106eec7> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:importance     "2" ;
+        c:name           "Gunman" ;
+        c:originalValue  "Gunman (film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ee40929-933a-31f9-82ed-eab91de8f9f1> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:importance  "1" ;
+        c:name        "Other" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/137e79ce-d517-336c-9825-a9acdd2a517c> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Other> ;
+        c:categoryName    "Other" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:score           "0.922" .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:importance     "1" ;
+        c:name           "SANE" ;
+        c:originalValue  "SANE (charity)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9779e6f7-91bd-30b4-97b8-52975be538fe> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+9d7VMuOrHF9nK1rMwv0aHsnsr4=|HGFcDKMUbe76fonzuqjx2NASuStKoc3WbWl6pHJqCWJy7cgd2EXYfA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:43.659" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:importance     "2" ;
+        c:name           "Health" ;
+        c:originalValue  "Health" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:importance     "1" ;
+        c:name           "Gunman Chronicles" ;
+        c:originalValue  "Gunman Chronicles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0d745d5-5acf-3fe5-a286-0ae61ba7354a> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/b8cae0db-da3a-3173-87dd-fba6bfec0058>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "73f674cd-daec-df9e-14da-54be38b49095" ;
+        c:docDate          "2015-05-30 10:48:43.861" ;
+        c:docTitle         "" ;
+        c:document         "US gunman deemed 'legally sane'. A court-appointed psychiatrist has testified the gunman who carried out a 2012 attack on a Colorado cinema was mentally ill but \"legally sane\" when it happened." ;
+        c:id               "http://id.opencalais.com/wAqns7fDGZvzQf7nsbT3XA" .

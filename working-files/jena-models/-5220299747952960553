@@ -1,0 +1,162 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "1" ;
+        c:name           "Busking" ;
+        c:originalValue  "Busking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5659b55a-1456-3d06-9b15-f2103105e547> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "2" ;
+        c:name           "Homeless shelter" ;
+        c:originalValue  "Homeless shelter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1800ca6-9258-36c9-aff7-8e66bc4e8c77> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "2" ;
+        c:name           "Sociology" ;
+        c:originalValue  "Sociology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa1414f0-8e54-3eba-bbfe-e4e5b4dcb745> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:score           "0.538" .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "2" ;
+        c:name           "Socioeconomics" ;
+        c:originalValue  "Socioeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a2df6d2-5d17-33e9-939c-305e2d9fc018> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "2" ;
+        c:name           "Personal life" ;
+        c:originalValue  "Personal life" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59840208-5881-3e7f-891c-045f3a9a9a46> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "2" ;
+        c:name           "Poverty" ;
+        c:originalValue  "Poverty" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/729e9264-c8f1-3857-8f50-0462f7f00bd3> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "2" ;
+        c:name           "FIFA World Cup" ;
+        c:originalValue  "FIFA World Cup" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b8559ab1-e974-3e49-ba74-d37707ac5e1b> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "2" ;
+        c:name           "Humanitarian aid" ;
+        c:originalValue  "Humanitarian aid" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f92437e-46ba-3a4b-8df3-7311bea50c2b> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yyK4dBeCzfCcQImBo1/TVVOwAuk=|J1J1DrceyEhNcPbzpl3S022pRBE6pDXMOKad+k7Hb2RbM0GlPiLMuA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:26.350" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "1" ;
+        c:name           "Homelessness" ;
+        c:originalValue  "Homelessness" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ff3f512-4acb-35df-bce0-2184407c542b> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance     "2" ;
+        c:name           "The Hangover" ;
+        c:originalValue  "The Hangover" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7d6a427f-6766-326b-9dba-b3974d25a593> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/6d80baaa-7fc2-3a70-b179-a86017087508>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7049694d-40e8-bc08-14da-543628e32955" ;
+        c:docDate          "2015-05-30 10:39:26.475" ;
+        c:docTitle         "" ;
+        c:document         "Brazil's World Cup Legacy Includes $550M Stadium-Turned-Parking Lot. Another lavish $215 million arena built for last year's event is now a homeless shelter. Touted as one of the best World Cups in history on the pitch, it's left a hangover of waste and mismanagement." ;
+        c:id               "http://id.opencalais.com/vb6-xxFPmNLMuTFSnkp1WA" .

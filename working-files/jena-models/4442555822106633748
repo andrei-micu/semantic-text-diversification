@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:score           "0.961" .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "1968 in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance     "2" ;
+        c:name           "Riots" ;
+        c:originalValue  "1968 riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51cf8495-5f56-35f0-8783-4b4488495bf4> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f283a3ad-2811-3d69-14da-53a166c1927e" ;
+        c:docDate          "2015-05-30 10:29:17.238" ;
+        c:docTitle         "" ;
+        c:document         "Baltimore mayor criticized for police response to rioting. BALTIMORE (Reuters) - The day after rioters tore through Baltimore, the city's mayor was criticized on Tuesday for a slow police response to some of the worst U.S. urban unrest in years after the funeral of a 25-year-old black man who died in police custody." ;
+        c:id               "http://id.opencalais.com/70Gedf4ZPH7TmDILVg4d6A" .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance     "1" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance     "2" ;
+        c:name           "Detroit riot" ;
+        c:originalValue  "1967 Detroit riot" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a6f9ebd6-1379-32f3-93ee-75f409049306> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance     "2" ;
+        c:name           "Geography of North America" ;
+        c:originalValue  "Geography of North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4953ac1c-3f88-3c4f-b079-6ff903751bbf> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|F6W9PbRDftaExaQK3kUzOjOx6nM=|QuaPiy3Ppur68WdENl+HLgedQ2xYAqX7ZbNv0Yz94AOchIZNypPJ5Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:17.036" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance     "1" ;
+        c:name           "Protests" ;
+        c:originalValue  "Protests" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cb32845-5207-3795-8e94-b72fe5488a2d> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance     "2" ;
+        c:name           "Chicago riots" ;
+        c:originalValue  "1968 Chicago riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/94bb1f12-cbea-367e-98cc-260805c8ce27> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e387b6d6-55a0-3482-a4d1-254463e7188d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

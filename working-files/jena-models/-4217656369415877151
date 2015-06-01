@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031> ;
+        c:importance     "2" ;
+        c:name           "Libya" ;
+        c:originalValue  "Libya" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aab7445b-f6fb-3a43-9727-49d4e591ae3d> .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1b31cf0b-45ee-cfcd-14da-547ea881927e" ;
+        c:docDate          "2015-05-30 10:44:23.584" ;
+        c:docTitle         "" ;
+        c:document         "First set of Clinton emails released. State Department releases hundreds of emails - many relating to the attack in Benghazi, Libya - from former Secretary of State Hillary Clinton's private email account." ;
+        c:id               "http://id.opencalais.com/dyeuZtAHTeCwFT1LeL44UQ" .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031> ;
+        c:importance     "1" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031> ;
+        c:importance     "2" ;
+        c:name           "Benghazi" ;
+        c:originalValue  "Benghazi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a4769d0-cd5c-39d6-beff-d5be6c323540> .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aa64757f-a268-3ba0-80f1-6e4469168031> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|iqLS/K+00V/Z/JPqluaLX+dyXH8=|izlveVz1S8vkSD3nSR3lSBJiOpN1aZUK/3WiWHZOb5z2yzdzzJ90AQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:23.304" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

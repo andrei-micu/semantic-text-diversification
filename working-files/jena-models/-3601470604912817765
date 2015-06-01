@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:score           "0.543" .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:importance     "1" ;
+        c:name           "Pregnancy" ;
+        c:originalValue  "Pregnancy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f44cc8db-9a6c-30f2-b4d8-6d6e3741c36d> .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:importance     "2" ;
+        c:name           "Teenage pregnancy" ;
+        c:originalValue  "Teenage pregnancy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e3322705-1703-3f62-9e80-6f58f29cffda> .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2rhH34pM1Bd/qP7w60yNENPpSiE=|WhtPs5I9d1GU5ATI/M/IPzMdS30GIU0nBfx+7+6ELcfLoly0H7v5BQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:35.687" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:importance     "2" ;
+        c:name           "Reproduction" ;
+        c:originalValue  "Reproduction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d3b37f8-cdc5-3ba9-aef4-b24d0106ebe2> .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:importance     "1" ;
+        c:name           "Human reproduction" ;
+        c:originalValue  "Human reproduction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5d158b12-b70b-3a62-91a3-4d2ce513d659> .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "16781938-0450-6191-14da-549054735464" ;
+        c:docDate          "2015-05-30 10:45:35.874" ;
+        c:docTitle         "" ;
+        c:document         "What's Next For Colorado's Controversial Birth Control Program?. The state legislature has voted against continuing a program that's credited with reducing teen pregnancies and abortions." ;
+        c:id               "http://id.opencalais.com/QZA2iFYgU95SWAWXZxZTbg" .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:score           "0.972" .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:importance     "2" ;
+        c:name           "Abortion" ;
+        c:originalValue  "Abortion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0990c9b-183f-36c8-a0b2-7f18c2435c51> .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:importance     "1" ;
+        c:name           "Behavior" ;
+        c:originalValue  "Behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe1e19-9c21-37dc-af60-02531de42118> .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f49402a2-68c8-365b-9dc0-871ba99b9b96> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

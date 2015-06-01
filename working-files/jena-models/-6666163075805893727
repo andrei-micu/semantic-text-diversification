@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:importance     "1" ;
+        c:name           "Marathon" ;
+        c:originalValue  "Marathon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d322de36-9af4-3ba9-abae-790f9b39acf9> .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|6i8k8zCvTTohz735MpvEieJR7OE=|VlOiHRm51EQj0rn5NX3HOFv0YO8bwpfrWglxZzJuVomF7NJS4D7B0A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:41:28.701" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:score           "0.659" .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:importance     "2" ;
+        c:name           "Islamic terrorism" ;
+        c:originalValue  "Islamic terrorism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54467038-8579-30cd-95b7-064abffeff1d> .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:importance     "1" ;
+        c:name           "Road running" ;
+        c:originalValue  "Road running" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cb113c5d-fe63-3dc0-aa9f-a13e11cd93d1> .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f893423e-d822-7a7c-14da-545407d760f9" ;
+        c:docDate          "2015-05-30 10:41:28.795" ;
+        c:docTitle         "" ;
+        c:document         "Death for Boston bomber. The jury sentenced Dzhokhar Tsarnaev to death on six counts related to the Boston Marathon bombings. FULL STORY | VICTIMS | EVIDENCE | TIMELINE" ;
+        c:id               "http://id.opencalais.com/i*B4nl-HvStNpjx5NKPdXw" .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb62494e-5b0f-39f0-8503-cab6408e248d> ;
+        c:importance     "1" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .

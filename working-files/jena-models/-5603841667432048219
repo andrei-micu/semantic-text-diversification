@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590> ;
+        c:importance     "1" ;
+        c:name           "Serena Williams" ;
+        c:originalValue  "Serena Williams" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0928f36b-0f86-359e-be81-d48666991960> .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590> ;
+        c:importance     "2" ;
+        c:name           "Williams sisters rivalry" ;
+        c:originalValue  "Williams sisters rivalry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f2e4531-0125-3c8a-b879-4c17b8fbdb03> .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590> ;
+        c:importance     "1" ;
+        c:name           "The Championships, Wimbledon" ;
+        c:originalValue  "The Championships, Wimbledon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d6bfbdf-eab3-3a3e-bfc5-a2b95f00a3bf> .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590> ;
+        c:importance     "1" ;
+        c:name           "Tennis" ;
+        c:originalValue  "Tennis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/42c21c18-a33c-30c8-842c-c4fb87d8aa97> .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "42b7c2a2-9d2b-feeb-14da-544bf351df07" ;
+        c:docDate          "2015-05-30 09:40:55.792" ;
+        c:docTitle         "" ;
+        c:document         "Why Serena Williams is the best, period. Patrick Mouratoglou, the coach of the World No. 1 women's tennis player Serena Williams, tells CNN's Open Court the five main reasons for her dominance of the game. Mouratoglou began coaching Williams in 2012, and their trophy tally since teaming up includes a Wimbledon title, an Olympic Gold Medal, three US Open titles, a French Open title and an Australian Open title, lifting her back up to the pinnacle of the women's game." ;
+        c:id               "http://id.opencalais.com/Wzs2XwMJTjTtojxkb0Ievg" .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590> ;
+        c:score           "0.509" .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FyLyZffhCif97hR6l2eCTnhsuw4=|NT+USWJyWUg9q+jyey5xpwe2qgx1Tn8Oh7rdLTC/vUP9wgvaZPl7dA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:55.605" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/455b8b1a-6075-3b8f-a68e-fcf4cc426590> ;
+        c:importance     "2" ;
+        c:name           "Venus Williams" ;
+        c:originalValue  "Venus Williams" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cc17386-aee1-3951-b3f9-9d2e1dba23f8> .

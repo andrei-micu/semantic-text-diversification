@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "da6a8b63-e170-7530-14da-54a025149095" ;
+        c:docDate          "2015-05-30 10:46:40.637" ;
+        c:docTitle         "" ;
+        c:document         "Irish Anti-Gay-Marriage Leader Tweets Election Concession . In a gesture that indicates the Irish ballot measure to legalize same-sex marriage has succeeded, the head of the organization that ran the No campaign tweeted his congratulations to the Yes side." ;
+        c:id               "http://id.opencalais.com/p-3NCy*r01bBAHtKTu7HqQ" .
+
+<http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5b8a1ffa-58d3-3583-a7fa-cee389b9e9e7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qea1O2epbR14lK4ZtEJlFftCXWY=|N0/vcy3Ep2x4syHXWeA8j/tOUrwwWhUOi5Xd6G5vEzkepEsX9LH1sA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:40.465" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

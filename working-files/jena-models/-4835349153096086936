@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:importance     "1" ;
+        c:name           "Airbag" ;
+        c:originalValue  "Airbag" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/69f8d8ea-bdab-3c13-aac8-945c1a0761b9> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:importance     "1" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:importance     "2" ;
+        c:name           "Mind" ;
+        c:originalValue  "Mind" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ed712bce-3fbb-39bf-a23d-45c5638a21e3> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:score           "0.965" .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:importance     "2" ;
+        c:name           "Recall" ;
+        c:originalValue  "Recall (memory)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eafec4d7-1748-3d0a-903d-d175b2633b05> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:importance     "1" ;
+        c:name           "Aerospace" ;
+        c:originalValue  "Aerospace" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd818878-3c74-3671-b678-88cdd8e8ee6b> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:score           "0.877" .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:importance     "2" ;
+        c:name           "Takata" ;
+        c:originalValue  "Takata" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c1876f6d-4c80-34b3-9853-bcfd927efd92> .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8413e978-7914-1dd6-14da-54735ff49095" ;
+        c:docDate          "2015-05-30 10:43:37.321" ;
+        c:docTitle         "" ;
+        c:document         "For Drivers, Confusion Reigns in Airbag Recall. Automakers on Wednesday were still sorting out which cars needed to be included in the expanded recall of cars with Takata airbags, leaving many consumers with more questions than answers." ;
+        c:id               "http://id.opencalais.com/JllgVaUzeIjZeDgasC9Jxw" .
+
+<http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/21908971-8c27-3efd-87bd-2b87202ec440> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|A4DYGBYodYN+u+sMpV74wl+EZRA=|BKSMn/joqXxXCfhnkbThlhviPlVnkJU/XGB5xFSLoEU7/JXIiv/ipQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:37.087" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

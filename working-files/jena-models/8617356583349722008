@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:importance     "1" ;
+        c:name           "Boat people" ;
+        c:originalValue  "Boat people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/19110302-e1f4-3310-b43e-d6008240fa46> .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:importance     "1" ;
+        c:name           "Klang Valley" ;
+        c:originalValue  "Klang Valley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/489a284d-13a3-34e9-80a2-a9f865576abc> .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:importance     "2" ;
+        c:name           "Demography" ;
+        c:originalValue  "Demography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/96d55808-883e-3383-b270-d5ec7d4cfa9b> .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6c81a0d4-d56c-6cc1-4da5-47df3013c987" ;
+        c:docDate          "2015-05-30 09:44:20.649" ;
+        c:docTitle         "" ;
+        c:document         "Malaysia, Indonesia to let 'boat people' come ashore temporarily. KUALA LUMPUR (Reuters) - Malaysia and Indonesia said on Wednesday they would offer shelter to 7,000 \"boat people\" adrift at sea in rickety boats but made clear their assistance was temporary and they would take no more." ;
+        c:id               "http://id.opencalais.com/IRjNqcfRbyyUsWnGLk82pQ" .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|phI2MHYbamX6BKgxL+4+yM+h/3c=|GeD8+xPFe7JJF5m7dtmqgZQgS3A3d2bF4mz+Nhu/OozEYi7zZyQsqQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:20.400" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:importance     "2" ;
+        c:name           "Human migration" ;
+        c:originalValue  "Human migration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bfb396c9-8e39-3429-bebb-8d0e6157e32e> .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:score           "0.720" .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:importance     "1" ;
+        c:name           "Kuala Lumpur" ;
+        c:originalValue  "Kuala Lumpur" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e71f542b-3773-36a1-9efc-413612f6ba69> .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad256e2d-9615-336b-b4ea-bb30337e850e> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .

@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "88254ae5-1e20-753f-14da-53d2b0a49095" ;
+        c:docDate          "2015-05-30 10:32:39.047" ;
+        c:docTitle         "" ;
+        c:document         "How to help Baltimore rebuild . In the aftermath of the rioting and destruction in Baltimore after Freddie Gray's death, the community needs your help to rebuild -- structurally and emotionally." ;
+        c:id               "http://id.opencalais.com/n-IgqGQR56Dw*3P1nlahTw" .
+
+<http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f> ;
+        c:score           "0.990" .
+
+<http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f> ;
+        c:importance     "1" ;
+        c:name           "Freddie" ;
+        c:originalValue  "Freddie" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b024b5d4-fa1b-32d6-a520-4353c684f330> .
+
+<http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f> ;
+        c:score           "0.788" .
+
+<http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+LKL9+/9/gkIQ+HyQIwgg+ekUXU=|Xh76HC8/7PcnHM2CvdH6iHQanzUEkvnvxjVbS2D5TNTCg9CW6ltiiw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:38.922" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3ccea442-4bb3-3679-922b-3702a44dce1f> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .

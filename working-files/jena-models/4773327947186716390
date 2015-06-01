@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "71485e56-2400-183d-14da-53c70ef1df07" ;
+        c:docDate          "2015-05-30 09:31:51.467" ;
+        c:docTitle         "" ;
+        c:document         "News Analysis: With U.S. Eyes on Iran, North Korea’s Nuclear Arsenal Expanded. While the Obama administration pursued a deal on Iran’s nuclear program, North Korea went on an atomic spending spree that some officials fear there is little hope of stopping." ;
+        c:id               "http://id.opencalais.com/COaJnrpf2wKMQZhoUrrD2A" .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|uroUwAzC8iY7MYU2g9xzNLyB7JE=|azgLL/LxOtnA97NGI05Pzu+mTytjZlh75FU1zaLNZ1S3vfJFHwArUA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:51.279" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance     "2" ;
+        c:name           "Nuclear program of Iran" ;
+        c:originalValue  "Nuclear program of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e55ddb64-2b4a-3d36-ab91-61afd402b42a> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:score           "0.666" .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance     "2" ;
+        c:name           "Iran–South Korea relations" ;
+        c:originalValue  "Iran–South Korea relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc8cb0ae-009f-383f-b311-95cc34f8c29d> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3edf8cc4-4f0e-38ce-acdf-b60c303631c1> ;
+        c:importance     "2" ;
+        c:name           "Nuclear proliferation" ;
+        c:originalValue  "Nuclear proliferation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f667b49b-2db2-3365-a7c3-43453c82b78f> .

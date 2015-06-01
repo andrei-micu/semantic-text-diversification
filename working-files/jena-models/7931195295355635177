@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance     "2" ;
+        c:name           "Christie's" ;
+        c:originalValue  "Christie's" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba0d76ea-144c-34ce-ac83-33b89c8b3602> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance     "2" ;
+        c:name           "Alberto Giacometti" ;
+        c:originalValue  "Alberto Giacometti" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e717bad7-6f6b-3dc9-80c4-1c78d6411d03> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance     "1" ;
+        c:name           "Visual arts" ;
+        c:originalValue  "Visual arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cfde7f0-993d-3ff3-9cf1-276f5f92a47d> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance     "2" ;
+        c:name           "Auction" ;
+        c:originalValue  "Auction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/051aabb8-99c4-319d-9060-1c44d70281ca> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance     "2" ;
+        c:name           "Rockefeller Center" ;
+        c:originalValue  "Rockefeller Center" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad161e6c-9ef1-35e6-bf5a-d1d515fd18f0> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:score           "0.960" .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance     "2" ;
+        c:name           "Grande tête mince" ;
+        c:originalValue  "Grande tête mince" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c55be7b6-3907-34b7-884c-413d76a5862c> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance     "1" ;
+        c:name           "Bronze sculptures" ;
+        c:originalValue  "Bronze sculptures" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8fcd8fa5-0fae-39b6-b1ab-5ebebd179bc6> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cfd381ca-4336-3628-14da-543139223ab1" ;
+        c:docDate          "2015-05-30 10:39:06.349" ;
+        c:docTitle         "" ;
+        c:document         "Picasso Painting Sells At Auction For $179 Million, A Record. Another record was set at the same auction when a Giacometti sculpture sold for $141 million. 34 art works were auctioned by Christie's at the event for a total of $706 million." ;
+        c:id               "http://id.opencalais.com/hysRnysjIjqVJx8SLSh1aQ" .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|BoZphPfMVBwBc95QclyUgXX9DnU=|KSsdM9o990vS+8zGNwsmzPvKyDsk82MMSw+hDp3kvibIYkR7hgd+5Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:06.130" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance     "1" ;
+        c:name           "Modern art" ;
+        c:originalValue  "Modern art" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5805ec3d-2d98-3b26-b521-75f1d2df1451> .
+
+<http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ebbe79b2-b045-399d-a754-a339e5b0d642> ;
+        c:importance     "2" ;
+        c:name           "Pablo Picasso" ;
+        c:originalValue  "Pablo Picasso" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/29ae6864-cd4a-32e6-b13a-fa1592b4ac5e> .

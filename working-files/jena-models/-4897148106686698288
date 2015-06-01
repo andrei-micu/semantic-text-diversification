@@ -1,0 +1,51 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986> ;
+        c:importance     "1" ;
+        c:name           "Nikos" ;
+        c:originalValue  "Nikos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4105dd89-a284-3fb8-b904-41e090c73e26> .
+
+<http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6b0d307b-5163-be29-14da-54bbbc232955" ;
+        c:docDate          "2015-05-30 10:48:33.568" ;
+        c:docTitle         "" ;
+        c:document         "Greece Warns That It Will Probably Miss Next Month's Debt Payment. Interior Minister Nikos Voutsis says a $1.76 billion payment due next month \"will not be given and is not there to be given.\"" ;
+        c:id               "http://id.opencalais.com/mjCaQpXZ0-6Yhyf54WTuwg" .
+
+<http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|imPR4uZanveLoTsRflEcyjhqMrE=|W8SVRbIUzRBrUZaOo+piX+yVsyNRMxr/+bp5apYtaK9mrS+yjBefTA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:33.474" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/599b0961-857a-38c9-9bd6-6ba4ac42c986> ;
+        c:score           "0.967" .

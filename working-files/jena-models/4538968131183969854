@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:score           "0.713" .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "838edd02-7189-0aca-14da-5430764760f9" ;
+        c:docDate          "2015-05-30 10:39:03.184" ;
+        c:docTitle         "" ;
+        c:document         "Chris Burden, a Conceptualist With Scars, Dies at 69. One of the foremost performance artists of the 1970s, Mr. Burden was perhaps the single best-known practitioner of the subgenre of body art." ;
+        c:id               "http://id.opencalais.com/b77SphOGtQJRGhpm2Y6Xxg" .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:importance     "1" ;
+        c:name           "Art history" ;
+        c:originalValue  "Art history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/31ca24a7-3360-392c-88f0-ee2b8ed8248b> .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:importance     "2" ;
+        c:name           "Burden" ;
+        c:originalValue  "Burden" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/78e339f3-ebaf-33e6-aea4-288842a34033> .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0FQuYB0flEEiy2dSzx4JW9k6qDs=|DR9GTbiBzfGS7BGzCCQb68KedepjMGWQHfZT/T2FH4pl4reewqkMzA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:03.012" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:importance     "2" ;
+        c:name           "Body art" ;
+        c:originalValue  "Body art" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c45bcfc-4e26-3344-bafa-9cb5e1f32d03> .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:importance     "1" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:importance     "2" ;
+        c:name           "Scars" ;
+        c:originalValue  "Scars (band)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2d638395-0740-35b8-abf6-fb1d710fdbee> .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:importance     "2" ;
+        c:name           "Chris Burden" ;
+        c:originalValue  "Chris Burden" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/84b3d702-33ca-34f1-96c5-6050fc39688f> .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:importance     "1" ;
+        c:name           "Visual arts" ;
+        c:originalValue  "Visual arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cfde7f0-993d-3ff3-9cf1-276f5f92a47d> .
+
+<http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4eadb30e-d99e-3ff9-93bc-ab7ae818296d> ;
+        c:importance     "2" ;
+        c:name           "Performance art" ;
+        c:originalValue  "Performance art" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/881b234e-a43a-3cba-9179-b84f1dda5d17> .

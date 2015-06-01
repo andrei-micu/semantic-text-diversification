@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:importance     "1" ;
+        c:name           "Empires" ;
+        c:originalValue  "Empires" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/71507c02-8aed-35c1-a649-ed34848dcf6e> .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:score           "0.892" .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:importance     "2" ;
+        c:name           "G8" ;
+        c:originalValue  "G8" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67afcabb-9901-30f0-be13-7f611814d285> .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+P8jLrjUIxqYVpFL2LVQ3hsDMJs=|DnUc5tOpt4Q+2QE/x6aHgqV+Yv4ghE0yWcVnAlRwwmegzY8QfxUSzA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:43.141" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:importance     "1" ;
+        c:name           "Japan" ;
+        c:originalValue  "Japan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd3d7d8f-03ee-3f69-bf0f-56673e4fae3e> .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:score           "0.839" .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c2a7293c-f0c6-f304-14da-538a7a5719b3" ;
+        c:docDate          "2015-05-30 10:27:43.297" ;
+        c:docTitle         "" ;
+        c:document         "U.S., Japan unveil new defense guidelines for global Japanese role. NEW YORK (Reuters) - Japan and the United States unveiled new guidelines for defense cooperation on Monday, reflecting Japan's willingness to take on a more robust international role at a time of growing Chinese power and rising concerns about nuclear-armed North Korea." ;
+        c:id               "http://id.opencalais.com/iAuX*xny9pR1hp3lkN82bQ" .
+
+<http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/87720e0e-e5e5-39fd-b780-ad370cf78197> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .

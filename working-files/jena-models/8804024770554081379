@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2I6quJf7NFXmSHWs/1tr/768tMY=|BM+Pb4U5SjJalX5Usw9z48IyFEUz5aS3eempb9+hmub+UzQq3pOClQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:30.947" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance     "1" ;
+        c:name           "New York" ;
+        c:originalValue  "New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/461159b1-6be8-3031-b1dd-039ee48ba761> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance     "2" ;
+        c:name           "Clinton" ;
+        c:originalValue  "Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eebbb422-e423-387d-b64e-eac39cde1fa8> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance     "2" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance     "1" ;
+        c:name           "Eliot Spitzer" ;
+        c:originalValue  "Eliot Spitzer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/24837516-a644-3fa8-8a10-8d15c3927565> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance     "2" ;
+        c:name           "Electoral history of Eliot Spitzer" ;
+        c:originalValue  "Electoral history of Eliot Spitzer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67546726-62ef-302e-9035-a4879956a387> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance     "2" ;
+        c:name           "Rodham" ;
+        c:originalValue  "Rodham" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/63a3070d-6ed3-3faa-98ff-6e718a21a60e> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance     "1" ;
+        c:name           "New York elections" ;
+        c:originalValue  "New York elections, 2006" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45dc8720-6887-3f16-b5f0-10d624b931ff> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a4809cd5-b23f-a014-14da-54bb1e332955" ;
+        c:docDate          "2015-05-30 10:48:31.212" ;
+        c:docTitle         "" ;
+        c:document         "First Draft: Hillary Clinton to Hold Fund-Raiser Hosted by Spitzer’s Ex-Wife. Hillary Rodham Clinton will hold a string of fund-raisers on June 1, including one hosted by the ex-wife of Eliot Spitzer, the scandal-plagued former governor of New York." ;
+        c:id               "http://id.opencalais.com/EgBBGXXNEuWvHPtnSKEKZQ" .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:score           "0.797" .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance     "2" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6ed7574d-c6b9-32e2-9b57-7355342908a4> ;
+        c:importance     "2" ;
+        c:name           "Electoral history of David Paterson" ;
+        c:originalValue  "Electoral history of David Paterson" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/00cba261-a443-3cfb-be62-51b1a84d5e0b> .

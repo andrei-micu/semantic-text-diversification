@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:importance     "1" ;
+        c:name           "Boxers" ;
+        c:originalValue  "Boxers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3efd9ea-f523-3c07-a91a-b5c6a62ab60d> .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:importance     "2" ;
+        c:name           "Tyson-Holyfield I" ;
+        c:originalValue  "Tyson-Holyfield I" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb55388b-7950-3ece-8c15-d3a6289312d4> .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:importance     "2" ;
+        c:name           "Evander Holyfield" ;
+        c:originalValue  "Evander Holyfield" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74164ce7-75d5-366b-aa8b-92f4055effbf> .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ffda84dc-b38d-6602-14da-5424f821df07" ;
+        c:docDate          "2015-05-30 09:38:16.188" ;
+        c:docTitle         "" ;
+        c:document         "Mitt Romney To Fight Evander Holyfield. You Read That Right. Former 2012 Republican presidential nominee Mitt Romney is picking another fight — with Evander Holyfield, the former heavyweight champion of the world. It's all for a good cause." ;
+        c:id               "http://id.opencalais.com/-G2eUdu2VCWqopoCjdFaTg" .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:importance     "1" ;
+        c:name           "Mitt Romney" ;
+        c:originalValue  "Mitt Romney" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a75b220-f9f4-3f39-97a2-ef5a92cea858> .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|xqPpjq/01iQY65yYwra8aQ16lUk=|ZTCr22xh3kqNqMNYNJjU9k4vfXBa/zVjo95AK4vumestNXC+ksXK8w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:15.938" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:importance     "1" ;
+        c:name           "Boxing" ;
+        c:originalValue  "Boxing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7ca63f2-7de1-3e00-9675-849734b5d318> .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:importance     "2" ;
+        c:name           "Holyfield-Tyson II" ;
+        c:originalValue  "Holyfield-Tyson II" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1317a842-0ae3-3d84-9d26-9d58346f4261> .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:importance     "2" ;
+        c:name           "Pratt–Romney family" ;
+        c:originalValue  "Pratt–Romney family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c1bc386a-f9cf-3074-9eb4-89ebade0853a> .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5573cc88-2510-3930-a58d-bf0643ea5d40> ;
+        c:score           "1.000" .

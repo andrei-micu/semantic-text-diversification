@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GJYvsumu2iNbPGtlv4gewYQcz3w=|eaFv0YLkWToNysqHqVIw6ZXh4paFDpyXVz7AVDcVEGgnl/qnbzRR3Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:18.982" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance     "2" ;
+        c:name           "Social media" ;
+        c:originalValue  "Social media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26585b85-a498-31bb-abc9-70fdd3d7fb7c> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "520f66b6-4ec9-909c-14da-53a1e0623ab1" ;
+        c:docDate          "2015-05-30 10:29:19.200" ;
+        c:docTitle         "" ;
+        c:document         "Nasdaq apology for Twitter mistake. The Nasdaq stock market says its \"regrets\" an \"operational error\" which led to Twitter's results being released early." ;
+        c:id               "http://id.opencalais.com/qb-LvR1mS1kfpvvcwCeDxA" .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance     "2" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance     "2" ;
+        c:name           "Benchmark Capital" ;
+        c:originalValue  "Benchmark Capital" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3283ccb8-7d80-3ccf-85f3-f10896bf38b5> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance     "1" ;
+        c:name           "World Wide Web" ;
+        c:originalValue  "World Wide Web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9234a67-1d5c-3451-83e0-fb48ce4187d8> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance     "2" ;
+        c:name           "Websites" ;
+        c:originalValue  "Websites" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3931fdf-998e-30e4-a4f0-508fe1a86861> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance     "2" ;
+        c:name           "Text messaging" ;
+        c:originalValue  "Text messaging" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0c080dea-11c7-38e5-a235-cb22b6b65c27> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance     "1" ;
+        c:name           "Real-time web" ;
+        c:originalValue  "Real-time web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e7c49d2f-35bc-34f2-9c94-519bc7cd9cde> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance     "2" ;
+        c:name           "NASDAQ" ;
+        c:originalValue  "NASDAQ" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a6d27ed2-a3fe-3b4a-848b-eb57b4458113> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance     "1" ;
+        c:name           "Economy of the United States" ;
+        c:originalValue  "Economy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c04552-e625-3a39-93f8-3544f0172fe0> .
+
+<http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2935a459-60df-31df-ba3e-24ddcfa89281> ;
+        c:importance     "2" ;
+        c:name           "Twitter" ;
+        c:originalValue  "Twitter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1deb7db-1a06-3168-8430-de8619280a93> .

@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:importance     "1" ;
+        c:name           "Political parties in the United States" ;
+        c:originalValue  "Political parties in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/187e9b0f-e747-35dc-a25d-c06c162ddb8b> .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:importance     "2" ;
+        c:name           "Democratic Party" ;
+        c:originalValue  "Democratic Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c1bcf03d-a054-3fa0-b622-75311bdd1bea> .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+auBswzBSynlA6fnpbHAZUAlP1s=|cMvZrwIBfOctreloOeqxU3IjlrWA9veV0cYP9cVe5b8YNJLVbirhKg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:09.897" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:importance     "2" ;
+        c:name           "Presidency of Barack Obama" ;
+        c:originalValue  "Presidency of Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca6fc8a9-a961-3e5e-a941-14c957361c83> .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:importance     "2" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f4b05123-4bf4-d93d-14da-54237e932f98" ;
+        c:docDate          "2015-05-30 09:38:10.022" ;
+        c:docTitle         "" ;
+        c:document         "Obama Pushes Skeptical Legislators Hard on Pacific Trade Deal. President Obama is aggressively courting Republicans and Democrats to grant him accelerated power to finalize a massive trade accord with 11 nations across the Pacific Rim." ;
+        c:id               "http://id.opencalais.com/l82l3wp6F8d61FM0nf-wFA" .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24171aef-aefb-307d-b6cc-addc0ba5fb6f> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .

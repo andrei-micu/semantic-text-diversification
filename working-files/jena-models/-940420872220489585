@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dcb5e903-cd20-32d1-9d8b-fcf7e7e2367e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dcb5e903-cd20-32d1-9d8b-fcf7e7e2367e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|jKfUgCOtcPJxtY7V9nm1RyGUEII=|ZWJrjy65k7axRsYNM6O39Dc7MM5qpKixxaco8EYVhfLWEggKZGKyJQ==" ;
+        c:submissionDate  "2015-05-30 10:44:54.075" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dcb5e903-cd20-32d1-9d8b-fcf7e7e2367e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b00b6d48-2ba1-dddc-14da-54862bb760f9" ;
+        c:docDate          "2015-05-30 10:44:54.138" ;
+        c:docTitle         "" ;
+        c:document         "Best of Letterman's finale. " ;
+        c:id               "http://id.opencalais.com/wYMJZRbbTC8ZxuQIYjiFWQ" .
+
+<http://d.opencalais.com/dochash-1/dcb5e903-cd20-32d1-9d8b-fcf7e7e2367e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dcb5e903-cd20-32d1-9d8b-fcf7e7e2367e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

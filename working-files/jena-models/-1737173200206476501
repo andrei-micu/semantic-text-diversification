@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:importance     "1" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:importance     "2" ;
+        c:name           "National Law Enforcement Officers Memorial" ;
+        c:originalValue  "National Law Enforcement Officers Memorial" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a8b5175-e278-31b7-b811-5a06cc376eb5> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:importance     "1" ;
+        c:name           "Hattiesburg metropolitan area" ;
+        c:originalValue  "Hattiesburg metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad50e0a1-50d3-36ed-a1ac-d092f8a335d2> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "465ba12f-273e-33e9-14da-543152a760f9" ;
+        c:docDate          "2015-05-30 10:39:06.788" ;
+        c:docTitle         "" ;
+        c:document         "2 Police Lives Lost Are the Focus in Mississippi. Scores of law enforcement officers and hundreds of ordinary citizens attended the memorial service for two Hattiesburg, Miss., police officers who were shot during a traffic stop Saturday." ;
+        c:id               "http://id.opencalais.com/zAnUFdIS-pKcn4RkLnJa3A" .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:importance     "1" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:importance     "2" ;
+        c:name           "Police" ;
+        c:originalValue  "Police" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a182b6c-ea20-3768-948c-2d3aa60d757a> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:score           "0.513" .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XGvt1ya7i9mmitC18Uw9O5CuGco=|YseNb+KklHPY3kQcCaIEfgQLiZQcs8A3yKvf1o/HQmbrnGLoqN/70A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:06.538" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:importance     "2" ;
+        c:name           "Hattiesburg, Mississippi" ;
+        c:originalValue  "Hattiesburg, Mississippi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/625c4bb5-a428-3abb-94be-1a6f96373fa0> .
+
+<http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6ca3993-873d-3112-b436-9cb0d714da6d> ;
+        c:score           "1.000" .

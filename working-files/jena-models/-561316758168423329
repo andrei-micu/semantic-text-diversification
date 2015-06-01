@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465> ;
+        c:importance     "1" ;
+        c:name           "Freedom of speech" ;
+        c:originalValue  "Freedom of speech" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b4a73919-148b-35a3-9ee2-207f554c6caa> .
+
+<http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465> ;
+        c:score           "0.744" .
+
+<http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465> ;
+        c:importance     "1" ;
+        c:name           "Jyllands-Posten Muhammad cartoons controversy" ;
+        c:originalValue  "Jyllands-Posten Muhammad cartoons controversy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e40d83d7-b745-33e7-8a8d-983bd97f538f> .
+
+<http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465> ;
+        c:importance     "2" ;
+        c:name           "Freedom of expression" ;
+        c:originalValue  "Freedom of expression" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c5968f8-04c2-3539-93bb-6614bd2c48e8> .
+
+<http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e1d69dd0-4484-b6dd-14da-53d8c6d760f9" ;
+        c:docDate          "2015-05-30 10:33:04.103" ;
+        c:docTitle         "" ;
+        c:document         "'Charlie Hebdo' Staffer Pushes Back Against Writers' Opposition To Award. \"If you're standing for the freedom of expression, you can't be at one moment for this freedom of expression, and, two or three minutes later, against that,\" film critic Jean-Baptiste Thoret says." ;
+        c:id               "http://id.opencalais.com/pZ1NamP8laejae4uaV9PWw" .
+
+<http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465> ;
+        c:importance     "1" ;
+        c:name           "Charlie Hebdo" ;
+        c:originalValue  "Charlie Hebdo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d442aed5-ce1c-329f-8831-246b3c281a40> .
+
+<http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465> ;
+        c:importance     "2" ;
+        c:name           "Mass media" ;
+        c:originalValue  "Mass media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8372098-cb83-3f4f-a0a7-d2f29778bc39> .
+
+<http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e278817f-2768-37f6-934c-6d90cb88a465> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|h/6kfYrH//5BJnqdyY+v4k64FoQ=|HkplNyX/XVrZb+dLkXg7Gh46zRhyt7Ijkp/42aF6pm/RxyHdU6gKHw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:03.853" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

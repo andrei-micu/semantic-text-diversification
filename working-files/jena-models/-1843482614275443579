@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bnXbv6Y8yto368CcXmwhDQuj/R0=|RV1WUspyjPIonZHaksml6O3GUeVxlwVaw9Y6qnYCgTtpgOdTqwOhAw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:10.320" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b> ;
+        c:importance     "1" ;
+        c:name           "Athletics" ;
+        c:originalValue  "Athletics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1cc612e7-8a68-30c9-9186-fc4284cb2b0b> .
+
+<http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b> ;
+        c:score           "0.898" .
+
+<http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b> ;
+        c:importance     "1" ;
+        c:name           "Pole vault" ;
+        c:originalValue  "Pole vault" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9e12bf0-4af6-3174-b79d-21dfa7730c7c> .
+
+<http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1e7a4b5e-ba11-baec-14da-546cd7013c98" ;
+        c:docDate          "2015-05-30 09:43:10.476" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Blind pole vaulter clears 3.5 metres. Blind pole vaulter Charlotte Brown clears 3.5 metres to win a bronze medal at the Texas state high school championships." ;
+        c:id               "http://id.opencalais.com/ZmCIV9Wy7eQyuE6FhLN3Eg" .
+
+<http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b> ;
+        c:score           "0.947" .
+
+<http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/106b36dd-995e-3cd7-8e61-991ee05da66b> ;
+        c:importance     "1" ;
+        c:name           "Toby Stevenson" ;
+        c:originalValue  "Toby Stevenson" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56a7f5b3-f93a-3031-ae20-d17b85be1134> .

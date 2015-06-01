@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:importance     "1" ;
+        c:name           "Geography of Indiana" ;
+        c:originalValue  "Geography of Indiana" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65486ea0-2d95-3577-863f-967f6822a2b8> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:importance     "2" ;
+        c:name           "Murder" ;
+        c:originalValue  "Murder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4442334b-792e-34c3-9fb9-ebc855c20658> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:importance     "2" ;
+        c:name           "Indianapolis, Indiana" ;
+        c:originalValue  "Indianapolis, Indiana" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/271176d1-2662-3f28-a866-7dca7bc56dbc> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4T6Zh8P1sZt+BrQcp4O/4gIYG6w=|c4bcO4Gau5vk4JBQk+TNRAsCDEM9xuJLPwjWMRHB3w2S4K5aY83D5A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:07.671" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:score           "0.986" .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:importance     "1" ;
+        c:name           "Indianapolis" ;
+        c:originalValue  "Indianapolis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5180ea88-adeb-3f0d-bc30-a16bac670a43> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ea9a3ec6-50d8-e2c7-14da-539f1d7653ed" ;
+        c:docDate          "2015-05-30 09:29:07.952" ;
+        c:docTitle         "" ;
+        c:document         "Indianapolis: Tensions Stir As Murder Rate Surges. Most of the suspects – and most of the victims – are young black men. That's opened up a difficult conversation about race and class." ;
+        c:id               "http://id.opencalais.com/XK8WcVpAupve5UMmW6*R6Q" .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:importance     "2" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:importance     "2" ;
+        c:name           "National Road" ;
+        c:originalValue  "National Road" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3eaec8d5-f753-3254-aa67-173eaf8b0df1> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:importance     "2" ;
+        c:name           "Criminal law" ;
+        c:originalValue  "Criminal law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82be3750-fcbb-358e-9efe-8cddcd1736a3> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:importance     "1" ;
+        c:name           "Indianapolis metropolitan area" ;
+        c:originalValue  "Indianapolis metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e77e7e6d-7e8c-333a-a425-a0af8feb69d4> .
+
+<http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f088b664-fc24-3c37-a232-333b015117dc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

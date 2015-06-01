@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58> ;
+        c:score           "0.867" .
+
+<http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58> ;
+        c:importance     "1" ;
+        c:name           "LGBT rights in the Bahamas" ;
+        c:originalValue  "LGBT rights in the Bahamas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b5454d17-859c-3f33-8309-db2e37fab557> .
+
+<http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58> ;
+        c:importance     "1" ;
+        c:name           "LGBT social movements" ;
+        c:originalValue  "LGBT social movements" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68a4b568-2b67-370f-8556-0aa76eaf2805> .
+
+<http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|mCNP2BdlLZDjyr2dLS5Rjr3wWo8=|dXGgv6V9Jcbf1fxL2xzKrcME6a8ZM0YuXJAc4Z/G7CaZF6jZnNvf8Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:18.471" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f77dfdbe-fbb3-de5e-14da-54b8127760f9" ;
+        c:docDate          "2015-05-30 10:48:18.752" ;
+        c:docTitle         "" ;
+        c:document         "3 Decades After Hate Crime, Ireland’s Gay Population Hails Vote. The killing of a gay man that produced a movement also led to a distinction for Ireland: It is the only country to legalize same-sex marriage by popular vote." ;
+        c:id               "http://id.opencalais.com/OSeXhMvx*PEVbf72xZL2hQ" .
+
+<http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/763bd8af-7bd6-3a79-8147-10c08996ab58> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .

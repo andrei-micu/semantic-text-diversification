@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:importance     "2" ;
+        c:name           "Iran–United States relations" ;
+        c:originalValue  "Iran–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cc4f0d1-5a61-38ff-9a0d-6996481b513d> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:importance     "2" ;
+        c:name           "Weapons of mass destruction" ;
+        c:originalValue  "Weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9562e4d9-0ad0-3dde-80ea-ba76fafed720> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:importance     "1" ;
+        c:name           "Iran" ;
+        c:originalValue  "Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0249c322-e67c-3627-bd67-41c134686d4c> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:importance     "2" ;
+        c:name           "Politics of Iran" ;
+        c:originalValue  "Politics of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c472f367-69ac-34bf-8ddd-fe9911935ccf> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:importance     "2" ;
+        c:name           "Nuclear proliferation" ;
+        c:originalValue  "Nuclear proliferation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f667b49b-2db2-3365-a7c3-43453c82b78f> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FfACyXtOc8CbF+JWB3Kq6cCcYuw=|Ac8P6rZI6J1kq1UPGjB4uSxjWvxihLNo3lH126xObaTYzwPtyWSxvw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:13.444" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:importance     "2" ;
+        c:name           "Iran and weapons of mass destruction" ;
+        c:originalValue  "Iran and weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72f425bc-5601-31b2-bc8a-87f681dadd60> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6> ;
+        c:importance     "1" ;
+        c:name           "Nuclear program of Iran" ;
+        c:originalValue  "Nuclear program of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e55ddb64-2b4a-3d36-ab91-61afd402b42a> .
+
+<http://d.opencalais.com/dochash-1/0263b1c1-1377-345f-bb10-d9ca824b40c6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9772203e-ea42-8c60-14da-54504e4653ed" ;
+        c:docDate          "2015-05-30 09:41:13.725" ;
+        c:docTitle         "" ;
+        c:document         "Iran prepared for all scenarios in nuclear talks: negotiator. VIENNA (Reuters) - Iran is prepared for \"all scenarios\" in talks with world powers about curbing its nuclear program in exchange for sanctions relief, its top nuclear negotiator said on Friday when asked what would happen if no final deal was reached by July." ;
+        c:id               "http://id.opencalais.com/nkuugxVFHHQPoFBx2481HQ" .

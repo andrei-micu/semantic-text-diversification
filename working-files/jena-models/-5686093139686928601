@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:importance     "2" ;
+        c:name           "Jerky" ;
+        c:originalValue  "Jerky" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/431a4883-486a-3803-b859-6f06e3b19445> .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:importance     "1" ;
+        c:name           "Himalayas" ;
+        c:originalValue  "Himalayas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/909e4667-b357-3eb3-9c3e-c656f77ab0dd> .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:importance     "1" ;
+        c:name           "Physical geography" ;
+        c:originalValue  "Physical geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07bc24e7-a33a-34a3-8a5c-23a4b068fccb> .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:importance     "2" ;
+        c:name           "Sherpa people" ;
+        c:originalValue  "Sherpa people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3661e52-a21c-36fd-9d43-9c8863e2567b> .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:score           "0.866" .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ff49fa53-076b-b363-14da-542dccb719b3" ;
+        c:docDate          "2015-05-30 10:38:52.231" ;
+        c:docTitle         "" ;
+        c:document         "Native son returns for forgotten sherpas. The Goma Air flight makes a swift turn over jagged white peaks and lush Himalayan farmlands before a herky-jerky landing in what's been called the world's most dangerous airport." ;
+        c:id               "http://id.opencalais.com/hE7gWc9AGEEbXuDfQELXAQ" .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:importance     "2" ;
+        c:name           "Dried meat" ;
+        c:originalValue  "Dried meat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/71a677b5-aa09-3740-9549-51449494349d> .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:importance     "2" ;
+        c:name           "Goma" ;
+        c:originalValue  "Goma" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/24b90067-d7ba-326a-8eab-92257360efba> .
+
+<http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/50cde4c3-0d1f-3d5d-aba6-b6e5b781d2e8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|PPcjzu6yj26bMv9X2+iBqvW2hNg=|aRzBqH9RLDPtZu8cAyikNtpMS9wVktgfZat651TcxjtgWge+AflDgA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:52.107" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

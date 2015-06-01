@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4daf7714-b517-4b7e-14da-542e26b35464" ;
+        c:docDate          "2015-05-30 10:38:53.781" ;
+        c:docTitle         "" ;
+        c:document         "New indictment says Hernandez shot witness. Aaron Hernandez was accused of shooting former right-hand man Alexander Bradley in the face in February 2013, but he never faced any criminal charges -- until now." ;
+        c:id               "http://id.opencalais.com/hK9d3aNm3xLdHnIVTAsMJQ" .
+
+<http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d> ;
+        c:importance     "1" ;
+        c:name           "Hernández" ;
+        c:originalValue  "Hernández" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cf3b4c7-2d91-3f70-8831-677a2788af22> .
+
+<http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zRumkXbK3CbczUoT99Grh7+n8wo=|lAfLPhXs74aHNV9LA513+uSmQq94Me0jKhrXWYUu40CspyRbvNdJQQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:53.547" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d> ;
+        c:importance     "1" ;
+        c:name           "Shawn Hernandez" ;
+        c:originalValue  "Shawn Hernandez" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6eb03063-5277-3706-b110-31e322fc470a> .
+
+<http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d> ;
+        c:importance     "2" ;
+        c:name           "James Chico Hernandez" ;
+        c:originalValue  "James Chico Hernandez" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ec431643-91d0-3e5a-9447-612cf406558e> .
+
+<http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d> ;
+        c:importance     "1" ;
+        c:name           "Indictment" ;
+        c:originalValue  "Indictment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff23cea1-9ef5-3ccb-9632-8de987d5ae56> .
+
+<http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ea317d0e-73fa-34df-81bb-684ab56aa09d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

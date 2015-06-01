@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance     "2" ;
+        c:name           "Economy of the United States" ;
+        c:originalValue  "Economy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c04552-e625-3a39-93f8-3544f0172fe0> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance     "2" ;
+        c:name           "Amazon tax" ;
+        c:originalValue  "Amazon tax" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/569ee04a-7cc7-32af-8df3-181c360f50a1> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance     "2" ;
+        c:name           "Web services" ;
+        c:originalValue  "Web services" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61e4adba-416f-3728-b897-6ad273d63309> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9CPF3VdXj34EnJnTYYJE3RJ+0GU=|WVeMyh1z7JTh7LfKiRkIBc4aYmIhvQzyRopA/dN1Zj83oenNVBH5uQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:26:58.836" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3f8d4459-4c3e-0fb9-14da-537fa9434709" ;
+        c:docDate          "2015-05-30 09:26:59.085" ;
+        c:docTitle         "" ;
+        c:document         "Amazon web services 'growing fast'. Amazon says its web services business generated sales of $1.57bn in the first quarter of the year and is profitable." ;
+        c:id               "http://id.opencalais.com/vIVOuqEhKUs77PdDxIXFBw" .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance     "1" ;
+        c:name           "Electronic commerce" ;
+        c:originalValue  "Electronic commerce" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7e08d51f-07f1-3491-a789-243db3ae4d2f> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance     "2" ;
+        c:name           "Amazon Web Services" ;
+        c:originalValue  "Amazon Web Services" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/99b9dafb-1dfe-3bfa-994b-9476ff040292> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance     "2" ;
+        c:name           "Dot-com" ;
+        c:originalValue  "Dot-com" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/320c6a68-d74e-322e-b2dc-89cf34546edb> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:score           "0.955" .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance     "1" ;
+        c:name           "Computing" ;
+        c:originalValue  "Computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance     "2" ;
+        c:name           "Amazon.com controversies" ;
+        c:originalValue  "Amazon.com controversies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/95c1675c-2ab9-33b0-9903-c4759cb252b3> .
+
+<http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0bc6333-16e7-3e39-ab7d-c9eea8fe1dba> ;
+        c:importance     "1" ;
+        c:name           "Amazon.com" ;
+        c:originalValue  "Amazon.com" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cdff1945-ae17-3b3d-9c49-0a2ba0fd8b2f> .

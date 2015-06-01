@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:importance     "2" ;
+        c:name           "Syria" ;
+        c:originalValue  "Syria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34e250e7-a386-38cf-8d7b-6b45399ed952> .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:importance     "1" ;
+        c:name           "Fertile Crescent" ;
+        c:originalValue  "Fertile Crescent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5435af2d-c03d-3907-8586-8f38ab6b08eb> .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:importance     "2" ;
+        c:name           "Western Asia" ;
+        c:originalValue  "Western Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/631fb2b9-52dc-3d33-b119-8bf56d76a361> .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|p4e16uuLz8qW7VXOg+RjZG9ev7M=|DnD6h+DjlJa7FFZGQDVKrX+E8bI3VTZy4hPkD2a59qlesgZKHLgx1Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:44.785" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:importance     "1" ;
+        c:name           "Levant" ;
+        c:originalValue  "Levant" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3bbb187a-70ce-3a30-b61f-34126b6498f8> .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "666e8fbb-76a9-f695-14da-53f16b1760f9" ;
+        c:docDate          "2015-05-30 10:34:44.894" ;
+        c:docTitle         "" ;
+        c:document         "U.S. military starts training Syrian fighters to combat Islamic State. WASHINGTON/ISTANBUL (Reuters) - The United States has begun a long-awaited program to train Syrian fighters to go into combat against Islamic State, the Pentagon said on Thursday, deepening America's role in Syria's civil war after eight months of airstrikes against the Sunni militants." ;
+        c:id               "http://id.opencalais.com/xOCkWIuZqnAh1elkfJpoig" .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ade28e15-46b7-3b49-bce2-e1d8d69f558c> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

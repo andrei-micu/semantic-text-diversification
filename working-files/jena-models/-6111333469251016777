@@ -1,0 +1,154 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|30M+pFkxT/2UK6Aqx/DGLPFYvzg=|HUlD/dnMHXtjo6t7cGm69ArPdno3GR019Ls1+NE+eNYwQtquljN3iA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:04.584" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "2" ;
+        c:name           "Mars Exploration Rover" ;
+        c:originalValue  "Mars Exploration Rover" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bdbce6be-af35-377a-9f73-53868e64d60b> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "2" ;
+        c:name           "Mars Odyssey" ;
+        c:originalValue  "2001 Mars Odyssey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f33b3e3a-885b-334e-b31e-cb78b0488dcd> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "1" ;
+        c:name           "Mars exploration" ;
+        c:originalValue  "Mars exploration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/255a3eda-75b8-3323-a818-29eba4b61884> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "2" ;
+        c:name           "Mars program" ;
+        c:originalValue  "Mars program" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca1515ae-24d2-37f8-9f03-9fad68fbdd49> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "2" ;
+        c:name           "Mars rover" ;
+        c:originalValue  "Mars rover" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2dfd56be-b4d9-3dc0-b0ab-f4c4fbf1a63e> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:score           "0.657" .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "1" ;
+        c:name           "Space technology" ;
+        c:originalValue  "Space technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a8990740-7cb6-3aa9-a27b-93904d73bc40> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "2" ;
+        c:name           "Astronomy on Mars" ;
+        c:originalValue  "Astronomy on Mars" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/072aedc5-029c-3bbd-8153-a96bca3ad4a2> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "2" ;
+        c:name           "Rover" ;
+        c:originalValue  "Rover (space exploration)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/73d7a03e-8f69-3f31-a30f-434418a70884> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:score           "0.960" .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "1" ;
+        c:name           "Spaceflight" ;
+        c:originalValue  "Spaceflight" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a047fab-a818-39e0-b940-49bc12ce74f3> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "2" ;
+        c:name           "Unmanned spacecraft" ;
+        c:originalValue  "Unmanned spacecraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f5614b47-d6bd-3d0a-959d-4c79df7a5f8b> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4fe010aa-cfd9-b44a-14da-545cca834709" ;
+        c:docDate          "2015-05-30 09:42:04.662" ;
+        c:docTitle         "" ;
+        c:document         "Mysterious blue sunset on Mars. NASA's rover Curiosity captured incredible images of a blue sunset on Mars. CNN's Rachel Crane reports." ;
+        c:id               "http://id.opencalais.com/4qBcwTP8SeYXu6zGI-72zA" .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "2" ;
+        c:name           "Spacecraft" ;
+        c:originalValue  "Spacecraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8218776a-fbb0-3147-8907-0b12e54ecb1a> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8a81fa42-3698-32eb-bff5-777391305d1c> ;
+        c:importance     "2" ;
+        c:name           "Mars Science Laboratory" ;
+        c:originalValue  "Mars Science Laboratory" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ef482c37-f748-34fb-ba85-09232d58f3cc> .

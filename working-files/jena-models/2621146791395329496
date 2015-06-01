@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/006f69eb-d8a0-30c1-9e2d-b206bc409cca/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/006f69eb-d8a0-30c1-9e2d-b206bc409cca> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/006f69eb-d8a0-30c1-9e2d-b206bc409cca/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/006f69eb-d8a0-30c1-9e2d-b206bc409cca> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GosGzuyA3Q0/lvsB8MABZfpdRe8=|WP1VOsZSBuzbVRZekOqERvGl/pYPhD8V+aAaAF4q6qjcbUKsH9iaOg==" ;
+        c:submissionDate  "2015-05-30 09:40:21.685" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/006f69eb-d8a0-30c1-9e2d-b206bc409cca>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c7fbd19e-0e97-dccb-14da-5443ab54551f" ;
+        c:docDate          "2015-05-30 09:40:21.748" ;
+        c:docTitle         "" ;
+        c:document         "10 most scenic airports. " ;
+        c:id               "http://id.opencalais.com/e5vw7ResREynHZzSy9ZFNA" .

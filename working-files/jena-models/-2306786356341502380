@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3> ;
+        c:importance     "2" ;
+        c:name           "Institute for Science and International Security" ;
+        c:originalValue  "Institute for Science and International Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c71d202e-bbaf-3611-8503-af60f3896591> .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "646e62ad-3d9a-eb8e-14da-54b40251927e" ;
+        c:docDate          "2015-05-30 10:48:02.016" ;
+        c:docTitle         "" ;
+        c:document         "Obama: We're not losing to ISIS. Assessing his war on ISIS after the group overtook the key Iraqi city of Ramadi, President Barack Obama said in an interview this week his strategy against the terrorists isn't failing." ;
+        c:id               "http://id.opencalais.com/w3tfxRgSgqisedEIY4yMFA" .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3> ;
+        c:score           "0.931" .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2UZQEZdHqcPP6qbv/hW1dVN/WDs=|JbxjD0DVSdKSSsO/DWZyzG58E1UB9RjnP6fsKhpYx8k2mIsB6nbwvQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:01.829" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/994ecffc-fab4-36aa-8da4-eea770d2fab3> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .

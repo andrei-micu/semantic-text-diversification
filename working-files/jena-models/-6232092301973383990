@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900> ;
+        c:importance     "2" ;
+        c:name           "Valedictorian" ;
+        c:originalValue  "Valedictorian" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dbb8bb45-cbc4-331c-895e-2d6c3f06dd8e> .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900> ;
+        c:importance     "1" ;
+        c:name           "Academia" ;
+        c:originalValue  "Academia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/edd007cf-7e4e-3ec4-9974-d0761c6c97ba> .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900> ;
+        c:importance     "2" ;
+        c:name           "Graduation" ;
+        c:originalValue  "Graduation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/84d8ade5-6dac-3818-9034-ca18ea8d44cc> .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900> ;
+        c:importance     "1" ;
+        c:name           "Education" ;
+        c:originalValue  "Education" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cNEWFV1t4oNKLm8xT6MOOviKTCo=|IDM5jQQIt0XRrEjEUVdVNMfU64yRMtvGPoRk+1hCr0T4cBZ6jk8Hyg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:40.921" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900> ;
+        c:importance     "2" ;
+        c:name           "Qualifications" ;
+        c:originalValue  "Qualifications" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e559fa5-b895-3555-9e9f-2ae5daae407f> .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2c4ddfca-e1bf-3b42-14da-54485ca32f98" ;
+        c:docDate          "2015-05-30 09:40:41.342" ;
+        c:docTitle         "" ;
+        c:document         "'Black people' remark: Principal fired. A Georgia educator who was caught on camera calling out \"all the black people\" for leaving a graduation ceremony during the valedictorian's speech has been fired." ;
+        c:id               "http://id.opencalais.com/VFYI8WQsAamLPnVap7k8vw" .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900> ;
+        c:importance     "1" ;
+        c:name           "Knowledge" ;
+        c:originalValue  "Knowledge" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9acd56fd-8228-3b51-a940-ca773c57c896> .
+
+<http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dd6b0bce-d902-3312-9194-29ecdb0a2900> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

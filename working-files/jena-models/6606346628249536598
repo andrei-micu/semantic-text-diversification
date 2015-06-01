@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:score           "0.791" .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:importance     "2" ;
+        c:name           "Beyoncé Knowles" ;
+        c:originalValue  "Beyoncé Knowles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d14eaf4f-6d13-31f3-a0d1-c85fde38a4a4> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:importance     "2" ;
+        c:name           "Video Phone" ;
+        c:originalValue  "Video Phone (song)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87ec9356-a449-3817-86f3-61e1646ce05b> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:importance     "1" ;
+        c:name           "Rhythm and blues" ;
+        c:originalValue  "Rhythm and blues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1f50392b-f0c2-31ee-b2b5-0a5e4660af65> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|UBCkijxdjEyTRXagzJC76q4q8jc=|T18D6h79sZe1Ihk15IC5oqpNMk5qpBNV10Dw7E4g1rl+0WcLQDv/qg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:45.413" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:score           "0.628" .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:importance     "1" ;
+        c:name           "Music industry" ;
+        c:originalValue  "Music industry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59870a3a-a364-37ec-9a66-fa16ecb87d0e> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:importance     "2" ;
+        c:name           "Dangerously in Love" ;
+        c:originalValue  "Dangerously in Love" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/597d0c06-fc5c-3448-8cac-a5eb5a5bf1bf> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:importance     "2" ;
+        c:name           "Grammy Award for Best Contemporary R&B Album" ;
+        c:originalValue  "Grammy Award for Best Contemporary R&B Album" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b04ae74c-2800-3472-bdd2-151041671e45> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ac1ff8a6-c456-da29-14da-542c2a549095" ;
+        c:docDate          "2015-05-30 10:38:45.569" ;
+        c:docTitle         "" ;
+        c:document         "Met Gala 2015: The dresses that were doing the most. When will the world learn that you cannot beat Beyoncé?" ;
+        c:id               "http://id.opencalais.com/oaI0m0LyZdF3iZx4Pgqkzw" .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e0951829-767e-3d79-8ded-6c28aa07b1ba> ;
+        c:importance     "2" ;
+        c:name           "Freakum Dress" ;
+        c:originalValue  "Freakum Dress" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/76503b02-5d5a-33e5-ba43-77d0521fc2e1> .

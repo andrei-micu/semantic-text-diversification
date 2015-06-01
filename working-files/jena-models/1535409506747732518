@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:importance     "2" ;
+        c:name           "Detainees held in the Bagram Theater Internment Facility" ;
+        c:originalValue  "Detainees held in the Bagram Theater Internment Facility" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/737b9370-bb8a-3373-baa0-de4ad8ade137> .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:importance     "1" ;
+        c:name           "Guantanamo captives' habeas corpus petitions" ;
+        c:originalValue  "Guantanamo captives' habeas corpus petitions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/736bda55-96ce-34b4-b23f-d05c2bcd88a3> .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "153d0020-d57d-8a4f-14da-53e232e653ed" ;
+        c:docDate          "2015-05-30 09:33:42.649" ;
+        c:docTitle         "" ;
+        c:document         "Canada releases ex-Guantanamo inmate. A Canadian court releases on bail an ex-Guantanamo Bay detainee after refusing a final effort by the government to keep him imprisoned." ;
+        c:id               "http://id.opencalais.com/14Bjc*zANCDtg-5H6aE9eg" .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:importance     "1" ;
+        c:name           "Extrajudicial prisoners of the United States" ;
+        c:originalValue  "Extrajudicial prisoners of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fde4196d-7b73-33fe-ade1-690afaa47549> .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:score           "0.967" .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:importance     "2" ;
+        c:name           "Lakhdar Boumediene" ;
+        c:originalValue  "Lakhdar Boumediene" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0da2c129-24ca-3bf4-a1e1-46e31a6cf97c> .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XsZE5eSW+K6cd5LiYB7Ha8Gz3zY=|kzKBrIZr8GwhyHOAjV+dmtZ1+tAUHxE+N/VV0IYtiPo7EXoqvsepaA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:33:42.446" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:importance     "1" ;
+        c:name           "Human rights abuses" ;
+        c:originalValue  "Human rights abuses" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16d08bc5-6742-3473-88ec-135f6d874342> .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef747e2b-f8ab-30cb-b8b4-b36a2fe2a2a9> ;
+        c:score           "0.952" .

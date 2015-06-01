@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "30f28c16-7d05-02be-14da-5466a2d4551f" ;
+        c:docDate          "2015-05-30 09:42:48.684" ;
+        c:docTitle         "" ;
+        c:document         "Spotify adds podcasts and video clips. Spotify adds non-music content to its streaming app including brief news bulletins and longer video and audio podcasts." ;
+        c:id               "http://id.opencalais.com/*liwSSFICz3zzwFB-sVnnw" .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance     "2" ;
+        c:name           "Digital media" ;
+        c:originalValue  "Digital media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/771e4d9a-b0cd-37a2-bec6-6840c4cafab3> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:score           "0.999" .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance     "2" ;
+        c:name           "Web syndication" ;
+        c:originalValue  "Web syndication" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aed3d7fa-1937-3dbb-9e2f-6ab6510688e1> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance     "1" ;
+        c:name           "Android software" ;
+        c:originalValue  "Android software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/33e0c92e-9f17-3211-9ed4-286b65befea0> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|sLvUt0+te7Uzr1ocW1GSexn61h0=|TxIoSJfXShKEtM9L2Sb7Jd50z6wCkEe6S4t4MDrm+plOzYmiujJP8w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:44.909" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance     "2" ;
+        c:name           "Freeware" ;
+        c:originalValue  "Freeware" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/336c3b2e-f848-3c01-90f6-7aa674fc5b5b> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance     "1" ;
+        c:name           "Digital audio" ;
+        c:originalValue  "Digital audio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/64447afb-045b-34db-9a52-dae5bed0254e> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance     "2" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance     "2" ;
+        c:name           "Podcast" ;
+        c:originalValue  "Podcast" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a56db137-c583-3c06-94a5-2317066f326a> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance     "1" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/48396d65-df53-33e3-8b9b-10e6147bf706> ;
+        c:importance     "2" ;
+        c:name           "Spotify" ;
+        c:originalValue  "Spotify" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a471629d-07e3-3bcf-83c0-cea6d2e58635> .

@@ -1,0 +1,153 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:score           "0.583" .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance     "2" ;
+        c:name           "Kuala Lumpur" ;
+        c:originalValue  "Kuala Lumpur" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e71f542b-3773-36a1-9efc-413612f6ba69> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance     "1" ;
+        c:name           "Politics of Malaysia" ;
+        c:originalValue  "Politics of Malaysia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d0a45a8-e619-32a3-9fd6-732376c1eb53> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:score           "0.774" .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance     "2" ;
+        c:name           "Najib Razak" ;
+        c:originalValue  "Najib Razak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/660801c1-5b91-34b8-a304-a12459168a53> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|CShaXid1pPelRwCGGtWXUbdRpt8=|UmtTGMzXe63yPUjvzsRtX1dBlgosiUQs/npXD7WlwS/w/19pX2ax5A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:34.019" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance     "1" ;
+        c:name           "Prime Ministers of Malaysia" ;
+        c:originalValue  "Prime Ministers of Malaysia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e646dca-d392-31bf-b20f-0ea4e5933775> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance     "2" ;
+        c:name           "June 2006 in Southeast Asia" ;
+        c:originalValue  "June 2006 in Southeast Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/affb87e6-726e-303d-8fa6-b315f7353b71> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance     "1" ;
+        c:name           "Malaysian Muslims" ;
+        c:originalValue  "Malaysian Muslims" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7bfc8c4b-1179-3dad-928f-46a47b135af8> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fdb0d80d-3234-8ce6-14da-548fec3719b3" ;
+        c:docDate          "2015-05-30 10:45:34.129" ;
+        c:docTitle         "" ;
+        c:document         "Malaysia orders rescue of migrants, Myanmar to attend conference. KUALA LUMPUR/BANGKOK (Reuters) - Malaysia's Prime Minister Najib Razak said on Thursday he had ordered the navy to rescue thousands of migrants adrift at sea, and a Thai official said Myanmar had agreed to attend an emergency conference on the crisis." ;
+        c:id               "http://id.opencalais.com/X1NC6svuP9qbYuoA1bXRjA" .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/134fae8c-56de-3801-80f8-17f4a0a842bc> ;
+        c:importance     "2" ;
+        c:name           "Malaysia" ;
+        c:originalValue  "Malaysia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7501b1f-9587-3522-b527-f78c7bfa1206> .

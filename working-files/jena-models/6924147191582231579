@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4> ;
+        c:importance     "1" ;
+        c:name           "Mississippi Blues Trail" ;
+        c:originalValue  "Mississippi Blues Trail" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ef3e966-ffb1-33c5-b6dc-2cf5ec0d92d2> .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4> ;
+        c:importance     "1" ;
+        c:name           "Blues" ;
+        c:originalValue  "Blues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/90d37ee3-e4fe-3548-b839-feade09154b2> .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4> ;
+        c:importance     "2" ;
+        c:name           "Riley" ;
+        c:originalValue  "Riley (given name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b81b9938-5920-303b-962b-3c7ca6cf96f1> .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "263dc49b-9618-7797-14da-545ba9e4551f" ;
+        c:docDate          "2015-05-30 09:42:00.309" ;
+        c:docTitle         "" ;
+        c:document         "Blues legend B.B. King dies. Riley B. King, the legendary guitarist known as B.B. King, whose velvety voice and economical, expressive style brought blues from the margins to the mainstream, died Thursday night." ;
+        c:id               "http://id.opencalais.com/DPlPM3h1Rkm5756DYIKU6A" .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|t42Jk1bENLxDVPrFn5iGfK0ezI0=|Ps//lgO4tnTQOULKxCqb/zN6jBl8jkO4cbbvP2FcP46A17jXIO69vQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:59.966" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4> ;
+        c:importance     "1" ;
+        c:name           "B.B. King" ;
+        c:originalValue  "B.B. King" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43f0188d-5b8f-32b8-9c45-d4fe6a686bb1> .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2b4ec27c-e402-3269-a9c2-92f8fe49dad4> ;
+        c:score           "1.000" .

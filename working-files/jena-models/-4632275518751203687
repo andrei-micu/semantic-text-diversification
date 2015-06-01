@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040> ;
+        c:score           "0.997" .
+
+<http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|WFZFuM4uwMqV22NnJt65RUe4gyE=|EWH+oduA1IhgUgugnPDtkoce63F13a7w8dNpqLDEGSBpDBCn4fbeww==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:38.100" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040> ;
+        c:importance     "1" ;
+        c:name           "Legal procedure" ;
+        c:originalValue  "Legal procedure" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ebdfabc-ead7-365f-a9c2-45622a965c50> .
+
+<http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "37be9912-8e19-3871-14da-53893f435464" ;
+        c:docDate          "2015-05-30 10:27:38.272" ;
+        c:docTitle         "" ;
+        c:document         "Tsarnaev’s Lawyers Focus on Chaotic Upbringing in Case Against Death Penalty. The defense faces a challenge as it tries to persuade the jury that Mr. Tsarnaev was a good teenager who was heavy influenced by his older brother." ;
+        c:id               "http://id.opencalais.com/AL3de306w0aeb9WDY391Qg" .
+
+<http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040> ;
+        c:importance     "1" ;
+        c:name           "Juries" ;
+        c:originalValue  "Juries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a361383-133a-38da-87ac-2a57f217a60f> .
+
+<http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/68988928-14c4-369f-8755-aa14055a8040> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

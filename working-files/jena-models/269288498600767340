@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a> ;
+        c:importance     "2" ;
+        c:name           "Flags of the Confederate States of America" ;
+        c:originalValue  "Flags of the Confederate States of America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0b844b1e-5866-33c6-bbdb-61b88061fe94> .
+
+<http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a> ;
+        c:importance     "1" ;
+        c:name           "Prom" ;
+        c:originalValue  "Prom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f161402-0a85-3074-9b0c-1de6cd85ec35> .
+
+<http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a> ;
+        c:importance     "1" ;
+        c:name           "American culture" ;
+        c:originalValue  "American culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/baf292da-508c-364b-9db4-176762c16fe3> .
+
+<http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "21573980-1398-0de9-14da-5400cff35464" ;
+        c:docDate          "2015-05-30 10:35:47.917" ;
+        c:docTitle         "" ;
+        c:document         "Teens' prom photo causes uproar. Guests Marc Lamont Hill and Ben Ferguson join Don Lemon to discuss a recent prom photo that featured a Confederate flag" ;
+        c:id               "http://id.opencalais.com/HEwM6v0rbiuImzgeUdbogQ" .
+
+<http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FxYrO7Y+tSj/m3KvBog4Xwk2HX8=|WrNsHQL/PKGjPW6a4l4cWedCyQhxx1jnGwHoCRlDpEcjk3jto2I3Nw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:47.839" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a> ;
+        c:importance     "2" ;
+        c:name           "Cultural history" ;
+        c:originalValue  "Cultural history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/86415632-55b0-36e6-8e01-c82d831200be> .
+
+<http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a> ;
+        c:score           "0.711" .
+
+<http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/112ad70c-30d7-3249-9205-3203cdbab09a> ;
+        c:importance     "1" ;
+        c:name           "Canadian culture" ;
+        c:originalValue  "Canadian culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0fff859-6508-3de9-aefc-ffec1919d5ef> .

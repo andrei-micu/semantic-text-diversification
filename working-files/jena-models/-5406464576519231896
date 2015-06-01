@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:importance     "1" ;
+        c:name           "Unemployment" ;
+        c:originalValue  "Unemployment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8e13850c-ff41-323c-9577-1c6f5a054fa5> .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ce47004b-f04a-1e1e-14da-53f78571927e" ;
+        c:docDate          "2015-05-30 10:35:10.002" ;
+        c:docTitle         "" ;
+        c:document         "US firms add 223,000 jobs in April. Employers in the US created 223,000 new jobs in April, official figures show, while the unemployment rate dropped to a seven-year low of 5.4%." ;
+        c:id               "http://id.opencalais.com/CCFhVc99QBc65-pq1v7FfQ" .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:importance     "1" ;
+        c:name           "Labor economics" ;
+        c:originalValue  "Labor economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/375db3eb-af89-36ad-b46a-5744f0c098fc> .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:importance     "2" ;
+        c:name           "Structural unemployment" ;
+        c:originalValue  "Structural unemployment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/743a02fc-6f52-370f-8a72-4f8fef4200f5> .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:importance     "2" ;
+        c:name           "Socioeconomics" ;
+        c:originalValue  "Socioeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a2df6d2-5d17-33e9-939c-305e2d9fc018> .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hvWtMnYT+fTG8PI/kneRZ29zJ70=|WWvh/24VaN1gKABGu/DC9CAN3RpnaVLsuowJGERMRdCAKgQqC/YKlA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:09.783" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:score           "0.953" .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37c43503-bd25-3c47-9d17-26cf2a8ba99e> ;
+        c:importance     "2" ;
+        c:name           "Job losses caused by the late-2000s recession" ;
+        c:originalValue  "Job losses caused by the late-2000s recession" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c54e3546-0700-3a50-a2e0-ad333d96d800> .

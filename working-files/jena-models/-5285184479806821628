@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:importance     "2" ;
+        c:name           "Hematology" ;
+        c:originalValue  "Hematology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f0dc1ccf-351f-3cd8-9303-80e36b400cf3> .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:score           "0.871" .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:importance     "1" ;
+        c:name           "Non-sexuality" ;
+        c:originalValue  "Non-sexuality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2785bb0-7de7-3b77-8cb5-077a14b7f705> .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gT2LSBf/Wiz+GH59iuGNl5GgpOw=|GQ7l9HnrRX1456qVD6BIwmqA92914QS9dahxh6ihE2J6IEWpzSmOFA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:09.732" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:importance     "2" ;
+        c:name           "Celibacy" ;
+        c:originalValue  "Celibacy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/53afd8b9-a2ed-3200-aa4d-03af083c376c> .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:importance     "1" ;
+        c:name           "Blood donation" ;
+        c:originalValue  "Blood donation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7cd800ec-4fc8-3cd3-8374-a25d8b84f153> .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:importance     "1" ;
+        c:name           "Transfusion medicine" ;
+        c:originalValue  "Transfusion medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d764395f-3f60-351f-b0d3-9d15e892c7a7> .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e033cccf-ac91-1363-14da-545e0c434709" ;
+        c:docDate          "2015-05-30 09:42:10.075" ;
+        c:docTitle         "" ;
+        c:document         "'Celibacy rule' on blood donors all wrong. During my senior year of high school in suburban New York in 2003, there was a blood drive held in the school's cafeteria." ;
+        c:id               "http://id.opencalais.com/rencVHGRyfFDEKoOGtqtCQ" .
+
+<http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/904320f4-c4c9-3a69-98a1-50f1eddb7731> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .

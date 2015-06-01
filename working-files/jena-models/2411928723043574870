@@ -1,0 +1,68 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62> ;
+        c:importance     "1" ;
+        c:name           "Christian Dior S.A." ;
+        c:originalValue  "Christian Dior S.A." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d5ecf202-77ac-3aad-a003-8ae87af48461> .
+
+<http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62> ;
+        c:importance     "1" ;
+        c:name           "Major League Baseball logo" ;
+        c:originalValue  "Major League Baseball logo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0f91c19e-ea0a-37c6-8880-7babc59163f4> .
+
+<http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62> ;
+        c:importance     "2" ;
+        c:name           "Dior" ;
+        c:originalValue  "Dior (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7bfdcc2-4656-3abf-b0ba-e4afb16adac1> .
+
+<http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|F2d4P+Vu8aXur64QpMgj9isILus=|gyJEC4MtlajNFQAvF1R6KtXF90k+rJF03gudsCprjihCpL+Tiu2P1A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:26.651" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5c9579e7-dce3-7856-14da-54ab6bb1df07" ;
+        c:docDate          "2015-05-30 09:47:27.026" ;
+        c:docTitle         "" ;
+        c:document         "Jerry Dior, Designer of Major League Baseball’s Logo, Dies at 82. The logo was a routine assignment for Mr. Dior, completed in one afternoon, while he was working for Sandgren & Murtha, a New York City marketing concern." ;
+        c:id               "http://id.opencalais.com/Do7atnUOx6AcSa65PEAiAw" .
+
+<http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62> ;
+        c:importance     "1" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .
+
+<http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62> ;
+        c:importance     "2" ;
+        c:name           "Design" ;
+        c:originalValue  "Design" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/05d922b6-a447-3301-885f-4374527b8df7> .
+
+<http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/14c33020-0522-3ef1-ae0a-7010860bdf62> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

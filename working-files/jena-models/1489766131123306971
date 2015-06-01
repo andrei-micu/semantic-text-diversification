@@ -1,0 +1,139 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "1" ;
+        c:name           "Cannabis" ;
+        c:originalValue  "Cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0408b99-6c30-3a92-b818-7e4de9a9f531> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "2" ;
+        c:name           "Pharmacology" ;
+        c:originalValue  "Pharmacology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2874b53c-b34a-3e63-9a9e-99728b6ede62> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "2" ;
+        c:name           "Medical cannabis" ;
+        c:originalValue  "Medical cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e6b96108-5b40-3284-a7ac-748418d9d5b5> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "1" ;
+        c:name           "Cannabis smoking" ;
+        c:originalValue  "Cannabis smoking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9f1d84d-f547-37da-8119-9acee000d4b3> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "2" ;
+        c:name           "Medicinal plants" ;
+        c:originalValue  "Medicinal plants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a436ec49-7a05-3cb0-bd15-43a2015e0ea5> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|h7xL9CMqtiEQY9gQVrJ7n/iYVPg=|QEkkPjq7HvM2qtDwIboqUsHeJzQqyOhNzfehBJCpxd1Zy/QyHVro6w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:48.764" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:score           "0.926" .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "2" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "2" ;
+        c:name           "Legality of cannabis" ;
+        c:originalValue  "Legality of cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b37aede-a197-36eb-a2f6-55fa59e108a4> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "18a5bddf-48cb-15dc-14da-54b0d1c32955" ;
+        c:docDate          "2015-05-30 10:47:48.827" ;
+        c:docTitle         "" ;
+        c:document         "Cannabis consumption basics. Brian Rogers and Caitlin McGuire of BCC outline various ways to consume cannabis products. \"High Profits\" airs Sundays at 10 p.m. ET/PT." ;
+        c:id               "http://id.opencalais.com/4biJJzhw9NpPjCF3NhkTMQ" .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "2" ;
+        c:name           "Religious and spiritual use of cannabis" ;
+        c:originalValue  "Religious and spiritual use of cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f023b78-908c-384b-a9f0-3238cca2036c> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "1" ;
+        c:name           "Entheogens" ;
+        c:originalValue  "Entheogens" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f7ff3ec6-ddb2-34fe-84d8-9f83a9771a69> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "2" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "2" ;
+        c:name           "Cannabis consumption" ;
+        c:originalValue  "Cannabis consumption" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cdf7bd88-abb4-366b-b581-397122421804> .
+
+<http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e45b0c33-767f-3e36-bad4-eb181a14ddca> ;
+        c:importance     "2" ;
+        c:name           "Euphoriants" ;
+        c:originalValue  "Euphoriants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/25474786-10ed-3a13-a246-650fdbdfc601> .

@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance     "1" ;
+        c:name           "Iran–United States relations" ;
+        c:originalValue  "Iran–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cc4f0d1-5a61-38ff-9a0d-6996481b513d> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|pR+LQD1SW69mFoTKssK+tCYPrMI=|fNhxqnAMZ8PXg0TmYXz9qN8HgBQwhcYKVB4loeq88lqkgzsuGpr1Ww==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:52.637" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance     "2" ;
+        c:name           "Economy of Iran" ;
+        c:originalValue  "Economy of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9850c1ea-8590-3dc9-afb1-62a0807650d6> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:score           "0.952" .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2ab8d80a-e493-1f95-14da-53c763d49095" ;
+        c:docDate          "2015-05-30 10:31:52.715" ;
+        c:docTitle         "" ;
+        c:document         "Senate rejects tying terrorism support to Iran sanctions relief. WASHINGTON (Reuters) - The U.S. Senate rejected an effort on Wednesday to tie sanctions relief for Iran under an international nuclear agreement to a requirement that President Barack Obama certify that Tehran is not supporting acts of terrorism against Americans." ;
+        c:id               "http://id.opencalais.com/4E4UUkeen6ca2TdSt2UH9g" .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance     "1" ;
+        c:name           "Sanctions against Iran" ;
+        c:originalValue  "Sanctions against Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b9f5e7ec-1a1a-3145-84e6-2da91a97c518> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance     "2" ;
+        c:name           "Iran–United States relations after" ;
+        c:originalValue  "Iran–United States relations after 1979" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eedbc5ca-69cf-3bd7-a1a0-a14a2656359a> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance     "1" ;
+        c:name           "Iran" ;
+        c:originalValue  "Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0249c322-e67c-3627-bd67-41c134686d4c> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance     "2" ;
+        c:name           "U.S. sanctions against Iran" ;
+        c:originalValue  "U.S. sanctions against Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9c2d049-d3b2-3b24-bc27-2d56d6439756> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance     "2" ;
+        c:name           "Politics of Iran" ;
+        c:originalValue  "Politics of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c472f367-69ac-34bf-8ddd-fe9911935ccf> .
+
+<http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/66bd1d8d-eb93-3d13-9f0e-cacd1d616fc7> ;
+        c:importance     "2" ;
+        c:name           "Nuclear program of Iran" ;
+        c:originalValue  "Nuclear program of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e55ddb64-2b4a-3d36-ab91-61afd402b42a> .

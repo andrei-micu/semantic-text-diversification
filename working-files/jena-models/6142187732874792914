@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "eaba72c4-887f-b9c7-14da-538ed5a35464" ;
+        c:docDate          "2015-05-30 10:28:01.064" ;
+        c:docTitle         "" ;
+        c:document         "EU, Ukraine leaders meet as shelling worsens, one Ukrainian soldier killed. KIEV (Reuters) - Top European Union officials met the Ukrainian leadership on Monday for talks on deepening trade links and efforts to bring peace to Ukraine, but worsening violence in the separatist-minded east clouded the summit." ;
+        c:id               "http://id.opencalais.com/bB-J-I1vRKWXBUlXXjp5pg" .
+
+<http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53> ;
+        c:importance     "2" ;
+        c:name           "Kievan Rus'" ;
+        c:originalValue  "Kievan Rus'" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b782e7a4-66cd-30b4-8c51-33bc98c1a639> .
+
+<http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|MuHqp8x1t6a/Vs/oZoDgj/Q6UgY=|HDEN7UtdXP7rLZdkvbeAUqGKsbQDjuB0S8RMU9lUbPc/1+vBrcl+cw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:00.986" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53> ;
+        c:importance     "1" ;
+        c:name           "Slavic" ;
+        c:originalValue  "Slavic" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14d19fe0-05cd-336d-a723-5421938171c3> .
+
+<http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53> ;
+        c:score           "0.812" .
+
+<http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53> ;
+        c:importance     "2" ;
+        c:name           "Ukraine" ;
+        c:originalValue  "Ukraine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad48dbb1-870b-38ad-b593-d62be5251df0> .
+
+<http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53> ;
+        c:importance     "1" ;
+        c:name           "Eastern Europe" ;
+        c:originalValue  "Eastern Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/787a52ee-9492-3fdc-821f-7429a8d9d686> .
+
+<http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/89e8f622-589c-30ba-918f-417524d90e53> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

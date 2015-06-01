@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:importance     "1" ;
+        c:name           "Captain Marvel" ;
+        c:originalValue  "Captain Marvel (DC Comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/15df3ef7-512e-39da-bb87-519e60c91ef0> .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:score           "0.870" .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:importance     "2" ;
+        c:name           "Institute for Science and International Security" ;
+        c:originalValue  "Institute for Science and International Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c71d202e-bbaf-3611-8503-af60f3896591> .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:importance     "1" ;
+        c:name           "Isis" ;
+        c:originalValue  "Isis (DC Comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afe3a960-ba58-3537-8ed1-540bc01f0b0a> .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:importance     "2" ;
+        c:name           "Spaceflight" ;
+        c:originalValue  "Spaceflight" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a047fab-a818-39e0-b940-49bc12ce74f3> .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|oO9WVijOryBTvF4p3QS0WZ/+Pd4=|b8H2hWm9vzMXTfCzA2JdRAApQSiKnyr/ueBAO9/vaFiGRGfJNpjsfQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:03.213" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a9c28d70-fcfa-f3ae-14da-54c2fed23ab1" ;
+        c:docDate          "2015-05-30 10:49:03.494" ;
+        c:docTitle         "" ;
+        c:document         "ISIS fighter got training in U.S. tactics. An ISIS fighter who calls for jihad in a new online video was trained in counterterrorism tactics on American soil, in a program run by the United States, officials tell CNN." ;
+        c:id               "http://id.opencalais.com/zrAME3q9p6wSOrtY3e5etw" .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:importance     "1" ;
+        c:name           "The Isis Magazine" ;
+        c:originalValue  "The Isis Magazine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba4c3126-6d12-33b7-b3ec-303fe14dd92d> .
+
+<http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0673228a-e8ef-3f44-9477-7130dfc87343> ;
+        c:importance     "2" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .

@@ -1,0 +1,68 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df> ;
+        c:importance     "1" ;
+        c:name           "Ohio" ;
+        c:originalValue  "Ohio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/53d95399-e665-3041-a398-e1e23d24cb7a> .
+
+<http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df> ;
+        c:importance     "2" ;
+        c:name           "Cleveland" ;
+        c:originalValue  "Cleveland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a0ec346-1d08-30fe-9522-bb64661f6813> .
+
+<http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yG9/ZqWMQhCHYTy8Bggx06cALEc=|OIMu6fki4JZ8W9P2YaBTcZvf0OAdnHHR1yz/c8mpHglUn0V9eMCruQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:20.467" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df> ;
+        c:importance     "1" ;
+        c:name           "John Kasich" ;
+        c:originalValue  "John Kasich" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f27779e1-0feb-3877-9531-48ffd8edb75d> .
+
+<http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df> ;
+        c:importance     "2" ;
+        c:name           "NPR" ;
+        c:originalValue  "NPR" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0410c98-2061-3c90-8b44-3a246fbc5541> .
+
+<http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7a578402-09cb-4d35-14da-54b88f323ab1" ;
+        c:docDate          "2015-05-30 10:48:20.654" ;
+        c:docTitle         "" ;
+        c:document         "Ohio To Set Standards For Police Use Of Deadly Force. Ohio Gov. John Kasich recently put together a group in Cleveland to look at the divide between the city and the police. NPR's Rachel Martin talks to a member of that task force, Nina Turner." ;
+        c:id               "http://id.opencalais.com/tXpg2lSz8Jp18vsvfmBkzA" .
+
+<http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a3ad8a3e-9244-390b-9610-1fbb1c7c06df> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .

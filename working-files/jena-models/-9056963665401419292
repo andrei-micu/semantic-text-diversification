@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance     "2" ;
+        c:name           "Radio" ;
+        c:originalValue  "Radio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d716e304-d6f8-379b-8369-e49ba5bb361b> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance     "2" ;
+        c:name           "Atlanta" ;
+        c:originalValue  "Atlanta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/108a8f7a-f627-382b-be0d-cd596c92e2fb> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance     "1" ;
+        c:name           "Geography of Georgia" ;
+        c:originalValue  "Geography of Georgia (U.S. state)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9406657c-ba0f-3330-9236-4d4644f3e908> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ul7K0aMxNcyI53UhQ2vVjlFet7Y=|VyB4oxzp2Kph1w2/FC7AIPQjEUZD8Mex0Xi63C26E5KfufbwpWWyiQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:32:45.725" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:score           "0.613" .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance     "2" ;
+        c:name           "WSB" ;
+        c:originalValue  "WSB (AM)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45833328-9021-3558-a612-05cb7515d35d> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance     "2" ;
+        c:name           "WSB-TV" ;
+        c:originalValue  "WSB-TV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2a5cd73c-0180-3379-99a4-e0f601f6c887> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance     "1" ;
+        c:name           "Cox Radio" ;
+        c:originalValue  "Cox Radio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89dac955-678b-3f59-86b5-a9dc9210064f> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4a8a2e13-7e3a-897f-14da-53d459d1df07" ;
+        c:docDate          "2015-05-30 09:32:46.052" ;
+        c:docTitle         "" ;
+        c:document         "Plane crash victims were going to college graduation. A small plane crashed on Interstate 285 north of Atlanta on Friday morning, snarling traffic on the bypass that encircles the city, footage from CNN affiliate WSB shows." ;
+        c:id               "http://id.opencalais.com/hu31nZ4LHS38dOIl5mkFmQ" .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance     "2" ;
+        c:name           "Interstate 285" ;
+        c:originalValue  "Interstate 285" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3cd6a190-2414-3e48-9e12-0aef45d5c396> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance     "1" ;
+        c:name           "Atlanta metropolitan area" ;
+        c:originalValue  "Atlanta metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fe7cac7f-9cf1-3bad-8d90-8ca486aeafae> .
+
+<http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9aa9cd78-b43a-3854-abe6-e6b8cc8166d5> ;
+        c:importance     "2" ;
+        c:name           "Georgia" ;
+        c:originalValue  "Georgia (U.S. state)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/28874a36-4705-35ff-b224-43773becc3f6> .

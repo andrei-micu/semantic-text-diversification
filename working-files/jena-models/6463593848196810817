@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75> ;
+        c:importance     "1" ;
+        c:name           "Clinton" ;
+        c:originalValue  "Clinton (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eebbb422-e423-387d-b64e-eac39cde1fa8> .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d9d161bf-ec9e-dfea-14da-537aefc760f9" ;
+        c:docDate          "2015-05-30 10:26:39.655" ;
+        c:docTitle         "" ;
+        c:document         "Clinton cash questions over Russian deal. New investigations into Clinton family finances reveal possible conflicts of interest - but is there fire behind the smoke?" ;
+        c:id               "http://id.opencalais.com/D4U4hcd6SoOKN4DH*Gluaw" .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75> ;
+        c:importance     "2" ;
+        c:name           "Bill Clinton" ;
+        c:originalValue  "Bill Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ba74542-0826-30ae-8776-ccbf92f359db> .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75> ;
+        c:importance     "1" ;
+        c:name           "Hillary Clinton presidential campaign" ;
+        c:originalValue  "Hillary Clinton presidential campaign, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2104fb56-5143-3cfb-8752-50645e4db80b> .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FVJAeMJUArDNT192cF2Up9Puzv8=|JshXSM4qyoMisaOVJfEF4ajUv64WHBFkhPHQRaTeNprnaxNUBBIBog==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:26:39.484" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75> ;
+        c:importance     "1" ;
+        c:name           "English language" ;
+        c:originalValue  "English language" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5fa75507-2c1b-33c5-a5e6-7529c0772ce4> .
+
+<http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f6daf860-f4b8-3b22-9d85-f432c1d9ca75> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

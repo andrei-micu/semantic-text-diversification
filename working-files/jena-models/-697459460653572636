@@ -1,0 +1,51 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "98f33131-403c-4485-14da-5388cac653ed" ;
+        c:docDate          "2015-05-30 09:27:36.408" ;
+        c:docTitle         "" ;
+        c:document         "The Appraisal: Congregants Challenge Sale of Bulwark of Judaism on Lower East Side. Worshipers at the Home of the Sages charge in court that a $13 million deal is motivated by self-enrichment, with proceeds largely flowing to the synagogue’s president." ;
+        c:id               "http://id.opencalais.com/ZMvYMLP1tc69xLqKe41uwg" .
+
+<http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c> ;
+        c:score           "0.965" .
+
+<http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yGLqtbV36aB9LdR4DAhlu100j/w=|EtIIr8MfFruBoFNreQdFJIS0AWGTLXCPQLqKfmKyD3iWPan/iKF7lQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:36.236" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ed1c5fa4-c76a-30bc-b7d2-93ed78e59a9c> ;
+        c:importance     "1" ;
+        c:name           "Synagogue" ;
+        c:originalValue  "Synagogue" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3a3351ab-a2c0-3460-b3d6-bd00b1c0ebc9> .

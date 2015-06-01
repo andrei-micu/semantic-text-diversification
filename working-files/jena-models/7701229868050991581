@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c> ;
+        c:importance     "1" ;
+        c:name           "Boog Powell" ;
+        c:originalValue  "Boog Powell" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9512efc9-6ac8-3204-b398-c86415736950> .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c> ;
+        c:importance     "2" ;
+        c:name           "Waft" ;
+        c:originalValue  "Waft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/98661091-fc68-35b9-bd48-6e91ca112341> .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "60372471-d47a-416e-14da-53c469332f98" ;
+        c:docDate          "2015-05-30 09:31:40.684" ;
+        c:docTitle         "" ;
+        c:document         "Orioles have fun in 'fanless' game. The smokey aroma of pulled pork from Boog Powell's BBQ stand wasn't wafting over the crowds Wednesday in downtown Baltimore's Eutaw Street." ;
+        c:id               "http://id.opencalais.com/*p0K7AxBnsRdGGhkXyz7Ig" .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c> ;
+        c:importance     "1" ;
+        c:name           "Eutaw Street" ;
+        c:originalValue  "Eutaw Street" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bde76328-a833-344d-9193-eff08964fe80> .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c> ;
+        c:score           "0.863" .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c> ;
+        c:importance     "1" ;
+        c:name           "Major League Baseball" ;
+        c:originalValue  "Major League Baseball" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c063601-0feb-3198-8c9e-f687a5f5af49> .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c> ;
+        c:importance     "2" ;
+        c:name           "Baseball" ;
+        c:originalValue  "Baseball" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/81a6d889-b583-396a-824c-0fccbe051640> .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c> ;
+        c:importance     "2" ;
+        c:name           "Downtown Baltimore" ;
+        c:originalValue  "Downtown Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/08e1794a-8f7a-36a5-a411-9d820a4d32fd> .
+
+<http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/748a0ec0-9cfe-36db-bc33-73f8c801d01c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+Ic3r0jcSrVIO7bniggNL8svn34=|bZqmFxhAzxf2au/1Axaufl7D0PV/XEv/YRH6SHx9c0P8K4IoxM216A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:40.435" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

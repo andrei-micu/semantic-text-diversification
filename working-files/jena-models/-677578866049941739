@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:importance     "1" ;
+        c:name           "Libyan civil war" ;
+        c:originalValue  "2011 Libyan civil war" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b9e26e3-9d79-345c-980c-cbae7818fba0> .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:importance     "1" ;
+        c:name           "Phoenician colonies" ;
+        c:originalValue  "Phoenician colonies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/92194ca4-c1a1-359e-8e91-292ca9df6f7b> .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:importance     "2" ;
+        c:name           "Tripoli" ;
+        c:originalValue  "Tripoli" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d25c4435-e774-335d-b96b-7ab9da5d6ffc> .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2be0ea95-2d00-345e-14da-54bd2c9719b3" ;
+        c:docDate          "2015-05-30 10:48:39.463" ;
+        c:docTitle         "" ;
+        c:document         "Unable to halt Europe-bound migrants, Tripoli demands help. TRIPOLI (Reuters) - Europe cannot halt the deadly traffic of African migrants across the Mediterranean unless it ends a boycott of forces that have seized power in the Libyan capital and helps authorities there cope, the de facto government in Tripoli said." ;
+        c:id               "http://id.opencalais.com/Ipc6cG4EJA5OvZRVgjqlZA" .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:importance     "2" ;
+        c:name           "Africa" ;
+        c:originalValue  "Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40ba53c0-c97b-3a8d-9376-dccf9e54b90e> .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Mm6ldQ/KdjA6/Lyg3LA24zpOcSo=|SULMDjf9EuTY3zlU915vgwnGZ/19jZ/Ub8yJmLmyWz0K2MxKURhI+w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:39.369" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:importance     "2" ;
+        c:name           "Libya" ;
+        c:originalValue  "Libya" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aab7445b-f6fb-3a43-9727-49d4e591ae3d> .
+
+<http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3182ee2a-41ae-3457-a883-2eef7f884d8a> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .

@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2b5eeac4-31f8-a581-14da-53a1aa432f98" ;
+        c:docDate          "2015-05-30 09:29:18.552" ;
+        c:docTitle         "" ;
+        c:document         "N.F.L.’s League Office to Drop Its Tax-Exempt Status. As a result, the league will no longer have to publicly disclose its I.R.S. returns, which include the salaries of top executives like Commissioner Roger Goodell." ;
+        c:id               "http://id.opencalais.com/ylIEuKkWX1xRdxHG53Q9Vg" .
+
+<http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b> ;
+        c:importance     "1" ;
+        c:name           "Commissioner" ;
+        c:originalValue  "Commissioner" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/837cc23a-9a91-3f98-9ad0-d49bef84ab52> .
+
+<http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b> ;
+        c:score           "0.997" .
+
+<http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b> ;
+        c:importance     "1" ;
+        c:name           "Internal Revenue Service" ;
+        c:originalValue  "Internal Revenue Service" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83d7a85d-8119-3701-b2a0-c2e6dbe1da24> .
+
+<http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b> ;
+        c:importance     "1" ;
+        c:name           "Roger Goodell" ;
+        c:originalValue  "Roger Goodell" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d45028d9-b3e3-3d32-b7af-3fed6f6bf85a> .
+
+<http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Z+jGo/EcDe8FqQvlQ7DBpejAm+I=|DJFv1wr+3KNajwA4J+8F5dILCvt/YMFTYiCReO3xv1H6M4yMURRwrw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:18.131" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/105cde37-6425-3221-9f2b-66e0c3b2788b> ;
+        c:importance     "2" ;
+        c:name           "Taxation in the United States" ;
+        c:originalValue  "Taxation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b5906d2-5bf2-31c0-9d40-fd7b4760c9d0> .

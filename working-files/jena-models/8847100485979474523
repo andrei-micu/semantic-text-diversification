@@ -1,0 +1,154 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:score           "0.916" .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "2" ;
+        c:name           "New Mexican cuisine" ;
+        c:originalValue  "New Mexican cuisine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/75221ca7-294e-3c9c-a799-e06d01414313> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "2" ;
+        c:name           "Santa Fe, Mexico City" ;
+        c:originalValue  "Santa Fe, Mexico City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cd4bd184-78b5-3b0c-bffb-e4e491b56072> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:score           "0.937" .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "2" ;
+        c:name           "Mexican cuisine" ;
+        c:originalValue  "Mexican cuisine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50885c1a-2930-310e-bfb7-f2607285bbd2> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "2" ;
+        c:name           "Albuquerque, New Mexico" ;
+        c:originalValue  "Albuquerque, New Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/73b9223d-bd06-3625-8629-c0518f883b44> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "2" ;
+        c:name           "Fast food" ;
+        c:originalValue  "Fast food" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/779a99c7-4a04-336b-a88b-3eba145419a6> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "2" ;
+        c:name           "Santa Fe, New Mexico" ;
+        c:originalValue  "Santa Fe, New Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5711cd2a-cd09-3a87-8a21-9d7f69697a00> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "2" ;
+        c:name           "Cuisine of the Southwestern United States" ;
+        c:originalValue  "Cuisine of the Southwestern United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e05c0090-357e-3751-9d2a-7f8d60c1acb1> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d1df3e5f-34cc-e990-14da-549c3ef4551f" ;
+        c:docDate          "2015-05-30 09:46:24.776" ;
+        c:docTitle         "" ;
+        c:document         "Looking for tacos on old Route 66. Tony drives along old Route 66, which runs through New Mexico \"like a collapsed vein\" through Santa Fe and Albuquerque." ;
+        c:id               "http://id.opencalais.com/UjQhwr1BVYM6f*4k9Tk-0w" .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Mn666iIk3BX0CRP5IajObBNsmSw=|hILmXxpSL8+lLyrqWrhiJjjaKOkY3sbh1Wge/KUVLRKPUTbqnrgs6w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:24.495" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "1" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "2" ;
+        c:name           "Tex-Mex cuisine" ;
+        c:originalValue  "Tex-Mex cuisine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/37f188eb-60f0-3a3a-991e-b52e53bcdd02> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "1" ;
+        c:name           "New Mexico" ;
+        c:originalValue  "New Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcf7d1a5-938b-339d-a4ae-3bb6aef552b1> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance     "2" ;
+        c:name           "Taco" ;
+        c:originalValue  "Taco" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07aabf7c-c5ae-3486-a7dc-063ad914738c> .
+
+<http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/154898fb-7917-3eab-85b8-8bec09fa22b3> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

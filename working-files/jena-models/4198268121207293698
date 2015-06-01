@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd> ;
+        c:importance     "2" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|bbinc4G0EYgFUf8Nsm0gwTN1YbY=|e8nrNyLwo2Da1H1Zzk3oMwje6nkW4c6tyaPuOMmdXjhMASt4ZTf1pg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:47.078" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd> ;
+        c:importance     "1" ;
+        c:name           "Screen-Free Week" ;
+        c:originalValue  "Screen-Free Week" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8691c588-b155-337a-a706-430f31bec015> .
+
+<http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd> ;
+        c:importance     "1" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ad36ab9f-a240-c335-14da-5400a064551f" ;
+        c:docDate          "2015-05-30 09:35:47.437" ;
+        c:docTitle         "" ;
+        c:document         "After 2 days of screen-free life, addict does this. CNN's Lisa France attempts to unplug and disconnect from her devices as she takes part in \"Screen-Free Week.\"" ;
+        c:id               "http://id.opencalais.com/P8UXwpkbfreB6X1kEgfdIg" .
+
+<http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceae8d0a-6383-356f-82b7-4691f52b77fd> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .

@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fd70eebb-2411-2bde-14da-548c8961927e" ;
+        c:docDate          "2015-05-30 10:45:20.275" ;
+        c:docTitle         "" ;
+        c:document         "Political Memo: Hillary Clinton, Acutely Aware of Pitfalls, Avoids Press on Campaign Trail. The news media is Hillary Rodham Clinton’s only real opponent so far en route to the Democratic nomination, and it makes political sense for her to avoid it." ;
+        c:id               "http://id.opencalais.com/5YtEUOwGdKE5eRIzAzHAQA" .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:importance     "1" ;
+        c:name           "Rodham" ;
+        c:originalValue  "Rodham" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/63a3070d-6ed3-3faa-98ff-6e718a21a60e> .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:importance     "2" ;
+        c:name           "White House travel office controversy" ;
+        c:originalValue  "White House travel office controversy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/95db5aaf-168b-3d61-9e49-1993503ea1de> .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:importance     "1" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:importance     "2" ;
+        c:name           "Hillary Clinton presidential campaign" ;
+        c:originalValue  "Hillary Clinton presidential campaign, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2104fb56-5143-3cfb-8752-50645e4db80b> .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|RT64Xw9KNDo5pQqSj7VGGaUo2Io=|IExKlcW3xvgqT6isg2YTcFRSrhiVYa+7EzAg3fjT+ci5Yxbsx+SESA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:20.150" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:score           "0.593" .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c8e28c3-4717-30a9-a6c5-3c2ece00edac> ;
+        c:importance     "2" ;
+        c:name           "Hillary Clinton caucuses and primaries" ;
+        c:originalValue  "Hillary Clinton caucuses and primaries, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3bbcc71-46e3-3bf6-9d59-7c9d501fa6c2> .

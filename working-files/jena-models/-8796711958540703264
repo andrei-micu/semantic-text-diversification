@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:importance     "1" ;
+        c:name           "Cricket" ;
+        c:originalValue  "Cricket" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0b62549-12b9-3ad9-b5ac-34e427d0839d> .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:importance     "2" ;
+        c:name           "Olivia" ;
+        c:originalValue  "Olivia (TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc943ed2-aa27-3d46-83b0-57517f614671> .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:importance     "2" ;
+        c:name           "Cricket pitch" ;
+        c:originalValue  "Cricket pitch" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7fb6eada-30ff-30f2-89fc-4fefff03f057> .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:score           "0.698" .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:importance     "1" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:importance     "2" ;
+        c:name           "DuPont" ;
+        c:originalValue  "DuPont" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a9610a-a839-330e-8e0c-e9c1c6bc4049> .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e256322f-9a88-fe1a-14da-547b9ee23ab1" ;
+        c:docDate          "2015-05-30 10:44:11.034" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Making art underground. The DuPont Underground in Washington pitches a new way to experience art underground but will the project get off the ground? The BBC's Olivia Crellin reports." ;
+        c:id               "http://id.opencalais.com/MtDTKxZ7dsofcoPDyj70NA" .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|/CXK/s91Reh/3XFrZDQKytoOwzg=|ZK/pp/0WY7782mfNUDrM7HDoHFpVtlh3chLtVrT+akQGC5vlmuo1VA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:10.862" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:importance     "2" ;
+        c:name           "Underground" ;
+        c:originalValue  "Underground (Evermore song)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2afeea0e-141e-32ba-9f98-995fda6c8277> .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:score           "0.503" .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:importance     "1" ;
+        c:name           "Cricket equipment" ;
+        c:originalValue  "Cricket equipment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/02c982ac-65e7-349e-a0a5-892d87d62a88> .
+
+<http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/436c2eab-bb99-3474-9723-b3f95098300a> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .

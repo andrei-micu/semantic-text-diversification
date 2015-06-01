@@ -1,0 +1,81 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "254b65d0-67bf-8702-14da-53bd3e1653ed" ;
+        c:docDate          "2015-05-30 09:31:11.198" ;
+        c:docTitle         "" ;
+        c:document         "Baltimore teen smacked by mom says he gets it. Michael Singleton, 16, understands that his mother was trying to keep him out of trouble. FULL STORY" ;
+        c:id               "http://id.opencalais.com/W6NYCpMm3sPJ9J3CNykmvg" .
+
+<http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f> ;
+        c:score           "0.940" .
+
+<http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f> ;
+        c:importance     "1" ;
+        c:name           "Singleton" ;
+        c:originalValue  "Singleton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e89f7b1-6af5-348a-87dc-7b6f1e9a36e9> .
+
+<http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+Fx4wFzQKKLkcC2ZA6esFRB4sdg=|gMz3p0pW5GwquTFuV9aDD6bjFl5dPyrkZA/txmHjQr6tTBExY8NVDg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:11.089" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cbe20d13-7fd5-3a23-ae5a-f0396d3f6f1f> ;
+        c:score           "0.976" .

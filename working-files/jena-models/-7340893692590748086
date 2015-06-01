@@ -1,0 +1,144 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:score           "0.781" .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance     "2" ;
+        c:name           "Satire" ;
+        c:originalValue  "Satire" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b0f372c-53c2-3406-81ad-a2d71046be8e> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|k9ps+rBIYFMGorR2pG7BaQYFtrQ=|ibO7UWgmJG6xyH2dgi91SY5mFm4pVHJoMm3WGFte4OuKGTC0nLtT2Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:31.801" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:score           "0.902" .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "edf5a4e4-9592-bcda-14da-547215932955" ;
+        c:docDate          "2015-05-30 10:43:32.019" ;
+        c:docTitle         "" ;
+        c:document         "Anderson Cooper fooled by satire site. After pointing out an \"error\" on a satirical news website, CNN's Anderson Cooper has to correct himself in the RidicuList." ;
+        c:id               "http://id.opencalais.com/FpSMqSPyi96Rd40CpRgNEg" .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:score           "0.961" .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance     "2" ;
+        c:name           "Vanderbilt family" ;
+        c:originalValue  "Vanderbilt family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72483f9a-c903-36fa-b8e4-c84993b5121d> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:score           "0.985" .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance     "2" ;
+        c:name           "Anderson Cooper" ;
+        c:originalValue  "Anderson Cooper" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1078799-bea1-3d9b-b61e-5a30d1f5dbc1> .
+
+<http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37306e52-3bbb-35ce-99b4-4aa0efa044f1> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .

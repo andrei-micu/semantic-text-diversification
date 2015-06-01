@@ -1,0 +1,147 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3fdf87ef-23d4-ac4e-14da-53d8fda35464" ;
+        c:docDate          "2015-05-30 10:33:04.870" ;
+        c:docTitle         "" ;
+        c:document         "New on Netflix, Amazon Prime, Hulu. April showers surely will bring May flowers -- if by flowers you mean tons of streaming options." ;
+        c:id               "http://id.opencalais.com/vUbgw6KKUwEPQCkmcqXpMw" .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "2" ;
+        c:name           "Netflix" ;
+        c:originalValue  "Netflix" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ba9746-23fe-3115-8a31-2d315284476d> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "2" ;
+        c:name           "Commerce" ;
+        c:originalValue  "Commerce" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/55d6de58-9d3d-3683-998d-c6f62abc2278> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|UL16WLxDXwDB2i6nnvoWH2JMn9s=|EC6M/ns83S9XsFcoB/LIfsfhn/Qg+A9j5U1PyPyE1MJL8uMhsrn6iQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:04.730" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "2" ;
+        c:name           "World Wide Web" ;
+        c:originalValue  "World Wide Web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9234a67-1d5c-3451-83e0-fb48ce4187d8> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "2" ;
+        c:name           "Flowers" ;
+        c:originalValue  "Flowers (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1adc08a7-b848-3726-a67a-687efbb8506d> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "1" ;
+        c:name           "Web 2.0" ;
+        c:originalValue  "Web 2.0" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4b5386f7-28c7-39fd-8071-8290dbc329a2> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "2" ;
+        c:name           "April showers" ;
+        c:originalValue  "April showers (weather phenomenon)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0fb427fc-ee60-3a46-b0cc-f47fe9156b27> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "2" ;
+        c:name           "WI" ;
+        c:originalValue  "WI" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9ae76bb-c50d-3500-80bf-ba0adbc62130> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:score           "0.570" .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "1" ;
+        c:name           "Electronic commerce" ;
+        c:originalValue  "Electronic commerce" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7e08d51f-07f1-3491-a789-243db3ae4d2f> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "2" ;
+        c:name           "Hulu" ;
+        c:originalValue  "Hulu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7cab6c6d-a797-3aa4-9001-f815ed725a84> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "2" ;
+        c:name           "Amazon.com" ;
+        c:originalValue  "Amazon.com" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cdff1945-ae17-3b3d-9c49-0a2ba0fd8b2f> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:score           "0.923" .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "1" ;
+        c:name           "Business" ;
+        c:originalValue  "Business" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9efd0bee-0479-336f-a246-d987f6406804> .
+
+<http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bf06654c-92ae-33c8-a71b-0348d77619df> ;
+        c:importance     "2" ;
+        c:name           "Internet television" ;
+        c:originalValue  "Internet television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a6226f9b-70c0-3dad-80e5-8399bcb1f5b8> .

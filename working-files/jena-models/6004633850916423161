@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b> ;
+        c:importance     "2" ;
+        c:name           "Warm-blooded" ;
+        c:originalValue  "Warm-blooded" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3532d315-b881-303a-9947-642aaa743b01> .
+
+<http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+3FG+Ix+2f5NZ9CyfiH3nqAMKPM=|Y7qgOYnfEACbYYwo0Q2KcFj0vKUWzW9Wh2C91TQvycsFRTjixuRzWg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:48.515" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b> ;
+        c:importance     "2" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b> ;
+        c:importance     "1" ;
+        c:name           "Animal physiology" ;
+        c:originalValue  "Animal physiology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/99fd7585-320c-3e2d-9920-c3dd658532cf> .
+
+<http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b> ;
+        c:importance     "1" ;
+        c:name           "Fish" ;
+        c:originalValue  "Fish" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/928daed4-cdce-3bf3-9226-5a5649330527> .
+
+<http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b> ;
+        c:importance     "2" ;
+        c:name           "Opah" ;
+        c:originalValue  "Opah" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5727baea-0968-3954-90a1-eacd6266951f> .
+
+<http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b> ;
+        c:importance     "2" ;
+        c:name           "Lampridae" ;
+        c:originalValue  "Lampridae" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/572afab7-9205-3efa-a8ae-4897a660b3bd> .
+
+<http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b2d34c2b-dd49-cc4a-14da-5458dd44551f" ;
+        c:docDate          "2015-05-30 09:41:48.796" ;
+        c:docTitle         "" ;
+        c:document         "First warm-blooded fish discovered. NOAA scientists working off the west coast of the United States recently discovered the opah, or moonfish, is warm-blooded. It's the first fish known to be fully warm-blooded." ;
+        c:id               "http://id.opencalais.com/eLxkjIvMqXApn3lV-QsWVQ" .
+
+<http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad850b9f-b6f3-35a5-b342-88c75085469b> ;
+        c:importance     "1" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .

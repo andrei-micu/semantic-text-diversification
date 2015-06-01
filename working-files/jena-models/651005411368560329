@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:importance     "1" ;
+        c:name           "South China Sea" ;
+        c:originalValue  "South China Sea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee225378-329b-3ead-bb63-6915310827d1> .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:importance     "2" ;
+        c:name           "Sino-American relations" ;
+        c:originalValue  "Sino-American relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/543eec78-7f76-3c9e-a882-0ec364c8906a> .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:importance     "2" ;
+        c:name           "John Kerry" ;
+        c:originalValue  "John Kerry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/12487276-3cd9-372c-b525-5a3a867eb33d> .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7cZ4FCdDxb7uox21C+phlYgOSDw=|Gz6gtKCiRpIZs8J3duiQWw0COg527BDPGiH6Xq/lXV6hdbNMVnCK1Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:41:08.671" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8e6b32e3-6bcb-03cd-14da-544f23f719b3" ;
+        c:docDate          "2015-05-30 10:41:08.873" ;
+        c:docTitle         "" ;
+        c:document         "US 'concern' over China sea actions. US Secretary of State John Kerry expresses concern over China's actions in disputed waters in the South China Sea, while on a visit to Beijing." ;
+        c:id               "http://id.opencalais.com/h2YMCDZHrzHYXjn*4vJJVw" .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:importance     "1" ;
+        c:name           "Political status of Taiwan" ;
+        c:originalValue  "Political status of Taiwan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c8a8b8d-e2f8-3f05-a3c4-308732e1cc5f> .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:importance     "2" ;
+        c:name           "Foreign relations of the People's Republic of China" ;
+        c:originalValue  "Foreign relations of the People's Republic of China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee796994-d527-331a-b459-66573b9d7b7f> .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:score           "0.995" .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6923520f-7681-3880-a290-778ba7365590> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

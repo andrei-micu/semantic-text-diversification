@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Uv5mY8cibmzEyVODbx60R6TdQbk=|D9z85/jZ66yt81fnro9fvvig2xIB2biUctlvm+UF9fNA6DBDu5W/UA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:33.361" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23> ;
+        c:importance     "1" ;
+        c:name           "Penology" ;
+        c:originalValue  "Penology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/904971c2-3a76-316e-8366-8a11ee88d7a0> .
+
+<http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1c549978-6410-4e57-14da-5463d1113c98" ;
+        c:docDate          "2015-05-30 09:42:33.752" ;
+        c:docTitle         "" ;
+        c:document         "Egyptian Court Hands Morsi A Death Sentence. The former president who was ousted in 2013 had already been sentenced to 20 years in prison on other charges. The country's highest religious authority will still review the penalty." ;
+        c:id               "http://id.opencalais.com/DRq1GOyuj0paGQobqDYz5Q" .
+
+<http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23> ;
+        c:importance     "1" ;
+        c:name           "Violence" ;
+        c:originalValue  "Violence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c7ad1ef-3465-32b8-a576-ea3a2515bdb2> .
+
+<http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00ae4689-17bd-3c60-a72a-4b344ea99b23> ;
+        c:importance     "1" ;
+        c:name           "Capital punishment" ;
+        c:originalValue  "Capital punishment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47a29b10-9dfe-3cd8-9d95-8cda59bc4410> .

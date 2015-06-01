@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9cae9d45-6c9d-3819-93e8-0c70bf665449>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1290025f-fa34-1485-14da-541f3001df07" ;
+        c:docDate          "2015-05-30 09:37:52.334" ;
+        c:docTitle         "" ;
+        c:document         "Helmet lets pilots see through plane. " ;
+        c:id               "http://id.opencalais.com/aeu3y-O58VmxukA9*SDYPA" .
+
+<http://d.opencalais.com/dochash-1/9cae9d45-6c9d-3819-93e8-0c70bf665449/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9cae9d45-6c9d-3819-93e8-0c70bf665449> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|oomc/lDjFftIK+ucX6VsVugSUYk=|BtcDCFWzve6sb+qRitBJzF7amfhBWItpAsdCOwFyEwMaNSQrlg7w2A==" ;
+        c:submissionDate  "2015-05-30 09:37:52.256" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9cae9d45-6c9d-3819-93e8-0c70bf665449/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9cae9d45-6c9d-3819-93e8-0c70bf665449> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

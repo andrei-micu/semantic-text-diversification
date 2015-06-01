@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:importance     "1" ;
+        c:name           "Late Night with Conan O'Brien" ;
+        c:originalValue  "Late Night with Conan O'Brien" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5cde51e8-29f7-3918-ab3a-dd80e6d4d4e5> .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|w4R0CrIbTs+ZvfQ0G8IknnLosqI=|MoCLeCdgJ8T7wPe3HquBkrivxcOEuy2A/0iDxOKJwbFaO4BTyune+A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:21.601" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:importance     "1" ;
+        c:name           "Amy Poehler" ;
+        c:originalValue  "Amy Poehler" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ae6c990-9425-3703-ab83-729e8d93d8ea> .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:importance     "2" ;
+        c:name           "HarperCollins" ;
+        c:originalValue  "HarperCollins" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ef648646-5ae6-3e01-a31c-96b3425e8459> .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:importance     "1" ;
+        c:name           "IO Theater" ;
+        c:originalValue  "IO Theater" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df8f1d3b-6384-35be-941f-5cc4cdc466e4> .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8ebb2e66-0df2-2e71-14da-5460f21760f9" ;
+        c:docDate          "2015-05-30 10:42:21.710" ;
+        c:docTitle         "" ;
+        c:document         "Amy Poehler On Vinyl Designed To Catch Eyes Along With Ears. Harper Collins Audio is releasing a vinyl edition of Amy Poehler's book, Yes Please. The publisher thinks the combination of old media, plus the popular Poehler, will attract a young audience." ;
+        c:id               "http://id.opencalais.com/iTLwgjXNmTOWS*DEpAaO5Q" .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f43e4bc-844d-3363-8ad1-8ca8c37a2c88> ;
+        c:importance     "2" ;
+        c:name           "Arts" ;
+        c:originalValue  "Arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bd5b09-4773-3933-bdf0-6b5be3d6cb0b> .

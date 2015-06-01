@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a2c0ce63-1c88-7155-14da-5471a111df07" ;
+        c:docDate          "2015-05-30 09:43:30.124" ;
+        c:docTitle         "" ;
+        c:document         "Bystander halts car chase. Halt! A pedestrian halted a motorist fleeing California police Friday evening by calmly stepping in front of his car. The chase ended, when police cuffed the man behind the wheel -- and the man who stopped him." ;
+        c:id               "http://id.opencalais.com/chIVvOnLECzur6B6FWVL6Q" .
+
+<http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ed3WamXbkwJufnvzehjUdil1lx8=|XE5HsFj9lSS05f8CLL91DdDVXyQdlwUXfamCx86KbS1/LI3/0u8dUQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:29.937" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984> ;
+        c:score           "0.870" .
+
+<http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984> ;
+        c:importance     "1" ;
+        c:name           "Car chase" ;
+        c:originalValue  "Car chase" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/99698a8f-4cab-3fd9-aa9a-bf9dffe3c854> .
+
+<http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9eca06ca-032e-38c6-a979-a15b3372d984> ;
+        c:importance     "1" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .

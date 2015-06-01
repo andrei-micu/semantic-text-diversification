@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|RQmDW2Sik4VS3SHmNiYxWUVzK2g=|HPNUZQgZvsoaNDbWKzBtykYMHyQrPb0Wr/rLtMShfY6++eYV3VjteQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:10.201" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e> ;
+        c:score           "0.751" .
+
+<http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8ab63aea-2b56-19fb-14da-539115935464" ;
+        c:docDate          "2015-05-30 10:28:10.481" ;
+        c:docTitle         "" ;
+        c:document         "Ford profit disappoints as sales slide. Ford reports lower-than-expected profits for the first three months of 2015 after it sells fewer vehicles in North America and continues to lose money in Europe and South America." ;
+        c:id               "http://id.opencalais.com/nfift*kmnm8R8dCdPLGlog" .
+
+<http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e> ;
+        c:importance     "1" ;
+        c:name           "Dearborn, Michigan" ;
+        c:originalValue  "Dearborn, Michigan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b688e67-67d5-3603-b469-96cb336c80ab> .
+
+<http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e> ;
+        c:importance     "1" ;
+        c:name           "Ford Motor Company" ;
+        c:originalValue  "Ford Motor Company" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/be437ffc-9d36-398f-b3bf-991ddb6ca3b9> .
+
+<http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e> ;
+        c:importance     "1" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/511b5743-ec0d-3fb6-ae84-fd7d1375528e> ;
+        c:importance     "2" ;
+        c:name           "Ford do Brasil" ;
+        c:originalValue  "Ford do Brasil" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/76d87a6c-9e54-31be-8a6d-2b2087359003> .

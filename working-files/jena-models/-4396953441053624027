@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3C299ZCzTN4gWdKuS1angmVSx0Q=|Ou5mdQGVJowP6kGYQDNB5esau7iO/JiktL3268vfczQKrymoFuZ/og==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:44.548" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:importance     "2" ;
+        c:name           "Local government in the United States" ;
+        c:originalValue  "Local government in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/92b023bc-820a-3e24-995f-5e36103f7ff3> .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:importance     "2" ;
+        c:name           "Prosecution" ;
+        c:originalValue  "Prosecution" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9257137c-522c-37f9-a4cc-b2e1b36e65f1> .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f4869315-c8b4-77e1-4da5-4668b471d399" ;
+        c:docDate          "2015-05-30 09:42:44.813" ;
+        c:docTitle         "" ;
+        c:document         "Prosecutors in George Washington Bridge Case Seek to Seal Evidence. Federal prosecutors say they are requesting the order, which defense lawyers oppose, to protect those who aren’t charged from disclosure of potentially embarrassing information." ;
+        c:id               "http://id.opencalais.com/O5dIr7kgY5KW-oP*f0HO6A" .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:importance     "1" ;
+        c:name           "Criminal law" ;
+        c:originalValue  "Criminal law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82be3750-fcbb-358e-9efe-8cddcd1736a3> .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:importance     "2" ;
+        c:name           "Prosecutor" ;
+        c:originalValue  "Prosecutor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c555f013-b3d3-3286-af73-642723c95f48> .
+
+<http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54102295-f5d4-3444-be1c-fc8db7a9577b> ;
+        c:importance     "2" ;
+        c:name           "Law enforcement in the United States" ;
+        c:originalValue  "Law enforcement in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4bb1f596-8ecd-3da5-b765-0535fd29c114> .

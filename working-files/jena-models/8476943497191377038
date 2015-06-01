@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226> ;
+        c:importance     "2" ;
+        c:name           "Disruption" ;
+        c:originalValue  "Disruption (adoption)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8c08134f-3f85-3b7f-8ec9-b254882a8753> .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226> ;
+        c:importance     "2" ;
+        c:name           "Taco Bell" ;
+        c:originalValue  "Taco Bell" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1fce0f88-872d-3282-999c-b52b5831f20f> .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226> ;
+        c:importance     "1" ;
+        c:name           "San Francisco Bay Area" ;
+        c:originalValue  "San Francisco Bay Area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/034d23a0-b8f1-3776-b283-add77bf68df8> .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226> ;
+        c:importance     "2" ;
+        c:name           "TED" ;
+        c:originalValue  "TED (conference)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/05d16a11-7f80-3db4-a70d-3e08301278fc> .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|psg9EBZ9LqAs2K9l8224SvAQiBU=|WvCh8408bigLV1PShiTEvbfpfVNpr1fCmpaNiogtPlGKcy84kOveWw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:35.116" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226> ;
+        c:importance     "2" ;
+        c:name           "Silicon Valley" ;
+        c:originalValue  "Silicon Valley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2937d49f-78a7-3b5a-95fb-f06f634e7b9b> .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226> ;
+        c:importance     "1" ;
+        c:name           "Geoffrey Nunberg" ;
+        c:originalValue  "Geoffrey Nunberg" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c6b22520-6750-36a6-bd30-bbaf3f43541c> .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dd5b55d0-2297-74bc-14da-538884c4551f" ;
+        c:docDate          "2015-05-30 09:27:35.209" ;
+        c:docTitle         "" ;
+        c:document         "From TED Talks To Taco Bell, Abuzz With Silicon Valley-Style 'Disruption'. Linguist Geoff Nunberg considers the roots and resonance of the latest tech buzzword to catapult into the mainstream. \"Disrupt\" may be ubiquitous now, but could the term be on the eve of a disruption?" ;
+        c:id               "http://id.opencalais.com/2xUXjR0BlHW2yPwcKyxDHw" .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226> ;
+        c:importance     "2" ;
+        c:name           "California" ;
+        c:originalValue  "California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f06ec234-e848-3b5c-8ebb-7b0092c03c1e> .
+
+<http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1452ee47-63cc-3c8f-8ae9-92a563cec226> ;
+        c:importance     "1" ;
+        c:name           "Geography of California" ;
+        c:originalValue  "Geography of California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/637c5164-c035-34de-88dc-88bc9287ec8f> .

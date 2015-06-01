@@ -1,0 +1,104 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ZG4mZ2uMLhAFW0N6FluzXqfFv6Y=|VLrGl+GXWIT52jHjHFFZMe2eF5Z8WkjAsN18m3t8Z6SVw5aj3Kae8w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:15.696" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:importance     "1" ;
+        c:name           "Desegregation" ;
+        c:originalValue  "Desegregation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/09cdf0ff-af0d-358b-b40b-41a87f52513c> .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "104c6157-1171-52d6-14da-53f8f701927e" ;
+        c:docDate          "2015-05-30 10:35:15.883" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: The role of Nasa in desegregation. The authors of We Could Not Fail profile some of the first African Americans to work in the US space program" ;
+        c:id               "http://id.opencalais.com/LvkyhSbBti4d5DUgzmkpNg" .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:importance     "1" ;
+        c:name           "Discrimination" ;
+        c:originalValue  "Discrimination" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a85c07a-9a89-398d-a796-bfecdec4e916> .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:score           "0.918" .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d1b848e8-b60d-31e8-a2e0-922f13224ba4> ;
+        c:score           "0.904" .

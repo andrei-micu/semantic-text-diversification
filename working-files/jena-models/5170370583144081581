@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:importance     "1" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YULYYXBwn4fPLIx6NCeUnLOhPfI=|FB5HCCgbjOWaARcHgiY0jpAmh0kSXpU9FZSlvaFVg/rgXG26+lAf7A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:12.891" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:score           "0.969" .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:importance     "1" ;
+        c:name           "Tornadoes in the United States" ;
+        c:originalValue  "Tornadoes in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ea96fbc3-6967-3c91-8b59-d7cd2ba4dbf1> .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:importance     "2" ;
+        c:name           "Tornadoes" ;
+        c:originalValue  "Tornadoes of 2011" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/808fee59-6cd5-3b3c-9b4d-fe42d6581160> .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:score           "0.549" .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:importance     "1" ;
+        c:name           "Natural disasters" ;
+        c:originalValue  "Natural disasters" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ec37c7c3-fd35-39fa-ae8e-7a4e85fdaded> .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2762a9aa-019d-1ee9-14da-541593b71d39" ;
+        c:docDate          "2015-05-30 09:37:13.219" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Aerial footage shows US tornado damage. A severe storm has rolled through the southern US, killing at least five people and leaving more than 43 injured." ;
+        c:id               "http://id.opencalais.com/aodnooMiDvpAL5Df679zmQ" .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1442f4e5-0456-33f4-8f7f-8ca5e8d85a34> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

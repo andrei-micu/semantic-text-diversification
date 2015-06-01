@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance     "2" ;
+        c:name           "Iran–United States relations" ;
+        c:originalValue  "Iran–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cc4f0d1-5a61-38ff-9a0d-6996481b513d> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance     "2" ;
+        c:name           "Government of Mahmoud Ahmadinejad" ;
+        c:originalValue  "Government of Mahmoud Ahmadinejad (2005–present)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf683961-a421-3619-a77f-3040e98a51b9> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ihd2UHOd+XuPfClWLdKpEiQpNAE=|ZcWAC0UTRfTEmituIut31c7BZGZCJ2CRXICfAWGxuk9VbD5M/KK2Sw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:05.608" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance     "2" ;
+        c:name           "Nuclear weapons" ;
+        c:originalValue  "Nuclear weapons" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c2311e4f-0066-3501-ad98-01e59cf07c98> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance     "2" ;
+        c:name           "Politics of Iran" ;
+        c:originalValue  "Politics of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c472f367-69ac-34bf-8ddd-fe9911935ccf> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:score           "0.949" .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance     "1" ;
+        c:name           "Ali Khamenei" ;
+        c:originalValue  "Ali Khamenei" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/512e175f-1530-3f83-a3c9-fec8033a89ea> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance     "2" ;
+        c:name           "Nuclear program of Iran" ;
+        c:originalValue  "Nuclear program of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e55ddb64-2b4a-3d36-ab91-61afd402b42a> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance     "1" ;
+        c:name           "Iran" ;
+        c:originalValue  "Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0249c322-e67c-3627-bd67-41c134686d4c> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293> ;
+        c:importance     "2" ;
+        c:name           "Weapons of mass destruction" ;
+        c:originalValue  "Weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9562e4d9-0ad0-3dde-80ea-ba76fafed720> .
+
+<http://d.opencalais.com/dochash-1/86b0f025-c4a3-34e1-b278-0596c2634293>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "de558690-4b27-5f6d-14da-546bb0871d39" ;
+        c:docDate          "2015-05-30 09:43:05.795" ;
+        c:docTitle         "" ;
+        c:document         "Iran's Khamenei rules out interviews with nuclear scientists. ANKARA (Reuters) - Iran's Supreme Leader Ayatollah Ali Khamenei said on Wednesday Tehran would not accept \"unreasonable demands\" by world powers over its disputed nuclear program and ruled out letting inspectors interview its atomic scientists." ;
+        c:id               "http://id.opencalais.com/w1TXGNRCsEaAHJARJRlRAA" .

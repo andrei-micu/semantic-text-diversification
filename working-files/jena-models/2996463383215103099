@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:importance     "2" ;
+        c:name           "Coca-Cola" ;
+        c:originalValue  "Coca-Cola" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f5f18177-bb11-3785-86fd-02449d9b56d2> .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:importance     "2" ;
+        c:name           "Investment" ;
+        c:originalValue  "Investment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f974021-59af-3718-a6ea-cdb8151cb2c1> .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ebef03f7-dc35-a420-14da-53da55523ab1" ;
+        c:docDate          "2015-05-30 10:33:10.338" ;
+        c:docTitle         "" ;
+        c:document         "Buffett defends core holdings like IBM, Coca-Cola, in interview. NEW YORK (Reuters) - Billionaire investor Warren Buffett defended some of his core holdings in a televised interview on Monday, but reiterated that equities in general would look expensive in an environment with normal interest rates." ;
+        c:id               "http://id.opencalais.com/ZYnOk5kahTXJ-vMbUq7t4A" .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:importance     "1" ;
+        c:name           "Finance" ;
+        c:originalValue  "Finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/acd44d54-d8f3-3c36-a78c-2da2af5a2ae8> .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|koSKCSN8Y8ZRIIXC2HrYKHlSk3Q=|UkpdN0oB7CE5C48148qcMKgd4+9q+ZQ+9A9N+9tlc04z3EEJClXxKg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:10.229" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:importance     "2" ;
+        c:name           "The Coca-Cola Company" ;
+        c:originalValue  "The Coca-Cola Company" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ca25d07-52a1-34e5-a1ac-3dd0c96d3643> .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:importance     "1" ;
+        c:name           "Berkshire Hathaway" ;
+        c:originalValue  "Berkshire Hathaway" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d628e674-1472-3de3-83f9-1e850ff889a8> .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:importance     "2" ;
+        c:name           "Buffett" ;
+        c:originalValue  "Buffett" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eca93eed-370a-37cc-a462-dda0ee0ecf28> .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:importance     "2" ;
+        c:name           "Economy of the United States" ;
+        c:originalValue  "Economy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c04552-e625-3a39-93f8-3544f0172fe0> .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be3f4fbc-b979-3084-b56d-22427dc4a5fe> ;
+        c:importance     "1" ;
+        c:name           "Warren Buffett" ;
+        c:originalValue  "Warren Buffett" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e5f8e4b1-ce17-3f44-9436-9935b1e440b6> .

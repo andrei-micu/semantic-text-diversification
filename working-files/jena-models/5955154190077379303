@@ -1,0 +1,131 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "2" ;
+        c:name           "Social media" ;
+        c:originalValue  "Social media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26585b85-a498-31bb-abc9-70fdd3d7fb7c> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "2" ;
+        c:name           "Twitter" ;
+        c:originalValue  "Twitter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1deb7db-1a06-3168-8430-de8619280a93> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "1" ;
+        c:name           "Computing" ;
+        c:originalValue  "Computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "2" ;
+        c:name           "Payment systems" ;
+        c:originalValue  "Payment systems" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5fa5f0fa-9b5f-3b4f-9eb4-9781c88fcd68> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "2" ;
+        c:name           "Google" ;
+        c:originalValue  "Google" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/023cfe8d-c241-386c-beaa-ea10d0135d17> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:score           "0.998" .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "2" ;
+        c:name           "EBay" ;
+        c:originalValue  "EBay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/118782f5-bd7e-337f-a96f-5c6a98a50cd1> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "1" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "2" ;
+        c:name           "PayPal" ;
+        c:originalValue  "PayPal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4b6fbaf-3e2e-3332-886c-28170b9aacb3> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "2" ;
+        c:name           "Electronic commerce" ;
+        c:originalValue  "Electronic commerce" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7e08d51f-07f1-3491-a789-243db3ae4d2f> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "1" ;
+        c:name           "World Wide Web" ;
+        c:originalValue  "World Wide Web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9234a67-1d5c-3451-83e0-fb48ce4187d8> .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|xJyT+GIT1A4I1E+dGvNm2RU0QU8=|NWI24mGgdCm+eTaPuodRKUzWeXMbNpx8tJQciJXrOK/ZMJEvzuM6ug==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:58.825" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ad93c63f-74f0-fe54-14da-539cf494551f" ;
+        c:docDate          "2015-05-30 09:28:58.997" ;
+        c:docTitle         "" ;
+        c:document         "How American Tech Giants Are Stepping In To Help Nepal. Facebook and Google are making it easier to identify survivors, while Twitter, Apple and PayPal are streamlining the donation process." ;
+        c:id               "http://id.opencalais.com/ZdrzVbo7*U2cLLUbHZk*rw" .
+
+<http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0d0ef8a3-235a-3927-b13f-72cc05df621e> ;
+        c:importance     "2" ;
+        c:name           "Facebook" ;
+        c:originalValue  "Facebook" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b4f3a1a1-a94a-380c-8fb6-7d61fd802b3d> .

@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "298d1e37-13fa-d486-14da-5429c4732f98" ;
+        c:docDate          "2015-05-30 09:38:35.731" ;
+        c:docTitle         "" ;
+        c:document         "Search for bodies in Nepal village suspended due to avalanches. KATHMANDU (Reuters) - The search for missing trekkers, guides and residents feared buried in Nepal village by a massive landslide and avalanche triggered by last month's magnitude 7.8 earthquake has been suspended due to bad weather, officials said on Sunday." ;
+        c:id               "http://id.opencalais.com/YmP60lSKy0F2c0Bo49zDUA" .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:importance     "1" ;
+        c:name           "Avalanche" ;
+        c:originalValue  "Avalanche" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f36132d6-6543-34ed-b243-f2d37a136877> .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:score           "0.998" .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:importance     "2" ;
+        c:name           "Physical geography" ;
+        c:originalValue  "Physical geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07bc24e7-a33a-34a3-8a5c-23a4b068fccb> .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:importance     "1" ;
+        c:name           "Snow" ;
+        c:originalValue  "Snow" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4247b123-5566-38fd-971b-92d833de8133> .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LOPWm1XvpRje4UNoPLIVp1Rco9w=|KI0fBvbVRSKtMUTfXj5o1y82CAId/2V8/yigsUclg+1Dou/KxtdOEw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:35.606" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dca14b0a-d6bc-34a2-a9ee-ee81487df28d> ;
+        c:importance     "1" ;
+        c:name           "Kathmandu" ;
+        c:originalValue  "Kathmandu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7886b3bd-0443-364a-ab85-30cd8e5f26ac> .

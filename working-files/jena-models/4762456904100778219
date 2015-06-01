@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe> ;
+        c:importance     "1" ;
+        c:name           "Chinatown bus lines" ;
+        c:originalValue  "Chinatown bus lines" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df01eceb-45f4-3ba4-8c23-cbdc32e8db62> .
+
+<http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ee57dc32-6b0b-a071-14da-546cfc113c98" ;
+        c:docDate          "2015-05-30 09:43:11.115" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Passengers' lucky escape as train hits bus. Passengers on a bus in Atlanta, Georgia, had a narrow escape after their bus got stuck in traffic - in the path of an oncoming train." ;
+        c:id               "http://id.opencalais.com/6RKKnfw*Re-3KO4cz*7kbw" .
+
+<http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe> ;
+        c:score           "0.906" .
+
+<http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe> ;
+        c:importance     "1" ;
+        c:name           "Chinese American history" ;
+        c:originalValue  "Chinese American history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4560bfc-e319-3bfe-aeff-15fb2850d6d7> .
+
+<http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Tii3eMOEQIp9z6gt/O/icjNpx0M=|SN+1e3Gepsr53nY3GTaKlZy4xXiUH/MNCk53kyZHR0KLsJ0wfm8abQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:10.913" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/57f19288-3090-3030-8f97-985b2024f5fe> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

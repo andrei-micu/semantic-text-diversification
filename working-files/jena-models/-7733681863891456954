@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2d71f1b3-7177-341b-14da-53ad33d71d39" ;
+        c:docDate          "2015-05-30 09:30:05.700" ;
+        c:docTitle         "" ;
+        c:document         "Police: TV star 'sexually abused' 22 students. At least 22 pupils and a visitor at a former school for troubled girls in southeast England were sexually abused by the late British TV star Jimmy Savile in the 1970s, a report by Surrey police has concluded." ;
+        c:id               "http://id.opencalais.com/S7nRsS-tVrtu0-GQNV-fug" .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:importance     "1" ;
+        c:name           "Knights Bachelor" ;
+        c:originalValue  "Knights Bachelor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5a0e4b4d-6886-32b9-a76f-324c3a18f20f> .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:importance     "1" ;
+        c:name           "British people" ;
+        c:originalValue  "British people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/504d852b-86a3-321f-96e2-df8194075afc> .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:importance     "2" ;
+        c:name           "English people" ;
+        c:originalValue  "English people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1838496c-93d5-3866-9fe2-536e32464e5b> .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9ZPHZ0jfNz5muCpozLgFHOxYqdo=|BTBwwBmbPu1AMQe6tfD6i9ZCNOBIe/VipS/Exmw6Tq6tSHT0cMY8RA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:05.373" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:importance     "2" ;
+        c:name           "Top of the Pops" ;
+        c:originalValue  "Top of the Pops" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a94004e-9790-3a5b-9f7e-444fca5d79c4> .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:score           "0.902" .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:importance     "1" ;
+        c:name           "Jimmy Savile" ;
+        c:originalValue  "Jimmy Savile" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47715ef9-58b3-38a2-a9ae-929dbbaa2988> .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/62facd74-7f1e-32b7-a7ad-03b6679dc7e1> ;
+        c:importance     "2" ;
+        c:name           "Savile" ;
+        c:originalValue  "Savile" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3173bc96-a36e-3a6c-a7c7-43b49fe5e559> .

@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance     "1" ;
+        c:name           "Wolf Blitzer" ;
+        c:originalValue  "Wolf Blitzer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3b790610-9ddd-3e94-bb44-b193fc894282> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance     "2" ;
+        c:name           "White House Communications Director" ;
+        c:originalValue  "White House Communications Director" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18e7af0c-5723-3e01-b628-dea5a3998edd> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|PTqVkThiAxhxwjxp5QBJ4PnQal4=|PkhC9ZgUdtTtGhDntSuWFtfJXP4d85PmyyVsGlATs/bwu2SBziHNTw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:28.858" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance     "1" ;
+        c:name           "Jennifer Psaki" ;
+        c:originalValue  "Jennifer Psaki" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae44f40c-0fc7-3876-ae43-136a25d8f1b7> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance     "2" ;
+        c:name           "Patriot Act" ;
+        c:originalValue  "Patriot Act" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/805847b2-f729-396a-82e7-4342552020d9> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance     "2" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:score           "0.665" .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance     "1" ;
+        c:name           "Privacy law" ;
+        c:originalValue  "Privacy law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d10a20d4-21c4-3ec1-b58b-b19fac8dffbc> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance     "2" ;
+        c:name           "Blitzer" ;
+        c:originalValue  "Blitzer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/79771630-27c0-3ff5-8deb-61425ea47c5c> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756> ;
+        c:importance     "2" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/6aebc3a7-4864-3572-98b7-1e3de9d0f756>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "10521027-1a9c-9641-14da-54c941a760f9" ;
+        c:docDate          "2015-05-30 10:49:29.014" ;
+        c:docTitle         "" ;
+        c:document         "W.H. on Patriot Act: No plan B. CNN's Wolf Blitzer talks with White House Communications Director Jen Psaki about what the administration plans to do if Patriot Act provisions are not renewed." ;
+        c:id               "http://id.opencalais.com/qcPgVcUH2JdqrhPuE5vuPw" .

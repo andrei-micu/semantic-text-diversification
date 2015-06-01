@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:score           "0.678" .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ru7Y6J7gnnFbvJW5J7v4/Fa2CPU=|btraUVeWyrap60YHytMgv9AfNXNYhLGoaZNZP+BlQq4Bsxx9HxuvZA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:37.101" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:importance     "1" ;
+        c:name           "Celebrity" ;
+        c:originalValue  "Celebrity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e77d0ea-05f3-3151-aeeb-20d0e6eb745a> .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:importance     "2" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:importance     "1" ;
+        c:name           "Hip hop" ;
+        c:originalValue  "Hip hop" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e8f499d-f97b-3193-923a-1f258a30e636> .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:importance     "1" ;
+        c:name           "African-American culture" ;
+        c:originalValue  "African-American culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74f8f4b0-3196-35a0-ad95-2f4e3c73b0ff> .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7> ;
+        c:importance     "2" ;
+        c:name           "Flocking" ;
+        c:originalValue  "Flocking (texture)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/568e5a9c-095a-3701-837a-872c7e0c060e> .
+
+<http://d.opencalais.com/dochash-1/24e96eb4-a989-3a99-84c6-8f3b1b417ba7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "662f18b9-34ef-3b69-14da-53c398d760f9" ;
+        c:docDate          "2015-05-30 10:31:37.226" ;
+        c:docTitle         "" ;
+        c:document         "Seen ‘Hamilton’? No? You Poor Thing.. Celebrities are flocking to see the hip-hop musical “Hamilton” at the cozy Public Theater, setting off a mad status grab." ;
+        c:id               "http://id.opencalais.com/tRyag2gCd83T9Qlu4I5rmg" .

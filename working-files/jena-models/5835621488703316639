@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5> ;
+        c:importance     "2" ;
+        c:name           "South Carolina" ;
+        c:originalValue  "South Carolina" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6f3dadd6-da06-3089-9edc-750e851b4097> .
+
+<http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5> ;
+        c:importance     "1" ;
+        c:name           "Lindsey Graham" ;
+        c:originalValue  "Lindsey Graham" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f577cbf1-d9e6-371d-b1c1-a83648f7d0f2> .
+
+<http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5> ;
+        c:score           "0.636" .
+
+<http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cXeE2iQW4C6yabGsLpAhZsUcqqk=|HR2QOvEiWiUFUL7x86slgLWFMFIAozY5LCQtX7Q63tppLBbHTRy39A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:50.029" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "905f43de-a8cd-a099-14da-54ce6cd13c98" ;
+        c:docDate          "2015-05-30 09:49:50.263" ;
+        c:docTitle         "" ;
+        c:document         "Graham retires from Air Force. Lindsey Graham is leaving the Air Force Reserves -- even though he \"wouldn't leave if they weren't making me,\" he says." ;
+        c:id               "http://id.opencalais.com/FM0Xqspjuk2dmjvbjV1SWQ" .
+
+<http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5> ;
+        c:importance     "1" ;
+        c:name           "Graham" ;
+        c:originalValue  "Graham (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8641e77b-1f76-3914-aa97-2046863df33b> .
+
+<http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5> ;
+        c:importance     "1" ;
+        c:name           "International Republican Institute" ;
+        c:originalValue  "International Republican Institute" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6b73331-5df7-30b5-a160-d319d4ac2ed7> .
+
+<http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/217b7622-43aa-3459-8a37-16af40a263f5> ;
+        c:score           "0.558" .

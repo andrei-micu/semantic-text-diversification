@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:importance     "1" ;
+        c:name           "Fashion" ;
+        c:originalValue  "Fashion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d7e85d55-9111-311d-8bbb-4432b9997ead> .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:importance     "2" ;
+        c:name           "KINK" ;
+        c:originalValue  "KINK" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5d8c07dc-929b-3ddb-a17a-f388d3db135a> .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|/v7f2IwyApqxsaCL1wDf112uScY=|GoOho3NRj+pjuIjPoAmLhtUY6MdquHl/hFSLdH0lHfwBqujTzMEWug==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:15.053" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:importance     "2" ;
+        c:name           "Hair" ;
+        c:originalValue  "Hair" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/198046a1-acce-3f96-9a6f-15523d883056> .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f19afe5d-166c-3499-14da-53af90d13c98" ;
+        c:docDate          "2015-05-30 09:30:15.287" ;
+        c:docTitle         "" ;
+        c:document         "5 great hairstyles that always look amazing. From curly and coily to just a hint of kink, African women across the continent are embracing the natural hair movement." ;
+        c:id               "http://id.opencalais.com/WSGN3R83NS3k8yssf5b2yA" .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:importance     "1" ;
+        c:name           "Hairstyles" ;
+        c:originalValue  "Hairstyles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/25848fce-f79d-3edd-bbd7-4a351f4fa1a4> .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:importance     "1" ;
+        c:name           "Hairdressing" ;
+        c:originalValue  "Hairdressing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3f8d53c6-8830-36b0-b082-d6ab856ac564> .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:importance     "2" ;
+        c:name           "Curly Horse" ;
+        c:originalValue  "Curly Horse" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a606f20-6808-3260-b415-86867353e013> .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:score           "0.952" .
+
+<http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/770b5423-1dcb-3c40-aa57-dca0c69aeb2c> ;
+        c:importance     "2" ;
+        c:name           "African-American culture" ;
+        c:originalValue  "African-American culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74f8f4b0-3196-35a0-ad95-2f4e3c73b0ff> .

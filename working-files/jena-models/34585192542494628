@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:importance     "2" ;
+        c:name           "Gray" ;
+        c:originalValue  "Gray (horse)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6f60dba-32b4-3fbf-9dff-8115eb057753> .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:importance     "1" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ec9c05cf-b462-3955-14da-53884991927e" ;
+        c:docDate          "2015-05-30 10:27:34.434" ;
+        c:docTitle         "" ;
+        c:document         "Freddie Gray Is Mourned at Funeral in Baltimore. Thousands of people turned out to pay their respects to Mr. Gray, whose death on April 19 after an encounter with the police has opened a deep wound in Baltimore." ;
+        c:id               "http://id.opencalais.com/825uvnpagJC40gEMyoLTPA" .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:score           "0.975" .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:importance     "2" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:importance     "1" ;
+        c:name           "Freddie" ;
+        c:originalValue  "Freddie" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b024b5d4-fa1b-32d6-a520-4353c684f330> .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/967468c3-695e-3995-81c8-c53674bd9f12> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yfgMsPPyJiAdanyksfmA21tsIuw=|ioXhtNfqTIW4UNdZf8UVK/E8/9gboUbGMFODuoFSaii9p/J0aE215g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:34.169" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:importance     "2" ;
+        c:name           "United States presidential election" ;
+        c:originalValue  "United States presidential election, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d7af0a02-5763-3d02-816d-8a98906d80c9> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:score           "0.649" .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "897486de-cb9c-7eaf-14da-54289ad71d39" ;
+        c:docDate          "2015-05-30 09:38:31.079" ;
+        c:docTitle         "" ;
+        c:document         "Obama makes transport funding pledge. President Barack Obama says the US must invest more in its infrastructure, in the wake of a train derailment in Philadelphia that claimed eight lives." ;
+        c:id               "http://id.opencalais.com/4WoRRXMu7tE0e*bch*-vcg" .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:importance     "2" ;
+        c:name           "Human migration" ;
+        c:originalValue  "Human migration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bfb396c9-8e39-3429-bebb-8d0e6157e32e> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|/GslZ37fN9PxUctI8m+FiAEFnKk=|eqxErruDYcjnBMHo+wU//XitP+wuMGK0VIigVI7UN3uYOPYBCJNOhw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:30.829" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:importance     "2" ;
+        c:name           "Family of Barack Obama" ;
+        c:originalValue  "Family of Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61100bdb-b997-3cff-bdf7-62e2836abdd9> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:score           "0.545" .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:score           "0.851" .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama presidential primary campaign" ;
+        c:originalValue  "Barack Obama presidential primary campaign, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/315f03dd-8a19-365a-9881-b9a663683d6e> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/be1156c6-171d-3d36-b536-05460d8a301c> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .

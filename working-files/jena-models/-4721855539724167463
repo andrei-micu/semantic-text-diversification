@@ -1,0 +1,60 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419> ;
+        c:importance     "1" ;
+        c:name           "Languages of Asia" ;
+        c:originalValue  "Languages of Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/efbbce38-fb2e-3d92-9c19-184111f8c45a> .
+
+<http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419> ;
+        c:importance     "2" ;
+        c:name           "Korea" ;
+        c:originalValue  "Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c228654-048e-323a-b158-19dd884a146a> .
+
+<http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419> ;
+        c:importance     "1" ;
+        c:name           "Korean language" ;
+        c:originalValue  "Korean language" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2222aa5a-5aa5-35f7-b27b-b836badb4f41> .
+
+<http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "356cce7d-2bb3-54c1-4da5-417fa6653edc" ;
+        c:docDate          "2015-05-30 09:37:22.914" ;
+        c:docTitle         "" ;
+        c:document         "Renewed hope for Baltimore Korean family after store is destroyed. The day after rioting rocked parts of Baltimore, Matthew Chung stared in disbelief at a video clip circulating online, showing an older Korean woman sobbing as a man props her up to keep from collapsing." ;
+        c:id               "http://id.opencalais.com/wTNgJdWcqzx-6nQsqpTyhA" .
+
+<http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|vmeJSWrCu/gD2Hy5u41F+3w1HE4=|c89Gob1cVodp/4pzTf95wTfthH0YwVaP5ghNG1pkqme62w0axVMCgg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:22.726" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1dce1f00-fbdc-3875-86a5-d4c68c443419> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .

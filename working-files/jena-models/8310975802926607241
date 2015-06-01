@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/62f3c336-02ff-3e88-b9fb-fe7cb5923944>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8875548f-8b4b-3da6-14da-54d0fc535464" ;
+        c:docDate          "2015-05-30 10:50:00.595" ;
+        c:docTitle         "" ;
+        c:document         "Food #fail: 10 things you're eating wrong. " ;
+        c:id               "http://id.opencalais.com/zTIR7W8g-eXZarNRWwxzCw" .
+
+<http://d.opencalais.com/dochash-1/62f3c336-02ff-3e88-b9fb-fe7cb5923944/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/62f3c336-02ff-3e88-b9fb-fe7cb5923944> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/62f3c336-02ff-3e88-b9fb-fe7cb5923944/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/62f3c336-02ff-3e88-b9fb-fe7cb5923944> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ikHikkbPM5xMbHiHeBtTrV+a4rY=|bRRy5JO9al8TtrUikcV9uw0XIc17rQYufPbteXEwrRHJWPfZw9ts1Q==" ;
+        c:submissionDate  "2015-05-30 10:50:00.517" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

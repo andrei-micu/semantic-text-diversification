@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9> ;
+        c:importance     "1" ;
+        c:name           "Hacking" ;
+        c:originalValue  "Hacking (computer security)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9419dea6-1f23-323c-bd1d-194397b9cdda> .
+
+<http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|5tGGPEAHcSpVI5BX0H8/E9tjows=|P9F8mm/ed4niXXXAc5eMt6t0p+FFiO8+FkY1ekML3qv7tmEcwRQFkg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:34.252" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9> ;
+        c:importance     "1" ;
+        c:name           "Bush White House email controversy" ;
+        c:originalValue  "Bush White House email controversy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b09e507-a679-312e-bb0a-d367a3d1b9fa> .
+
+<http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9152bd53-865b-e888-14da-548ffac1927e" ;
+        c:docDate          "2015-05-30 10:45:34.580" ;
+        c:docTitle         "" ;
+        c:document         "State Department Releases Clinton Emails . The department released the first batch of 296 emails from the former secretary of state's email accounts, which were provided to the Select Committee on Benghazi in February." ;
+        c:id               "http://id.opencalais.com/JSs7nV8MTMLjfuBO75f9ZA" .
+
+<http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9> ;
+        c:importance     "1" ;
+        c:name           "Dismissal of United States Attorneys controversy" ;
+        c:originalValue  "Dismissal of United States Attorneys controversy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/31dd5923-c750-324d-86c1-471af3dd1a0b> .
+
+<http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/30d631ed-a54f-3c7f-836b-dab4351d2bd9> ;
+        c:score           "1.000" .

@@ -1,0 +1,153 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b658a7c0-7aa6-2cc2-14da-539b30d1df07" ;
+        c:docDate          "2015-05-30 09:28:51.956" ;
+        c:docTitle         "" ;
+        c:document         "Fall of Saigon memories remain fresh. It's been 40 years since Communist forces took Saigon in the South and ended the Vietnam War. For those who lived through it, the memories remain fresh." ;
+        c:id               "http://id.opencalais.com/HOvbOkXGvWqnIomhPmg2xg" .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance     "1" ;
+        c:name           "History of Southeast Asia" ;
+        c:originalValue  "History of Southeast Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a90e8842-5577-3812-a19d-abf63ea04ae2> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance     "2" ;
+        c:name           "Ho Chi Minh City" ;
+        c:originalValue  "Ho Chi Minh City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/734b1d53-e8d0-3607-b389-123f8b624b5f> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance     "1" ;
+        c:name           "Vietnam War" ;
+        c:originalValue  "Vietnam War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3505c48d-ccce-3625-848c-82afffae1347> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance     "2" ;
+        c:name           "North Vietnam" ;
+        c:originalValue  "North Vietnam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43c6fb9b-920c-33bb-947d-ac412cce584f> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance     "2" ;
+        c:name           "Forced migration" ;
+        c:originalValue  "Forced migration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f0a4dda-4d7f-3580-8d98-f16c78687fc9> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:score           "0.938" .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance     "2" ;
+        c:name           "Fall of Saigon" ;
+        c:originalValue  "Fall of Saigon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b265af7-d976-3408-a38d-b64347979d91> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|DSwQPbPi/fw1aFjq/JIqBbibSaw=|GRffiKO+NIBsF0KTukKylushk8cUKu+7P5z67t4mr8z+m4PInYtSnA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:51.597" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:score           "0.949" .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance     "2" ;
+        c:name           "Vietnamese diaspora" ;
+        c:originalValue  "Vietnamese diaspora" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f925c462-b0b9-3b87-8abd-8979fcd9a011> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance     "2" ;
+        c:name           "Little Saigon" ;
+        c:originalValue  "Little Saigon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/455ce9c1-c913-33e2-a15a-9a0f8a75663e> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:importance     "2" ;
+        c:name           "American Community School in Saigon" ;
+        c:originalValue  "American Community School in Saigon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c8bf2f7-be14-3d9f-b1c3-7ae2efa50417> .
+
+<http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3162e530-8a5c-3998-899e-1ab1aebe66c6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

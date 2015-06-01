@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FhL2/hGkh1QB2/vBHBc1FZJSyMc=|NMFKCPrwGf1utSxHtczkx/ql2joCVHe22JQHqgCcrP/fIiJYovG1lg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:14.152" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:importance     "2" ;
+        c:name           "Saudi Arabia" ;
+        c:originalValue  "Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/287525b4-3bb6-30f6-a8b8-1757b06a0b54> .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:importance     "1" ;
+        c:name           "Middle East" ;
+        c:originalValue  "Middle East" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d409e4d8-bb09-3dd2-98dc-af04b2734c0a> .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:importance     "2" ;
+        c:name           "House of Saud" ;
+        c:originalValue  "House of Saud" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3876495-1e14-34df-bbf7-cbd2ef3d72b1> .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:score           "0.912" .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:importance     "1" ;
+        c:name           "Kings of Saudi Arabia" ;
+        c:originalValue  "Kings of Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b89e8fd8-0722-34ff-a6d1-84b8294dab9d> .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:importance     "2" ;
+        c:name           "Riyadh" ;
+        c:originalValue  "Riyadh" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2734b6f6-51b6-3b87-9bd5-8b9035cb9f0a> .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227> ;
+        c:importance     "2" ;
+        c:name           "Adnanites" ;
+        c:originalValue  "Adnanites" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e26153d4-41e2-3da0-b74e-5b670a4ea3df> .
+
+<http://d.opencalais.com/dochash-1/0219f42a-7bdc-3556-aa37-c7a470f47227>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bf7a0818-ef54-3cf2-14da-53cca4835464" ;
+        c:docDate          "2015-05-30 10:32:14.231" ;
+        c:docTitle         "" ;
+        c:document         "Saudi king resets succession to cope with turbulent times. RIYADH (Reuters) - Saudi King Salman appointed a nephew as new heir and made his young son second in line to rule on Wednesday, a major shift in power towards two princes who have overseen a more assertive stance at a time of almost unprecedented regional turmoil." ;
+        c:id               "http://id.opencalais.com/eAtTZydVgL1U*rOKPC-SYw" .

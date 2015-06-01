@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4a822486-646e-7f29-14da-53c5c4749095" ;
+        c:docDate          "2015-05-30 10:31:46.178" ;
+        c:docTitle         "" ;
+        c:document         "Palindrome Champ Sees The World Backwards And Forwards. NPR's Robert Siegel talks to Mark Saltveit who is featured in a short documentary about the World Palindrome Championships, A Man, A Plan, A Palindrome. He will compete in the 2017 championship." ;
+        c:id               "http://id.opencalais.com/*9h4U6ixViYYAo1YMre8sA" .
+
+<http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e> ;
+        c:importance     "1" ;
+        c:name           "Constrained writing" ;
+        c:originalValue  "Constrained writing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61a0793b-7a5e-3f89-a737-e720fda29fdf> .
+
+<http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e> ;
+        c:score           "0.977" .
+
+<http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1SbO2UjU1u9vl4iAZ7LJXmDbRWc=|RF1/IdnyNmgFmGtp+E7u1yfvcIoJBJzfmddSwGBkTJXdVMgjhi1E/A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:45.991" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b309d7d-f98c-3063-abac-37516145707e> ;
+        c:importance     "1" ;
+        c:name           "Palindrome" ;
+        c:originalValue  "Palindrome" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4482c41-8cb1-3846-a95c-5bfaccf78548> .

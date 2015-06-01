@@ -1,0 +1,152 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:score           "0.899" .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f827edc2-2032-3b2d-14da-54c18ee71d39" ;
+        c:docDate          "2015-05-30 09:48:57.545" ;
+        c:docTitle         "" ;
+        c:document         "Chinese Security Laws Elevate the Party and Stifle Dissent. Mao Would Approve.. The new law, released in draft form this month, says security must be maintained “to realize the great rejuvenation of the Chinese nation.”" ;
+        c:id               "http://id.opencalais.com/noFraZ3iM7LyriMxwb6OTw" .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance     "2" ;
+        c:name           "Revolutionaries" ;
+        c:originalValue  "Revolutionaries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3d711e2d-d40a-3c3c-aac1-ab4bddf221e2> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Nn4QbSPYrGQECeAJI9ZmQx1DBvM=|U45XjPLWZj+mzPq6h2UYRXAerdc5AT8SIy3r13ni88H4r6E7tub7PA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:48:57.326" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:score           "0.947" .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance     "1" ;
+        c:name           "Mao Zedong" ;
+        c:originalValue  "Mao Zedong" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c38a7524-be50-3173-97cd-5a232f1bb24c> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:score           "0.985" .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance     "1" ;
+        c:name           "Chinese people" ;
+        c:originalValue  "Chinese people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f81236d-f930-362a-9656-5e515dc0b9f7> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance     "1" ;
+        c:name           "Chinese communists" ;
+        c:originalValue  "Chinese communists" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e8bec708-e10a-347b-b587-b66f7f52a0f6> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance     "2" ;
+        c:name           "Mao" ;
+        c:originalValue  "Mao (name)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b62acfa-209b-35f7-aa00-e5475ab35d47> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance     "2" ;
+        c:name           "Rejuvenation" ;
+        c:originalValue  "Rejuvenation (aging)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fc16bf69-70c7-3361-915d-36aa578763ce> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:score           "0.741" .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fa8d27e4-ece6-3075-8c90-8cf885f65b22> ;
+        c:importance     "2" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .

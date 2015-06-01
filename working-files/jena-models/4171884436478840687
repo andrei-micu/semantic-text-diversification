@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance     "2" ;
+        c:name           "Iran" ;
+        c:originalValue  "Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0249c322-e67c-3627-bd67-41c134686d4c> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance     "1" ;
+        c:name           "Weapons of mass destruction" ;
+        c:originalValue  "Weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9562e4d9-0ad0-3dde-80ea-ba76fafed720> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance     "2" ;
+        c:name           "United States Senate" ;
+        c:originalValue  "United States Senate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01c05ea8-5d0c-3cc6-bc97-ab1e0b48a8bc> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance     "2" ;
+        c:name           "Senate of the Republic of Poland" ;
+        c:originalValue  "Senate of the Republic of Poland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0299012d-b025-3356-9465-5146f648dfa5> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance     "2" ;
+        c:name           "Iran and weapons of mass destruction" ;
+        c:originalValue  "Iran and weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72f425bc-5601-31b2-bc8a-87f681dadd60> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "98fd4ea8-de0a-0c7e-14da-53c6a1623ab1" ;
+        c:docDate          "2015-05-30 10:31:49.667" ;
+        c:docTitle         "" ;
+        c:document         "Senate rejects bid to toughen Iran nuclear review bill. WASHINGTON (Reuters) - The U.S. Senate rejected an effort on Tuesday to require any nuclear agreement with Iran to be considered an international treaty, which would have forced any deal to be ratified by two-thirds of the Senate's 100 members." ;
+        c:id               "http://id.opencalais.com/P4HG9ldwxlqjP40Y*AibMQ" .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|SwSCxvnQVHT6IWMWPMgFqQBbTQI=|E9a/Mr0XOnIrYMtsrGJ252U2IdI7t0xWLJoWz+pIjNUfUoq2FKdLIg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:49.526" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance     "2" ;
+        c:name           "Ratification" ;
+        c:originalValue  "Ratification" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/987aba3e-918e-3b21-9171-d298b2b510bf> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance     "2" ;
+        c:name           "Nuclear program of Iran" ;
+        c:originalValue  "Nuclear program of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e55ddb64-2b4a-3d36-ab91-61afd402b42a> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:importance     "2" ;
+        c:name           "Nuclear proliferation" ;
+        c:originalValue  "Nuclear proliferation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f667b49b-2db2-3365-a7c3-43453c82b78f> .
+
+<http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fd8bbdab-ed5c-3e20-a17d-07a60fec47aa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

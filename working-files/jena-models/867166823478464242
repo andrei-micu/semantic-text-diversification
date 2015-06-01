@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:score           "0.820" .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:importance     "1" ;
+        c:name           "Grand Croix of the Légion d'honneur" ;
+        c:originalValue  "Grand Croix of the Légion d'honneur" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cd903dae-e0e4-33b4-9d55-1807e8135733> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:importance     "2" ;
+        c:name           "Kazakhstani presidential election" ;
+        c:originalValue  "Kazakhstani presidential election, 2011" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/25041c22-b0c7-37b0-93cf-7194f5d3c63a> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:importance     "2" ;
+        c:name           "Kazakhstan" ;
+        c:originalValue  "Kazakhstan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/567da9fd-9dc0-392b-9e12-5366c0cc26d5> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:score           "0.659" .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:importance     "2" ;
+        c:name           "Nursultan Nazarbayev" ;
+        c:originalValue  "Nursultan Nazarbayev" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e1c6391-9fa3-35e0-8e7c-2f826a3c3532> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d753379d-83a9-dd04-14da-538b49e35464" ;
+        c:docDate          "2015-05-30 10:27:46.696" ;
+        c:docTitle         "" ;
+        c:document         "Kazakhstan’s President Is Re-elected by Almost Every Voter. Nursultan A. Nazarbayev, who has governed the country since the Soviet Union collapsed, secured his fifth term with 97.7 percent of the vote." ;
+        c:id               "http://id.opencalais.com/XNXdhSVvXIf1ZCqMds87sw" .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:importance     "2" ;
+        c:name           "Kanat Saudabayev" ;
+        c:originalValue  "Kanat Saudabayev" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9c62b140-b22a-3743-adde-a0c5ac5edfb1> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:importance     "1" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|lNweee8DaVPWB9J7YkRqEhzeDQ4=|lbhiMF5DHIQHSjy77w0W0XFND9Vuk0mWofaiAtNYhnu5XvoarL1fTw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:46.462" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0da0fa28-453c-3501-a687-3d6734d9974c> ;
+        c:importance     "2" ;
+        c:name           "Pan-Turkism" ;
+        c:originalValue  "Pan-Turkism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1f1376d-2e42-30d7-a51e-74e4f7a0a0bc> .

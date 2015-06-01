@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:importance     "1" ;
+        c:name           "Blues" ;
+        c:originalValue  "Blues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/90d37ee3-e4fe-3548-b839-feade09154b2> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:importance     "2" ;
+        c:name           "Eric Clapton" ;
+        c:originalValue  "Eric Clapton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/510ccfab-78ad-382e-a49c-d1b85797fc93> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|fYn+be+RD7xuTm/BROlC6WtexLY=|OsGS8Jqt44lf/0HcOABFLsqXaqY5dygx9z1CF7ya+OkHW/cEKGynaw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:41:03.242" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:importance     "2" ;
+        c:name           "B.B. King" ;
+        c:originalValue  "B.B. King" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43f0188d-5b8f-32b8-9c45-d4fe6a686bb1> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "48d2c696-3bdc-890e-14da-544dd0a719b3" ;
+        c:docDate          "2015-05-30 10:41:03.491" ;
+        c:docTitle         "" ;
+        c:document         "Blues legend B.B. King dies at 89. (Reuters) - Blues legend B.B. King, who took his music from rural juke joints to the mainstream and inspired a generation of guitarists from Eric Clapton to Stevie Ray Vaughan, has died in Las Vegas. He was 89." ;
+        c:id               "http://id.opencalais.com/1cei0RXUMuMjOqwxUm7dOw" .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:importance     "2" ;
+        c:name           "Jimmie Vaughan" ;
+        c:originalValue  "Jimmie Vaughan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d45126fa-b7b2-32d5-b2cf-cc528620d3e0> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:importance     "2" ;
+        c:name           "Stevie Ray Vaughan" ;
+        c:originalValue  "Stevie Ray Vaughan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/09fbb34e-ba6b-3e9a-8b30-3592bf1a2d1c> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:importance     "1" ;
+        c:name           "Lead guitarists" ;
+        c:originalValue  "Lead guitarists" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a02953b1-e7e2-33c6-98f4-5c45d9a0ab2a> .
+
+<http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3fb3d65e-3506-3aef-8d79-4e3925e9c943> ;
+        c:importance     "2" ;
+        c:name           "Grammy Award for Best Traditional Blues Album" ;
+        c:originalValue  "Grammy Award for Best Traditional Blues Album" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cb7ac2b-6e7a-346a-855a-b049bb2a61f3> .

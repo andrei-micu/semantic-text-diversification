@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ca2ef68c-2bae-4e95-14da-5434a9235464" ;
+        c:docDate          "2015-05-30 10:39:20.381" ;
+        c:docTitle         "" ;
+        c:document         "Sports of The Times: Punishment Is a Matter of Perspective. Fans in the Boston area were indignant over the penalties issued to Tom Brady and the Patriots. Fans elsewhere were applauding the N.F.L. and Commissioner Roger Goodell." ;
+        c:id               "http://id.opencalais.com/2BH99MYEsGtFl*21x2ydWg" .
+
+<http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4> ;
+        c:score           "0.657" .
+
+<http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|6FEHa/YUQRY4lq43GFoy9t1+950=|WFBXRmW+4yLPQjBNF1oDwUCHPURScZRheGLmRA0Bzg7QKdP954RKKg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:20.210" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4> ;
+        c:importance     "1" ;
+        c:name           "Roger Goodell" ;
+        c:originalValue  "Roger Goodell" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d45028d9-b3e3-3d32-b7af-3fed6f6bf85a> .
+
+<http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4> ;
+        c:importance     "1" ;
+        c:name           "Tom Brady" ;
+        c:originalValue  "Tom Brady" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52dcf606-d4c6-3477-a5fe-ad3eb7ec165e> .
+
+<http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90a41ca0-8b54-32c8-b4f9-4a85e93c60b4> ;
+        c:importance     "1" ;
+        c:name           "National Football League" ;
+        c:originalValue  "National Football League" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/911c58d3-69ff-36bb-8448-54ede0a84d89> .

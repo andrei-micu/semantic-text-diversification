@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/73fedf5f-d284-36d1-9d79-0fbfe366ec3e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/73fedf5f-d284-36d1-9d79-0fbfe366ec3e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ZQW9Hw8/np+Lb0MTqS3PysJ6VXc=|L4Ll9MQ9LZ25WfGsq2LATjWMlB018BTamLZOt1vxZk6Z1orlvcJoSg==" ;
+        c:submissionDate  "2015-05-30 09:30:12.067" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/73fedf5f-d284-36d1-9d79-0fbfe366ec3e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/73fedf5f-d284-36d1-9d79-0fbfe366ec3e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/73fedf5f-d284-36d1-9d79-0fbfe366ec3e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "95b7bb7a-cc8c-ab29-14da-53aed63653ed" ;
+        c:docDate          "2015-05-30 09:30:12.129" ;
+        c:docTitle         "" ;
+        c:document         "The men who sell flowers in India. " ;
+        c:id               "http://id.opencalais.com/1OkTFHRhd6wxu-MzuOShLQ" .

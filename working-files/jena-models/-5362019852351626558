@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:importance     "1" ;
+        c:name           "Supertramp" ;
+        c:originalValue  "Supertramp" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4379cf11-463f-37c0-956b-3b4111ae7f5b> .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "255d9117-e259-19a3-14da-54d75b934709" ;
+        c:docDate          "2015-05-30 09:50:26.835" ;
+        c:docTitle         "" ;
+        c:document         "The Good Listener: Why Do Amusement Parks Still Crank Songs From The '80s?. Everything changes — except theme-park playlists, where REO Speedwagon, Journey and Supertramp have never gone out of style. Why is that, exactly?" ;
+        c:id               "http://id.opencalais.com/WYn9VGOb8VVHxsvD--16HA" .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:importance     "1" ;
+        c:name           "REO Speedwagon" ;
+        c:originalValue  "REO Speedwagon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0021c8e5-31c8-3e9b-a059-248d1cbec9da> .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|tGRBAJ3UP24tUIQ1s9DxmOqGPCc=|abIrtG/7oupiKMm64NvWkzR21J06/tH3bb4PjuBDU3tb0g3aEHpkpg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:26.617" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:importance     "2" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:importance     "1" ;
+        c:name           "Amusement park" ;
+        c:originalValue  "Amusement park" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b96400de-a174-35a3-b50f-69a843ef3740> .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/918021ee-6fc9-3d76-8329-c76036f8d338> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

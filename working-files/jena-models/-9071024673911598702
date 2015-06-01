@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:score           "0.985" .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:importance     "1" ;
+        c:name           "Political status of Taiwan" ;
+        c:originalValue  "Political status of Taiwan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c8a8b8d-e2f8-3f05-a3c4-308732e1cc5f> .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yOUcNkX1MzpbEEU2hJvJJ/dGJbA=|Uufn+bhhJ536NwuhYDwod11VmaOSRgPmG2S0Cw/oEfJ5DrM13D26fg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:12.135" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:score           "0.899" .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:importance     "2" ;
+        c:name           "Sovereignty" ;
+        c:originalValue  "Sovereignty" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4ad81576-6808-3c5b-a6cf-e9dacc5ff401> .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7f2eb2b4-9912-6990-14da-54a7e0732955" ;
+        c:docDate          "2015-05-30 10:47:12.276" ;
+        c:docTitle         "" ;
+        c:document         "China says U.S. South China Sea actions 'irresponsible, dangerous'. BEIJING/WASHINGTON (Reuters) - China said on Friday it was \"strongly dissatisfied\" after a U.S. spy plane flew over part of the South China Sea this week near where China is building artificial islands, and called on the United States to stop such action or risk causing an accident." ;
+        c:id               "http://id.opencalais.com/Dc*LM*lRFupANYsH2XMRqA" .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:importance     "1" ;
+        c:name           "Political philosophy" ;
+        c:originalValue  "Political philosophy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77603a14-4820-3d0d-824b-af4fcd03b8bb> .
+
+<http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/870e9e64-e397-3134-bf75-4d1bcdd95ce4> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

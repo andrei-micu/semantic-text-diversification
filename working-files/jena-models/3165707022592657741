@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71> ;
+        c:importance     "1" ;
+        c:name           "LGBT adoption" ;
+        c:originalValue  "LGBT adoption" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7a8fd24-b520-37e7-8e72-f4e747b389f5> .
+
+<http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8f1008f1-816f-27d5-14da-5438338719b3" ;
+        c:docDate          "2015-05-30 10:39:34.931" ;
+        c:docTitle         "" ;
+        c:document         "US family has 13th consecutive boy. A US couple who already have 12 sons have a 13th baby - and, yes, it's another boy!" ;
+        c:id               "http://id.opencalais.com/dy7QSUpGsHaaowrTS6xOzA" .
+
+<http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ZgijSkTLwAHSRb8hQYeZzc5qj/4=|PywLmKAzSGEtstzlrtLbcS5DKlUHGWW6JLTUwKDStiRcchG1USQrLg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:34.712" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71> ;
+        c:importance     "1" ;
+        c:name           "Family law" ;
+        c:originalValue  "Family law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3c2c7a3-98ac-33dd-9ef8-77eec401e320> .
+
+<http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5917a5be-3cd8-3baa-b518-3026b11d6f71> ;
+        c:score           "0.643" .

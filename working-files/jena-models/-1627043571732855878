@@ -1,0 +1,136 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:importance     "2" ;
+        c:name           "Call sign" ;
+        c:originalValue  "Call sign" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/55d55321-37b2-30b1-898a-7a784e283e9d> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:score           "0.640" .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KNrf07xnTaZkg1Ntec1q7QwwEBk=|XfYUbgtuOlbLQBKiYA0QxVqq5euVFqo51pA0/nyslFpXyNwpl+T9Hg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:31.545" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:score           "0.868" .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7328ba54-0130-5138-14da-5387a5913c98" ;
+        c:docDate          "2015-05-30 09:27:31.763" ;
+        c:docTitle         "" ;
+        c:document         "Deputy eats, ignores 911 call. CNN affiliate WFTX reports that a deputy was fired for going to lunch instead of answering a medical emergency 911 call. The woman who made the call died later." ;
+        c:id               "http://id.opencalais.com/TLT9X3z88qH-dQWQzuAgMg" .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:importance     "2" ;
+        c:name           "9-1-1" ;
+        c:originalValue  "9-1-1" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/874507c3-bbf1-3bc1-abd2-25aea747dea5> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:score           "0.825" .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f309090a-c2f7-335b-a9a1-738a800076d6> ;
+        c:importance     "1" ;
+        c:name           "WFTX-TV" ;
+        c:originalValue  "WFTX-TV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/474f15dd-4399-3b1f-85d6-c2c2cfd49e7c> .

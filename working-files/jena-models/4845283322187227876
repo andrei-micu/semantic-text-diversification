@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:importance     "2" ;
+        c:name           "Economy of New York City" ;
+        c:originalValue  "Economy of New York City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a438d769-4ab3-30a3-9f51-88e882f9f8ba> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f6f2c3bf-065a-1440-14da-54d0c07760f9" ;
+        c:docDate          "2015-05-30 10:49:59.653" ;
+        c:docTitle         "" ;
+        c:document         "Edward P. Gilligan, American Express Executive, Dies at 55. Mr. Gilligan was largely seen as the likely successor to Kenneth Chenault, the chief executive." ;
+        c:id               "http://id.opencalais.com/NkgFJOfvnmpFgVI94wBMcg" .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:importance     "2" ;
+        c:name           "Financial services" ;
+        c:originalValue  "Financial services" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9bd1187-830d-372f-8dec-c942e29efca2> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:importance     "1" ;
+        c:name           "Chenault" ;
+        c:originalValue  "Chenault" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/19454790-c84b-3657-8932-af8ddf643aaf> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:score           "0.985" .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:importance     "1" ;
+        c:name           "American Express" ;
+        c:originalValue  "American Express" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7ddbdeca-0c8f-3241-9d45-765cc5488d0d> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:importance     "2" ;
+        c:name           "Economy of the United States" ;
+        c:originalValue  "Economy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c04552-e625-3a39-93f8-3544f0172fe0> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:importance     "2" ;
+        c:name           "Gilligan" ;
+        c:originalValue  "Gilligan (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd23a644-953f-3918-9c1d-48e37a50042c> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YLB5fgDFGLjsskUfbnk6lsXuCDQ=|ZP1y77dagAS1ZQtVIU8doQjO3zAeUDbgyz7zjJqXwSeH3zFGn/8/fQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:59.559" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:score           "0.844" .
+
+<http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9b72e378-831c-3ede-8251-e7eba6053040> ;
+        c:importance     "1" ;
+        c:name           "Kenneth Chenault" ;
+        c:originalValue  "Kenneth Chenault" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dfb8689e-e89e-3540-bcd4-69593503e3bb> .

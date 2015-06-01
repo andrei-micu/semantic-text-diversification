@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a> ;
+        c:importance     "1" ;
+        c:name           "Military history by country" ;
+        c:originalValue  "Military history by country" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/087763f8-a6c8-3617-900c-aab09427f17b> .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2285c016-3280-8318-14da-53c61301927e" ;
+        c:docDate          "2015-05-30 10:31:47.560" ;
+        c:docTitle         "" ;
+        c:document         "Hue Journal: Economic Boom Poses a New Threat, Among Many, to a Vietnamese Heritage. What weather, war and ideology have not yet undone to the character of the central Vietnamese city of Hue, development may." ;
+        c:id               "http://id.opencalais.com/woSmTJIk*BNDQUuCYkteNA" .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a> ;
+        c:importance     "2" ;
+        c:name           "Hue–Da Nang Campaign" ;
+        c:originalValue  "Hue–Da Nang Campaign" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd107668-210a-3b11-953b-b93551a7cc1a> .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a> ;
+        c:importance     "2" ;
+        c:name           "Huế" ;
+        c:originalValue  "Huế" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/af88085a-72bc-3ddf-b3d1-eb1dbaee8d91> .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|dp9aL2z/AwbuuDsq1qG1bHEcntA=|S5Eps4FgRDGIcQAPkI+HStx6LlI8N1ABM4yMoe5JGIITT499qn2ORQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:47.248" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a> ;
+        c:importance     "1" ;
+        c:name           "Socialism" ;
+        c:originalValue  "Socialism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/094957d2-880e-3193-8e42-dd16b5462f0b> .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a> ;
+        c:importance     "2" ;
+        c:name           "Thua Thien - Hue province" ;
+        c:originalValue  "Thua Thien - Hue province" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3bae0d8d-036c-3621-8a2c-3f318a34434b> .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a> ;
+        c:score           "0.519" .
+
+<http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98edcf57-3a35-394c-bb5e-72d19845023a> ;
+        c:importance     "2" ;
+        c:name           "Vietnam" ;
+        c:originalValue  "Vietnam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dc04e9a3-ab6a-3ed1-9b62-2fc35e088b64> .

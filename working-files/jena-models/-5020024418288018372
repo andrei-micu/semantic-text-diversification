@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:importance     "2" ;
+        c:name           "State supreme courts" ;
+        c:originalValue  "State supreme courts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5213192c-ad22-378f-a337-96201cffa9a4> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "20ba6fac-d859-96ba-14da-53a2c3532955" ;
+        c:docDate          "2015-05-30 10:29:22.800" ;
+        c:docTitle         "" ;
+        c:document         "US court divided on drug case. US justices appear sharply divided over whether a execution drug can be used after arguments at the Supreme Court." ;
+        c:id               "http://id.opencalais.com/3lx4sNbr4*siU-PpFszDgg" .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+xia/4K9FuwPo650jSf5kTPhYg8=|dvl3HgsXCMLHF/1kFc2swfzIoD1k0VY2crw23JGSxwa6JFPwDuy5BQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:22.613" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:score           "0.990" .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:importance     "2" ;
+        c:name           "Supreme court" ;
+        c:originalValue  "Supreme court" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18c4101d-8daa-387e-9f73-37ce3e781843> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:importance     "2" ;
+        c:name           "Procedures of the Supreme Court of the United States" ;
+        c:originalValue  "Procedures of the Supreme Court of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/28c4c660-b037-3b51-b31d-4c8927638950> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:importance     "2" ;
+        c:name           "Supreme Court of Canada" ;
+        c:originalValue  "Supreme Court of Canada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14f1bc31-8e25-3733-8932-9f391df9791b> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:importance     "1" ;
+        c:name           "Supreme Court of the United States" ;
+        c:originalValue  "Supreme Court of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/10b96c2a-3598-3d01-b681-ad38ab2c32bf> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:importance     "2" ;
+        c:name           "First Monday" ;
+        c:originalValue  "First Monday" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8630a6f2-264d-3a5d-a77f-720cfba94787> .
+
+<http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ed828ce3-0a0f-3973-b8a4-aa5878d4e712> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

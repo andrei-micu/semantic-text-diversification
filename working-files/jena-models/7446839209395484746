@@ -1,0 +1,51 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047> ;
+        c:importance     "1" ;
+        c:name           "Cookie" ;
+        c:originalValue  "Cookie (magazine)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f73fb02-7ef2-3567-abaa-17a43342b99f> .
+
+<http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|CojXbfpJKiDiv7+Aq5hp6C07rS8=|dUDNbwLGtWsOY+9NGftQhM7p5kcnYCTNX8sVi9f+9xHsrclEg2taKQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:56.128" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/4cc98493-c236-3f83-be8c-dcdfcaf91047>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e0fca416-7dae-c9c3-14da-5486ac023ab1" ;
+        c:docDate          "2015-05-30 10:44:56.300" ;
+        c:docTitle         "" ;
+        c:document         "City Room: New York Today: See Forever, Weather Permitting. Friday: Hazy viewings, pleasant weather, and cookie secrets." ;
+        c:id               "http://id.opencalais.com/r-y6HrGB9NWU*3Bx-9n4JA" .

@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac> ;
+        c:importance     "1" ;
+        c:name           "Police car" ;
+        c:originalValue  "Police car" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0346c319-b003-3a95-b006-d258a918a377> .
+
+<http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0+X0uH6icsgWhadaUBDsmb9MVCI=|WieBqPVYMkOIfBxG5qvotdpwJayOQo8Pur2vgckLZUbfW22DRSTu8Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:10.916" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e531770b-6d66-74b1-14da-540672413c98" ;
+        c:docDate          "2015-05-30 09:36:11.166" ;
+        c:docTitle         "" ;
+        c:document         "Crime Scene: The Police Car Provides a Home on the Job, and a False Sense of Safety. To an officer, the car is, psychologically, a safe place. But in reality, it may make them more vulnerable." ;
+        c:id               "http://id.opencalais.com/BB5-C9ZoKP38NH*EGEgeWw" .
+
+<http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/552548a3-b3c7-355a-b0a7-7662103705ac> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

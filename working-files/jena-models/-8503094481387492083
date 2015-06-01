@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2UUvr2vQwA9yMhHpLSAHffNzwBA=|b4l4hF2HkEAG2hAx0qY0wo6JW6xdvTVv0B3CjglcWFEjBsXaPJmDyg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:19.795" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:importance     "1" ;
+        c:name           "Hate" ;
+        c:originalValue  "Hate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9cfe9f2b-d22e-36aa-b30c-0cb5eebdb98e> .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:importance     "2" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:score           "0.887" .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:importance     "2" ;
+        c:name           "Ethics" ;
+        c:originalValue  "Ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f579fc5-eed2-3113-a4f8-658e638275f1> .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:importance     "1" ;
+        c:name           "Prejudices" ;
+        c:originalValue  "Prejudices" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9e531f76-cd35-3f67-af0c-632da49dc341> .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2fff425c-22bc-0b15-14da-544335332955" ;
+        c:docDate          "2015-05-30 10:40:19.983" ;
+        c:docTitle         "" ;
+        c:document         "Was it sexist to call Warren 'Elizabeth'?. Well into his second term in office, you'd think the President would have toughened up a bit." ;
+        c:id               "http://id.opencalais.com/BJiSIkpdq7O30t9ZRbWYQw" .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:score           "0.773" .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:importance     "1" ;
+        c:name           "Discrimination" ;
+        c:originalValue  "Discrimination" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a85c07a-9a89-398d-a796-bfecdec4e916> .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:importance     "2" ;
+        c:name           "Belief" ;
+        c:originalValue  "Belief" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9c35027-1f36-302b-978b-2217fd079af3> .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:importance     "2" ;
+        c:name           "Sexism" ;
+        c:originalValue  "Sexism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2129131-f513-396c-87cd-525c6c4e3daa> .
+
+<http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3ceb3788-dcad-3eba-8a42-dee5d4368b10> ;
+        c:importance  "2" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .

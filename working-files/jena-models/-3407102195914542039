@@ -1,0 +1,100 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "352534e2-0605-a0a2-14da-545f4ed760f9" ;
+        c:docDate          "2015-05-30 10:42:15.220" ;
+        c:docTitle         "" ;
+        c:document         "Charged With Graft in China, Some Fugitives Are Finding Luxury in U.S.. The United States, Canada, New Zealand and Australia, none of which have extradition treaties with China, were identified as the leading destinations for suspects." ;
+        c:id               "http://id.opencalais.com/K7L9j8tVsynxjTZ2x4BDbA" .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:importance     "1" ;
+        c:name           "Criminal law" ;
+        c:originalValue  "Criminal law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82be3750-fcbb-358e-9efe-8cddcd1736a3> .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:importance     "2" ;
+        c:name           "Extradition law in Australia" ;
+        c:originalValue  "Extradition law in Australia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/75a836e3-19b1-373f-95aa-6f94911a388c> .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:importance     "2" ;
+        c:name           "Fugitive" ;
+        c:originalValue  "Fugitive" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70dbfe3b-a1ba-3714-a158-d1c052ea91bc> .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:importance     "2" ;
+        c:name           "Extradition" ;
+        c:originalValue  "Extradition" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a845b28-2c59-32c2-b5ad-1c4575e7237b> .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:importance     "2" ;
+        c:name           "Extradition law in the United States" ;
+        c:originalValue  "Extradition law in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91889e05-2c59-38b1-950a-bf3733fe8dea> .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|vbVyYz9YIjLJs9/9o7IfSdLuUV8=|SqLBh4jywKC5lEaiAr7OLImS3hApaCZOA9Z1XEvw39S/sgR7KS707g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:14.893" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:importance     "1" ;
+        c:name           "International law" ;
+        c:originalValue  "International law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1561c1e5-50d9-3a41-8743-64efebed58bc> .
+
+<http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/00b49278-3f76-3034-8dea-e9fc4d1e1e8f> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .

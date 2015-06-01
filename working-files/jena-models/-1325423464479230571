@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:importance     "1" ;
+        c:name           "Nonviolent revolutions" ;
+        c:originalValue  "Nonviolent revolutions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fe4d3b2a-494f-3230-8dcb-f0756e131d1d> .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:importance     "2" ;
+        c:name           "Geography of North America" ;
+        c:originalValue  "Geography of North America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4953ac1c-3f88-3c4f-b079-6ff903751bbf> .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "df0ac02d-eb58-ef3c-14da-53c720849095" ;
+        c:docDate          "2015-05-30 10:31:51.685" ;
+        c:docTitle         "" ;
+        c:document         "Marchers demand justice, police reform in Baltimore. BALTIMORE (Reuters) - Thousands of demonstrators marched in Baltimore on Wednesday demanding justice and police reform as 3,000 troops stood by to enforce a curfew imposed after Monday's civil unrest over the death of a 25-year-old black man." ;
+        c:id               "http://id.opencalais.com/g2FJpEB1LEkfC62RC2H00A" .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LTuEoWmm+JwofAPR/7qLxx9lNrM=|KErv9JNFQJFYHf5c/BV6Yd6awvmKYa2uiyZGCqqYAD9c+kMfpVakVQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:51.560" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:importance     "2" ;
+        c:name           "Political riots" ;
+        c:originalValue  "Political riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ee335ca-e415-316a-a37e-6a8c05e4ccc6> .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1665cf6c-2a12-3e3a-8285-8e9ef50eca35> ;
+        c:importance     "1" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .

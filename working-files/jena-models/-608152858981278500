@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638> ;
+        c:importance     "1" ;
+        c:name           "Alexis Tsipras" ;
+        c:originalValue  "Alexis Tsipras" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d8e47bb-8307-3de3-a45b-9b417918f394> .
+
+<http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638> ;
+        c:score           "0.615" .
+
+<http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638> ;
+        c:importance     "1" ;
+        c:name           "Euro Group" ;
+        c:originalValue  "Euro Group" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/97d3c69e-3ebf-36f1-98bc-e90474e441fc> .
+
+<http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cdc49d3d-77f2-baad-14da-5412ed532f98" ;
+        c:docDate          "2015-05-30 09:37:02.162" ;
+        c:docTitle         "" ;
+        c:document         "Greek PM forecasts 'happy end'; Eurogroup chief cites progress in talks. ATHENS/ROME (Reuters) - Greek Prime Minister Alexis Tsipras forecast a happy end soon to fraught negotiations with creditors on a cash-for-reform deal, and the chairman of euro zone finance ministers said talks were making progress, though not enough for a deal next Monday." ;
+        c:id               "http://id.opencalais.com/sjAQQlu1TDvExJv8XeG2iQ" .
+
+<http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|L/AH391CPAERsvCNh8WTDk3NI1c=|VV3i2bFWHppDJIf6IRoOctOohiMpsGPW5qZDHTx5zOCwwpcCOoWquA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:02.037" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1ec417f6-ad2c-3a8f-becc-01c4d7758638> ;
+        c:score           "0.590" .

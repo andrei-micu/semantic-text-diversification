@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c6840708-9237-42fd-14da-54a252323ab1" ;
+        c:docDate          "2015-05-30 10:46:49.457" ;
+        c:docTitle         "" ;
+        c:document         "Fast track trade bill clears final Senate procedural hurdle. WASHINGTON (Reuters) - Legislation key to sealing a Pacific trade pact passed another critical test in the U.S. Senate on Friday, boosting hopes for a deal that is central to President Barack Obama's strategic shift toward Asia." ;
+        c:id               "http://id.opencalais.com/FTvG4B8MTRsOvEaRbUiE2Q" .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52> ;
+        c:importance     "1" ;
+        c:name           "Presidency of Barack Obama" ;
+        c:originalValue  "Presidency of Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca6fc8a9-a961-3e5e-a941-14c957361c83> .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52> ;
+        c:score           "0.943" .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|6fh6S44fjPlc7phnAtzwV9+z8R0=|UE77bLlSF5XLYHM4Bz7D03kg3tdj0DabUMAFZn4dONj2kUAc5vyMUg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:49.379" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cc33afe4-950a-32ed-b7fd-e1ca738a7a52> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

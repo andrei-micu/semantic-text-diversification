@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:score           "0.920" .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:importance     "1" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:importance     "1" ;
+        c:name           "Hattiesburg metropolitan area" ;
+        c:originalValue  "Hattiesburg metropolitan area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad50e0a1-50d3-36ed-a1ac-d092f8a335d2> .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:importance     "2" ;
+        c:name           "West Memphis police shootings" ;
+        c:originalValue  "2010 West Memphis police shootings" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a2ebb394-cc26-3837-aef6-7200b4f805a9> .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:importance     "2" ;
+        c:name           "Mississippi" ;
+        c:originalValue  "Mississippi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b70ef3dc-26de-3593-9ac2-049e8d7708a9> .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|TrHTRsqGOtnupbYJq28PD90bV9s=|Zp9P1qEY4DxDYFEAo9w/p8a2X7NKHO/zPSPvgF6bJ6zZDWuUgvSADg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:33.314" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:importance     "1" ;
+        c:name           "Hattiesburg, Mississippi" ;
+        c:originalValue  "Hattiesburg, Mississippi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/625c4bb5-a428-3abb-94be-1a6f96373fa0> .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3> ;
+        c:importance     "2" ;
+        c:name           "Guerrilla phase of the Second Chechen War" ;
+        c:originalValue  "Guerrilla phase of the Second Chechen War (2008)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5ff04624-b7a5-396f-8037-3b60b1f769c6> .
+
+<http://d.opencalais.com/dochash-1/a5476be5-8b0a-328a-8e4c-d8bbbab887f3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "168e725c-025e-79bb-14da-541a8f34551f" ;
+        c:docDate          "2015-05-30 09:37:33.626" ;
+        c:docTitle         "" ;
+        c:document         "Two Police Officers Are Shot and Killed in Mississippi. The authorities arrested two suspects after the officers were killed during a traffic stop in Hattiesburg, according to local news media." ;
+        c:id               "http://id.opencalais.com/rSNdNVVMKCy9-IxM-*7AYA" .

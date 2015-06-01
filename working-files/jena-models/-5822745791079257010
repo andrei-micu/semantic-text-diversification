@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "75bf9998-4262-39a8-14da-54551951df07" ;
+        c:docDate          "2015-05-30 09:41:33.264" ;
+        c:docTitle         "" ;
+        c:document         "Takata air bag recall could take years to complete. DETROIT (Reuters) - Takata Corp's record U.S. recall of potentially deadly air bag inflators could take years to complete, industry experts and safety advocates said, as automakers scrambled to line up replacement parts, some not from Takata." ;
+        c:id               "http://id.opencalais.com/RLDu72fWTnb4K9cfluXXHg" .
+
+<http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0> ;
+        c:importance     "1" ;
+        c:name           "Takata" ;
+        c:originalValue  "Takata" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c1876f6d-4c80-34b3-9853-bcfd927efd92> .
+
+<http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0> ;
+        c:importance     "1" ;
+        c:name           "Airbag" ;
+        c:originalValue  "Airbag" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/69f8d8ea-bdab-3c13-aac8-945c1a0761b9> .
+
+<http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ea2646a6-52e2-3865-a45e-60567abf00b0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|R/eqqw3bcJNNeG+yOdvYymYlSMI=|eObnAqXuZgabXoU5ceYBiclQwE4z/pfzzDzC5WAQifpdi/L4XFwvKA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:33.092" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

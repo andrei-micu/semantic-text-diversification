@@ -1,0 +1,145 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance     "2" ;
+        c:name           "Islamic terrorism" ;
+        c:originalValue  "Islamic terrorism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54467038-8579-30cd-95b7-064abffeff1d> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance     "1" ;
+        c:name           "September 11 attacks" ;
+        c:originalValue  "September 11 attacks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c93b4e56-8ae6-3b3f-a967-9c890d465419> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance     "2" ;
+        c:name           "Death of Osama bin Laden" ;
+        c:originalValue  "Death of Osama bin Laden" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd89c9d6-c304-3ae9-861e-60cd2eab0351> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4947c451-c0f0-ee89-14da-54408b31df07" ;
+        c:docDate          "2015-05-30 09:40:09.085" ;
+        c:docTitle         "" ;
+        c:document         "Bin Laden 'focused on US to the end'. In his final years alive, Osama Bin Laden urged his followers to remain focused on attacking the US, newly released documents show." ;
+        c:id               "http://id.opencalais.com/IlQV76dKwa438O2eX1FcRA" .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance     "1" ;
+        c:name           "War on Terror" ;
+        c:originalValue  "War on Terror" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff2ebef8-8f60-3bf7-b43d-ee429c20752f> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance     "2" ;
+        c:name           "Reactions to the death of Osama bin Laden" ;
+        c:originalValue  "Reactions to the death of Osama bin Laden" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/de374188-569d-3703-a93a-13cf2131080c> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:score           "0.834" .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|w6T/lueY4ab6p7YbzDARFDdB/vE=|GE601ilLEqKSNfEDtNHoKSWadbh5wxA9Q3/8gK0KJ0q8x2npAa6T2A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:08.883" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance     "1" ;
+        c:name           "Osama bin Laden" ;
+        c:originalValue  "Osama bin Laden" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d764924-2aa9-3d58-87f9-a5a63768b290> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance     "2" ;
+        c:name           "Bin Laden" ;
+        c:originalValue  "Bin Laden (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d0af3989-8b52-3e04-860a-914404c7342f> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:score           "0.966" .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance     "2" ;
+        c:name           "Islam" ;
+        c:originalValue  "Islam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a1906a7-789f-31cd-8bd9-993b383e794a> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance     "2" ;
+        c:name           "Al-Qaeda" ;
+        c:originalValue  "Al-Qaeda" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/49310ca9-4c88-3b7b-9579-79a38849df54> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/20200f60-ae87-3350-ad32-0312e38cbdca> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

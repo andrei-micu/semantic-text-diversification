@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:score           "0.977" .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:importance     "2" ;
+        c:name           "Avalanche" ;
+        c:originalValue  "Avalanche" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f36132d6-6543-34ed-b243-f2d37a136877> .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XDRzfVFN/3LrjfTEh4cr9hYBg4I=|Hsdp6Jyg7LWb2h8JXvR2cTCTgAg4csscjTowGeXZ2TeibP/xv20MqQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:33:31.179" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:importance     "1" ;
+        c:name           "Nepal" ;
+        c:originalValue  "Nepal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47cb7fb8-c179-378d-94c8-3ee216a55ec3> .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c04b40b5-0ecc-73b1-4da5-3df72b347095" ;
+        c:docDate          "2015-05-30 09:33:31.319" ;
+        c:docTitle         "" ;
+        c:document         "About 100 bodies found in Nepal trekking village. KATHMANDU (Reuters) - Nepali police and local volunteers found the bodies of about 100 trekkers and villagers buried in an avalanche set off by last month's devastating earthquake and were digging through snow and ice for signs of dozens more missing, officials said on Monday." ;
+        c:id               "http://id.opencalais.com/V7RDP-34bnVAwHvLDk24Dg" .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:importance     "1" ;
+        c:name           "Newar" ;
+        c:originalValue  "Newar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7146c404-7aff-395b-a681-c65d5d963b59> .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:importance     "2" ;
+        c:name           "Kathmandu" ;
+        c:originalValue  "Kathmandu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7886b3bd-0443-364a-ab85-30cd8e5f26ac> .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/015e6c56-672e-3fae-94f5-8e6ec95e2644> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

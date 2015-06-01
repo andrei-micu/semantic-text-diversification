@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:score           "0.670" .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance     "1" ;
+        c:name           "Golden Boy Promotions" ;
+        c:originalValue  "Golden Boy Promotions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18182930-2963-37b2-8df5-8e7b92cdb209> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance     "2" ;
+        c:name           "Ricky Hatton vs. Manny Pacquiao" ;
+        c:originalValue  "Ricky Hatton vs. Manny Pacquiao" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bb8921e-2d84-3dde-b4c3-2df16c69ab76> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance     "1" ;
+        c:name           "Boxers" ;
+        c:originalValue  "Boxers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3efd9ea-f523-3c07-a91a-b5c6a62ab60d> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance     "2" ;
+        c:name           "HBO Sports" ;
+        c:originalValue  "HBO Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e612fd5-2590-32e1-9a0d-43c868865575> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:score           "0.539" .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|rUJECQ6EBZPhUV6SkkSEeC+goYc=|BfJlHw2N9S1pXsr99M2d0qgof4pJRwyfFUsF39UGT/bSZeaty7TBHg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:33.631" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance     "2" ;
+        c:name           "Floyd Mayweather, Jr." ;
+        c:originalValue  "Floyd Mayweather, Jr." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c87819e1-0a82-3823-8ede-f17fa20137b4> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance     "2" ;
+        c:name           "Floyd Mayweather, Sr." ;
+        c:originalValue  "Floyd Mayweather, Sr." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ebdbafc-f996-356b-abc0-b2a5a95174fd> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:score           "0.721" .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance     "1" ;
+        c:name           "Boxing" ;
+        c:originalValue  "Boxing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7ca63f2-7de1-3e00-9675-849734b5d318> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance     "2" ;
+        c:name           "Sports in Nevada" ;
+        c:originalValue  "Sports in Nevada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bf6f4d0e-6700-3700-b4c1-35398aa6d563> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84> ;
+        c:importance     "2" ;
+        c:name           "Manny Pacquiao" ;
+        c:originalValue  "Manny Pacquiao" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebe50782-5013-3995-a9e1-f6769b52e4a6> .
+
+<http://d.opencalais.com/dochash-1/8d260ae5-c28a-300a-9c9f-c7cf724fdd84>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2c70b7ca-63ff-6f79-14da-53e00bf49095" ;
+        c:docDate          "2015-05-30 10:33:33.787" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Meet the Vegas big fight's 'ring girls'. The BBC's Alex South meets the ''ring girls'' who provide an element of glamour in the big fight between Floyd Mayweather and Manny Pacquiao in Las Vegas." ;
+        c:id               "http://id.opencalais.com/zxiOs6f49RCZOtkE-KCKPQ" .

@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4a79cbed-7b41-316d-96a5-45d432f6b1ce/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4a79cbed-7b41-316d-96a5-45d432f6b1ce> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/4a79cbed-7b41-316d-96a5-45d432f6b1ce/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4a79cbed-7b41-316d-96a5-45d432f6b1ce> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2/u0/DuOCEysljcz+bKV/EAjVNk=|TSHvoCYTjT83rJYBEFrE7nFCy/0c9SXLQsaRjZ/EBm/vag1IB0DTXg==" ;
+        c:submissionDate  "2015-05-30 09:35:49.834" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4a79cbed-7b41-316d-96a5-45d432f6b1ce>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7f7f20cd-36d2-66b3-14da-54014ca13c98" ;
+        c:docDate          "2015-05-30 09:35:49.912" ;
+        c:docTitle         "" ;
+        c:document         "Ataturk: Turkey's love-affair with its founder. " ;
+        c:id               "http://id.opencalais.com/boiNmfyTlODz1i8*4x6u7w" .

@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:score           "0.898" .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance     "2" ;
+        c:name           "Military technology" ;
+        c:originalValue  "Military technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f6be762-6fe2-3593-a877-ef9979c7e506> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance     "2" ;
+        c:name           "Operation Aurora" ;
+        c:originalValue  "Operation Aurora" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/713fcf6a-998c-3049-aa28-6f35d62f1cb6> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance     "1" ;
+        c:name           "Hacking" ;
+        c:originalValue  "Hacking (computer security)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9419dea6-1f23-323c-bd1d-194397b9cdda> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance     "2" ;
+        c:name           "Advanced persistent threat" ;
+        c:originalValue  "Advanced persistent threat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87f38e21-1c50-334c-994c-17e294f9d92c> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance     "2" ;
+        c:name           "War" ;
+        c:originalValue  "War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c5d46f56-c274-3b29-a6ce-e7042cb0fda3> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|G0z0g11kfTSNUIsraEFtXf5PjAc=|UtmVWr1kdK0o6lPgnso2EZTTNj4sCdJEKi1AgxB3W1St5LIQ6N2TQQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:20.879" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:score           "0.990" .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8fa9c9f1-d650-6c5b-14da-5408e0f49095" ;
+        c:docDate          "2015-05-30 10:36:21.113" ;
+        c:docTitle         "" ;
+        c:document         "U.S. asks China to investigate cyber attack targeting U.S. sites. WASHINGTON (Reuters) - The United States said on Friday it has asked Beijing to investigate reports that China interfered with Internet content hosted outside the country and used it to attack U.S. websites." ;
+        c:id               "http://id.opencalais.com/61T7Jx*3tpSFYcDSnIJg-A" .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance     "1" ;
+        c:name           "Cyberwarfare" ;
+        c:originalValue  "Cyberwarfare" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a8d251c-15f1-3953-86c0-a06327c90934> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance     "2" ;
+        c:name           "China–United States relations" ;
+        c:originalValue  "China–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9e118ab-37a8-340b-ad4a-6c022e8b9ee2> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance     "1" ;
+        c:name           "Electronic warfare" ;
+        c:originalValue  "Electronic warfare" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43c74b20-b960-38d7-b217-f6c6c75b6795> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b5e1caf4-c543-35ee-ba81-49b5630a68f8> ;
+        c:importance     "2" ;
+        c:name           "Military science" ;
+        c:originalValue  "Military science" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5243dcb6-9968-3417-b6cf-ccda8917767e> .

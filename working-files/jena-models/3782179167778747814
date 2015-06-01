@@ -1,0 +1,154 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "2" ;
+        c:name           "Physical oceanography" ;
+        c:originalValue  "Physical oceanography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ca2cdb5-1e6a-3e49-b59c-5ef417129bea> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:score           "0.999" .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5c254f68-95ec-b953-14da-548f34e1927e" ;
+        c:docDate          "2015-05-30 10:45:31.273" ;
+        c:docTitle         "" ;
+        c:document         "2015 Shaping Up To Be An El Niño Year. Mike Halpert, deputy director of NOAA's Climate Prediction Center, explains what this may mean for the weather." ;
+        c:id               "http://id.opencalais.com/aEEkNytDQ*24NOwS6taZiA" .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "2" ;
+        c:name           "El Niño" ;
+        c:originalValue  "El Niño (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f4e27ff7-18cd-356c-b342-c8284c631a5d> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "1" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "2" ;
+        c:name           "National Oceanic and Atmospheric Administration" ;
+        c:originalValue  "National Oceanic and Atmospheric Administration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c689a2d1-29a3-3c00-80dd-0ea340899d39> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "2" ;
+        c:name           "Halpert" ;
+        c:originalValue  "Halpert" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/735af797-b7b0-3f6b-ae1c-2173e99cd4da> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "1" ;
+        c:name           "Meteorology" ;
+        c:originalValue  "Meteorology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/897c2d6f-2365-35ef-8355-f4c70726feaa> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "2" ;
+        c:name           "El Niño-Southern Oscillation" ;
+        c:originalValue  "El Niño-Southern Oscillation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8bdc161f-498b-32e1-82d0-52772a0ff523> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "2" ;
+        c:name           "Climate Prediction Center" ;
+        c:originalValue  "Climate Prediction Center" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c90d736a-2afe-3388-bc5c-a6561ef54f4c> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gQKyi/tmees20YAaFByTWJPDGlg=|IrLAN/XllRPZzzqd7FebO6HoZcceElCf24T46MNeIMlKSN/40C+zJA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:31.086" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "1" ;
+        c:name           "Atmospheric sciences" ;
+        c:originalValue  "Atmospheric sciences" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88403548-ec7e-3011-917e-da243df51138> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "2" ;
+        c:name           "National Weather Service" ;
+        c:originalValue  "National Weather Service" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c0ea8be-fd6e-36a1-b93f-32e630435138> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "2" ;
+        c:name           "National Centers for Environmental Prediction" ;
+        c:originalValue  "National Centers for Environmental Prediction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a4fdbe8-ce03-368e-b20a-8cd3af9a742d> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance     "2" ;
+        c:name           "Tropical meteorology" ;
+        c:originalValue  "Tropical meteorology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/86fd1162-83f4-35c4-a24c-37ecc31ead4c> .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:score           "0.928" .
+
+<http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/23fdcae1-2b48-3117-af5c-d9cac57b1f3d> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .

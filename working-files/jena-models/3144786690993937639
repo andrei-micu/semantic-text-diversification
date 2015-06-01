@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313> ;
+        c:importance     "1" ;
+        c:name           "Rail transportation in the United States" ;
+        c:originalValue  "Rail transportation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c130d05b-c224-351c-a231-bf5c867870c0> .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313> ;
+        c:importance     "2" ;
+        c:name           "Bourbonnais, Illinois train accident" ;
+        c:originalValue  "1999 Bourbonnais, Illinois train accident" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b4d77454-9ed0-3b34-b010-64542ca3623c> .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313> ;
+        c:importance     "2" ;
+        c:name           "Amtrak" ;
+        c:originalValue  "Amtrak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/620180fd-d75e-31be-838e-e8cb90654b1f> .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313> ;
+        c:importance     "1" ;
+        c:name           "Transportation in the United States" ;
+        c:originalValue  "Transportation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06280394-af41-3ddd-ac2c-6f149bd1e55c> .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313> ;
+        c:importance     "2" ;
+        c:name           "Chatsworth train collision" ;
+        c:originalValue  "2008 Chatsworth train collision" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6322994-37fa-3ba4-b476-3044028d5cf9> .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d8595d4e-b2c9-10ba-14da-54534f9760f9" ;
+        c:docDate          "2015-05-30 10:41:25.940" ;
+        c:docTitle         "" ;
+        c:document         "Train may have been hit by object, conductor says. The FBI will investigate damage to the Amtrak train's windshield, the NTSB says. FULL STORY" ;
+        c:id               "http://id.opencalais.com/EhY64nG-Xn8sigZF78qGWA" .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Iuz08bTUPWEROUGXwcD9vuBZMrk=|FOiJADk5FaZUbrqR+f3LlevHV+uOLuIla6dAOb2cLctIZ+l27C3XFg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:41:25.753" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313> ;
+        c:score           "0.887" .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313> ;
+        c:importance     "1" ;
+        c:name           "National Transportation Safety Board" ;
+        c:originalValue  "National Transportation Safety Board" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df5c9f51-3885-3b1f-b690-31dfba1e2e28> .
+
+<http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c27a1ee6-691f-34fa-819c-f83b73397313> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

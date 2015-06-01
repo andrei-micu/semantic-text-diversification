@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8> ;
+        c:importance     "2" ;
+        c:name           "Gupta" ;
+        c:originalValue  "Gupta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e514ce22-721b-3f73-87ff-a80fc16aa09c> .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2215d602-5ccd-2529-14da-54837211927e" ;
+        c:docDate          "2015-05-30 10:44:43.038" ;
+        c:docTitle         "" ;
+        c:document         "Dealing with rusty barrels turned into bombs. Plumbers, postmen and teachers join up to become a rescue team, Dr. Sanjay Gupta reports. FULL STORY" ;
+        c:id               "http://id.opencalais.com/fAHkSYjtW1J1lb1qcOkLsg" .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8> ;
+        c:importance     "1" ;
+        c:name           "Rusty Collins" ;
+        c:originalValue  "Rusty Collins" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d7fd71de-71ce-3ef6-9871-96380243c9dc> .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8> ;
+        c:importance     "2" ;
+        c:name           "Indian films" ;
+        c:originalValue  "Indian films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70d3e2d8-1f2c-3ecc-a2a6-e1a838c4afea> .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8> ;
+        c:importance     "1" ;
+        c:name           "Sanjay Gupta" ;
+        c:originalValue  "Sanjay Gupta (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/365d2412-2a0b-3dc6-823d-47634e3b8763> .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1kXhL93LzXDXYQpl3zS+8qAvYis=|XmFG9DG7Cr9MpZJkTHGtxFGnyFIerLR2VhH+4XvGp0wefmuVcVtf7g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:42.913" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8> ;
+        c:score           "0.800" .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8> ;
+        c:importance     "2" ;
+        c:name           "Postmen" ;
+        c:originalValue  "Postmen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f8d7d98b-977e-3fb6-a70b-020067f9be33> .
+
+<http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/16999286-f6e1-3b5f-9ca5-ad117bb9e8d8> ;
+        c:importance     "1" ;
+        c:name           "Sanjay" ;
+        c:originalValue  "Sanjay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2edb9b10-21bb-3c88-83af-695ad565fdf7> .

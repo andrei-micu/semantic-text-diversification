@@ -1,0 +1,76 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844> ;
+        c:importance     "1" ;
+        c:name           "Cinema of Mexico" ;
+        c:originalValue  "Cinema of Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b2dd357-d13c-3334-b189-8099f4da45b9> .
+
+<http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844> ;
+        c:importance     "2" ;
+        c:name           "Magnet" ;
+        c:originalValue  "Magnet" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b324104-b659-3389-ae22-85a210bff0db> .
+
+<http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|IkWhqxNJ5dA5M10g/xEUx4ijVvo=|dBkR+27P3/6JGPRWdP01wNDeMlUUw0ZCXHOnOipuMDiAXllgYkEQPg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:15.238" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844> ;
+        c:importance     "2" ;
+        c:name           "Frida Kahlo" ;
+        c:originalValue  "Frida Kahlo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df73630f-44d7-3622-bb70-d27f876ebd69> .
+
+<http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "224cc038-6529-d4c0-14da-54077f613c98" ;
+        c:docDate          "2015-05-30 09:36:15.425" ;
+        c:docTitle         "" ;
+        c:document         "Frida Kahlo Is Having a Moment. Her face is on T-shirts and magnets, but that has not diminished the public’s fascination." ;
+        c:id               "http://id.opencalais.com/gAkdxzC*Exyl*NFptTc-ug" .
+
+<http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844> ;
+        c:importance     "1" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844> ;
+        c:importance     "2" ;
+        c:name           "Frida" ;
+        c:originalValue  "Frida" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bbbf657c-b23d-3805-b549-a46d5595a878> .
+
+<http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/317938f7-a8f5-39e8-90c3-ce2e734b7844> ;
+        c:importance     "1" ;
+        c:name           "Arts" ;
+        c:originalValue  "Arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bd5b09-4773-3933-bdf0-6b5be3d6cb0b> .

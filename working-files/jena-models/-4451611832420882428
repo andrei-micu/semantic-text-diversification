@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|26+wnGi85biZXhvRD6U3jzvtTx4=|b8GS8krBf2Uxph7OGBrDkL2X5SkB6pfwRb7idB6dNuOg4ROfm7oqJg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:47.953" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:importance     "2" ;
+        c:name           "Carson" ;
+        c:originalValue  "Carson (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/457cf243-d2c9-3ea7-ba13-82539a9fdb88> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:importance     "2" ;
+        c:name           "Ames Straw Poll" ;
+        c:originalValue  "Ames Straw Poll" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/296673bc-4793-30f5-83f1-3cb8f4901162> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:importance     "1" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e212a9d7-c163-d8d2-14da-54b09f113c98" ;
+        c:docDate          "2015-05-30 09:47:48.202" ;
+        c:docTitle         "" ;
+        c:document         "Ben Carson tops straw poll. Retired neurosurgeon Ben Carson handily won the Southern Republican Leadership Conference straw poll on Saturday, the first major survey to take the temperature of the Republican presidential field in the south." ;
+        c:id               "http://id.opencalais.com/M7zdAFERwqnRaiRPerNcLQ" .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:importance     "2" ;
+        c:name           "Straw poll" ;
+        c:originalValue  "Straw poll" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56e13237-0680-3745-91ee-ade080c5bc8d> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:importance     "1" ;
+        c:name           "Ben Carson" ;
+        c:originalValue  "Ben Carson" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1aee581a-2321-3bf3-95a2-54d9dbfc18b1> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:importance     "2" ;
+        c:name           "Straw polls for the Republican Party presidential primaries" ;
+        c:originalValue  "Straw polls for the Republican Party presidential primaries, 2012" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a681c51-c5bc-3e40-9c2d-20af8d1f161b> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:importance     "1" ;
+        c:name           "Republican Leadership Conference" ;
+        c:originalValue  "Republican Leadership Conference" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f930a93-3f71-3cd3-8e01-4cc86acb1b5f> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dea85389-725d-3ccb-988f-928c0011fc62> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

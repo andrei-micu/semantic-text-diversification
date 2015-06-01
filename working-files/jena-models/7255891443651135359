@@ -1,0 +1,76 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7> ;
+        c:importance     "1" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7> ;
+        c:importance     "1" ;
+        c:name           "Natalee" ;
+        c:originalValue  "Natalee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c0bd1b34-50c0-38f3-9208-0e76ea26dd6c> .
+
+<http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LFmf3ewiYeX40fUY/l5Cwfpu9lY=|ADOa/YxhIc7AFVi2rmtfRZANb00fPau9ybPLdMLGfQt4yxL4dCj/9w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:23.557" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7> ;
+        c:importance     "2" ;
+        c:name           "Beth Holloway" ;
+        c:originalValue  "Beth Holloway" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/05f46492-8328-38bc-83d9-9a70d862127d> .
+
+<http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7> ;
+        c:score           "0.528" .
+
+<http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7> ;
+        c:importance     "1" ;
+        c:name           "Non-fiction" ;
+        c:originalValue  "Non-fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/29980718-05bf-39a9-a021-032f5aed21f4> .
+
+<http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4dfe8327-fca6-a7db-14da-54c7f651927e" ;
+        c:docDate          "2015-05-30 10:49:23.744" ;
+        c:docTitle         "" ;
+        c:document         "Man: I saw Natalee Holloway buried. Jurriën de Jong says he kept silent for years because of his own crimes -- and out of fear. FULL STORY" ;
+        c:id               "http://id.opencalais.com/JG9X817uxDYV*2ZFq23pXw" .
+
+<http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/15762728-f45f-332e-8211-90f370bb93d7> ;
+        c:importance     "2" ;
+        c:name           "De zaak Natalee Holloway" ;
+        c:originalValue  "De zaak Natalee Holloway" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e7e48738-055b-302e-ada7-117f5a383387> .

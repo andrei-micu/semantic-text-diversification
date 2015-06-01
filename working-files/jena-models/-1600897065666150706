@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a460d685-511a-3fa3-8a8f-ea87e12e3cd4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a460d685-511a-3fa3-8a8f-ea87e12e3cd4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|pHIJ4acA5Z0cF67tpeMne5TrUoM=|dpJS27v/MggNA5Y+5birIDnbp5ZlQ2jz6ACk6ET4RfoUPXB746ECzA==" ;
+        c:submissionDate  "2015-05-30 10:31:55.204" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a460d685-511a-3fa3-8a8f-ea87e12e3cd4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b4288576-fda2-c105-14da-53c80441927e" ;
+        c:docDate          "2015-05-30 10:31:55.251" ;
+        c:docTitle         "" ;
+        c:document         "KPCC's Off-Ramp: Billy The Mime. KPCC's Off-Ramp: Billy The Mime" ;
+        c:id               "http://id.opencalais.com/4uXCs9gIZltRkNtJUvzlQA" .
+
+<http://d.opencalais.com/dochash-1/a460d685-511a-3fa3-8a8f-ea87e12e3cd4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a460d685-511a-3fa3-8a8f-ea87e12e3cd4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

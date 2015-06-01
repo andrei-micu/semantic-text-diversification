@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:score           "0.706" .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance     "2" ;
+        c:name           "Rodham" ;
+        c:originalValue  "Rodham" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/63a3070d-6ed3-3faa-98ff-6e718a21a60e> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance     "1" ;
+        c:name           "Bill Clinton" ;
+        c:originalValue  "Bill Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ba74542-0826-30ae-8776-ccbf92f359db> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c8b7b996-f320-325a-14da-53c1f1323ab1" ;
+        c:docDate          "2015-05-30 10:31:30.557" ;
+        c:docTitle         "" ;
+        c:document         "Canadian Partnership Shielded Identities of Donors to Clinton Foundation. The foundation says that the partnership is not bound by an agreement that Hillary Rodham Clinton signed to make all donors public while she led the State Department, and that under Canadian law, contributors’ names cannot be made public." ;
+        c:id               "http://id.opencalais.com/a-O4TMmqE-2HLoJIPFeqHA" .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:score           "0.827" .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance     "2" ;
+        c:name           "Clinton Foundation" ;
+        c:originalValue  "Clinton Foundation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/02b967f7-78de-31d0-852c-43ea49104ff5> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance     "1" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|77aFUUXgRQ/nADb9nUhbyYlFQB4=|DAd542AfjSue+FEHxRmZulOx3nIRVtf2r1FDyNNkHpbivY5vUs3JQA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:30.323" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9796176a-fc5b-3d57-9cbf-db15ddb985e4> ;
+        c:importance     "2" ;
+        c:name           "Political positions of Hillary Rodham Clinton" ;
+        c:originalValue  "Political positions of Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9eab02dd-7f67-3331-9408-ef48040494f5> .

@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9> ;
+        c:score           "0.978" .
+
+<http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage in New England" ;
+        c:originalValue  "Same-sex marriage in New England" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87d46799-49da-39ec-bfd8-6827100e2a39> .
+
+<http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|uyo3y/ROrINnQC0vcw82SibeREg=|gAtEEEamGX9bA1YEnq8KIf+cyYQI2j06BbfG9k2xCmLo0c3znKWm1Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:02.631" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5b42ace6-89cd-299a-14da-54b434749095" ;
+        c:docDate          "2015-05-30 10:48:02.849" ;
+        c:docTitle         "" ;
+        c:document         "Catholic Ireland OKs same-sex marriage. Ireland has become the first country to legalize same-sex marriage through popular vote. FULL STORY" ;
+        c:id               "http://id.opencalais.com/kpRp3*kysngbOmpG1c23Lw" .
+
+<http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de7d6140-f687-37f9-a495-72ac719b92e9> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage in the United States" ;
+        c:originalValue  "Same-sex marriage in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bdcd460c-629a-331e-b2c6-af5d5447ab33> .

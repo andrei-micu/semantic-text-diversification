@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance     "2" ;
+        c:name           "Himalayas" ;
+        c:originalValue  "Himalayas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/909e4667-b357-3eb3-9c3e-c656f77ab0dd> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9ccc57c3-410f-b4b4-14da-536e2a971d39" ;
+        c:docDate          "2015-05-30 09:25:47.270" ;
+        c:docTitle         "" ;
+        c:document         "Everest avalanche caught on camera hitting climbers. Snow appears like a white mushroom cloud roaring over climbers. They scurry. Then panic hits. MAJOR AFTERSHOCK |GOOGLE EXEC KILLED | SCIENTISTS EXPECTED QUAKE | CNN ON THE GROUND| HINDUISM AND BUDDHISM | LANDMARKS: BEFORE AND AFTER | SURROGATE MOTHERS" ;
+        c:id               "http://id.opencalais.com/7GcbkaRozUvxiBaWD9DjLQ" .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance  "2" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance     "1" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance     "2" ;
+        c:name           "Avalanche" ;
+        c:originalValue  "Avalanche" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f36132d6-6543-34ed-b243-f2d37a136877> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:score           "0.961" .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance     "2" ;
+        c:name           "Mount Everest" ;
+        c:originalValue  "Mount Everest" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aef1297c-0c88-39a2-be7d-8fca5cbbf918> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance     "1" ;
+        c:name           "Application software" ;
+        c:originalValue  "Application software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3dd160c1-2ca0-3913-8fe9-4dca175b0bee> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance     "2" ;
+        c:name           "Quake" ;
+        c:originalValue  "Quake (video game)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b539ba79-f6f4-3b1b-8a4d-49b6037ca637> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:score           "0.660" .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|UIprJbOS3Fs5q3au2kVafcEZOc8=|gakMfcHXJ18+H7+CaGDnCZZKD/Bsnbp3fathYr5C8h7BJf0dzmkO6w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:25:47.192" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance     "1" ;
+        c:name           "Digital media" ;
+        c:originalValue  "Digital media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/771e4d9a-b0cd-37a2-bec6-6840c4cafab3> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:importance     "2" ;
+        c:name           "Shigatse Prefecture" ;
+        c:originalValue  "Shigatse Prefecture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2111bac7-5611-335d-ae83-b3eef1c62fdc> .
+
+<http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ad6f4316-cab5-3a5c-8e7a-d919a7f20f49> ;
+        c:score           "1.000" .

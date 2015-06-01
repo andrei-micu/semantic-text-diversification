@@ -1,0 +1,146 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "2" ;
+        c:name           "USA PATRIOT Act" ;
+        c:originalValue  "USA PATRIOT Act" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fc92a4e0-ac5f-3d2b-87b3-434dfd41fa8c> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "2" ;
+        c:name           "USA Act and the Financial Anti-Terrorism Act" ;
+        c:originalValue  "USA Act and the Financial Anti-Terrorism Act" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f4eb4c5d-6eff-3c5c-9929-9655ce028443> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "1" ;
+        c:name           "Privacy law" ;
+        c:originalValue  "Privacy law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d10a20d4-21c4-3ec1-b58b-b19fac8dffbc> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "2" ;
+        c:name           "United States Senate" ;
+        c:originalValue  "United States Senate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01c05ea8-5d0c-3cc6-bc97-ab1e0b48a8bc> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "56b65cfd-ca91-dc27-14da-54a3ac132955" ;
+        c:docDate          "2015-05-30 10:46:55.069" ;
+        c:docTitle         "" ;
+        c:document         "Senate Blocks Patriot Act Extension. The Senate struggled to prevent an interruption in critical government surveillance programs early Saturday, rejecting both a House-passed bill and a short-term extension of the USA Patriot Act." ;
+        c:id               "http://id.opencalais.com/-6YNHUPmTXflZtkwFhrWEQ" .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "2" ;
+        c:name           "National security" ;
+        c:originalValue  "National security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e666acb8-a254-327d-abcd-35408c086fe7> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "2" ;
+        c:name           "Patriot Act" ;
+        c:originalValue  "Patriot Act" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/805847b2-f729-396a-82e7-4342552020d9> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "2" ;
+        c:name           "107th United States Congress" ;
+        c:originalValue  "107th United States Congress" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a027db4b-b4fb-39dc-8634-0d34008702a1> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|JjyzXTFWD+z2eatTsxBpYvVZBBQ=|auuW2E4FgGR2mrDi9qjv79EXFV4AiTkgRwWwfZPQIVb/o8GrMUSi5g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:54.913" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "2" ;
+        c:name           "Privacy of telecommunications" ;
+        c:originalValue  "Privacy of telecommunications" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c03029e8-5a21-32d4-bc71-5bec6984fa6b> .
+
+<http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0b2418d9-3300-33cb-98e3-e41318a7a2bf> ;
+        c:importance     "2" ;
+        c:name           "USA PATRIOT Act, Title II" ;
+        c:originalValue  "USA PATRIOT Act, Title II" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6692384-3b35-3af4-9d81-1c9db81a249f> .

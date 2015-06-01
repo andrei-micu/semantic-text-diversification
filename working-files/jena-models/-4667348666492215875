@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:importance     "1" ;
+        c:name           "Juveniles held at the Guantanamo Bay detention camp" ;
+        c:originalValue  "Juveniles held at the Guantanamo Bay detention camp" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a717fcfb-6a2d-3d5a-8305-b269cf475c2f> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:importance     "2" ;
+        c:name           "Canadian detainees at Guantanamo Bay" ;
+        c:originalValue  "Canadian detainees at Guantanamo Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cfb0fbe1-2c6f-3138-b9aa-9709b7994af1> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:score           "0.600" .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:importance     "2" ;
+        c:name           "Guantanamo Bay detention camp" ;
+        c:originalValue  "Guantanamo Bay detention camp" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e3e6b4c4-9587-3a89-beb8-3284c2757c9e> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:importance     "1" ;
+        c:name           "Omar Khadr" ;
+        c:originalValue  "Omar Khadr" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d02d7e8c-5438-3e24-a672-273802a7d6b2> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2wkKsT+9dVSpLNJ1FB2w12NQ2HY=|R/LUxkIMKL26Y44NE49BcYvjQ/1QyNaFH6BeQBdSzJ4Qubiar5nN/w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:26:50.240" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:importance     "2" ;
+        c:name           "Muhammaed Yasir Ahmed Taher" ;
+        c:originalValue  "Muhammaed Yasir Ahmed Taher" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3829a42c-ec90-3003-bbf5-26e01e1f8d5d> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f7530672-7c77-fd20-14da-537d90034709" ;
+        c:docDate          "2015-05-30 09:26:50.428" ;
+        c:docTitle         "" ;
+        c:document         "Canada bails ex-Guantanamo detainee. A Canadian court grants bail to a former Guantanamo Bay detainee Omar Khadr until he completes his appeal against his US conviction." ;
+        c:id               "http://id.opencalais.com/mW3tSWkTnxjsCKh6pP0pwg" .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:importance     "1" ;
+        c:name           "Extrajudicial prisoners of the United States" ;
+        c:originalValue  "Extrajudicial prisoners of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fde4196d-7b73-33fe-ade1-690afaa47549> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:importance     "2" ;
+        c:name           "Year of birth missing" ;
+        c:originalValue  "Year of birth missing (living people)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3412379a-c58d-3f2e-b182-3e92b0b33f05> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:score           "0.870" .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:importance     "2" ;
+        c:name           "Khadr" ;
+        c:originalValue  "Khadr" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/28b4a58b-61bd-3820-b6e4-ffec575c75fd> .
+
+<http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/aa0346d9-db4e-35af-bdad-a169a95593c3> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

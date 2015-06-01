@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:importance     "1" ;
+        c:name           "Michelle Obama" ;
+        c:originalValue  "Michelle Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b64aaecc-8610-353a-8ad7-47166e672366> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:importance     "2" ;
+        c:name           "Hillary Clinton caucuses and primaries" ;
+        c:originalValue  "Hillary Clinton caucuses and primaries, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3bbcc71-46e3-3bf6-9d59-7c9d501fa6c2> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:importance     "1" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:importance     "2" ;
+        c:name           "Michelle" ;
+        c:originalValue  "Michelle (song)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f4c3b7dc-0e16-368f-9232-f6ca76de56c2> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:importance     "2" ;
+        c:name           "Obama family" ;
+        c:originalValue  "Obama family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/686fb406-b454-39d4-9977-f1e75bb6248c> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama presidential primary campaign" ;
+        c:originalValue  "Barack Obama presidential primary campaign, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/315f03dd-8a19-365a-9881-b9a663683d6e> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e15e1cf9-a552-7cff-14da-542fd4e1927e" ;
+        c:docDate          "2015-05-30 10:39:00.679" ;
+        c:docTitle         "" ;
+        c:document         "First lady: I'm treated 'differently' due to race. Michelle Obama is getting some attention after telling a group of graduates that she's been held to a different standard due to her race." ;
+        c:id               "http://id.opencalais.com/iNEdA*xsjbyA-lruiFqINg" .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6a2d5c40-4611-3786-b23e-611cf1ecb97e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|oAdrgf8yCFq0+lH45+2vbj1g+xw=|Q+8voDmj+GmfW/5NMAyqDinoC1Yhz00Re0Dy+7HAQAC5bYRb+wQOrA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:00.430" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

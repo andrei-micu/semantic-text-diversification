@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:score           "0.966" .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:importance     "2" ;
+        c:name           "Serial killers" ;
+        c:originalValue  "Serial killers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9b977a3-4a3c-39c7-abe4-1d2142dd5824> .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b44bdacd-46b7-52e2-14da-54292df719b3" ;
+        c:docDate          "2015-05-30 10:38:33.495" ;
+        c:docTitle         "" ;
+        c:document         "Bodies found in serial killer probe. The remains of at least four additional people have been found during a serial killer investigation behind a Connecticut strip mall where the bodies of three women were previously found, authorities said Monday." ;
+        c:id               "http://id.opencalais.com/rGbWk7gU5IMoq6qwOsdpFQ" .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:importance     "1" ;
+        c:name           "Crime in the United States" ;
+        c:originalValue  "Crime in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ae84720-7dc9-318e-9f99-21cfd38b7928> .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:importance     "2" ;
+        c:name           "Connecticut River Valley Killer" ;
+        c:originalValue  "Connecticut River Valley Killer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dc4f9a10-0ab8-3d06-a5b3-8f64e0920980> .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:importance     "2" ;
+        c:name           "Psychopathy" ;
+        c:originalValue  "Psychopathy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/301bc106-742c-39e2-afc2-7bd92b803d14> .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:importance     "1" ;
+        c:name           "Crime" ;
+        c:originalValue  "Crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cbd7052-3378-35a0-8096-3744cdbc03e2> .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zgzLd0z7G4dLaSxTuH62mfr5UMI=|Iw/9TeB91oWAcq8Cnu8Pgf513KI4J9EPK1whtVXI5J/75RX1U43Qjw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:33.183" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:importance     "1" ;
+        c:name           "Murder" ;
+        c:originalValue  "Murder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4442334b-792e-34c3-9fb9-ebc855c20658> .
+
+<http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e7a25f66-de42-32aa-a2b1-14c9974378b5> ;
+        c:importance     "2" ;
+        c:name           "Long Island serial killer" ;
+        c:originalValue  "Long Island serial killer" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ac4815bb-b47e-39c9-899a-d08077da134e> .

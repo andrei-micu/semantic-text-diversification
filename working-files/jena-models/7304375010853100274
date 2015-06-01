@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902> ;
+        c:importance     "1" ;
+        c:name           "Culture of New York City" ;
+        c:originalValue  "Culture of New York City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/76d096c3-0a3f-376d-90d1-51d29489e453> .
+
+<http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902> ;
+        c:importance     "1" ;
+        c:name           "Tony Award" ;
+        c:originalValue  "Tony Award" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2c74267-c8f9-35d8-84e4-bbb12a38ded6> .
+
+<http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|MEODxdoq+/ngb1Hqi4Jj+ihlHFU=|UAnn+ZtTw87As+xzOzT1qDnV4+gITUnY1P1LJrmY+D5/wdy/daUpKA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:28.525" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902> ;
+        c:importance     "1" ;
+        c:name           "Broadway theatre" ;
+        c:originalValue  "Broadway theatre" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5497c242-1f26-3e1c-b0e9-49297a33411b> .
+
+<http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5eac5360-3542-aa41-14da-540abdd71d39" ;
+        c:docDate          "2015-05-30 09:36:28.712" ;
+        c:docTitle         "" ;
+        c:document         "The Tony Awards: Getting to Know You. In our special section on the awards, to be presented June 7: Ben Brantley and Charles Isherwood find more than escapism, and the nominees meet in exclusive portraits." ;
+        c:id               "http://id.opencalais.com/8Tssqn1zHGZfQxM4b5saDQ" .
+
+<http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3ff8b1ca-6ab1-3b80-92d3-346742a2f902> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .

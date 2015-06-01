@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:importance     "2" ;
+        c:name           "Massachusetts" ;
+        c:originalValue  "Massachusetts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/adb682b0-294c-3698-bc2f-afbe25cb8e72> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:importance     "1" ;
+        c:name           "Geography of Massachusetts" ;
+        c:originalValue  "Geography of Massachusetts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aba85aa8-4cb4-388a-b0b8-cc7f4f950ee5> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:importance     "2" ;
+        c:name           "Lighthouse" ;
+        c:originalValue  "Lighthouse" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2e03d1be-ce3a-3da4-8051-5c03928efa7d> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "23129e33-215c-cdf4-14da-54d23be13c98" ;
+        c:docDate          "2015-05-30 09:50:05.754" ;
+        c:docTitle         "" ;
+        c:document         "Historic Gay Head Lighthouse on the move. Precariously perched Gay Head Lighthouse is on the move in Martha's Vineyard. Fortunately, the move is not a widely feared fall off a cliff." ;
+        c:id               "http://id.opencalais.com/aAIISlvdcB3BiwTN9*cYRg" .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:importance     "2" ;
+        c:name           "Gay Head Light" ;
+        c:originalValue  "Gay Head Light" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/94aa375e-faea-3de6-89c1-e12195f9c9c6> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:importance     "1" ;
+        c:name           "Dukes County, Massachusetts" ;
+        c:originalValue  "Dukes County, Massachusetts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/21c0ff75-ed31-313b-9080-08fa54c8bb32> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|JKTDDckrSzx9Wk21z2BZ9AwmygQ=|W6lsvyXyhD7ghIRypg4B5PevAUoWDDEcIpwg6sQ3X2W/Baa+z+Mj5w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:05.645" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:importance     "2" ;
+        c:name           "Gay Head" ;
+        c:originalValue  "Gay Head (steamboat)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0c59b03c-597b-3f39-b262-2217e418b01e> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:score           "0.855" .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:importance     "1" ;
+        c:name           "Martha's Vineyard" ;
+        c:originalValue  "Martha's Vineyard" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ce1c75e6-0430-336f-a4b3-ae82374a01ae> .
+
+<http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0e440f9-6314-3a63-a037-5da24d888580> ;
+        c:importance     "2" ;
+        c:name           "Aquinnah, Massachusetts" ;
+        c:originalValue  "Aquinnah, Massachusetts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf946237-d5d9-3a43-8c86-e2da41f56685> .

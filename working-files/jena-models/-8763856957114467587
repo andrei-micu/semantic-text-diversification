@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4463c0cf-83fb-3bbc-b723-fbfcfd5fbdae/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4463c0cf-83fb-3bbc-b723-fbfcfd5fbdae> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|TEpn6gGQRfhUjI0x/hqypY/j3sc=|imdI6PAmFk0FS1aQdvm2HQtooUEfNJq11auPU2eCB/jcWNp1/a9QIg==" ;
+        c:submissionDate  "2015-05-30 09:34:27.039" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4463c0cf-83fb-3bbc-b723-fbfcfd5fbdae/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4463c0cf-83fb-3bbc-b723-fbfcfd5fbdae> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/4463c0cf-83fb-3bbc-b723-fbfcfd5fbdae>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "aa6a5526-0935-527e-14da-53ed15013c98" ;
+        c:docDate          "2015-05-30 09:34:27.086" ;
+        c:docTitle         "" ;
+        c:document         "Star Wars scenes carved out of plain paper. " ;
+        c:id               "http://id.opencalais.com/UXTiJKHCn2yp7r5nD7EFHg" .

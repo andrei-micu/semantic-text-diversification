@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:importance     "2" ;
+        c:name           "Iraq" ;
+        c:originalValue  "2008 in Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/33ecfc09-2dca-3a72-9cc0-81d284a7bd4f> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:score           "0.878" .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:importance     "2" ;
+        c:name           "Iraq War" ;
+        c:originalValue  "Iraq War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30f6b3bb-177a-3ed7-89cb-1f573d732616> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2794c93f-bf24-c12a-14da-549b91471d39" ;
+        c:docDate          "2015-05-30 09:46:21.856" ;
+        c:docTitle         "" ;
+        c:document         "Pentagon chief concerned that Iraqis don't fight ISIS. Defense Secretary Carter says Iraqis aren't outnumbered, but don't seem to have the will to fight. FULL STORY" ;
+        c:id               "http://id.opencalais.com/7WjMode5T3mKeRiUUSuObQ" .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|lediCH/byBuMQIkhlvbjFK3CaX0=|IfNHhhaMaxivv/T9Dc9yI3m7v/BzkxRC5/1ytyf834QS1c4m4iVYIg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:21.716" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:score           "0.978" .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:importance     "1" ;
+        c:name           "Presidency of George W. Bush" ;
+        c:originalValue  "Presidency of George W. Bush" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43dcde7e-b3f6-359f-b545-c2e0121ca5c5> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:importance     "1" ;
+        c:name           "Iraq–United States relations" ;
+        c:originalValue  "Iraq–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c94883e-2a3b-3d03-a3f2-ad42f9533e2d> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:importance     "2" ;
+        c:name           "Politics of Iraq" ;
+        c:originalValue  "Politics of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2a147ea-ee41-3c0a-a7e3-4ef16e7d271c> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:score           "0.961" .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:importance     "2" ;
+        c:name           "Occupation of Iraq" ;
+        c:originalValue  "Occupation of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3825fb7d-8a38-39a5-864b-fbcbfcba7d70> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fb889daf-483f-3715-a8a9-8e8e54544170> ;
+        c:importance     "1" ;
+        c:name           "The Pentagon" ;
+        c:originalValue  "The Pentagon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2353cf66-850c-3490-8d15-37327fbdb469> .

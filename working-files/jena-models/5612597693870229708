@@ -1,0 +1,131 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "2" ;
+        c:name           "Nocebo" ;
+        c:originalValue  "Nocebo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/03a93026-ee4a-3796-bb04-db81f57afc34> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "2" ;
+        c:name           "Bioethics" ;
+        c:originalValue  "Bioethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6295c37c-b0c7-31c9-832d-f0c3df79d05e> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "2" ;
+        c:name           "Placebo" ;
+        c:originalValue  "Placebo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c6130884-dbd9-3578-8b6d-4f53ba46b67c> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "1" ;
+        c:name           "Health" ;
+        c:originalValue  "Health" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2fa315db-c00a-3f28-ae77-dc384fb66bec> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "2" ;
+        c:name           "Clinical research" ;
+        c:originalValue  "Clinical research" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8efb66ee-34f3-32f8-a5fb-312b404a58a0> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "2" ;
+        c:name           "Placebo-controlled study" ;
+        c:originalValue  "Placebo-controlled study" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/24f2d327-d412-377b-8e6b-79f2e9ff75e9> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "2" ;
+        c:name           "Medical ethics" ;
+        c:originalValue  "Medical ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c58f41b6-f663-36fd-8c2d-f57af45aebc1> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|xX5wiDwXqYkYiNEazKkQY3ERTHs=|NXcqyJvAxuKrNWAv8lqg91fLcTwaKBXmvqVzA1l3xZSk3mBj/44JNg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:34.079" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "1" ;
+        c:name           "Research" ;
+        c:originalValue  "Research" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5146c665-84c1-33e9-8919-5b16ee984326> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "2" ;
+        c:name           "Medical terms" ;
+        c:originalValue  "Medical terms" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0f681489-94af-3f2a-9b07-e15f4fb6dc6b> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7e90b6a4-b145-6408-14da-53b435f653ed" ;
+        c:docDate          "2015-05-30 09:30:34.376" ;
+        c:docTitle         "" ;
+        c:document         "Placebo Effect: It Might Not Be In Your Head After All. There's new evidence that what's going on with the placebo effect is more than psychological. The implications are numerous." ;
+        c:id               "http://id.opencalais.com/hyRsCprccuj7DASmAhSuDw" .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "1" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7620647b-f474-33d2-b902-683ee1b4cedc> ;
+        c:importance     "2" ;
+        c:name           "Pharmacology" ;
+        c:originalValue  "Pharmacology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2874b53c-b34a-3e63-9a9e-99728b6ede62> .

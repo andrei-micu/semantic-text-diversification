@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|UF+LD40Cbm8YmspEU9u+a7gVLfk=|H9CowCnoa75rIR0EBg70xgRaw8oj/YaoW8+rjyAhWUQB4EV9V6ZvPg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:02.023" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance     "2" ;
+        c:name           "Interest" ;
+        c:originalValue  "Interest" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f6c67da2-03a5-3ab4-a365-dcbf2d0a3c8a> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:score           "0.693" .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance     "1" ;
+        c:name           "Retirement" ;
+        c:originalValue  "Retirement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dae3f1fb-0a46-35ef-8760-e07302b22743> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance     "2" ;
+        c:name           "Money" ;
+        c:originalValue  "Money" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f1af9688-5498-363e-9052-be898dce559c> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance     "1" ;
+        c:name           "Mathematical finance" ;
+        c:originalValue  "Mathematical finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/58cdc5c7-0b40-3434-890c-266cc125bf15> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance     "2" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "597d1a18-ac36-702f-14da-54044674551f" ;
+        c:docDate          "2015-05-30 09:36:02.429" ;
+        c:docTitle         "" ;
+        c:document         "Retiring: New Math for Retirees and the 4% Withdrawal Rule. Though the concept has been celebrated and criticized, it has come under scrutiny again, particularly as people are now retiring during a period of low interest rates." ;
+        c:id               "http://id.opencalais.com/J2Hfm*3ivg9e6Rw6-2Xx7Q" .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance     "2" ;
+        c:name           "Termination of employment" ;
+        c:originalValue  "Termination of employment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/11ce7c16-0362-3578-a375-48fc32e12281> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:score           "0.829" .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance     "1" ;
+        c:name           "Aging" ;
+        c:originalValue  "Aging" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e92269f7-b651-3e5d-8d0c-b3fede2cd7b7> .
+
+<http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f4a88677-c754-3d9f-a302-3d201f43d5b9> ;
+        c:importance     "2" ;
+        c:name           "Macroeconomics" ;
+        c:originalValue  "Macroeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32612f14-3cee-36fa-a5ee-c4953c7af66c> .

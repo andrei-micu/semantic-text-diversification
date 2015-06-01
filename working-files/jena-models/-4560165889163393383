@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e75ae4b4-34f3-8c7c-14da-53b5bf734709" ;
+        c:docDate          "2015-05-30 09:30:40.578" ;
+        c:docTitle         "" ;
+        c:document         "U.S. economy stumbles in first quarter as weather, low energy prices weigh. WASHINGTON (Reuters) - U.S. economic growth nearly stalled in the first quarter as harsh weather dampened consumer spending and energy companies struggling with low prices slashed spending." ;
+        c:id               "http://id.opencalais.com/14BG*CfBkHWXietpNGyUGA" .
+
+<http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee> ;
+        c:importance     "1" ;
+        c:name           "Macroeconomics" ;
+        c:originalValue  "Macroeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32612f14-3cee-36fa-a5ee-c4953c7af66c> .
+
+<http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee> ;
+        c:importance     "2" ;
+        c:name           "Economy of the United States" ;
+        c:originalValue  "Economy of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9c04552-e625-3a39-93f8-3544f0172fe0> .
+
+<http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee> ;
+        c:importance     "1" ;
+        c:name           "Consumer spending" ;
+        c:originalValue  "Consumer spending" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65d3ee9f-7403-347f-8298-d84600e0c341> .
+
+<http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee> ;
+        c:importance     "2" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|sxByfNsHFDHLbcFPnjqGRtKXmLg=|WZ6BWaoZ5/94eUaqQ/0wxtHB2Y4S6EmKc1XhIW9vqJYj7RIN6A8AKg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:40.375" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/27c646f3-b55b-3b01-b3c0-a1a7c8d261ee> ;
+        c:importance     "1" ;
+        c:name           "Socioeconomics" ;
+        c:originalValue  "Socioeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6a2df6d2-5d17-33e9-939c-305e2d9fc018> .

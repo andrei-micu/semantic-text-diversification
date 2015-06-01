@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20> ;
+        c:importance     "1" ;
+        c:name           "David Letterman" ;
+        c:originalValue  "David Letterman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54eef261-5ad0-34ea-935b-60819ce936b6> .
+
+<http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|R3C6vTiHkq8+AwXlllqOD6jZ17M=|Cyp340HlnrRLhg1eKcGcn6p6qLs4uYSBYw0IfOjE7dDeJH4d7YCJ6w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:15.340" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20> ;
+        c:importance     "2" ;
+        c:name           "Mad" ;
+        c:originalValue  "Mad (magazine)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2aaf358-ec0a-3821-b513-ae7516b9c212> .
+
+<http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20> ;
+        c:importance     "1" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5676e134-c681-5214-14da-548b5cc719b3" ;
+        c:docDate          "2015-05-30 10:45:15.544" ;
+        c:docTitle         "" ;
+        c:document         "Pop Culture Happy Hour: For 'Mad Men' And Letterman, A Week Of Goodbyes. Mad Men just ended after seven seasons; David Letterman is done with late-night TV after 33. The gang discusses both farewells, both legacies, and What's Making Us Happy this week." ;
+        c:id               "http://id.opencalais.com/ZRhgcmkuBivbE0TFQPfAUA" .
+
+<http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/db8d12fc-b938-3071-a93f-129d5f1c0e20> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .

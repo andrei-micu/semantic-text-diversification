@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:importance     "2" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "98f1f1fd-d5f2-dcde-14da-539e96949095" ;
+        c:docDate          "2015-05-30 10:29:05.607" ;
+        c:docTitle         "" ;
+        c:document         "Senate leader expects strong debate over Iran bill amendments. WASHINGTON (Reuters) - Senate Majority Leader Mitch McConnell said on Tuesday he wants to pass a \"sensible\" bipartisan bill giving Congress the right to review an international nuclear agreement with Iran but made clear he expects lawmakers to introduce a wide variety of amendments to the legislation." ;
+        c:id               "http://id.opencalais.com/Evl4lTKf2V0Ux4qMc3m0yA" .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:importance     "1" ;
+        c:name           "United States Senate" ;
+        c:originalValue  "United States Senate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01c05ea8-5d0c-3cc6-bc97-ab1e0b48a8bc> .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|s+u+8Z3IKUx7xaoSp6ili+b6WLU=|IzCl2r15C0lEo3h+4X2bO2TwemRiLb7D3IV4DLrHHvXPMrJSt8j7zg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:05.513" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:importance     "2" ;
+        c:name           "Kentucky" ;
+        c:originalValue  "Kentucky" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b4f0ebf-3e0f-3b1b-b9d7-d55e1d646335> .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:score           "0.963" .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:importance     "1" ;
+        c:name           "Mitch McConnell" ;
+        c:originalValue  "Mitch McConnell" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e68ca560-ed5b-386f-a803-77f637cbc1d5> .
+
+<http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5770eb44-ef2b-3bfa-9a21-95490d9153bd> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:importance     "2" ;
+        c:name           "Football" ;
+        c:originalValue  "Football" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26795aa6-cc7c-33c4-9784-1c66d3a0e7f1> .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:score           "0.915" .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:importance     "1" ;
+        c:name           "Quarterback" ;
+        c:originalValue  "Quarterback" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14c6fc90-7c08-3dd7-9518-2b4c142f8382> .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:importance     "2" ;
+        c:name           "Gridiron football" ;
+        c:originalValue  "Gridiron football" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f048b120-f608-3640-9946-d29401e1cead> .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:score           "0.707" .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:importance     "1" ;
+        c:name           "American football" ;
+        c:originalValue  "American football" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9c727346-bd99-385f-b4a0-0bdb32f19148> .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GvFwYnf0AKdNW6tbVAm470edu/A=|e1vwGSsA2D4qrfYAg4FPh4PMaYFRI0ab3usgDUEXodyBIC3r7XVIqw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:29.649" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "378377a1-0572-d66c-14da-5436f711927e" ;
+        c:docDate          "2015-05-30 10:39:29.820" ;
+        c:docTitle         "" ;
+        c:document         "Tom Brady's Agent Says Suspension 'Has No Legitimate Basis' . Tom Brady's agent, Don Yee, delivered a lengthy statement in response to the quarterback's suspension, calling it 'ridiculous.' He also said that the NFL investigation into deflategate was unfair." ;
+        c:id               "http://id.opencalais.com/m4iBTTvzzB2nfeSnLtTMzw" .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:importance     "1" ;
+        c:name           "Tom Brady" ;
+        c:originalValue  "Tom Brady" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52dcf606-d4c6-3477-a5fe-ad3eb7ec165e> .
+
+<http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/214e800d-d7ae-37c4-b386-19d007cf7e29> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

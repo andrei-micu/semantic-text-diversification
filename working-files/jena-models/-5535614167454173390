@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e> ;
+        c:importance     "1" ;
+        c:name           "Victory in Europe Day" ;
+        c:originalValue  "Victory in Europe Day" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65e00bae-866f-38e3-b967-982678d36c7f> .
+
+<http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e> ;
+        c:score           "0.945" .
+
+<http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e> ;
+        c:importance     "1" ;
+        c:name           "Fighter aircraft" ;
+        c:originalValue  "Fighter aircraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7ab88865-ce5a-3975-8509-2d61ce9dbee1> .
+
+<http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|em5Kc9VbPM1Hg6vNKZLiEZzuh8s=|i45fKJPe4F/NcbnBMlKxqdfZWpZNTV9nMyJi5f6cLePR0asi2Bi63w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:00.781" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e> ;
+        c:importance     "1" ;
+        c:name           "Aftermath of World War II" ;
+        c:originalValue  "Aftermath of World War II" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d57744b7-ab13-3e8d-8995-fb50c5a12ba4> .
+
+<http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a4c6d4ff-5517-491d-14da-5403f8d23ab1" ;
+        c:docDate          "2015-05-30 10:36:00.984" ;
+        c:docTitle         "" ;
+        c:document         "Vintage WWII Planes Mark V-E Day Anniversary Flying Over The U.S. Capitol. Dozens of aging fighters and bombers flew over the National Mall to commemorate the 70th anniversary of the end of the war in Europe." ;
+        c:id               "http://id.opencalais.com/Vpa5NvMHfyATSgYGyQeZqw" .
+
+<http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/15d59cd7-b52d-3d31-b3c6-3e8a9c4f302e> ;
+        c:score           "0.957" .

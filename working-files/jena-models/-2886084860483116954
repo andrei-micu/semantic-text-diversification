@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:score           "0.944" .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9jeVMNgRPAZX0Jaxiia4O0cjnLU=|aPPHSEQ5qxP1neyLsAQVmOLEMRw2bDOf2XtcqOZ38DBm6BEYaNR+aQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:21.733" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:importance     "2" ;
+        c:name           "Organized crime" ;
+        c:originalValue  "Organized crime" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4788ccf9-0ffb-3c9c-ade7-acb8f7fe85aa> .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:importance     "1" ;
+        c:name           "Crime in Mexico" ;
+        c:originalValue  "Crime in Mexico" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2eb3ae2d-7c4d-3c8d-bb79-29da0d7f2a7a> .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:score           "0.868" .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "24dd9fbe-c609-954d-14da-54aa38523ab1" ;
+        c:docDate          "2015-05-30 10:47:21.936" ;
+        c:docTitle         "" ;
+        c:document         "42 gunmen, 1 cop die in shootout. A three-hour shootout between Mexican security forces and unidentified gunmen Friday left 42 of the gunmen dead, as well as one federal police officer, officials said." ;
+        c:id               "http://id.opencalais.com/YubGG8cKQFj55YRZGaeFxw" .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:importance     "1" ;
+        c:name           "Mexican Drug War" ;
+        c:originalValue  "Mexican Drug War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ccf31ec-6316-3d1b-afad-1956fa1c685b> .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:importance     "2" ;
+        c:name           "Antonio Cárdenas Guillén" ;
+        c:originalValue  "Antonio Cárdenas Guillén" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eaa764f5-0402-354e-937b-7e07707efcb4> .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:score           "0.955" .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:importance     "2" ;
+        c:name           "Joint Operation Nuevo León-Tamaulipas" ;
+        c:originalValue  "Joint Operation Nuevo León-Tamaulipas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/99a333f1-471a-336f-904c-06dc2837e079> .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:importance     "1" ;
+        c:name           "Second Chechen War" ;
+        c:originalValue  "Second Chechen War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47c8922f-46c7-32a9-af54-dc2215a8b3fa> .
+
+<http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b81ff4f2-e35b-3fa4-b25a-7cdf9a1fd617> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

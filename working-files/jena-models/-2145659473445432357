@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:importance     "2" ;
+        c:name           "Film" ;
+        c:originalValue  "Film" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/404c08a3-aa7e-3004-9917-0e7b5889363f> .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:importance     "1" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:importance     "2" ;
+        c:name           "American film directors" ;
+        c:originalValue  "American film directors" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a883354c-9d65-36ca-9c6f-a86372616b29> .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|B+Nmeb9NuqSIArweN9C2BSP3omQ=|HnKdkwRkZSvjygF7INeAwSWyAPlYxn9qJd4q4YMrhiYpLXKpUioMAQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:31.579" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:importance     "2" ;
+        c:name           "Sandler" ;
+        c:originalValue  "Sandler" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/90c1fd65-e8ed-3279-9945-bd925221c8d9> .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:importance     "1" ;
+        c:name           "Adam Sandler" ;
+        c:originalValue  "Adam Sandler" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87a20835-c7d0-3628-bdc8-c85bcb1ba9e8> .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "86ede135-b5f1-2a29-14da-5387a7b1927e" ;
+        c:docDate          "2015-05-30 10:27:31.767" ;
+        c:docTitle         "" ;
+        c:document         "Actors walk off Adam Sandler set. About a dozen Native American actors have walked off the set of an Adam Sandler movie comedy, saying the satirical Western's script is insulting to Native Americans and women, according to a report." ;
+        c:id               "http://id.opencalais.com/zXurUcLtUvfHIrUdFpff9g" .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:importance     "1" ;
+        c:name           "Cinema of the United States" ;
+        c:originalValue  "Cinema of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9089feca-c264-3451-b0cf-257f8c8b0635> .
+
+<http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2be8138-9bc1-3956-b89b-b44804095d5b> ;
+        c:importance     "2" ;
+        c:name           "Happy Madison productions" ;
+        c:originalValue  "Happy Madison productions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/708d2437-8b3d-3c75-a23d-a030d6a8d3a9> .

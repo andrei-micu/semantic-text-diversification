@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f> ;
+        c:score           "0.785" .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f> ;
+        c:importance     "2" ;
+        c:name           "Pizza" ;
+        c:originalValue  "Pizza (TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/be1a320b-0cb8-35c8-839c-bb7f62afb1f8> .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f> ;
+        c:importance     "1" ;
+        c:name           "Cuisine" ;
+        c:originalValue  "Cuisine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e415d5c4-1d9e-3119-ba71-c477518a125b> .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f> ;
+        c:score           "0.590" .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f4a0a28e-f4fe-4949-14da-53f4ff749095" ;
+        c:docDate          "2015-05-30 10:34:59.634" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Pizza order rescues US hostage. A woman in Central Florida used an online pizza order to send a distress signal while being held hostage by her knife-wielding boyfriend." ;
+        c:id               "http://id.opencalais.com/TyQVj2jBY5h1dRCDY9yJJg" .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f> ;
+        c:importance     "2" ;
+        c:name           "Distress signal" ;
+        c:originalValue  "Distress signal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae5790b4-302d-3927-992f-fb74765cc038> .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f> ;
+        c:importance     "1" ;
+        c:name           "Rescue" ;
+        c:originalValue  "Rescue" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e3d8e8fb-3a70-35cb-be41-8654f8e2e1f2> .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+3PsPJ0yJelYanC3KGvdmfD+1CU=|Zmyn/ZX7ISZ4PisCzBVyzuUQIaoSq88IFKvE0HADnp9ax7D/OmHYZw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:59.447" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3ab51af2-da4d-3cb6-b2e0-d2da8997b91f> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ttcIMvcxSETOZu/A7n4OsmhbEPI=|epUZFkiSeEJMqBKqDDUPTb6YSGhf93fFnHqalPo1Y74ihH4K1WU77g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:51.913" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:importance     "2" ;
+        c:name           "International reactions to the Jyllands-Posten Muhammad cartoons controversy" ;
+        c:originalValue  "International reactions to the Jyllands-Posten Muhammad cartoons controversy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a75947b-da8d-325e-900a-ef18d0936922> .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:importance     "1" ;
+        c:name           "Jyllands-Posten Muhammad cartoons controversy" ;
+        c:originalValue  "Jyllands-Posten Muhammad cartoons controversy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e40d83d7-b745-33e7-8a8d-983bd97f538f> .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:importance     "2" ;
+        c:name           "Quraish" ;
+        c:originalValue  "Quraish" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eb0d9224-ba81-319e-b978-022b770142e9> .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:importance     "2" ;
+        c:name           "Medina" ;
+        c:originalValue  "Medina" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ea6ddea2-e097-3518-9b5a-99131ef3c14c> .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:importance     "1" ;
+        c:name           "Islam" ;
+        c:originalValue  "Islam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a1906a7-789f-31cd-8bd9-993b383e794a> .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:importance     "2" ;
+        c:name           "Abrahamic religions" ;
+        c:originalValue  "Abrahamic religions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0817909a-d9be-3193-8288-dd81b8b54c4d> .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "23f50fb9-18b0-551f-14da-53c736923ab1" ;
+        c:docDate          "2015-05-30 10:31:52.069" ;
+        c:docTitle         "" ;
+        c:document         "US cartoon attack suspect 'named'. US officials reportedly identify one of the gunmen said to have attacked a Texas event on cartoons of the Prophet Muhammad." ;
+        c:id               "http://id.opencalais.com/F4B7gNZJsnBcV7EvzZe6xQ" .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:importance     "2" ;
+        c:name           "Muhammad" ;
+        c:originalValue  "Muhammad" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9e7bf077-1d0e-36da-a15a-6959ce99c4bc> .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:score           "0.931" .
+
+<http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/80ab93d0-5c6e-364d-a3be-0b65035670e7> ;
+        c:importance     "1" ;
+        c:name           "Religion" ;
+        c:originalValue  "Religion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c9f8418-419c-3a9b-92db-f387fc4fb3d7> .

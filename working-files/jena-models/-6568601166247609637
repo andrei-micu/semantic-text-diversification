@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:importance     "1" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:importance     "2" ;
+        c:name           "Diving equipment" ;
+        c:originalValue  "Diving equipment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca206d10-db5e-3448-9ca8-cb58a0bd2206> .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:importance     "1" ;
+        c:name           "Free-diving" ;
+        c:originalValue  "Free-diving" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f10705c1-8e30-332a-9769-ab66c6a4d8b5> .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XDmEC7SPxW3GaETycvin9onVMBw=|SgPTdes54eKOBhYeS1yQXh5JqdUCJlk4hJVLBSMKqVBcfTtjfXF0Zw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:43.505" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:importance     "2" ;
+        c:name           "Diving" ;
+        c:originalValue  "Diving" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/325d9103-3f6f-3584-aefd-9b69647cd2fb> .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d5ee95ab-19bb-6980-14da-54a0e31653ed" ;
+        c:docDate          "2015-05-30 09:46:43.833" ;
+        c:docTitle         "" ;
+        c:document         "Free diving: One giant breath could be your last. Jonathan Sunnex is part of a small group of elite freedivers who plunge hundreds of feet underwater, all on a single breath of air." ;
+        c:id               "http://id.opencalais.com/4S*HDyyQW5TdM*VZLUGqvw" .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:importance     "1" ;
+        c:name           "Underwater diving" ;
+        c:originalValue  "Underwater diving" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f3cbe9e9-62b4-357a-bd73-a34c6d897b12> .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:importance     "2" ;
+        c:name           "Monofin" ;
+        c:originalValue  "Monofin" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/911b407a-0384-3698-a7e6-fa75afc01b02> .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ac8ab246-9954-3bac-8f3f-06184062a525> ;
+        c:importance     "2" ;
+        c:name           "Recreation" ;
+        c:originalValue  "Recreation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7e7e637f-ac27-3e9f-86e5-5e48fa768559> .

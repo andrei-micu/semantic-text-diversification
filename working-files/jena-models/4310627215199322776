@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476> ;
+        c:importance     "1" ;
+        c:name           "Bill Baroni" ;
+        c:originalValue  "Bill Baroni" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8418425-5c9b-3f51-b182-24289c5d2bad> .
+
+<http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476> ;
+        c:score           "0.981" .
+
+<http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "66dd6c5a-3c20-1ada-14da-53d678f760f9" ;
+        c:docDate          "2015-05-30 10:32:54.493" ;
+        c:docTitle         "" ;
+        c:document         "2 With Ties to Christie Plead Not Guilty in Bridge Scandal. Bill Baroni and Bridget Anne Kelly face federal charges that they participated in a conspiracy to disrupt traffic leading to the George Washington Bridge." ;
+        c:id               "http://id.opencalais.com/8Hg5whpR0wuSC*MQW1n6xg" .
+
+<http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|TBUfFSX1B81BiyyGF7pb9RgWHVM=|JIRqHOSKPHVGVqZqo+uyZHUfl4VbEqw/uFTqAKKb8yWkGHGny62enQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:54.415" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476> ;
+        c:importance     "1" ;
+        c:name           "Baroni" ;
+        c:originalValue  "Baroni" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0701b576-e9a2-35d6-9f93-dedc57565cb5> .
+
+<http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5ab410fc-e807-3bd1-8507-8b71fab38476> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .

@@ -1,0 +1,97 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qVguuInupX46zGQcyhiYYZNHMGc=|W113IIcUb0pc9oR3ESrca7CFQ8+QyFw9FAhorDNiSfnxo4Vz7n+StA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:07.063" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:importance     "1" ;
+        c:name           "Jury" ;
+        c:originalValue  "Jury" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a16064a-030b-3f46-836e-5d71424b9296> .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "17bd0d16-798c-37ad-14da-544ebf771d39" ;
+        c:docDate          "2015-05-30 09:41:07.219" ;
+        c:docTitle         "" ;
+        c:document         "Victims Find Solace and Sorrow in Boston Verdict and Are Ready to Move On. Victims and emergency medical workers reacted online and off to the jury decision that Dzhokhar Tsarnaev should get the death penalty for the 2013 attack." ;
+        c:id               "http://id.opencalais.com/i0bosOXehCd9XGjDhpbMjQ" .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:score           "0.990" .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:importance     "1" ;
+        c:name           "Juries in England and Wales" ;
+        c:originalValue  "Juries in England and Wales" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8cdec341-8540-3cc3-b489-05c34e91f632> .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:score           "0.823" .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:importance     "1" ;
+        c:name           "Juries" ;
+        c:originalValue  "Juries" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a361383-133a-38da-87ac-2a57f217a60f> .
+
+<http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/32249577-f8b1-3544-8e7d-392b9506c072> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:importance     "2" ;
+        c:name           "Madonna" ;
+        c:originalValue  "Madonna (entertainer)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e62c4bee-4053-3aa9-bcdc-187797002598> .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5e02f2bf-3e57-0221-14da-54ba183760f9" ;
+        c:docDate          "2015-05-30 10:48:27.145" ;
+        c:docTitle         "" ;
+        c:document         "Single-Named Singers From The Present And Past. Every answer is the name of a famous, one-named singer like Madonna or Beyoncé. Identify each one from its anagram, to which one extra letter is added. The singers are a mix of past and present." ;
+        c:id               "http://id.opencalais.com/EV6eecfnYnSK3vpxQ1MN-A" .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:importance     "2" ;
+        c:name           "Puzzles" ;
+        c:originalValue  "Puzzles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9ffedc08-9cad-346d-ae9d-f01030e1554a> .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:importance     "1" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:importance     "2" ;
+        c:name           "Beyoncé Knowles" ;
+        c:originalValue  "Beyoncé Knowles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d14eaf4f-6d13-31f3-a0d1-c85fde38a4a4> .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:importance     "2" ;
+        c:name           "Word play" ;
+        c:originalValue  "Word play" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a0d307d-fe0c-3a68-8938-0a73e37bda0a> .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|jZSEwd9r1S8v7P4Sl54amy54Uv4=|DN8NU9FsjwaSRKPibhQioH/q2pRAX8bS9YueUcSdA57VaeHxODtXEA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:26.755" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:importance     "1" ;
+        c:name           "Anagram" ;
+        c:originalValue  "Anagram" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/73f15262-ed78-3c24-9198-695c11c66061> .
+
+<http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/42acc3f6-b6a8-3bf8-a095-d0cba028ea50> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .

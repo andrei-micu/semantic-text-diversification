@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:score           "0.918" .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:importance     "2" ;
+        c:name           "Plame affair" ;
+        c:originalValue  "Plame affair" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ee1e20f-f74d-3530-ab84-eb1d4d73ee87> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:importance     "1" ;
+        c:name           "McLean, Virginia" ;
+        c:originalValue  "McLean, Virginia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9ef98a7b-5020-3b1d-9cd4-b5ee2e1adf69> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:importance     "2" ;
+        c:name           "Ronald Montaperto" ;
+        c:originalValue  "Ronald Montaperto" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d05c7984-0045-3c98-a160-cbf39ce61906> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LCq6UwIhJDkG7s7xM0dPv+UXtkE=|b57Aav7XTpFBOha91V7xqSLQRGoRQRq5fr/U51XPS/hxJ/JW41sWqg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:09.613" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:importance     "1" ;
+        c:name           "Spies" ;
+        c:originalValue  "Spies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/41b60bd6-83a4-34b6-82f4-fa41ce51b1b9> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:importance     "2" ;
+        c:name           "Double agents" ;
+        c:originalValue  "Double agents" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b29734b7-2951-314f-a17f-f6d2a5efc958> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "43e16261-2cb8-aee8-14da-54236cd760f9" ;
+        c:docDate          "2015-05-30 10:38:09.754" ;
+        c:docTitle         "" ;
+        c:document         "Ex-CIA officer jailed for leaking. A judge sentences a former CIA officer to three-and-a-half years in prison for revealing classified information." ;
+        c:id               "http://id.opencalais.com/jC*Cc3ml8Nty5u*De6UxqQ" .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:importance     "2" ;
+        c:name           "Year of birth missing" ;
+        c:originalValue  "Year of birth missing (living people)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3412379a-c58d-3f2e-b182-3e92b0b33f05> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:importance     "1" ;
+        c:name           "Central Intelligence Agency" ;
+        c:originalValue  "Central Intelligence Agency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88b59842-0c5c-3226-b94d-4669b14efb20> .
+
+<http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/de434d74-7553-3e7a-9e7d-74aaff103fb6> ;
+        c:importance     "2" ;
+        c:name           "Sharon Scranage" ;
+        c:originalValue  "Sharon Scranage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67c4cc93-9402-3add-a534-db62c74bf80d> .

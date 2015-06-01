@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:importance     "2" ;
+        c:name           "Republics" ;
+        c:originalValue  "Republics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/213d8045-ecb0-3c7d-82b0-cbd1c3bbd7aa> .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:importance     "1" ;
+        c:name           "Nepal" ;
+        c:originalValue  "Nepal" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47cb7fb8-c179-378d-94c8-3ee216a55ec3> .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2ef99d00-262e-84e4-14da-539819532955" ;
+        c:docDate          "2015-05-30 10:28:39.058" ;
+        c:docTitle         "" ;
+        c:document         "Families ripped apart by earthquake. By the time you reach the outskirts of Nepal's capital, even the roads are showing signs of the sheer magnitude of this earthquake -- and the enormity of the task awaiting a country struggling to come to terms with devastation and tragedy." ;
+        c:id               "http://id.opencalais.com/99FmcaoXMIWPrf-i8z5GHw" .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|PxuPoPsaAO2RAIrx53Qb+yZArtA=|adn5Iu+As5q05wT+5fEpcodNKR1hHfcBmyO31Gs8W1OOtvbeW4KV2Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:38.933" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:importance     "1" ;
+        c:name           "Newar" ;
+        c:originalValue  "Newar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7146c404-7aff-395b-a681-c65d5d963b59> .
+
+<http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f1a3495d-6951-39a6-961f-36972ca3283f> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .

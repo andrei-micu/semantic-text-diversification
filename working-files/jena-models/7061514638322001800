@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance     "1" ;
+        c:name           "San Francisco Bay Area" ;
+        c:originalValue  "San Francisco Bay Area" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/034d23a0-b8f1-3776-b283-add77bf68df8> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance     "2" ;
+        c:name           "Silicon Alley" ;
+        c:originalValue  "Silicon Alley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3e548b6-cf38-3cf3-82f4-00b924c2af41> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:score           "0.980" .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance     "2" ;
+        c:name           "Silicon Valley" ;
+        c:originalValue  "Silicon Valley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2937d49f-78a7-3b5a-95fb-f06f634e7b9b> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Gk2X0h5WCy6N/Wha/XjlA1Dncrs=|c+oxtOaZho6tDD1v5jGFB8DRIIcEIK5ly0UnUppPrx6Ez8ultkqpCA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:19.444" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance     "1" ;
+        c:name           "Information Age" ;
+        c:originalValue  "Information Age" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f2efd1-a03d-3fae-b716-51ed252521d6> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance     "2" ;
+        c:name           "Phaedra Ellis-Lamkins" ;
+        c:originalValue  "Phaedra Ellis-Lamkins" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f97a301-3379-36cb-a0dc-d17ee1b26104> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:score           "0.949" .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance     "1" ;
+        c:name           "Geography of California" ;
+        c:originalValue  "Geography of California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/637c5164-c035-34de-88dc-88bc9287ec8f> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance     "2" ;
+        c:name           "Venture capital" ;
+        c:originalValue  "Venture capital" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6c6a267-a115-3674-8e2a-6de4bacd6695> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance     "2" ;
+        c:name           "Santa Clara County, California" ;
+        c:originalValue  "Santa Clara County, California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c4f55ba-ec6f-3ec6-b275-9da2c24466ec> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/a1bfb229-cbe2-3713-9520-0ecabebfabfa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a7ec4d39-b501-91c2-14da-54431f41df07" ;
+        c:docDate          "2015-05-30 09:40:19.678" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Silicon Valley attracting women. New programmes and social media are focused on training more women to become leaders in technology." ;
+        c:id               "http://id.opencalais.com/D7ZZZHs9w9s-H9FXFXKWiw" .

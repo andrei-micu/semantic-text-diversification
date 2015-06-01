@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:score           "0.676" .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:importance     "1" ;
+        c:name           "Politics of Iraq" ;
+        c:originalValue  "Politics of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b2a147ea-ee41-3c0a-a7e3-4ef16e7d271c> .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Anwc44raDzIvhPu34iXO6I4PuIg=|bZRBM7KaLGL0GMRAHgmt4HRwqyo0mXl9IhMeUzj9BA12PstE/jAj6g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:37.074" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1785598a-23e7-8bf0-14da-54735f2760f9" ;
+        c:docDate          "2015-05-30 10:43:37.292" ;
+        c:docTitle         "" ;
+        c:document         "U.S. to Send Rockets to Iraq for ISIS Fight. Obama officials have called the fall of Ramadi a huge setback, but have sought to quell critics in the region with the deployment of weapons, which are expected to arrive in early June." ;
+        c:id               "http://id.opencalais.com/v-zyX3ywEl3j3ZDg25ikrw" .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:score           "0.926" .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:importance     "2" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:importance     "1" ;
+        c:name           "Iraq War" ;
+        c:originalValue  "Iraq War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30f6b3bb-177a-3ed7-89cb-1f573d732616> .
+
+<http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9da31c9e-24ce-3ae7-a943-aba521fc906f> ;
+        c:importance     "2" ;
+        c:name           "Battle of Ramadi" ;
+        c:originalValue  "Battle of Ramadi (2006)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9001f61-aa79-388b-8978-f0fdb88b3bdc> .

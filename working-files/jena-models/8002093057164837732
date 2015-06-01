@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1835b729-f107-d75a-14da-53d56bb49095" ;
+        c:docDate          "2015-05-30 10:32:50.294" ;
+        c:docTitle         "" ;
+        c:document         "Dean Skelos, New York Senate Leader, and Son Are Arrested on Corruption Charges. Mr. Skelos, 67, and his son, Adam B. Skelos, 32, are scheduled to appear in United States District Court in Manhattan to face complaints of conspiracy, extortion and bribe solicitation." ;
+        c:id               "http://id.opencalais.com/tqPl0Q5QK5Y*pAjy49kpMg" .
+
+<http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f> ;
+        c:importance     "1" ;
+        c:name           "Dean Skelos" ;
+        c:originalValue  "Dean Skelos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/998d3bd4-e411-3218-891e-225f0a552191> .
+
+<http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f> ;
+        c:importance     "2" ;
+        c:name           "New York" ;
+        c:originalValue  "New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/461159b1-6be8-3031-b1dd-039ee48ba761> .
+
+<http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f> ;
+        c:importance     "1" ;
+        c:name           "New York State Senate" ;
+        c:originalValue  "New York State Senate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d7a8851-1412-3f19-953f-1f28ff7aa770> .
+
+<http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yvCupkZ6PGz6KSI3AbNFpgsA31c=|QXMZUW6ENjVRk05SM53f/qcqZUl+IJNTvqhXLWoYMhF7H6eJgeZ9bQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:50.107" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f> ;
+        c:importance     "2" ;
+        c:name           "Roy Simon" ;
+        c:originalValue  "Roy Simon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba79b8da-846e-3994-a49c-38e5bb2c7563> .
+
+<http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/78ca69d8-a823-3008-8eb2-e14ebc6f5a9f> ;
+        c:importance     "1" ;
+        c:name           "State governments of the United States" ;
+        c:originalValue  "State governments of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf4c3516-1d6d-3066-8fe6-5658d2ac1df9> .

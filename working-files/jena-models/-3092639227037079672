@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:importance     "1" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:importance     "2" ;
+        c:name           "United Kingdom general election" ;
+        c:originalValue  "United Kingdom general election, 2010" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/55e1262b-4af7-3bb0-90cf-b555b4004580> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United Kingdom" ;
+        c:originalValue  "Politics of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afa7f5e7-5618-3463-aa66-5a83f5de101f> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:importance     "2" ;
+        c:name           "Prime Minister of the United Kingdom" ;
+        c:originalValue  "Prime Minister of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f2215ce2-888d-347e-9ff5-2f019e559fd2> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:importance     "2" ;
+        c:name           "David Cameron" ;
+        c:originalValue  "David Cameron" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2f7fa478-7c94-3470-9d1a-a5bc838c6f8b> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:importance     "2" ;
+        c:name           "Nick Clegg" ;
+        c:originalValue  "Nick Clegg" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2e1bbf3-4d8a-38ba-bcdd-c044def3ed93> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yYiNUHxcT3EqwOMD+Td32wer9sI=|HWKXvvBnS/C91Mtc06kaRSA2rDVIq4AwU5EmtJ3Of8qRlZeZqBLqew==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:41.881" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:importance     "2" ;
+        c:name           "Exit poll" ;
+        c:originalValue  "Exit poll" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/757c34df-ac94-31ef-82f1-c44195fb7c05> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d> ;
+        c:importance     "2" ;
+        c:name           "Conservative Party" ;
+        c:originalValue  "Conservative Party (UK)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2e250358-8f97-367d-993c-16cf7490c572> .
+
+<http://d.opencalais.com/dochash-1/f599061e-bac3-33a1-8b3d-ce0df53fe99d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "26d186de-8388-3684-14da-53f0b5949095" ;
+        c:docDate          "2015-05-30 10:34:42.022" ;
+        c:docTitle         "" ;
+        c:document         "UK's Cameron on track to return to power as PM: exit poll. LONDON (Reuters) - Prime Minister David Cameron's Conservatives are on track to govern Britain for another five years even though they are likely to fall just short of an outright majority at Thursday's election, an exit poll showed." ;
+        c:id               "http://id.opencalais.com/80EazrrGOJoKRhrRdNB9bA" .

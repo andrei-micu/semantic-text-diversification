@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|mAUm2j5vDWL5RKMvNBJhqXoSjPE=|CJehpMKcvxUdUqqn3y+RzcyOpmFCr0jU3yISclYU5m0eBU5aQSjJAA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:23.191" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:importance     "1" ;
+        c:name           "Okinawa Prefecture" ;
+        c:originalValue  "Okinawa Prefecture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/671b3cc4-971f-3272-9579-afb88e54c171> .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:importance     "2" ;
+        c:name           "Battle of Okinawa" ;
+        c:originalValue  "Battle of Okinawa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0375ae5d-0f6f-3974-bf86-84b2ca85229f> .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:importance     "2" ;
+        c:name           "Okinawa Island" ;
+        c:originalValue  "Okinawa Island" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dee5ff8a-682e-322b-a759-461f78519d21> .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "eceb6a67-70b3-657a-14da-53a2e77760f9" ;
+        c:docDate          "2015-05-30 10:29:23.409" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: Okinawa protest over new US air base. In Japan, Okinawa residents are fighting against the construction of two new runways for a US military base" ;
+        c:id               "http://id.opencalais.com/OG997nXqBRb*e6mxSnqctA" .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:importance     "1" ;
+        c:name           "Japanâ€“United States relations" ;
+        c:originalValue  "Japanâ€“United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8624635e-b88c-30d1-a01d-509ea143cc75> .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:importance     "1" ;
+        c:name           "Japan–United States relations" ;
+        c:originalValue  "Japan–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/278463a3-f9af-3805-ab89-aab1492cbdc9> .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:importance     "2" ;
+        c:name           "Marine Corps Air Station Futenma" ;
+        c:originalValue  "Marine Corps Air Station Futenma" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a63cb5e-4f6e-3bf4-b769-10361ad367dd> .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:score           "0.922" .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:importance     "2" ;
+        c:name           "World War II" ;
+        c:originalValue  "World War II" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/855f2587-a479-392b-9fc1-befbc21f0cb2> .
+
+<http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4fb8eced-d4e5-3617-8829-e7a76565c308> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

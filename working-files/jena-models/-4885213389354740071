@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4dbf1030-69c5-3897-afd4-7007f20e9585/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4dbf1030-69c5-3897-afd4-7007f20e9585> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|OKc7rf89XlqWMf+2ZH67gZwiL8I=|Blv1eGZ/JMTMIxf9fjf4xt1tt70YRgSKrNslKN4UmswoHpqBM3Xfxg==" ;
+        c:submissionDate  "2015-05-30 09:42:13.881" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4dbf1030-69c5-3897-afd4-7007f20e9585/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4dbf1030-69c5-3897-afd4-7007f20e9585> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/4dbf1030-69c5-3897-afd4-7007f20e9585>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "463d710b-7814-af96-14da-545f0f9653ed" ;
+        c:docDate          "2015-05-30 09:42:13.943" ;
+        c:docTitle         "" ;
+        c:document         "Frequent tanner shares grisly skin-cancer selfie . " ;
+        c:id               "http://id.opencalais.com/dj07xkKDwLlEBwaOAvZtIg" .

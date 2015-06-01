@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d3756839-7f4b-25e3-14da-53f64ae35464" ;
+        c:docDate          "2015-05-30 10:35:04.891" ;
+        c:docTitle         "" ;
+        c:document         "White House fence getting sharper spikes in security upgrade. WASHINGTON (Reuters) - The black iron fence surrounding the White House will be topped with a row of \"sharp metal points\" in July, the U.S. Secret Service said on Thursday, part of a series of security upgrades for the famous mansion where the president and his family live." ;
+        c:id               "http://id.opencalais.com/k0*OTGBtVFGC3wxq3hbUdw" .
+
+<http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c> ;
+        c:importance     "1" ;
+        c:name           "Security" ;
+        c:originalValue  "Security" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd019530-4657-395e-8b9a-157fc3213d61> .
+
+<http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c> ;
+        c:importance     "1" ;
+        c:name           "Fences" ;
+        c:originalValue  "Fences" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2aeae35f-8279-3867-8765-5641c6295610> .
+
+<http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/579977bb-36db-3f0a-b26e-d50154380c5c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|tz9jzq5giG8y20AXuFQ2f2qxkLc=|PrAPFuRnpv7aDbJ1Gj4KvvnyPAQkLBK83EgXzrrrERCuC7n9r+Twfw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:04.750" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

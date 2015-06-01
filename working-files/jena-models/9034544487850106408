@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance     "2" ;
+        c:name           "Cryozoa" ;
+        c:originalValue  "Cryozoa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a282cf96-01ba-3b49-8302-ed3e32ee5261> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance     "2" ;
+        c:name           "Mr. Peepers" ;
+        c:originalValue  "Mr. Peepers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ec7d9e7f-b54c-33fd-8eed-2d23afa4ae3a> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:score           "0.866" .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance     "2" ;
+        c:name           "Spring Peeper" ;
+        c:originalValue  "Spring Peeper" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2f2941e0-c2ec-3be4-afcd-55daf032b0b9> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|WtOJMgGOB+AmZfKjcYDHcuWHROA=|KYf1LsAr4loTk+Vh2NFVSvR0Ky8BWJo7rphSSAW0J9DLLAC7quyaUA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:00.916" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance     "1" ;
+        c:name           "Amphibian" ;
+        c:originalValue  "Amphibian" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3baeccac-b4c7-366d-8df5-e9ec641a4499> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance     "2" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance     "2" ;
+        c:name           "Comics" ;
+        c:originalValue  "Comics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/938baa31-4207-3ab2-a934-e29b3cd1e3a8> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance     "1" ;
+        c:name           "Peepers" ;
+        c:originalValue  "Peepers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/97490adb-0e9e-366f-b18b-1050fc4d169a> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance     "2" ;
+        c:name           "Litoria" ;
+        c:originalValue  "Litoria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8efc31d-ff01-3a07-a8ba-9967329bb11c> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:score           "0.914" .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "87d61bb7-7b0d-6bfb-14da-539d7744551f" ;
+        c:docDate          "2015-05-30 09:29:01.228" ;
+        c:docTitle         "" ;
+        c:document         "At Long Last, It's The Peepers Big Night. Before frogs can start singing in the spring, a massive migration of millions of amphibians has to take place first." ;
+        c:id               "http://id.opencalais.com/IawdOKlHWGWMBfMD9hcSxg" .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance     "1" ;
+        c:name           "Frog" ;
+        c:originalValue  "Frog" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43a4f866-7f2f-3de2-8288-4e1bd6a915ba> .
+
+<http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/174f2510-a01a-3d0d-889c-dc6abe342405> ;
+        c:importance     "2" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .

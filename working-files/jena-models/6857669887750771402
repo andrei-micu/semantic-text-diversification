@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:importance     "2" ;
+        c:name           "Rubio" ;
+        c:originalValue  "Rubio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a2afb74b-a2e5-3f24-ae24-0d2997ac29f2> .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5b8c034f-a00a-6bb2-14da-5487ec149095" ;
+        c:docDate          "2015-05-30 10:45:01.374" ;
+        c:docTitle         "" ;
+        c:document         "Prospect of Hillary Clinton-Marco Rubio Matchup Unnerves Democrats. They are worried that Mr. Rubio, a son of Cuban immigrants, could win over Hispanic voters and that he would offer a sharp generational contrast." ;
+        c:id               "http://id.opencalais.com/Ta7P0wkfLrkeC-rJeVlhgw" .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:importance     "1" ;
+        c:name           "Tea Party movement" ;
+        c:originalValue  "Tea Party movement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9b860ec4-6617-309b-8243-4fafba157a42> .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|+LTVwI/0VPVh6KT7zcPab4v5xlo=|iLZyB+bFEmmR0r9dgg26zdzUXTRl4OB7ziZ5QLeXwANwbyUUKS1WMA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:01.249" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:importance     "2" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:importance     "1" ;
+        c:name           "Marco Rubio" ;
+        c:originalValue  "Marco Rubio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d2753cfa-ca8d-38e7-8374-bfa1ae636fb1> .
+
+<http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd738546-d99f-399e-b42c-d5c5da3e0162> ;
+        c:importance     "2" ;
+        c:name           "Democratic Party" ;
+        c:originalValue  "Democratic Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c1bcf03d-a054-3fa0-b622-75311bdd1bea> .

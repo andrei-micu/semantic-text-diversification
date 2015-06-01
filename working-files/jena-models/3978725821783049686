@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/184d2a76-8260-3126-9ada-1f227c32dd43/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/184d2a76-8260-3126-9ada-1f227c32dd43> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/184d2a76-8260-3126-9ada-1f227c32dd43/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/184d2a76-8260-3126-9ada-1f227c32dd43> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|u1O3XzhgrSEdbDM2AXTv/+KIO54=|iow4GILO9m0KqlzTVuFLLb5oQZiUbJTTM69pjpjc5s+PxspehMSACA==" ;
+        c:submissionDate  "2015-05-30 10:49:35.578" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/184d2a76-8260-3126-9ada-1f227c32dd43>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b7d11348-496f-5e4a-14da-54cae5a32955" ;
+        c:docDate          "2015-05-30 10:49:35.640" ;
+        c:docTitle         "" ;
+        c:document         "Does this moon have life on it?. " ;
+        c:id               "http://id.opencalais.com/MOIK0HEZdbpAEklB0sf-Cw" .

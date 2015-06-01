@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8TVCnRTB7r8pv5ZgnvsLrr/ZvYU=|Cr/cMh7oN09b/01MHIpmbcicOaQQ2W0j85iiscR82dz5qYlJNjGPJQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:25.163" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081> ;
+        c:importance     "1" ;
+        c:name           "National Football League" ;
+        c:originalValue  "National Football League" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/911c58d3-69ff-36bb-8448-54ede0a84d89> .
+
+<http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "648a46a4-d742-b7a0-14da-54b9b4b760f9" ;
+        c:docDate          "2015-05-30 10:48:25.273" ;
+        c:docTitle         "" ;
+        c:document         "NFL Aims To Spice Up Games With Tweak To Extra Point Rules. An NFL rule change has been called \"the biggest change to NFL scoring in the league's 95 year history.\" NPR's Rachel Martin talks to Mike Pesca, of Slate's \"The Gist\" podcast, about what it means for the game." ;
+        c:id               "http://id.opencalais.com/-0y5szOyiZem1AYzrik6LQ" .
+
+<http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081> ;
+        c:importance     "1" ;
+        c:name           "Mike Pesca" ;
+        c:originalValue  "Mike Pesca" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b1feb4f5-25ae-39df-bb62-6311845c2311> .
+
+<http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9a0ae16a-3ba7-355c-904f-22002e9aa081> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

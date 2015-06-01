@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:importance     "1" ;
+        c:name           "Diet sodas" ;
+        c:originalValue  "Diet sodas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8e127b47-e30e-3f0c-ba48-b8f422dd366e> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:importance     "2" ;
+        c:name           "Stevia" ;
+        c:originalValue  "Stevia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7637b5b0-61b2-3f12-81b2-1a2dbda938fc> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:importance     "1" ;
+        c:name           "Cola" ;
+        c:originalValue  "Cola" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f39f9cb7-020d-3e5a-a055-bf8beafced85> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:importance     "2" ;
+        c:name           "Sugar substitute" ;
+        c:originalValue  "Sugar substitute" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3d9416a6-6d2f-384a-91c4-d8713e5cf30c> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:importance     "2" ;
+        c:name           "Sweeteners" ;
+        c:originalValue  "Sweeteners" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/553dda69-448d-3329-8ab0-3922009f1de9> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:importance     "2" ;
+        c:name           "Pepsi Max" ;
+        c:originalValue  "Pepsi Max (North America)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b503d310-e7aa-33f4-9521-bee3c8b4d2eb> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "36285e8e-a1c7-4e8b-14da-538d57a719b3" ;
+        c:docDate          "2015-05-30 10:27:55.108" ;
+        c:docTitle         "" ;
+        c:document         "Pepsi to ditch artificial sweetener. A controversial artificial sweetener is being removed from Diet Pepsi in the US following consumer concerns about its safety." ;
+        c:id               "http://id.opencalais.com/-PKUbYz2tyHpdTKcST59IQ" .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ULe/YWiUcaNrGfloeXXp8d9j5f4=|QlWQ+imypXcdePpdBAW0bmWk9nIRYsGeHpvqxP3pyN/x1xXDGCvyEw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:54.874" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:importance     "2" ;
+        c:name           "Pepsi" ;
+        c:originalValue  "Pepsi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/af80e925-7e49-3be9-9b94-b72fb1300c1f> .
+
+<http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d879e5d2-aba6-39a6-b9b1-34e3c49f88ce> ;
+        c:importance     "2" ;
+        c:name           "Diet Pepsi" ;
+        c:originalValue  "Diet Pepsi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd553055-ad1e-3036-bcb6-8993d00a48fb> .

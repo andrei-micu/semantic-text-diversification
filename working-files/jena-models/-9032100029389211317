@@ -1,0 +1,105 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b2fbea3f-23af-3335-14da-54493e11df07" ;
+        c:docDate          "2015-05-30 09:40:44.825" ;
+        c:docTitle         "" ;
+        c:document         "What's behind Jay Z and Beyonce's charity?. Music's first family, Mr. and Mrs. Shawn \"Jay Z\" Carter — that is Jay Z and Beyonce -- have been on quite the philanthropic streak, blurring the distinction between entertainer and saint." ;
+        c:id               "http://id.opencalais.com/im9osRxGfCgs3RG7HKJ2kg" .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:importance     "2" ;
+        c:name           "Hip hop" ;
+        c:originalValue  "Hip hop" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e8f499d-f97b-3193-923a-1f258a30e636> .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:importance     "1" ;
+        c:name           "Amil" ;
+        c:originalValue  "Amil (rapper)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d62fa3f7-2b6b-3854-a560-d402f781e15a> .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:score           "0.988" .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|D40Y+wCqGBXRS2/YQHOGZv6XGng=|IBakQfjlFWha9W6cb1Xzgn/klYNaQBfguXvPi1lyhklmZHP352yhqw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:44.513" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:importance     "1" ;
+        c:name           "Jay-Z" ;
+        c:originalValue  "Jay-Z" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/19a287c7-846c-31ef-9529-31369d9cd189> .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/92292777-5f50-3973-be96-24d4b087d31c> ;
+        c:score           "1.000" .

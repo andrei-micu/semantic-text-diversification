@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:importance     "2" ;
+        c:name           "Controversies" ;
+        c:originalValue  "Controversies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/03af420c-1fd2-3700-94b3-a5abd9ae6934> .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:importance     "1" ;
+        c:name           "Outdoor education" ;
+        c:originalValue  "Outdoor education" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/39d6db5c-568d-3155-a79a-652d12d65f53> .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:importance     "2" ;
+        c:name           "Boy Scouts of America v. Dale" ;
+        c:originalValue  "Boy Scouts of America v. Dale" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a190d0e7-a47d-306a-b955-b635533c1269> .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:importance     "1" ;
+        c:name           "Youth" ;
+        c:originalValue  "Youth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9bb40953-4a01-368d-9786-be3cf7a70ff2> .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:score           "0.921" .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e2cdc369-2349-0e8b-14da-547c90e4551f" ;
+        c:docDate          "2015-05-30 09:44:14.859" ;
+        c:docTitle         "" ;
+        c:document         "Boy Scouts' gay ban 'unsustainable'. The head of the Boy Scouts of America says defiant chapters and possible legal challenges should give organisation pause." ;
+        c:id               "http://id.opencalais.com/gkGj5NnFSYc-e0C2O63k1g" .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:importance     "1" ;
+        c:name           "Scouting" ;
+        c:originalValue  "Scouting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4e77ef1-7a09-3d9c-8aa0-8f4e346b2c7b> .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cd55af53-2785-3a72-b50f-3e0391ab83ef> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|uMMd5W6u9Zm36iexRO+wyTjPA0Q=|PgMdqdV6N7oYQToaDiTiGjxGMe8+r6uIsyERbfTuIBUgEmUHCbxAlw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:14.734" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b> ;
+        c:score           "0.561" .
+
+<http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b> ;
+        c:importance     "1" ;
+        c:name           "Publishing" ;
+        c:originalValue  "Publishing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ba7b8fb-0e34-3daf-8c13-5d12b195640a> .
+
+<http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "17a1604e-9f46-f864-14da-53f67ca49095" ;
+        c:docDate          "2015-05-30 10:35:05.718" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: New Yorker writer who stopped writing. Why did a renowned writer stop publishing for 30 years?" ;
+        c:id               "http://id.opencalais.com/4L9kuJE78hfmp9rDAf5bew" .
+
+<http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b> ;
+        c:importance     "2" ;
+        c:name           "David Owen" ;
+        c:originalValue  "David Owen (author)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd7b0ddd-0dc8-3da2-af88-596fbf8d8d1f> .
+
+<http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|a9nTdk7Y204QOUfY2H0osT37b7Q=|kTGEfb65RIY0eZ1kpqVfTTB6Bk9DvOUBi6Ju3rF0tTmfNIvG9SM1zA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:05.546" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b> ;
+        c:importance     "1" ;
+        c:name           "Investigative journalism" ;
+        c:originalValue  "Investigative journalism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5eab423b-e753-3645-a164-6fc6d6d64684> .
+
+<http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b> ;
+        c:importance     "1" ;
+        c:name           "The New Yorker" ;
+        c:originalValue  "The New Yorker" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0f8400bc-fffd-3677-9146-33bbe280ccf7> .
+
+<http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b> ;
+        c:importance     "2" ;
+        c:name           "Lis Harris" ;
+        c:originalValue  "Lis Harris" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/09cacd83-2ba4-35b0-b7cc-2c64984697db> .
+
+<http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/84230ad7-c6a9-3d0d-be29-e8fdb13e4f3b> ;
+        c:importance     "2" ;
+        c:name           "Media in New York City" ;
+        c:originalValue  "Media in New York City" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/39a87184-0a5c-33ae-a74c-9efd7c7db957> .

@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763> ;
+        c:importance     "1" ;
+        c:name           "Israeli–Palestinian conflict" ;
+        c:originalValue  "Israeli–Palestinian conflict" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c8d6379-5fe6-32ad-a436-54853b946455> .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763> ;
+        c:importance     "1" ;
+        c:name           "Gunman Chronicles" ;
+        c:originalValue  "Gunman Chronicles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0d745d5-5acf-3fe5-a286-0ae61ba7354a> .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763> ;
+        c:importance     "2" ;
+        c:name           "Mexican Drug War" ;
+        c:originalValue  "Mexican Drug War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3ccf31ec-6316-3d1b-afad-1956fa1c685b> .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|zB3A0KrRuc+zAYa3p+GjVpwofAk=|SlWfZQZsO6BrrXX80rKEzVhsItlznF/AcMjTK8NJhvnhrNASUMCKDA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:50.078" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763> ;
+        c:importance     "2" ;
+        c:name           "Digital media" ;
+        c:originalValue  "Digital media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/771e4d9a-b0cd-37a2-bec6-6840c4cafab3> .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763> ;
+        c:importance     "1" ;
+        c:name           "Games" ;
+        c:originalValue  "Games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9105f47f-e9e6-3839-8cf4-9c5d7106eec7> .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7f9db559-56e0-3b4b-14da-53d569e760f9" ;
+        c:docDate          "2015-05-30 10:32:50.343" ;
+        c:docTitle         "" ;
+        c:document         "Two Gunmen Killed at Anti-Islam Exhibit Are Identified. A law enforcement official said Elton Simpson of Phoenix was one of two gunmen killed after opening fire at an exhibit in Garland, Tex. Officials later identified the second gunman as Nadir Soofi." ;
+        c:id               "http://id.opencalais.com/bnkXuRIpMkLL8UMdXsNzSw" .
+
+<http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/da6e92bf-42c8-3772-b438-ecf681901763> ;
+        c:importance     "2" ;
+        c:name           "Software" ;
+        c:originalValue  "Software" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16293516-a848-3162-8f98-a310581b027d> .

@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7> ;
+        c:importance     "1" ;
+        c:name           "Christianity" ;
+        c:originalValue  "Christianity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/20b1bcbb-ca9a-3aaf-b1e7-02cf6c770dc5> .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7> ;
+        c:score           "0.784" .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7> ;
+        c:importance     "2" ;
+        c:name           "Lamb" ;
+        c:originalValue  "Lamb" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d58fcde8-727b-3674-a903-6b7b2116b3a0> .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7> ;
+        c:importance     "1" ;
+        c:name           "Zoology" ;
+        c:originalValue  "Zoology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/760fa253-dda4-3531-a103-d62b70aa87c8> .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7> ;
+        c:importance     "2" ;
+        c:name           "Islam in the United States" ;
+        c:originalValue  "Islam in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/999fa441-4b19-3fae-bf99-523beab9f56c> .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ef8280ab-8e3f-1a61-14da-543074323ab1" ;
+        c:docDate          "2015-05-30 10:39:03.151" ;
+        c:docTitle         "" ;
+        c:document         "Sheep Ranchers Count On American Muslims To Keep Lamb On Menu. Today, the average American eats about a half pound of lamb per year. Now lamb producers are setting their sights on Muslim consumers. But first they'll have to learn how to market to them." ;
+        c:id               "http://id.opencalais.com/WFU1ve3QNyRSWqXE6QV2YA" .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7> ;
+        c:importance     "1" ;
+        c:name           "Sheep" ;
+        c:originalValue  "Sheep" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e577f27-0a6d-358f-b45f-e9c0aeeb78be> .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|z57tcsf7bvKMdS58TP0qMlL1hvs=|Gs75hRIGWO8u4animgBg6Fb0R9NGpgvfcZx+L/QO707hLLsqEgVJaA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:02.979" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58ed470c-45ce-314f-a7cd-d96d7e9c11d7> ;
+        c:importance     "2" ;
+        c:name           "Catholicism" ;
+        c:originalValue  "Catholicism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/000e08c8-92dd-3222-ae97-af640471150d> .

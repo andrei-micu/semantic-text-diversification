@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance     "2" ;
+        c:name           "Prime minister" ;
+        c:originalValue  "Prime minister" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3533b12-2cb3-32ed-9e6e-5c7e784e67f7> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance     "1" ;
+        c:name           "Japan" ;
+        c:originalValue  "Japan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd3d7d8f-03ee-3f69-bf0f-56673e4fae3e> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance     "2" ;
+        c:name           "Anti-Japanese sentiment in China" ;
+        c:originalValue  "Anti-Japanese sentiment in China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/99ca1b04-3349-3a8a-8508-0c6044cd8617> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance     "1" ;
+        c:name           "Politics of Japan" ;
+        c:originalValue  "Politics of Japan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3cfdcab5-f022-31db-927f-34901a0f2a38> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gj0gY33abNZHqdtwNsfM1Acq9gw=|Ne3CMhRvB7bxjzHm8WM4O7akEVUNbYtsf3Mpv7RbLHh6nq40mFikJA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:42.887" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance     "2" ;
+        c:name           "Japanese war crimes" ;
+        c:originalValue  "Japanese war crimes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d9683841-51c1-34f6-a46e-ee16aaf97594> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance     "2" ;
+        c:name           "Abe" ;
+        c:originalValue  "Abe (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/76d50f01-cd68-3811-8a03-5fe1322a3827> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance     "2" ;
+        c:name           "Controversies surrounding Yasukuni Shrine" ;
+        c:originalValue  "Controversies surrounding Yasukuni Shrine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/74cf4d50-3468-3527-ba41-caa5de7fb899> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1910d4f1-2dc8-839d-14da-538a6971df07" ;
+        c:docDate          "2015-05-30 09:27:43.090" ;
+        c:docTitle         "" ;
+        c:document         "Japan's Prime Minister Makes Historic Address To Congress. Japanese Prime Minister Shinzo Abe laid out his vision of increasing ties with the U.S., and expressed his remorse over Japan's wartime atrocities." ;
+        c:id               "http://id.opencalais.com/qaGDV*5cuVTCBqSmZ5975Q" .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance     "1" ;
+        c:name           "Shinzō Abe" ;
+        c:originalValue  "Shinzō Abe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d1ab934-0b32-36a1-b6e8-dd91b479ff45> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance     "2" ;
+        c:name           "Anti-Japanese sentiment in Korea" ;
+        c:originalValue  "Anti-Japanese sentiment in Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/351f367f-d09c-3be4-a9c7-2d5ace264256> .
+
+<http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1cec4bcf-026a-38cf-a1f9-7e23819c8e8e> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

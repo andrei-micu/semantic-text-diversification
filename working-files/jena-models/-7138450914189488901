@@ -1,0 +1,60 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "32fdabc8-843b-75a7-14da-54cb5051927e" ;
+        c:docDate          "2015-05-30 10:49:37.550" ;
+        c:docTitle         "" ;
+        c:document         "'High Profits': Pot vs. alcohol. As more states legalize medical and even recreational marijuana, more communities are being forced to ask a key question about pot: how bad is it, really? Even the President has weighed in:" ;
+        c:id               "http://id.opencalais.com/mWza7fBi4JfsKyMMouSt6g" .
+
+<http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35> ;
+        c:importance     "1" ;
+        c:name           "Cannabis" ;
+        c:originalValue  "Cannabis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0408b99-6c30-3a92-b818-7e4de9a9f531> .
+
+<http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35> ;
+        c:importance     "1" ;
+        c:name           "Cannabis laws" ;
+        c:originalValue  "Cannabis laws" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cf48bbc-182b-3ba4-a695-69e9d8ea8ed6> .
+
+<http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35> ;
+        c:importance     "2" ;
+        c:name           "Decriminalization of non-medical cannabis in the United States" ;
+        c:originalValue  "Decriminalization of non-medical cannabis in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/153455b7-7ac1-3e21-9006-682f33886953> .
+
+<http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35> ;
+        c:importance     "1" ;
+        c:name           "Cannabis in the United States" ;
+        c:originalValue  "Cannabis in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e746142b-fa57-3f39-bf0b-4bf3cbb62e39> .
+
+<http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1df48b75-245d-3aea-9418-73b79f64af35> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|TS2u/IEH2eihEoS+I7RMQi6va4o=|MOI3pwJAhbHHCAcfI/fUYX91aJMz7I1BoaDLtC3tR+0YA3aR7Okx9A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:37.285" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

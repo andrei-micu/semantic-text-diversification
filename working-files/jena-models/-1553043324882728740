@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba> ;
+        c:importance     "1" ;
+        c:name           "Fertile Crescent" ;
+        c:originalValue  "Fertile Crescent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5435af2d-c03d-3907-8586-8f38ab6b08eb> .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba> ;
+        c:importance     "2" ;
+        c:name           "Beirut" ;
+        c:originalValue  "Beirut" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee3de2da-1cda-35e7-bb05-1b00164368a0> .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "47b3bd42-4d89-c57a-14da-547c72e653ed" ;
+        c:docDate          "2015-05-30 09:44:14.504" ;
+        c:docTitle         "" ;
+        c:document         "Islamic State enters ruins of Syria's Palmyra: monitor. BEIRUT (Reuters) - Islamic State fighters in Syria have entered the ancient ruins of Palmyra after taking complete control of the central city but there are no reports so far of any destruction of antiquities, a group monitoring the war said on Thursday." ;
+        c:id               "http://id.opencalais.com/844lbw01eyeqaVmRn*ZRtA" .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba> ;
+        c:importance     "1" ;
+        c:name           "Palmyra" ;
+        c:originalValue  "Palmyra" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/285d8837-5179-35bf-b053-a498cf4e432d> .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YZhBpenMzajhjDryoIfguLn6Ags=|FA1HUaeDmtL80DzlUDJHnrv/+ZACm99AwwAIZGbp9Ac7zZ9aBiHjRA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:14.254" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba> ;
+        c:importance     "2" ;
+        c:name           "Ruins" ;
+        c:originalValue  "Ruins" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/458fbe64-94e1-3d11-8bd0-8bd1a3e52fda> .
+
+<http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5407314a-476d-392f-a336-da48f7ad52ba> ;
+        c:importance     "2" ;
+        c:name           "Syria" ;
+        c:originalValue  "Syria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34e250e7-a386-38cf-8d7b-6b45399ed952> .

@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/66f44d19-6590-317e-93da-b240b27b2f74>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "34786592-4d33-fb13-14da-5488eb21927e" ;
+        c:docDate          "2015-05-30 10:45:05.408" ;
+        c:docTitle         "" ;
+        c:document         "Who's speaking this year?. " ;
+        c:id               "http://id.opencalais.com/h5zBBeN6Jykcsl04Y5c72Q" .
+
+<http://d.opencalais.com/dochash-1/66f44d19-6590-317e-93da-b240b27b2f74/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/66f44d19-6590-317e-93da-b240b27b2f74> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/66f44d19-6590-317e-93da-b240b27b2f74/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/66f44d19-6590-317e-93da-b240b27b2f74> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8N/UHUEwn/z14LoYeUXu4UKAhgY=|QiSpZRaox/SU4dt/lu71IXh1gIMELDYJeNaKALzykxtRjYVLTHsuLg==" ;
+        c:submissionDate  "2015-05-30 10:45:05.330" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

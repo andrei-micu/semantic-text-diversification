@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:importance     "1" ;
+        c:name           "Gun control" ;
+        c:originalValue  "Gun control" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c0d0c52b-6d3f-315e-9bba-6e389f475215> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:importance     "2" ;
+        c:name           "School shooting" ;
+        c:originalValue  "School shooting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d51030d-eda5-3cda-928e-50c0f7b4cf20> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "91047fe5-12d3-086f-14da-539fa4334709" ;
+        c:docDate          "2015-05-30 09:29:10.154" ;
+        c:docTitle         "" ;
+        c:document         "Have Mass Shootings Led To More Gun Control?. After the mass shootings in Aurora and Newtown, many family members of victims made an emotional pleas for stricter gun control." ;
+        c:id               "http://id.opencalais.com/y9-v*2vzxKkkvQVQNstrpA" .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:importance     "2" ;
+        c:name           "Destruction" ;
+        c:originalValue  "Destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d4c4ad2e-04c1-3837-b14c-8b5f3a293bec> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:score           "0.938" .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:importance     "1" ;
+        c:name           "Murder" ;
+        c:originalValue  "Murder" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4442334b-792e-34c3-9fb9-ebc855c20658> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:importance     "1" ;
+        c:name           "Firearms" ;
+        c:originalValue  "Firearms" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d9434ae5-5bc3-3b05-bb24-8fa45d1a6d6f> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:importance     "2" ;
+        c:name           "École Polytechnique massacre" ;
+        c:originalValue  "École Polytechnique massacre" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcf33226-56c4-37de-8fad-87ed426865fe> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|EWURWPDIoqtPNRFDHx7UbQsME+8=|YhrFv5ZoorMNwOWTSZfAi7ST1YwHdzs5iFUzklETwqgacGfWww5MhA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:09.827" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:importance     "2" ;
+        c:name           "Gun politics in the United States" ;
+        c:originalValue  "Gun politics in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0fbdfc71-1ab1-33ff-a21a-7e0b13efb211> .
+
+<http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/318842b8-704b-38b4-818e-764af30696fa> ;
+        c:score           "0.998" .

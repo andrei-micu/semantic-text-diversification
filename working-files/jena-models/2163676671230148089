@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance     "1" ;
+        c:name           "Earthquakes" ;
+        c:originalValue  "2011 earthquakes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb2159cc-7945-3b7b-b917-9c03b5901009> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance     "2" ;
+        c:name           "Hector Mine earthquake" ;
+        c:originalValue  "1999 Hector Mine earthquake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/71867249-7b91-3609-9f7c-be99c0362467> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "84ed1b53-d659-5b99-14da-54966e071d39" ;
+        c:docDate          "2015-05-30 09:46:00.859" ;
+        c:docTitle         "" ;
+        c:document         "Magnitude 5.3 quake hits Nevada, close to Las Vegas. LAS VEGAS (Reuters) - A magnitude 5.3 earthquake struck Nevada on Friday close to the small town of Caliente, northeast of the tourist hub of Las Vegas, and was followed by a series of smaller aftershocks, the U.S. Geological Survey said." ;
+        c:id               "http://id.opencalais.com/TzWR*3-609VL8iE0sa0KUA" .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance     "1" ;
+        c:name           "Gambling in the United States" ;
+        c:originalValue  "Gambling in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b78ca97-208c-32f5-9c16-d374353a08cd> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|u7Xe6PhdufGl8yEo8cO5QRM1mxM=|UjFkpV+7VGoqT6MmTqslD4MP68OBTVdkHNR17UskuSnJaAWVBBFaPg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:00.672" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance     "2" ;
+        c:name           "Nevada" ;
+        c:originalValue  "Nevada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/127f5006-1146-3c86-98e9-e7f736cefa88> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance     "2" ;
+        c:name           "April 2011 Fukushima earthquake" ;
+        c:originalValue  "April 2011 Fukushima earthquake" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee775a27-feff-39ff-a15b-ae0512d7a8bf> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance     "1" ;
+        c:name           "Las Vegas, Nevada" ;
+        c:originalValue  "Las Vegas, Nevada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0866bd0b-ab1b-3415-8793-7d775f6f73f5> .
+
+<http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09ee13a9-4453-3708-a292-0f537478ff09> ;
+        c:importance     "2" ;
+        c:name           "Tsunamis" ;
+        c:originalValue  "Tsunamis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8361336a-4542-3294-865a-9dd94848cc87> .

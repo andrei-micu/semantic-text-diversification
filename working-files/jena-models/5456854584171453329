@@ -1,0 +1,81 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f8569769-0d2b-98b6-14da-53882be32955" ;
+        c:docDate          "2015-05-30 10:27:33.819" ;
+        c:docTitle         "" ;
+        c:document         "First Draft: Gay Businessman Who Hosted Ted Cruz Event Apologizes. Ian Reisner, one of the two gay hoteliers facing boycott calls for hosting an event for Senator Ted Cruz, who is adamantly opposed to same-sex marriage, said he had shown “poor judgment.”" ;
+        c:id               "http://id.opencalais.com/o-5QE5aqKaaJeBlx1PsBEg" .
+
+<http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361> ;
+        c:score           "0.993" .
+
+<http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|f4sESSBYhPFr/BOjX7UzeAQICW4=|W7Lv2/w4CF+O5RQBKBPprlvDwE9NRGHhr5oIUIH6YfcjNLDdhRDsdQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:33.694" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361> ;
+        c:score           "0.976" .
+
+<http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e4f911ef-ea40-3815-8a07-0e240c020361> ;
+        c:importance     "1" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .

@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:importance     "2" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "44ff4aa8-a82e-c2a6-14da-547783c49095" ;
+        c:docDate          "2015-05-30 10:43:54.200" ;
+        c:docTitle         "" ;
+        c:document         "Untested Rape Kit Backlog Represents A 'Public Safety Issue' In U.S.. NPR's Melissa Block speaks with, Abigail Tracy, a reporter with the news site Vocativ, about the backlog of thousands of rape kits that have yet to be tested around the country." ;
+        c:id               "http://id.opencalais.com/pKNtRjPqBVITFv9dmwSKdQ" .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:importance     "1" ;
+        c:name           "Ethics" ;
+        c:originalValue  "Ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f579fc5-eed2-3113-a4f8-658e638275f1> .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|r7IYi0WVLYHlt24Xw5ZbIIxcpwI=|T7zlvs5r6LQ/JnWOQBJ7zptcwa41+nOVQZsFaIeBNL25QJ7aRJBxXg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:54.044" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:importance     "2" ;
+        c:name           "Debbie Smith Act" ;
+        c:originalValue  "Debbie Smith Act" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f83b201-cea4-3a62-8c0a-5ba5aa09c905> .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:importance     "1" ;
+        c:name           "Rape" ;
+        c:originalValue  "Rape" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32236527-525d-3c1e-a5de-b2f5734631f7> .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:importance     "2" ;
+        c:name           "NPR" ;
+        c:originalValue  "NPR" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0410c98-2061-3c90-8b44-3a246fbc5541> .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:importance     "2" ;
+        c:name           "Rape kit" ;
+        c:originalValue  "Rape kit" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/87fb5210-89de-376d-b1f0-fa4389cb2552> .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:importance     "2" ;
+        c:name           "Laws regarding rape" ;
+        c:originalValue  "Laws regarding rape" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04aacf5b-cd47-30d2-8c79-f7d031e1e0da> .
+
+<http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/90c9dcc3-8e17-3aad-9f0d-247dcb1692fa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

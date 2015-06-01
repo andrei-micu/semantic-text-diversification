@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|rhJktbR0FDg33I6cDDB06mSCprU=|I88cy53Wj5WS+mQJ6OhM8RrwAsByAeJxP7s+trcRwOPCCyJ2MvFqTQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:41.520" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1c394d42-eff7-35b8-14da-5474750760f9" ;
+        c:docDate          "2015-05-30 10:43:41.676" ;
+        c:docTitle         "" ;
+        c:document         "Nebraska Legislature, in Bipartisan Vote, Bans Death Penalty. Gov. Pete Ricketts, a Republican, has vowed to veto the bill, but the Legislature appears to have the votes to override a veto." ;
+        c:id               "http://id.opencalais.com/*ymqUndg2N1Cz1x09uvA*Q" .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:importance     "1" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:importance     "2" ;
+        c:name           "Line-item veto" ;
+        c:originalValue  "Line-item veto" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ddb79eff-a27a-3947-8941-5479cc6f730d> .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:importance     "2" ;
+        c:name           "Nebraska" ;
+        c:originalValue  "Nebraska" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d8ff49ae-fc55-3737-89f1-42afeb7071cc> .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:importance     "1" ;
+        c:name           "Nebraska Legislature" ;
+        c:originalValue  "Nebraska Legislature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/272c2f44-997b-3a81-b29f-f7eca9207313> .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:importance     "2" ;
+        c:name           "Veto override" ;
+        c:originalValue  "Veto override" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0e06080-6705-3c29-8364-626155b13720> .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/01b79c71-5574-3860-9c43-c9952670b691> ;
+        c:importance     "1" ;
+        c:name           "Veto" ;
+        c:originalValue  "Veto" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8cdbe7f2-6b1c-3c3e-918f-6f6461fcdd6e> .

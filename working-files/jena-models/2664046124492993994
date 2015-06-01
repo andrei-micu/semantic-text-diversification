@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166> ;
+        c:score           "0.715" .
+
+<http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166> ;
+        c:importance     "1" ;
+        c:name           "Northwest Orient Airlines Flight 710" ;
+        c:originalValue  "Northwest Orient Airlines Flight 710" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0aa610d7-825a-3988-9c03-8a452cf99c18> .
+
+<http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GFbz3xXHdOdRBufNrmZ/BGwA6So=|Dfz4LM4fIYMQwoYVMjcPJlE9T5CRVFSoSKLYIUGzIw/8EKTho+3hIA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:45:22.257" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166> ;
+        c:importance     "1" ;
+        c:name           "Air safety" ;
+        c:originalValue  "Air safety" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6490899-aeff-3dbc-aed1-b8e734e0df23> .
+
+<http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cb1f1324-9a07-e4cf-14da-548d0d11df07" ;
+        c:docDate          "2015-05-30 09:45:22.631" ;
+        c:docTitle         "" ;
+        c:document         "Police video shows moment plane crashes on interstate. New video from a police dash cam shows a plane crash on a busy interstate just north of Atlanta, killing all four people aboard." ;
+        c:id               "http://id.opencalais.com/jmZsh7lCJpp58V02r1jy7w" .
+
+<http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166> ;
+        c:importance     "1" ;
+        c:name           "Aviation accidents and incidents" ;
+        c:originalValue  "Aviation accidents and incidents" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14fb1d7f-eb6e-3709-b066-e080e533bfa2> .
+
+<http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/909913ba-a9b8-3166-913c-815601498166> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

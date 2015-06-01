@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0459f4b8-c9e9-3ea8-9f53-a30339bf9d87/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0459f4b8-c9e9-3ea8-9f53-a30339bf9d87> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/0459f4b8-c9e9-3ea8-9f53-a30339bf9d87/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0459f4b8-c9e9-3ea8-9f53-a30339bf9d87> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3ti3FqSoh+mzbXkK9A+lZuHa/wI=|erGgd8JALrt4TfKAmEStEB+ptok/LEVgZygrn1EqkKduMsbnWIDEGg==" ;
+        c:submissionDate  "2015-05-30 10:27:11.105" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0459f4b8-c9e9-3ea8-9f53-a30339bf9d87>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5ba09c46-a430-811b-14da-5382a8132955" ;
+        c:docDate          "2015-05-30 10:27:11.183" ;
+        c:docTitle         "" ;
+        c:document         "Avalanche, destruction on Everest. " ;
+        c:id               "http://id.opencalais.com/*zEC26BfJs2ONOdxZuWZwA" .

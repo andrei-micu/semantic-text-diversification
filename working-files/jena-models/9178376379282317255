@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed> ;
+        c:importance     "1" ;
+        c:name           "Korea" ;
+        c:originalValue  "Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c228654-048e-323a-b158-19dd884a146a> .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed> ;
+        c:importance     "2" ;
+        c:name           "North Korea" ;
+        c:originalValue  "North Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6366d8f-94a3-392d-9664-3df45419a56c> .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6804c769-a4ad-9069-14da-54436eb23ab1" ;
+        c:docDate          "2015-05-30 10:40:20.918" ;
+        c:docTitle         "" ;
+        c:document         "Inside an upscale North Korean apartment. CNN's Will Ripley was given rare access to an upscale area of Pyongyang near Kim Il Sung University, where he was allowed to see the inside of a faculty apartment." ;
+        c:id               "http://id.opencalais.com/sGXGiHqYtko7gpfsRKldHQ" .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|DF0zDQf1jCbtgavPfKSPRo3Fxwg=|CVNMdYu1eTvdSe9dMM9ZIU1sdxAH09XK6qWjF6yc7PhqZufxe7OXwA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:40:20.715" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed> ;
+        c:importance     "2" ;
+        c:name           "North Korean culture" ;
+        c:originalValue  "North Korean culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04442a45-5ddb-3f79-b6c3-944136716866> .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed> ;
+        c:importance     "1" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed> ;
+        c:importance     "2" ;
+        c:name           "Pyongyang" ;
+        c:originalValue  "Pyongyang (comics)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f7755c81-cea5-35eb-a086-177cf7007a38> .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed> ;
+        c:importance     "1" ;
+        c:name           "Kim Il-sung" ;
+        c:originalValue  "Kim Il-sung" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e7122ead-f901-3f2b-8d1a-0a38553a4a47> .
+
+<http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/049dbff8-1c2e-34aa-bb54-5955804d50ed> ;
+        c:importance     "2" ;
+        c:name           "Kim Il-sung University" ;
+        c:originalValue  "Kim Il-sung University" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/586b335e-e926-3349-8ec8-e3c4e71c6e10> .

@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance     "1" ;
+        c:name           "Socialism" ;
+        c:originalValue  "Socialism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/094957d2-880e-3193-8e42-dd16b5462f0b> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance     "2" ;
+        c:name           "Scottish Labour Party" ;
+        c:originalValue  "Scottish Labour Party" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/82c86c18-fe08-3c6e-bb63-6a4800004add> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance     "2" ;
+        c:name           "Labour Party (UK) leadership election" ;
+        c:originalValue  "Labour Party (UK) leadership election, 2010" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/468beb49-7760-3234-8e9e-7a98285a7d31> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d218f4bc-ec45-8417-14da-53d7ffe32955" ;
+        c:docDate          "2015-05-30 10:33:00.795" ;
+        c:docTitle         "" ;
+        c:document         "Ed Miliband Rules Out Deal With Scottish Nationalists. The Labour leader, Ed Miliband, made clearer on Monday what his strategy would be in the event of a hung Parliament: he would present a Labour minority government committed to Labour’s manifesto and dare the Scottish National Party and everyone else to vote it down." ;
+        c:id               "http://id.opencalais.com/76M*J*Z8zBxG2M5fc9lrbw" .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance     "2" ;
+        c:name           "Government of the United Kingdom" ;
+        c:originalValue  "Government of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d45bacda-5613-3e29-a6de-b37f79a3bd80> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LrijHvFThTMvr93mmlHWSWG34SE=|J37EGToT/fJygVVSd2MSzgDhthhEUxDWe2P26DoB8PpYEECtS/mUWA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:00.670" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance     "1" ;
+        c:name           "Politics of the United Kingdom" ;
+        c:originalValue  "Politics of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/afa7f5e7-5618-3463-aa66-5a83f5de101f> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance     "2" ;
+        c:name           "Labour Party" ;
+        c:originalValue  "Labour Party (UK)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/279325db-07f8-393a-bbbd-5a7fb48b187d> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance     "1" ;
+        c:name           "Second International" ;
+        c:originalValue  "Second International" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0f96100a-344a-346e-9127-a36a9be0db76> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance     "2" ;
+        c:name           "Miliband" ;
+        c:originalValue  "Miliband" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd685d6d-06ae-360d-bd63-abf1c5f102c6> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance     "2" ;
+        c:name           "Ed Miliband" ;
+        c:originalValue  "Ed Miliband" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d99cbe2-3e73-3e2f-888d-5500fb164fb9> .
+
+<http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4712a491-33c1-32b5-a8dc-d912013bf533> ;
+        c:importance     "2" ;
+        c:name           "David Miliband" ;
+        c:originalValue  "David Miliband" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e11389ba-03a7-3351-a269-1cce9eda335b> .

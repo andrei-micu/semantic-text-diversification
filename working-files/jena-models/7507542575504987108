@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:importance     "1" ;
+        c:name           "Military history of the United States" ;
+        c:originalValue  "Military history of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/806cde87-4bde-31d1-b984-c453fe8ffd64> .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "73b3716f-567a-8607-14da-54358be71d39" ;
+        c:docDate          "2015-05-30 09:39:23.979" ;
+        c:docTitle         "" ;
+        c:document         "Five Iranian boats fire shots. Five Iranian boats fired shots across the bow of a Singapore flagged cargo vessel in the Persian Gulf on Thursday in an attempt to potentially stop the ship, a U.S. official told CNN. For the first time, the incident brought another Persian Gulf nation into the recent rising maritime tensions in the region." ;
+        c:id               "http://id.opencalais.com/NKLTNjuoIWfGBrb3Ha6XJQ" .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:importance     "2" ;
+        c:name           "History of the United States" ;
+        c:originalValue  "History of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/72b4f2c4-ec73-3c08-b425-1ffb4426c44d> .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:score           "0.476" .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:importance     "1" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:importance     "1" ;
+        c:name           "Iran–United States relations" ;
+        c:originalValue  "Iran–United States relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cc4f0d1-5a61-38ff-9a0d-6996481b513d> .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:importance     "2" ;
+        c:name           "2011–12 Strait of Hormuz dispute" ;
+        c:originalValue  "2011–12 Strait of Hormuz dispute" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b73a35c6-b7f7-3775-9171-38205458a2b6> .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:importance     "2" ;
+        c:name           "U.S.–Iranian naval dispute" ;
+        c:originalValue  "2008 U.S.–Iranian naval dispute" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6bc95217-95af-3c94-a3af-0480134cb2ec> .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Cawpb+PqNo5yj2r/q6mdtKkuZrM=|OW30BxVo1yTRR/48MeUim7yZcFA+cEYoG/L2N7NuYM3ESIXXVp8pAQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:39:23.838" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9f9a0bf6-53a4-38df-99c1-6dbe0d1d290c> ;
+        c:score           "0.803" .

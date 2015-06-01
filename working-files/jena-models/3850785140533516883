@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:importance     "1" ;
+        c:name           "Parasomnias" ;
+        c:originalValue  "Parasomnias" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51ce79b3-381f-34f9-ad07-82d0ccc8869f> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:importance     "2" ;
+        c:name           "Night terror" ;
+        c:originalValue  "Night terror" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3df42bac-ef15-397e-8525-cf283a9c8046> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dbd58ce3-8b15-9a4f-14da-53d478313c98" ;
+        c:docDate          "2015-05-30 09:32:46.430" ;
+        c:docTitle         "" ;
+        c:document         "Sleep terrors as kid? You might sleepwalk. Does your little one suffer from sleep terrors? Then get ready to lock the window and doors, because they might soon sleepwalk, too. A study of nearly 2,000 children in Quebec over a 12-year period found that as many as a third of the children who had early childhood sleep terrors became sleepwalkers later." ;
+        c:id               "http://id.opencalais.com/W4wL774oIWk5v6Wu5jHX1A" .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:importance     "2" ;
+        c:name           "Neurophysiology" ;
+        c:originalValue  "Neurophysiology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/35be131d-a7fa-3bbd-9bd6-0c31566f63ad> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:importance     "2" ;
+        c:name           "Sleepwalking" ;
+        c:originalValue  "Sleepwalking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0dd81b9-e8b1-32fb-996a-6b139098e101> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:score           "0.968" .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:importance     "2" ;
+        c:name           "Psychiatry" ;
+        c:originalValue  "Psychiatry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/24b8fe88-374c-3d8a-8660-c54ac1b84cc3> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LM1pj9aWax5SbFva+Sb7q2VRk0k=|MY+zV9ptCgucUd4tWX9qf8AxCuV0N8ZyYXy3P8ajFbHgOf4gCOkQDg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:32:46.227" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:importance     "2" ;
+        c:name           "Sleepwalker" ;
+        c:originalValue  "Sleepwalker" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a3ec13c2-1d65-3a70-8b06-2eda4f15c0ce> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:importance     "1" ;
+        c:name           "Sleep" ;
+        c:originalValue  "Sleep" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61116d4a-2310-3f89-8495-749f49c8599d> .
+
+<http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/36190d1f-2e94-3ce7-aa2d-2e6705c68bb4> ;
+        c:importance     "2" ;
+        c:name           "They" ;
+        c:originalValue  "They (2002 film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/75590062-1fb5-370a-b1c3-7d99fbcca246> .

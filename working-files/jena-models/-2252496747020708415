@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:score           "0.952" .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|c7yIeEkMnbIS9iPk1jPP4GY8nWs=|HTP5WPoC/XkON7fHKifrbAVAsXxEvY8PYGGsg7M9mGBLK6vm7ssXpQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:22.261" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:importance     "2" ;
+        c:name           "South China Sea" ;
+        c:originalValue  "South China Sea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee225378-329b-3ead-bb63-6915310827d1> .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "74df48e5-7b24-cc58-14da-54c7a5523ab1" ;
+        c:docDate          "2015-05-30 10:49:22.464" ;
+        c:docTitle         "" ;
+        c:document         "China, U.S.: No backing down. The standoff between the U.S. and China over disputed territory in the South China Sea is escalating into a war of words and renewed pledges of military maneuvers in the area." ;
+        c:id               "http://id.opencalais.com/xXOg8Y8nNbB5hNjCQ0xPng" .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:score           "0.489" .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:importance     "1" ;
+        c:name           "Political status of Taiwan" ;
+        c:originalValue  "Political status of Taiwan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c8a8b8d-e2f8-3f05-a3c4-308732e1cc5f> .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:importance     "2" ;
+        c:name           "China" ;
+        c:originalValue  "China" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bd18558c-a12a-3501-8014-502407842235> .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a239c434-c6ff-35d6-993f-ba3ffba78153> ;
+        c:importance     "2" ;
+        c:name           "Sovereignty" ;
+        c:originalValue  "Sovereignty" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4ad81576-6808-3c5b-a6cf-e9dacc5ff401> .

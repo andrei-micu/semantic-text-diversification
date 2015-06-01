@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62> ;
+        c:importance     "1" ;
+        c:name           "National Football League" ;
+        c:originalValue  "National Football League" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/911c58d3-69ff-36bb-8448-54ede0a84d89> .
+
+<http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2deec598-2440-e063-14da-5434992760f9" ;
+        c:docDate          "2015-05-30 10:39:20.219" ;
+        c:docTitle         "" ;
+        c:document         "NFL Suspends Tom Brady For 4 Games Over 'Deflategate' Scandal. Days after a lengthy report found it was \"more probable than not\" that quarterback Tom Brady knew of rule-breaking, the NFL suspends him for four games next season and fines the Patriots $1 million." ;
+        c:id               "http://id.opencalais.com/QjkGfQCwudk1-MMQuavrhA" .
+
+<http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62> ;
+        c:importance     "2" ;
+        c:name           "New England Patriots season" ;
+        c:originalValue  "2010 New England Patriots season" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f053f37-b012-3c3d-bfb1-36ab71e7945e> .
+
+<http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62> ;
+        c:score           "0.980" .
+
+<http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62> ;
+        c:importance     "1" ;
+        c:name           "Tom Brady" ;
+        c:originalValue  "Tom Brady" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/52dcf606-d4c6-3477-a5fe-ad3eb7ec165e> .
+
+<http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62> ;
+        c:importance     "1" ;
+        c:name           "Wes Welker" ;
+        c:originalValue  "Wes Welker" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0da45288-ba99-3433-b883-c0de40c7f268> .
+
+<http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e2357af1-e155-3bc8-9ff0-165d408b7b62> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2bt+rO6KNhcVM8EkjqiTldNBhMQ=|cWXue96oG02zJWOZ4ySd55isFmyNkT8wv3K6hCWANBj5PSC8vsqh2Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:19.954" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

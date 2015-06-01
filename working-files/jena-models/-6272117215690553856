@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00> ;
+        c:importance     "1" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00> ;
+        c:score           "0.720" .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4f383bfe-eaa3-2410-14da-53e331b23ab1" ;
+        c:docDate          "2015-05-30 10:33:46.634" ;
+        c:docTitle         "" ;
+        c:document         "Inside N. Korea: Waterpark, in-flight entertainment. CNN correspondent Will Ripley and photojournalist Brad Olson traveled to North Korea after the regime offered them a surprise invitation to return to one of the most mysterious countries on earth. The duo weren't sure why the invitation was offered, what to expect, or even how long they'll be there. Check out the pictures they've taken to document their journey." ;
+        c:id               "http://id.opencalais.com/GtB0ZVweNx9zDk7SuuAyGw" .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00> ;
+        c:importance     "1" ;
+        c:name           "North Korea" ;
+        c:originalValue  "North Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6366d8f-94a3-392d-9664-3df45419a56c> .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|crnJkG0wlRPosbqCjOntFovdv2U=|Mlorxx6Nkbqf0hdfowtMEFYiR9tLz4P1jPT69iaa6yBlGdxo7+/1TQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:46.523" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00> ;
+        c:importance     "1" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00> ;
+        c:score           "0.515" .
+
+<http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/31235687-3039-337e-ba20-10bae1d7bd00> ;
+        c:importance     "2" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .

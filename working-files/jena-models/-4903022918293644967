@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:importance     "2" ;
+        c:name           "Nobel Peace Prize" ;
+        c:originalValue  "2009 Nobel Peace Prize" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dafbd8f0-5f0b-30a7-8413-c5c673288662> .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3125e48e-977c-a48a-14da-544f21d49095" ;
+        c:docDate          "2015-05-30 10:41:08.715" ;
+        c:docTitle         "" ;
+        c:document         "Obama reassures Gulf allies on Iran. US President Barack Obama pledges to stand by his Gulf allies, with military force if needed, amid heightened tensions with Iran." ;
+        c:id               "http://id.opencalais.com/WCW83TP2VXhyA53avaFY4g" .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama foreign policy" ;
+        c:originalValue  "Barack Obama foreign policy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3d3dad14-2751-3afd-b311-14b9d159f4d2> .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2IZoF7cmpHpcQI8zUUo1z8QDQuY=|g69TNZilMxyMtEZyVEp3NCSEMLg0Yrw976gYvUXICH1SNty2o4KllQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:41:08.637" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/363a2ed0-1163-3280-bb75-7cb3dab817ee> ;
+        c:score           "0.987" .

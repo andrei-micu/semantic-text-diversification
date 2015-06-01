@@ -1,0 +1,52 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4tvkkRydDtqyniZ0+r/4Yo9hX48=|TvIz+owgDNeJ65NIAsig7vrcapgQ1q30EeykcifqGG3WA+Lf8FnPuw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:14.267" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "94637c20-60a2-9b9f-14da-540743b71d39" ;
+        c:docDate          "2015-05-30 09:36:14.469" ;
+        c:docTitle         "" ;
+        c:document         "12 ways moms are nailing it every day. Being a parent is hard. Whether you're doing it for the first time or juggling a house full of kids, whether you're home all day or trying to find that elusive work-life balance, it's pretty easy to find all the ways you're falling short." ;
+        c:id               "http://id.opencalais.com/OQTqQndZRN7f8Tjhv149kQ" .
+
+<http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2> ;
+        c:importance     "1" ;
+        c:name           "Busking" ;
+        c:originalValue  "Busking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5659b55a-1456-3d06-9b15-f2103105e547> .
+
+<http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2> ;
+        c:score           "0.529" .
+
+<http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3047903b-20e8-3b3e-a4c6-35f9c85f6bb2> ;
+        c:importance     "1" ;
+        c:name           "Juggling" ;
+        c:originalValue  "Juggling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/25b8d8ad-8064-3480-891f-02b93e4b0824> .

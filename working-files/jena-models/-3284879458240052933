@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:importance     "1" ;
+        c:name           "Modern art" ;
+        c:originalValue  "Modern art" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5805ec3d-2d98-3b26-b521-75f1d2df1451> .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:importance     "2" ;
+        c:name           "Manfred Gurlitt" ;
+        c:originalValue  "Manfred Gurlitt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6ad96553-0d88-39e7-a461-e858724aa511> .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Q8vWmjZn6+qmlNlzBZXXFKfn1Ic=|Z5S15DEZ65+RVkWd7UsHHY3TMwJcxu02wGU2L1g3lz1FAjX+MBUR0A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:16.240" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:importance     "2" ;
+        c:name           "Henri Matisse" ;
+        c:originalValue  "Henri Matisse" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e2c2c46-c2a1-3fe2-971d-9dd1606a67c4> .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:importance     "1" ;
+        c:name           "Cornelius Gurlitt" ;
+        c:originalValue  "Cornelius Gurlitt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/19441432-fb92-3dd3-8a39-bad357e3b189> .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c2857ddc-5e3f-34b9-14da-5450fd032f98" ;
+        c:docDate          "2015-05-30 09:41:16.630" ;
+        c:docTitle         "" ;
+        c:document         "Matisse From Gurlitt Collection Is Returned to Jewish Art Dealer’s Heirs. “Femme Assise,” which was looted by the Nazis and discovered in the Munich apartment of Cornelius Gurlitt in 2012, has been returned to the descendants of Paul Rosenberg." ;
+        c:id               "http://id.opencalais.com/Ra1zAahujwzBsD*jlWoUKA" .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:score           "0.917" .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:importance     "2" ;
+        c:name           "Wolfgang Gurlitt" ;
+        c:originalValue  "Wolfgang Gurlitt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/650956d0-c665-3648-ad20-56d6683580bb> .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:importance     "1" ;
+        c:name           "Gurlitt" ;
+        c:originalValue  "Gurlitt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2c03ff6-6154-3af0-a176-49bebfedd899> .
+
+<http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2619273a-0c81-3c40-8278-876667476b3f> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .

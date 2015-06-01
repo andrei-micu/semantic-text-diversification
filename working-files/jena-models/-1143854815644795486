@@ -1,0 +1,89 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6694fae1-b655-132f-14da-53a9b821927e" ;
+        c:docDate          "2015-05-30 10:29:51.309" ;
+        c:docTitle         "" ;
+        c:document         "2 shot in Ferguson amid protest. At least two people were shot in separate shootings in Ferguson, Missouri, on late Tuesday and early Wednesday as hundreds of demonstrators gathered in support of protests in Baltimore." ;
+        c:id               "http://id.opencalais.com/py9qO-Ut54LYEuba98lhHw" .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b> ;
+        c:score           "0.718" .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|UH0t9dkP/HWS1eQJs4ibGn9VyjA=|FJLqhAgJQgHRw8TU2OKBFFiOMdcIounAHmXPm6MKcFRKRma1hAt24A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:51.106" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b> ;
+        c:score           "0.932" .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b> ;
+        c:importance     "1" ;
+        c:name           "Political riots" ;
+        c:originalValue  "Political riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ee335ca-e415-316a-a37e-6a8c05e4ccc6> .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b> ;
+        c:score           "0.860" .
+
+<http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4ea5e8f8-6ec3-3058-9b6b-5236b5ef234b> ;
+        c:importance     "1" ;
+        c:name           "Greek riots" ;
+        c:originalValue  "2008 Greek riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3859cc5-4d11-3caf-9561-8c58549511bf> .

@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282> ;
+        c:importance     "1" ;
+        c:name           "World Cafe" ;
+        c:originalValue  "World Cafe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/00f0df77-da02-3e2b-840c-7f4dae6bfc6f> .
+
+<http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282> ;
+        c:score           "0.808" .
+
+<http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|g/Menj/aHbaJ/yrHbvEQ9KFQF4U=|UI7MPPd2TUN5wpo3yRlLzcHNx7RheV9z48lBjlay7BAEC82MV2UEBQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:24.823" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d70f516d-15ad-995d-14da-548dad732955" ;
+        c:docDate          "2015-05-30 10:45:24.979" ;
+        c:docTitle         "" ;
+        c:document         "West Philadelphia Orchestra On World Cafe. A group that specializes in Balkan music talks about how they grew as a band." ;
+        c:id               "http://id.opencalais.com/MsA8SBQ1lS0ZPytXFa9sWw" .
+
+<http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/db27f3aa-fbd1-3c79-9928-a6e8c5f72282> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

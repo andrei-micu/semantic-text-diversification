@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d5c0e1cc-e5f1-33a5-8304-4bca2536693b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5aa5ceef-92af-5962-14da-53c4d9735464" ;
+        c:docDate          "2015-05-30 10:31:42.278" ;
+        c:docTitle         "" ;
+        c:document         "Flatbread, fear on flight to Kathmandu. " ;
+        c:id               "http://id.opencalais.com/YA2JY0VXm7eAp4sX43Domg" .
+
+<http://d.opencalais.com/dochash-1/d5c0e1cc-e5f1-33a5-8304-4bca2536693b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d5c0e1cc-e5f1-33a5-8304-4bca2536693b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|975cRl6Vkoj4ucMOK9pl3ysZ4Qw=|a4UBMgCADh5uJ8MId9rPBGeg2fkvbjoGAozPY7eer8SIGeoIa5VZrA==" ;
+        c:submissionDate  "2015-05-30 10:31:42.231" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d5c0e1cc-e5f1-33a5-8304-4bca2536693b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d5c0e1cc-e5f1-33a5-8304-4bca2536693b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

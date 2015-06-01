@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:score           "0.673" .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance     "2" ;
+        c:name           "YouTube videos" ;
+        c:originalValue  "YouTube videos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cec2ef2f-f9cc-380a-90c0-deb6c99e7e44> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance     "1" ;
+        c:name           "Jimmy Fallon" ;
+        c:originalValue  "Jimmy Fallon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d89f4afc-a86e-3a63-a338-8481196de9d9> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fa4c2ee4-8709-8f09-14da-53e65f3719b3" ;
+        c:docDate          "2015-05-30 10:33:59.679" ;
+        c:docTitle         "" ;
+        c:document         "Jimmy Fallon & Jack Black's viral parody. The comedians have a viral hit with their parody of Extreme's 1990s' smash hit \"More Than Words.\"" ;
+        c:id               "http://id.opencalais.com/GxNaY9TVDPeew3DM8hnLHA" .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance     "2" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance     "1" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance     "2" ;
+        c:name           "Performing arts" ;
+        c:originalValue  "Performing arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3f58df52-e9f6-33ae-a374-fb0f67d25d54> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance     "1" ;
+        c:name           "Smash" ;
+        c:originalValue  "Smash (tennis)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1cf6b410-fd75-36f8-b5ab-158b92f7ad48> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance     "2" ;
+        c:name           "Viral videos" ;
+        c:originalValue  "Viral videos" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ca4adb0-9cc6-3dbc-b71b-44be342629bc> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance     "2" ;
+        c:name           "Parody music" ;
+        c:originalValue  "Parody music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f48a0fb5-8de7-38b2-b6f5-faad7853d7e8> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:importance     "2" ;
+        c:name           "Neologisms" ;
+        c:originalValue  "Neologisms" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee6ce7a1-248e-30b5-9733-68263a196c83> .
+
+<http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/73ea6d55-54d8-3961-a6fe-f6015b2b3e3e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|b2CiSAfZsswdX0n7Hf9yfg2pFWI=|ZCYaVbJrh+5O9tXiaUMYgrfUvCwTWYi9hA1YUA33HBoMEUdHMCm/gw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:59.539" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

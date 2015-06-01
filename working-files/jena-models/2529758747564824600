@@ -1,0 +1,123 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance     "2" ;
+        c:name           "Latin American culture" ;
+        c:originalValue  "Latin American culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f17c8f8d-0002-3e88-bc1a-65cb207b578b> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance     "2" ;
+        c:name           "Mariachi" ;
+        c:originalValue  "Mariachi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b10c8c96-08fc-3464-ba49-b403a368df71> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance     "2" ;
+        c:name           "Fajita" ;
+        c:originalValue  "Fajita" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4487f7c8-608f-3387-9340-3158bc20b947> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance     "1" ;
+        c:name           "Tex-Mex cuisine" ;
+        c:originalValue  "Tex-Mex cuisine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/37f188eb-60f0-3a3a-991e-b52e53bcdd02> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "676dfc46-0626-6b3d-14da-53d1319760f9" ;
+        c:docDate          "2015-05-30 10:32:32.918" ;
+        c:docTitle         "" ;
+        c:document         "Why do we celebrate Cinco de Mayo?. Guacamole and fajitas. Mexican flags and mariachi bands. Margaritas, beer -- and more beer. (Sometimes with lime, thanks to that clever marketing campaign.)" ;
+        c:id               "http://id.opencalais.com/eFJYxjd6G4Z5VONgHNVbkw" .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance     "2" ;
+        c:name           "Cuisine of the Western United States" ;
+        c:originalValue  "Cuisine of the Western United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2939a992-f2a4-35f5-b532-cbc2cad80ab5> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9yd+nfTJXbtSMvVvrz7FLxN/Q18=|hqw76BLj31CC9pZgHibnPPJ0uG4zGuEuoqOnGT+QCS1pswKbP7KTrw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:32.793" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance     "1" ;
+        c:name           "Mexican cuisine" ;
+        c:originalValue  "Mexican cuisine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50885c1a-2930-310e-bfb7-f2607285bbd2> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance     "2" ;
+        c:name           "Margarita" ;
+        c:originalValue  "Margarita" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fe3666b8-ac43-352d-9382-20b07efbe603> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance     "2" ;
+        c:name           "Guacamole" ;
+        c:originalValue  "Guacamole" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a2a8410c-8f10-389c-b770-948d78885be1> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance     "1" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ceb18ee1-788a-339e-9f75-29d8011d2820> ;
+        c:importance     "2" ;
+        c:name           "Cinco de Mayo" ;
+        c:originalValue  "Cinco de Mayo" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/222551fe-0a78-3b4b-a903-30a8c2b3db36> .

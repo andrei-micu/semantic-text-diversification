@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2> ;
+        c:importance     "1" ;
+        c:name           "Mission: Impossible" ;
+        c:originalValue  "Mission: Impossible (film)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/175357fe-d26c-3942-b561-7a7b7a6f202e> .
+
+<http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2> ;
+        c:score           "0.665" .
+
+<http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2> ;
+        c:importance  "2" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|8Z5nlLdkNeReCtTRmnBehf5H5cM=|O2uf8R0aS8gXxmTmbyHQgpBnznyLsgL18wJIP3GvUa+KNVMex+BrMQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:45.017" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2> ;
+        c:importance     "1" ;
+        c:name           "Films" ;
+        c:originalValue  "1996 films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa43c959-9228-3a22-998d-873ce33bc634> .
+
+<http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "326632df-8341-5c75-14da-539994971d39" ;
+        c:docDate          "2015-05-30 09:28:45.376" ;
+        c:docTitle         "" ;
+        c:document         "A father goes 'badass' to save his family. It happened 40 years ago, and it was a scene that could have been ripped from the script of \"Mission Impossible.\" This is the story of a Vietnam war hero you've never heard of." ;
+        c:id               "http://id.opencalais.com/9Xzjs4-87gMBFvahnbbjDg" .
+
+<http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4d5fe37e-16d4-34c6-bb2a-e6465a7217c2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

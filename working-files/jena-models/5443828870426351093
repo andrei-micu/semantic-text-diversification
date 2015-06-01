@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e> ;
+        c:importance     "1" ;
+        c:name           "Call of Duty: Black Ops" ;
+        c:originalValue  "Call of Duty: Black Ops" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1f8382d-5102-3455-b756-d705f98617d0> .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e> ;
+        c:score           "0.560" .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e> ;
+        c:importance     "1" ;
+        c:name           "Gender studies" ;
+        c:originalValue  "Gender studies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ac5ccb9f-ba2d-3c71-9ab1-2edc2194d508> .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "64268525-2a5a-8199-14da-54afaa513c98" ;
+        c:docDate          "2015-05-30 09:47:44.302" ;
+        c:docTitle         "" ;
+        c:document         "A band of sisters in Special Ops. Even before women were allowed in combat roles, a group of female soldiers gained crucial information for special operations units." ;
+        c:id               "http://id.opencalais.com/rNh8kY3chCAaEDZe0XXZgg" .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0zpZGn81AolVMtNevwBYZbCttQ4=|RJ8U9g/YMc9I8XHJMJ23ySvFetJAtcyHBgIDlgI9eumcFnC1t3vmRw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:47:44.037" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09f76a6d-47e5-3b3a-ab93-49adddfd138e> ;
+        c:importance     "1" ;
+        c:name           "Women in the military" ;
+        c:originalValue  "Women in the military" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/15221b47-4264-3b2a-8a76-8edbcda7c05a> .

@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0> ;
+        c:importance     "1" ;
+        c:name           "Nepali language" ;
+        c:originalValue  "Nepali language" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/09b5ddaf-88ec-3784-86b4-443abe63c258> .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0> ;
+        c:score           "0.584" .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0> ;
+        c:importance     "1" ;
+        c:name           "Languages of Asia" ;
+        c:originalValue  "Languages of Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/efbbce38-fb2e-3d92-9c19-184111f8c45a> .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YZfL/5GvwnnQxyfqyoH0Q5/pW1w=|WImBlDCXFpaqMHlsGiHcro4kq8RN/OjnQnD+L09TySY9z2crWr3Vyg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:16.981" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0> ;
+        c:importance     "2" ;
+        c:name           "Newar" ;
+        c:originalValue  "Newar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7146c404-7aff-395b-a681-c65d5d963b59> .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0> ;
+        c:score           "0.538" .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0> ;
+        c:score           "0.588" .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4a54becf-4dfe-78b7-14da-545fd1549095" ;
+        c:docDate          "2015-05-30 10:42:17.059" ;
+        c:docTitle         "" ;
+        c:document         "Nepali Times Editor: After Quakes, Nepalese Surprisingly Upbeat. Two earthquakes and numerous aftershocks have hit Nepal, killing thousands and leaving millions in need. Kunda Dixit, editor of the Nepali Times, tells NPR's Scott Simon about how people are coping." ;
+        c:id               "http://id.opencalais.com/*T56K-I3KJrg6M33LZIjpg" .
+
+<http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/72bce8d0-d68f-3978-92ad-ef497d41d6c0> ;
+        c:importance     "2" ;
+        c:name           "Languages of India" ;
+        c:originalValue  "Languages of India" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/406a73eb-280a-3c8f-acca-5b36ac0d38c5> .

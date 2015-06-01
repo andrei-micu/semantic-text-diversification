@@ -1,0 +1,60 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb> ;
+        c:importance     "1" ;
+        c:name           "Kathmandu" ;
+        c:originalValue  "Kathmandu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7886b3bd-0443-364a-ab85-30cd8e5f26ac> .
+
+<http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb> ;
+        c:importance     "1" ;
+        c:name           "Unmanned aerial vehicle" ;
+        c:originalValue  "Unmanned aerial vehicle" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/020987aa-9eba-33e8-9634-995f94b52694> .
+
+<http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7dc643a1-de6d-f85d-14da-537db4b4551f" ;
+        c:docDate          "2015-05-30 09:26:50.968" ;
+        c:docTitle         "" ;
+        c:document         "Drone video shows breadth of devastation. Aerial footage shot by a drone over Kathmandu, Nepal, shows the scale of devastation in that area." ;
+        c:id               "http://id.opencalais.com/ewflB0P5h6okh6kF0fDAcg" .
+
+<http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb> ;
+        c:importance     "1" ;
+        c:name           "Newar" ;
+        c:originalValue  "Newar" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7146c404-7aff-395b-a681-c65d5d963b59> .
+
+<http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|42pFgG+9j6K3GctYVdjlIPjFyB0=|An3vWTcHdlocsdHc3kQwqEHhw4dEwmHFxCk1OhkTlQVI4QwnNFhxrg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:26:50.827" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e13ff16f-ab62-3d7c-b94b-b793fa2dd4eb> ;
+        c:importance     "2" ;
+        c:name           "Government" ;
+        c:originalValue  "Government" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e63013-b123-333b-8ba4-71c94ebbf648> .

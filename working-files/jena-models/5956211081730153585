@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e32ed78e-3781-9da1-4da5-429aac719b32" ;
+        c:docDate          "2015-05-30 10:38:35.258" ;
+        c:docTitle         "" ;
+        c:document         "Al Jazeera journalist sues network, seeks $100M. Al Jazeera English journalist Mohamed Fahmy is suing the network for $100 million in punitive and remedial damages for alleged negligence and breach of contract, Fahmy and his attorneys announced Monday." ;
+        c:id               "http://id.opencalais.com/6SMLXJLDJzauQdke41OzRw" .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|xbwXHNuDizzLhnAHeBXYFkWlAwI=|jHAO2vZXkuKrvG/RQ9TariyMtO+I3BDTQw1gY0VES+u02XXsS3kEfQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:35.180" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:importance     "2" ;
+        c:name           "Judicial remedies" ;
+        c:originalValue  "Judicial remedies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ac036124-8a99-3ece-8aaa-2c77352bb8e1> .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:score           "0.982" .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:importance     "2" ;
+        c:name           "Arab Spring" ;
+        c:originalValue  "Arab Spring" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcae5841-a595-3c70-97ed-c0e45e035b41> .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:importance     "1" ;
+        c:name           "Al Jazeera" ;
+        c:originalValue  "Al Jazeera" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/46d362aa-8281-3499-8822-256ecf30599c> .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:importance     "2" ;
+        c:name           "Fahmy" ;
+        c:originalValue  "Fahmy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3f4b8cec-0a5f-33b2-a2cd-b8c8fba8cfd3> .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:importance     "2" ;
+        c:name           "Damages" ;
+        c:originalValue  "Damages" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e8c1cead-e73c-3348-bdac-a05cbcdcafc8> .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:importance     "1" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/34229527-3a74-3ebf-8ed0-9d0fcd4b4f55> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

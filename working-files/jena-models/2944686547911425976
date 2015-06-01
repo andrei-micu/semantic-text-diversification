@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:score           "0.546" .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|vfN5m0Dq3Kzs7Q8Jp4OcUnj0EAQ=|Qt12DD6E3nv/hEkwyyhXi9lQc8wCgrNJIabSm6Eieb/j3YgSNgyrWg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:03.972" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:importance     "1" ;
+        c:name           "Dennis" ;
+        c:originalValue  "Dennis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4955eb1-4c33-3698-8ba9-897dcc211b19> .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:score           "0.978" .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:importance     "1" ;
+        c:name           "Genealogy" ;
+        c:originalValue  "Genealogy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0b2871b-261d-31aa-8c32-9f8bc296989f> .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:score           "0.609" .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:importance     "1" ;
+        c:name           "Dennis Hastert" ;
+        c:originalValue  "Dennis Hastert" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5940bc3f-bd70-36ff-b3a6-6b952b732864> .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/b3ba9904-e0a9-3c76-80ac-3b27e316925f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f87bbac0-9818-9dd1-14da-54d1d444551f" ;
+        c:docDate          "2015-05-30 09:50:04.097" ;
+        c:docTitle         "" ;
+        c:document         "Washington Memo: Once-Calming Leader and a Stunning Turn. J. Dennis Hastert was “the coach,” a colleague said. “He was a solid guy. He never raised his voice.”" ;
+        c:id               "http://id.opencalais.com/pk079vhXhKhITJVtDiDhKA" .

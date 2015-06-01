@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c> ;
+        c:importance     "1" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c> ;
+        c:importance     "2" ;
+        c:name           "John McCain" ;
+        c:originalValue  "John McCain" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7d63454d-17bd-3fa2-8dde-0d34d820b9a7> .
+
+<http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "85357751-2338-5a7b-14da-5381ea635464" ;
+        c:docDate          "2015-05-30 10:27:08.257" ;
+        c:docTitle         "" ;
+        c:document         "Inside Clinton's Benghazi mail. The day after the Benghazi terror attack, a staffer for Arizona Sen. John McCain emailed Secretary of State Hillary Clinton's office to convey praise for her remarks to State Department employees after the attack." ;
+        c:id               "http://id.opencalais.com/1UPF9idNA07x30RfZGqMrQ" .
+
+<http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c> ;
+        c:importance     "1" ;
+        c:name           "Military personnel" ;
+        c:originalValue  "Military personnel" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3df1101-0b09-37b1-89c4-540c1143c61d> .
+
+<http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|oV5yy9/3dfUCnqCOlS3/MnaoKLI=|OrOK1ORVh3rFyhgfx3TDVMNBdUhWN/wlqN3mGLI1dcy6AGNOsf4Arg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:08.070" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bca4a727-9f3d-3057-9091-58d211599b8c> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .

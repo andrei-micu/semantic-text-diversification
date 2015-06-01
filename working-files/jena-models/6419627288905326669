@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:importance     "2" ;
+        c:name           "Race riots" ;
+        c:originalValue  "Race riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e18b639-7927-330b-b349-d09f60833bae> .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:importance     "1" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ilfyilcDMUMLrj7IGrJZTdZS7JA=|LayNVuv6mA/omv8OlGQw5259XYRMmqunVXZaJ0qD7yEprBsO4aIo2A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:10.370" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:importance     "1" ;
+        c:name           "Riots" ;
+        c:originalValue  "1968 riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/51cf8495-5f56-35f0-8783-4b4488495bf4> .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:importance     "2" ;
+        c:name           "Louisville riots" ;
+        c:originalValue  "Louisville riots of 1968" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b9fc167-fdee-35b9-8576-4f01605736dc> .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:importance     "2" ;
+        c:name           "Chicago riots" ;
+        c:originalValue  "1968 Chicago riots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/94bb1f12-cbea-367e-98cc-260805c8ce27> .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c512da4e-53c7-b505-14da-539fc62653ed" ;
+        c:docDate          "2015-05-30 09:29:10.636" ;
+        c:docTitle         "" ;
+        c:document         "Baltimore City Councilman Responds To Unrest. More National Guard troops are heading to Baltimore, after rioters set police cars and buildings on fire, looted stores and threw rocks." ;
+        c:id               "http://id.opencalais.com/J3Vvn1F4OBXVki*3N5Vu5Q" .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c5f6f346-07ee-3108-8b52-cd863b21b811> ;
+        c:score           "1.000" .

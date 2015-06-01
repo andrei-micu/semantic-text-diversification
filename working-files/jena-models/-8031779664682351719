@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/25408427-fb4b-399b-9585-001584905b2f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bb7b1d16-cb7d-97e5-14da-546e78513c98" ;
+        c:docDate          "2015-05-30 09:43:17.059" ;
+        c:docTitle         "" ;
+        c:document         "How do tweeting leaders compare?. How do tweeting leaders compare?" ;
+        c:id               "http://id.opencalais.com/7aDG5o90uJpMQyeHj-dMtA" .
+
+<http://d.opencalais.com/dochash-1/25408427-fb4b-399b-9585-001584905b2f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/25408427-fb4b-399b-9585-001584905b2f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|lTyQ+Y+bw4S+11qYWJFXmCH/zZk=|bQKmPpZPbhKhocOuHsCGprk1BX0ZVTl0w0dxmABhyJvBd6aZf83PhA==" ;
+        c:submissionDate  "2015-05-30 09:43:16.997" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/25408427-fb4b-399b-9585-001584905b2f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/25408427-fb4b-399b-9585-001584905b2f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

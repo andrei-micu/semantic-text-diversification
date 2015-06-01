@@ -1,0 +1,59 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7> ;
+        c:score           "0.587" .
+
+<http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7> ;
+        c:importance     "1" ;
+        c:name           "New Jersey" ;
+        c:originalValue  "New Jersey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcbd9947-1ad7-3f29-bf02-a1588634c720> .
+
+<http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9110fb90-d60c-1edf-14da-54cb64f35464" ;
+        c:docDate          "2015-05-30 10:49:39.050" ;
+        c:docTitle         "" ;
+        c:document         "Don't trash Jersey until you've traveled it. Being from New Jersey, I've heard all the old Joisey stereotypes." ;
+        c:id               "http://id.opencalais.com/3AW4i9kEwkKgQiXDuTptIg" .
+
+<http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7> ;
+        c:score           "0.971" .
+
+<http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7f3de279-3738-35f7-a07f-83792decb8d7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|E/BMMZVRIC8dJ/lIHtl9/Chknsw=|TX0E9M/QvAAENDOOkRKHVU85WVF1nRaqH+OUMZyYm6KDk8E5pHnH2A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:37.615" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

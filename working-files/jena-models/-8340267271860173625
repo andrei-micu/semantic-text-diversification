@@ -1,0 +1,43 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/acbdf6bf-c30a-3e63-9e6b-e8372f02ca0a/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/acbdf6bf-c30a-3e63-9e6b-e8372f02ca0a> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/acbdf6bf-c30a-3e63-9e6b-e8372f02ca0a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/acbdf6bf-c30a-3e63-9e6b-e8372f02ca0a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Kq0lH1uXISeBgZJBwy8BI8ZW2po=|eUmZEOYIiEbJ3E0UbhzUCWEaTPggjh0kbfFNQzCvY82M/TndZb/iCg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:47.257" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/acbdf6bf-c30a-3e63-9e6b-e8372f02ca0a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "d24ec023-43ca-764b-14da-54a1cd932f98" ;
+        c:docDate          "2015-05-30 09:46:47.366" ;
+        c:docTitle         "" ;
+        c:document         "Stop using Asians as role models. When I was growing up, one of the things that always made me crazy was my parents' habit of constantly praising other kids in my presence: \"Oh, remember Olivia Chang? Did you know she's going to be performing at Carnegie Hall next month? Original composition! She wrote it herself!\" Or \"Mrs. Lee's son George will be attending Oxford University next year. And he's only 14!\" These exclamations would invariably be followed by silence and an evaluating look at me, intended to communicate my utter inability to match the performance of these other children." ;
+        c:id               "http://id.opencalais.com/thM*E40sItWbPJ3SMSpMzA" .
+
+<http://d.opencalais.com/dochash-1/acbdf6bf-c30a-3e63-9e6b-e8372f02ca0a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/acbdf6bf-c30a-3e63-9e6b-e8372f02ca0a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/acbdf6bf-c30a-3e63-9e6b-e8372f02ca0a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/acbdf6bf-c30a-3e63-9e6b-e8372f02ca0a> ;
+        c:score           "0.896" .

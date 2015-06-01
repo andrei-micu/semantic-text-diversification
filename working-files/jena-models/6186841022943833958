@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:importance     "2" ;
+        c:name           "Multi-touch" ;
+        c:originalValue  "Multi-touch" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cf5a7edd-2695-34c6-becc-573cd22ed2d6> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:importance     "1" ;
+        c:name           "IPad" ;
+        c:originalValue  "IPad" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3be8147e-5280-3843-b103-7bdada24520e> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:importance     "2" ;
+        c:name           "Cockpit iPads" ;
+        c:originalValue  "Cockpit iPads" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2369fe17-e56e-3534-a82e-bca3b86fed83> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Other> ;
+        c:categoryName    "Other" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:score           "0.897" .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:importance     "1" ;
+        c:name           "Apple Inc." ;
+        c:originalValue  "Apple Inc." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1205cb52-d703-34d2-83b2-a09d4d47575c> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:importance     "2" ;
+        c:name           "Tablet computers" ;
+        c:originalValue  "Tablet computers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14f472fc-6e62-3691-afa6-b27b49ce8fcd> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|DYSYpVPV6LO9HY81M5EdLUq4olY=|BAtFUcA2YwKPBscw3Vu5dPoXh92K2W+O9EzIBf/y5uvNwlbELqFPmQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:31:15.646" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:importance     "2" ;
+        c:name           "IOS" ;
+        c:originalValue  "IOS (Apple)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/93511881-ab5b-3bd5-8f7b-c12bb17d2f38> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:importance  "1" ;
+        c:name        "Other" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/137e79ce-d517-336c-9825-a9acdd2a517c> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:importance     "2" ;
+        c:name           "App Store" ;
+        c:originalValue  "App Store (iOS)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c2ac4c6-0fca-33a8-a1e3-ae67e6b70221> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7> ;
+        c:importance     "1" ;
+        c:name           "ITunes" ;
+        c:originalValue  "ITunes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c12ad19-dd6f-3049-a577-8802606546a7> .
+
+<http://d.opencalais.com/dochash-1/07d45b2d-68df-3e6f-826b-3b5c9f2084a7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f7e2cd4d-e9be-fe1c-14da-53be5be32f98" ;
+        c:docDate          "2015-05-30 09:31:15.943" ;
+        c:docTitle         "" ;
+        c:document         "Planes grounded by iPad app error. American Airlines delays dozens of flights after an iPad app used by its pilots stops working." ;
+        c:id               "http://id.opencalais.com/4LUyE*DEaAXP2jLdTWXUNQ" .

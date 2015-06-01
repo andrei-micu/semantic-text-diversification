@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:importance     "2" ;
+        c:name           "Crime in the United States" ;
+        c:originalValue  "Crime in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2ae84720-7dc9-318e-9f99-21cfd38b7928> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:score           "0.941" .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:importance     "1" ;
+        c:name           "New York City Police Department" ;
+        c:originalValue  "New York City Police Department" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/35b5d7dd-97a1-3e54-9b0f-0d947adfcdfc> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:importance     "2" ;
+        c:name           "Sean Bell shooting incident" ;
+        c:originalValue  "Sean Bell shooting incident" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cd22c1b9-d792-302e-8110-7c6e1570c8d9> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1e69b4ef-640c-01d1-14da-54ab738719b3" ;
+        c:docDate          "2015-05-30 10:47:27.010" ;
+        c:docTitle         "" ;
+        c:document         "Protests after cop acquitted. Police arrested demonstrators in downtown Cleveland following the acquittal of a police officer charged in the 2012 shooting death of two unarmed people. FULL STORY" ;
+        c:id               "http://id.opencalais.com/dzA*khceTjcWFsmflf3*Kg" .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:importance     "1" ;
+        c:name           "Bay Area Rapid Transit" ;
+        c:originalValue  "Bay Area Rapid Transit" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a4e0e88-a07a-3154-8491-57bc203b129c> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:importance     "2" ;
+        c:name           "BART Police shooting of Oscar Grant" ;
+        c:originalValue  "BART Police shooting of Oscar Grant" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06452539-cd83-3cc2-a420-e0f23cf8f652> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:importance     "2" ;
+        c:name           "Violence" ;
+        c:originalValue  "Violence" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3c7ad1ef-3465-32b8-a576-ea3a2515bdb2> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:importance     "1" ;
+        c:name           "Police brutality in the United States" ;
+        c:originalValue  "Police brutality in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1bb5719f-84f4-34e8-bdd8-2b87a90f539c> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:importance     "2" ;
+        c:name           "Citizen journalism" ;
+        c:originalValue  "Citizen journalism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d125d653-3863-3bb3-a1fe-9258c9732a69> .
+
+<http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/fe78e1c3-7601-314b-8c6f-cb3882df4cac> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Fap5Ema0VUT9zOaNd9zzAjvikCk=|iAeeh+I9cfxmRlSHSv942x2ypvOWE6x/Y6UrZnSkhNHBxBcihlt0ww==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:26.776" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

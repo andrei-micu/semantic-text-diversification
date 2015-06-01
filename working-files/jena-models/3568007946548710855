@@ -1,0 +1,97 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:importance     "1" ;
+        c:name           "Nationality" ;
+        c:originalValue  "Nationality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b44aebf-d341-3c29-99c8-2088e1ee35e9> .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:importance     "1" ;
+        c:name           "Dustin Diamond" ;
+        c:originalValue  "Dustin Diamond" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d5d9384b-f766-3618-b0f4-7ac52f4f2b89> .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f2fa07e1-95d2-bd20-14da-54c8c3e13c98" ;
+        c:docDate          "2015-05-30 09:49:27.174" ;
+        c:docTitle         "" ;
+        c:document         "'Saved by the Bell' star guilty on 2 charges. A jury has found actor Dustin Diamond not guilty of one felony charge in a Christmas Day bar stabbing last year." ;
+        c:id               "http://id.opencalais.com/OSm726bvVqpG8xzpnyIcGg" .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|xIoIVsZNxBZVs7VUmMK9DEkdQ4A=|LRRXCYeQfeFL1spL4Oz/Z2dwfgx1QCYEAI0vI0FLCBEyWV/noJaMRg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:26.846" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:importance     "1" ;
+        c:name           "Jury" ;
+        c:originalValue  "Jury" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8a16064a-030b-3f46-836e-5d71424b9296> .
+
+<http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e6a67fbd-ca8e-38f1-98a0-3e38bad12c69> ;
+        c:score           "1.000" .

@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1e86f35c-5195-3c4e-88b1-3803e79651b5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1e86f35c-5195-3c4e-88b1-3803e79651b5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XrpxO4jtEGSpkdMUf+AfuHZi3GQ=|FDLSzqng0qXPC3szwB7A93KoS31bYSyDCETiA7diyZuTcEP8Nh1ZNg==" ;
+        c:submissionDate  "2015-05-30 10:48:03.764" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1e86f35c-5195-3c4e-88b1-3803e79651b5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ee456d68-238a-bfcd-14da-54b47b4719b3" ;
+        c:docDate          "2015-05-30 10:48:03.827" ;
+        c:docTitle         "" ;
+        c:document         "Hang in there! 13 breathtaking buildings that seem to defy gravity. " ;
+        c:id               "http://id.opencalais.com/1YHqLU1HaBiHceUFbRSgJA" .
+
+<http://d.opencalais.com/dochash-1/1e86f35c-5195-3c4e-88b1-3803e79651b5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1e86f35c-5195-3c4e-88b1-3803e79651b5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

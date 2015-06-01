@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d4f4ecbc-f8f7-3b4d-9138-db209961f949/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d4f4ecbc-f8f7-3b4d-9138-db209961f949> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|cZS4QJhgJPdiiIoHZI+yNcxuVzc=|GsN7XF0vm7bjRFVFvwAh8KpJyh8C3yhhFGQGRbtKJP+RMZo0RlEoCg==" ;
+        c:submissionDate  "2015-05-30 10:44:38.943" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d4f4ecbc-f8f7-3b4d-9138-db209961f949>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cbd52dfd-b49c-3f39-14da-548279f719b3" ;
+        c:docDate          "2015-05-30 10:44:39.021" ;
+        c:docTitle         "" ;
+        c:document         "Actress, 37, too old to romance 55-year-old. Here we go again, Hollywood." ;
+        c:id               "http://id.opencalais.com/y-2eYOWL3-aHexMxJIPKUA" .
+
+<http://d.opencalais.com/dochash-1/d4f4ecbc-f8f7-3b4d-9138-db209961f949/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d4f4ecbc-f8f7-3b4d-9138-db209961f949> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

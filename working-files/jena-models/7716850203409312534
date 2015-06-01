@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|aSFjWDVgvrbzndHJlRiLQPVegkY=|FS5XGhByoAQ/byTHq1gIRg2TYVmR/oHMSBhOQNv9Kk7VoS3xUbgmjg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:13.220" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance     "1" ;
+        c:name           "Transport" ;
+        c:originalValue  "Transport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/01ff61e5-8b81-3b93-a8d8-5b66aefaa0e3> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance     "2" ;
+        c:name           "Geography of Iran" ;
+        c:originalValue  "Geography of Iran" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c9583747-d37f-3cbe-a787-2e6ea044ebac> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:score           "0.751" .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance     "2" ;
+        c:name           "Persian Gulf" ;
+        c:originalValue  "Persian Gulf" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7db69198-045d-34c1-8645-77c3b0849a78> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance     "1" ;
+        c:name           "Gulf of Oman" ;
+        c:originalValue  "Gulf of Oman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40615546-d5df-3f9d-9315-01cd71c3fb98> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance     "2" ;
+        c:name           "Maersk" ;
+        c:originalValue  "Maersk" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dd634d0b-6e30-3e35-aea3-ad3ed212a4d1> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7f5302fb-6aab-a0a0-14da-5391d24719b3" ;
+        c:docDate          "2015-05-30 10:28:13.344" ;
+        c:docTitle         "" ;
+        c:document         "Iran seizes ship; U.S. responds. Iran Revolutionary Guard patrol boats fired shots across the bow of and later intercepted a commercial cargo ship, the M/V Maersk Tigris, which was crossing the Strait of Hormuz Tuesday morning, according to a senior U.S. military official." ;
+        c:id               "http://id.opencalais.com/FLhpdgx07qHfIgN3KSqjGg" .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance     "1" ;
+        c:name           "Shipping" ;
+        c:originalValue  "Shipping" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f0ba2712-b3fa-3f41-8887-20f84a12714b> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance     "2" ;
+        c:name           "Strait of Hormuz" ;
+        c:originalValue  "Strait of Hormuz" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7ecda917-fdbd-3d1f-a373-ccc980bec53f> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance     "2" ;
+        c:name           "Hormozgan Province" ;
+        c:originalValue  "Hormozgan Province" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0eb843ef-a020-3286-a163-eb7756e1be93> .
+
+<http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/603ecd50-0d8d-351f-8d66-3699354ca80a> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

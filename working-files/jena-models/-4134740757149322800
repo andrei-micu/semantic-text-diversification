@@ -1,0 +1,170 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:score           "0.551" .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "2" ;
+        c:name           "Adnanites" ;
+        c:originalValue  "Adnanites" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e26153d4-41e2-3da0-b74e-5b670a4ea3df> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "2" ;
+        c:name           "Heir apparent" ;
+        c:originalValue  "Heir apparent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ed377288-cb98-310b-a4e3-08cc5568475b> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:score           "0.625" .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|1bfsqxtRikXG4Ovl6PnJk4qZFW0=|S8QOuFKa1kO6H7xleFA+DmNd/NMImUsIPd2SEb3hwQLcvVHniwMqwQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:19.758" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "2" ;
+        c:name           "Monarchy" ;
+        c:originalValue  "Monarchy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eb5ff127-2dc0-3aec-a037-3fd02b1dc74d> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "2" ;
+        c:name           "Game of Thrones" ;
+        c:originalValue  "Game of Thrones (TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f2583c5-545e-388f-8c32-9243b8ffedf2> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "1" ;
+        c:name           "Inheritance" ;
+        c:originalValue  "Inheritance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d672167a-4c00-3b14-a744-c4b2b7057064> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "2" ;
+        c:name           "A Game of Thrones" ;
+        c:originalValue  "A Game of Thrones (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b0a03e13-3151-3ebb-96d7-eff52022b8d0> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "1" ;
+        c:name           "Middle East" ;
+        c:originalValue  "Middle East" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d409e4d8-bb09-3dd2-98dc-af04b2734c0a> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "2" ;
+        c:name           "Order of succession" ;
+        c:originalValue  "Order of succession" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4174a9f2-6096-3acb-b2e9-3397d82363c7> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "2" ;
+        c:name           "Saudi Arabia" ;
+        c:originalValue  "Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/287525b4-3bb6-30f6-a8b8-1757b06a0b54> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3dbb47c7-c09d-3e5d-14da-53a210e71d39" ;
+        c:docDate          "2015-05-30 09:29:20.086" ;
+        c:docTitle         "" ;
+        c:document         "Game Of Thrones: Saudi King Shakes Up Line Of Succession. King Salman has named a new heir — and consolidated power in the hands of a younger generation." ;
+        c:id               "http://id.opencalais.com/PCWZtuRuhcf7wQfPU9l27A" .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:score           "0.532" .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "2" ;
+        c:name           "House of Saud" ;
+        c:originalValue  "House of Saud" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d3876495-1e14-34df-bbf7-cbd2ef3d72b1> .
+
+<http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/bfc10c99-42d4-3eeb-927f-804096e2a63d> ;
+        c:importance     "2" ;
+        c:name           "Sudairi Seven" ;
+        c:originalValue  "Sudairi Seven" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/69bf9870-fd5a-3d39-bbce-69e348f57bbf> .

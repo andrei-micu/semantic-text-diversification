@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b8d475b2-2951-3647-9d75-434ba37a673d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "ce5ad1e8-f2ee-11f1-4da5-498e1c49095c" ;
+        c:docDate          "2015-05-30 10:46:10.778" ;
+        c:docTitle         "" ;
+        c:document         "Photos: The Vietnam War . A timeline of the Vietnam War in pictures." ;
+        c:id               "http://id.opencalais.com/GToFoJ287ZNsIyjqhfgmyw" .
+
+<http://d.opencalais.com/dochash-1/b8d475b2-2951-3647-9d75-434ba37a673d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b8d475b2-2951-3647-9d75-434ba37a673d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/b8d475b2-2951-3647-9d75-434ba37a673d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b8d475b2-2951-3647-9d75-434ba37a673d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|7Ikxn7hS+UcPTWDm2AQm9yOOZQo=|SopmDtu1/SupaFoDFAeRnAeenSWUeIHXxJ2Oy7vmYMvBmmN5f+Kh0Q==" ;
+        c:submissionDate  "2015-05-30 10:46:10.716" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

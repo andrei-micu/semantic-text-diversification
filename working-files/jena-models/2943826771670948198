@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:importance     "2" ;
+        c:name           "Roseanne" ;
+        c:originalValue  "Roseanne (TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6c14bd0-f511-3834-b227-8455788b8bbb> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:score           "0.908" .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:importance     "1" ;
+        c:name           "Ophthalmology" ;
+        c:originalValue  "Ophthalmology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dd4df7f7-f215-3b0b-9ec8-af7527be19e8> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:importance     "2" ;
+        c:name           "Macula of retina" ;
+        c:originalValue  "Macula of retina" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2e1d9d45-23ff-3df9-b5fe-d4a7adfe808a> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:importance     "2" ;
+        c:name           "Macular degeneration" ;
+        c:originalValue  "Macular degeneration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e74c2dbc-8e05-3cc0-a788-1e79567bfe94> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|iA1kBboz4sDuY6u+INk7o54j7BQ=|Mf1VEqsano3FNxUxo45wKSuDWi1wcNPXw/4L5Evbn1X1+t4aRrMF9w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:28:34.848" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f6092382-22b1-7039-14da-53971a04551f" ;
+        c:docDate          "2015-05-30 09:28:35.067" ;
+        c:docTitle         "" ;
+        c:document         "Roseanne Barr's blindness, how to prevent it. The comic shared her struggle with macular degeneration and glaucoma, which can be protected against." ;
+        c:id               "http://id.opencalais.com/sRC*XPTAXT5bzCzTcFKmzg" .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:score           "0.765" .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:importance     "1" ;
+        c:name           "Vision" ;
+        c:originalValue  "Vision" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5aae3e56-0fbb-382a-bbea-540c9da6e9e4> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:importance     "2" ;
+        c:name           "Blindness" ;
+        c:originalValue  "Blindness" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04455a8f-7eb9-3ac4-8973-e9e4dc4de5cf> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:importance     "2" ;
+        c:name           "Glaucoma" ;
+        c:originalValue  "Glaucoma" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/62e882df-a3ac-3f2c-a886-d503dd93cff3> .
+
+<http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/58bdb2ea-acf1-3c42-90bc-a6870ab892c1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

@@ -1,0 +1,51 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|g8CuOwTNosuAINfg5zNohfn2E1Q=|g9T2T4wEb3dSGTDAL4+FJRdLUtIjPGczqVQtCkU5ug7zh2ccXBDEYA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:52.086" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6> ;
+        c:importance     "1" ;
+        c:name           "Republican Party" ;
+        c:originalValue  "Republican Party (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c7edc0-b3b9-3ea8-95b5-ac3a0b1fd81a> .
+
+<http://d.opencalais.com/dochash-1/253712a0-d2b8-3dba-8898-862d178f6fb6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6bc75c6e-b004-db83-14da-53d5e7623ab1" ;
+        c:docDate          "2015-05-30 10:32:52.289" ;
+        c:docTitle         "" ;
+        c:document         "First Draft: Today in Politics: Republicans to Increase Their Boots on the Trail. The three Republicans announcing presidential bids this week could have an important effect on the party’s political discussion." ;
+        c:id               "http://id.opencalais.com/wr6JmQuqNMSVOMMbFMnHdg" .

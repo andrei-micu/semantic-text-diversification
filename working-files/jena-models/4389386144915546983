@@ -1,0 +1,67 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491> ;
+        c:importance     "1" ;
+        c:name           "Fertility medicine" ;
+        c:originalValue  "Fertility medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a0a90094-94ea-382a-b12c-8bd44a82f10f> .
+
+<http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "59b4e192-48dd-7519-14da-54b224523ab1" ;
+        c:docDate          "2015-05-30 10:47:54.337" ;
+        c:docTitle         "" ;
+        c:document         "Vaginal exam lawsuit raises tricky questions. Last Thursday, two students at Orlando's Valencia College alleged in a lawsuit that instructors forced them into submitting to weekly transvaginal ultrasound exams performed by fellow students as part of their training." ;
+        c:id               "http://id.opencalais.com/0QAbBIxEKj5hv6SnXFmtkg" .
+
+<http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491> ;
+        c:importance     "1" ;
+        c:name           "Medical ultrasound" ;
+        c:originalValue  "Medical ultrasound" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f2f0e36e-4595-3987-b555-d368eac53854> .
+
+<http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|njZYcTsS4hp9lZieBkHuOLKY9RU=|J+xhlrW0cBw2GWTLRN8FDLJOogWDCLmoBm05IAxKOzfobku7ruOF/Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:54.181" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491> ;
+        c:importance     "1" ;
+        c:name           "Gynecologic ultrasonography" ;
+        c:originalValue  "Gynecologic ultrasonography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/646ab8c2-223d-37d0-8b62-0f7643c5e081> .
+
+<http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ef60148e-fe75-3f8c-b73d-89c998a37491> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

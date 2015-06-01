@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8bff10b5-f096-36f4-8214-3536e68443fa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5c632884-8608-d7f2-14da-539226449095" ;
+        c:docDate          "2015-05-30 10:28:14.626" ;
+        c:docTitle         "" ;
+        c:document         "Defense: Rob Tsarnaev of death. How do you defend the indefensible?" ;
+        c:id               "http://id.opencalais.com/AHgAjOBGL8IKy0lRoFdB*w" .
+
+<http://d.opencalais.com/dochash-1/8bff10b5-f096-36f4-8214-3536e68443fa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8bff10b5-f096-36f4-8214-3536e68443fa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ZncG7l666wbJfmm+YR93ax85zeI=|ZPQ917v3nl9C3o59pPPgrqAu7UKRftU7Z9/weOQA5J1YrwTTb2XM+A==" ;
+        c:submissionDate  "2015-05-30 10:28:14.564" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8bff10b5-f096-36f4-8214-3536e68443fa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8bff10b5-f096-36f4-8214-3536e68443fa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

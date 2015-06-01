@@ -1,0 +1,161 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "1" ;
+        c:name           "Socialism" ;
+        c:originalValue  "Socialism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/094957d2-880e-3193-8e42-dd16b5462f0b> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "2" ;
+        c:name           "Presidency of John F. Kennedy" ;
+        c:originalValue  "Presidency of John F. Kennedy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/18c76dfa-d920-3aa6-9b74-42ee2bfc7196> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "2" ;
+        c:name           "Outline of Vietnam" ;
+        c:originalValue  "Outline of Vietnam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fd930e6a-1643-3866-b31e-dfff7d556db2> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "2" ;
+        c:name           "Presidency of Gerald Ford" ;
+        c:originalValue  "Presidency of Gerald Ford" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1852decc-13ad-36ef-8916-15de011cf533> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "2" ;
+        c:name           "Laotian Civil War" ;
+        c:originalValue  "Laotian Civil War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fe8020c0-9aca-3178-b525-bd391897e870> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5c86052e-33a4-9dc9-14da-53be00c23ab1" ;
+        c:docDate          "2015-05-30 10:31:14.360" ;
+        c:docTitle         "" ;
+        c:document         "What you should know about the Vietnam War. Here's some background information about the Vietnam War." ;
+        c:id               "http://id.opencalais.com/hQeKiWfDHxSuJ*ExqAXBMw" .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|XU33uV12WJlIbMAhdwHGMSmuMm0=|KTdmeNRiyRkeL8LH6OdMZZbFsvmUFZ3ZCO4FPYn3KQn4V2qphtZM7A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:14.188" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "1" ;
+        c:name           "Vietnam War" ;
+        c:originalValue  "Vietnam War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3505c48d-ccce-3625-848c-82afffae1347> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "2" ;
+        c:name           "Vietnam" ;
+        c:originalValue  "Vietnam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dc04e9a3-ab6a-3ed1-9b62-2fc35e088b64> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "1" ;
+        c:name           "Military history by country" ;
+        c:originalValue  "Military history by country" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/087763f8-a6c8-3617-900c-aab09427f17b> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "2" ;
+        c:name           "Wars involving Canada" ;
+        c:originalValue  "Wars involving Canada" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d970d0b6-f254-3783-82a2-9e677cd19c29> .
+
+<http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5770aa25-3150-31d1-b86e-f6720f44b769> ;
+        c:importance     "2" ;
+        c:name           "Stolen Valor" ;
+        c:originalValue  "Stolen Valor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c728eed-3dde-3af7-aa47-b73e95556399> .

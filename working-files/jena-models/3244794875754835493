@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:importance     "1" ;
+        c:name           "Coup d'état" ;
+        c:originalValue  "Coup d'état" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/554146f1-3e13-3d3c-861e-a464487a46eb> .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:importance     "2" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2c0002d9-9193-90be-14da-542f32971d39" ;
+        c:docDate          "2015-05-30 09:38:58.067" ;
+        c:docTitle         "" ;
+        c:document         "Coup fails, leaders arrested. Burundian authorities arrested the military generals behind an attempted coup, including its leader Godefroid Niyombare, a government spokesman said Friday." ;
+        c:id               "http://id.opencalais.com/d6KgxWIIEbK8W0l9MXvYCw" .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:score           "0.995" .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:importance     "1" ;
+        c:name           "French language" ;
+        c:originalValue  "French language" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65035412-2e89-37ab-aae2-7c4463c01129> .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:importance     "2" ;
+        c:name           "Burundi" ;
+        c:originalValue  "Burundi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/073f4153-2172-3d30-a0b1-2b2570997313> .
+
+<http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9cc9805f-ea22-3534-a718-5ab52ee2ec1d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|3KjF8LoDhDoQwDXmOngy76gLmCE=|B4FQjmyuBf8kIJblI9JOX2EVrUYiEt9js55eoAZN6GzjhNoOTOCBig==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:38:57.833" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

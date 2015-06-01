@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:importance     "2" ;
+        c:name           "Geography of Scotland" ;
+        c:originalValue  "Geography of Scotland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/68367395-4803-31ed-9c2b-7de15d33241f> .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:importance     "1" ;
+        c:name           "Glasgow" ;
+        c:originalValue  "Glasgow" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f0820f08-8405-33fe-aa71-3e6f5ff0efc4> .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|63CfoyMPMOFzDCqr3H1qKw6XKmo=|j+/KedCN0tsCvz3qaHwuUEaxtCEA2bsXpZVVjM0lLeXNaQOHxynjGg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:14.080" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:score           "0.960" .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:importance     "2" ;
+        c:name           "Food and drink" ;
+        c:originalValue  "Food and drink" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7f572de-2875-325d-a486-8a667234b361> .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "65aad94e-d3fb-93e6-14da-540738032f98" ;
+        c:docDate          "2015-05-30 09:36:14.345" ;
+        c:docTitle         "" ;
+        c:document         "'A beer and a beating' in Glasgow. Glasgow is known as a hard-drinking, fun town, which lends itself to some rowdy behavior. \"Anthony Bourdain: Parts Unknown\" airs Sundays at 9 p.m. ET/PT." ;
+        c:id               "http://id.opencalais.com/YF2aQBY4aA9MmXDcqcd0HQ" .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:importance     "1" ;
+        c:name           "Geography of the United Kingdom" ;
+        c:originalValue  "Geography of the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0729c2ad-c955-3362-a4c8-f81c517fa95d> .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:importance     "1" ;
+        c:name           "Anthony Bourdain" ;
+        c:originalValue  "Anthony Bourdain" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0d71bb4b-99a5-3b57-ae36-989fb2fd3dda> .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2658f581-b90c-3bf5-8450-f04d613f2772> ;
+        c:score           "1.000" .

@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|xXfZCs1DnZUJAdzUPfsnAiQaNFM=|kMOUgRz+QDFew+0Al0oJzf0/k0sW4W7SuWY0DqVY0Y2iPWqPRs7rLg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:48:46.469" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff> ;
+        c:importance     "2" ;
+        c:name           "Veggie" ;
+        c:originalValue  "Veggie" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8be617d0-790e-3ec1-92fb-c2601cdf8677> .
+
+<http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff> ;
+        c:importance     "1" ;
+        c:name           "Epcot" ;
+        c:originalValue  "Epcot" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/53631437-ffe3-31a8-92ec-621b92107a86> .
+
+<http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7281743a-1e59-7839-14da-54bee8571d39" ;
+        c:docDate          "2015-05-30 09:48:46.625" ;
+        c:docTitle         "" ;
+        c:document         "'Ugly' vegetables: Trendy, tasty, and good for you. Move over, kale. Americans are expanding their veggie horizons. 2015 is the year of the warty, hunchbacked and spiney." ;
+        c:id               "http://id.opencalais.com/5BJ8XMD90Skg6TlAOEHz5g" .
+
+<http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff> ;
+        c:importance     "1" ;
+        c:name           "Brassica oleracea" ;
+        c:originalValue  "Brassica oleracea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34992689-8edb-3649-8cb4-9f3cf8f09389> .
+
+<http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff> ;
+        c:importance     "2" ;
+        c:name           "Horizons" ;
+        c:originalValue  "Horizons (Epcot)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c924802f-65d8-32e9-9bc3-d24828bb70b6> .
+
+<http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff> ;
+        c:importance     "2" ;
+        c:name           "Kale" ;
+        c:originalValue  "Kale" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3a6c767b-9040-3942-96fc-6cb8fc4196ef> .
+
+<http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff> ;
+        c:importance     "1" ;
+        c:name           "Leaf vegetables" ;
+        c:originalValue  "Leaf vegetables" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/91e88228-0649-35b8-943e-26189cf92c21> .
+
+<http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/372b444a-dc8b-3902-97b2-1c4b4730b2ff> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .

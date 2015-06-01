@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "3857eaf2-4ce2-1eed-14da-53d96441927e" ;
+        c:docDate          "2015-05-30 10:33:06.481" ;
+        c:docTitle         "" ;
+        c:document         "First Draft: The Chat: Ben Carson’s Announcement, Instantly Analyzed. Patrick Healy and Maggie Haberman digest the retired neurosurgeon’s entry into the Republican presidential contest by instant message." ;
+        c:id               "http://id.opencalais.com/yo7gnlt08ic1zWqGJAFi4g" .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:importance     "1" ;
+        c:name           "Internet culture" ;
+        c:originalValue  "Internet culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/44a8ce6b-c746-31f8-badd-7b54b272bf80> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:importance     "2" ;
+        c:name           "Computing" ;
+        c:originalValue  "Computing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f9a3d55-33f5-3738-a2f7-3e9065a5a169> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:importance     "1" ;
+        c:name           "Online chat" ;
+        c:originalValue  "Online chat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/545008c7-8cdb-3979-a1be-fdede27a2151> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:importance     "2" ;
+        c:name           "Haberman" ;
+        c:originalValue  "Haberman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/be005ada-6bfc-3013-ade7-b817ceda0f5e> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Loi8GxOpQcTykAhtZMqDGTlq/V0=|Y0mB7IYT9klF/NbybLjfUEQUskZUy+RX6Fr7k4k25QmJYdybOlYLxQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:06.372" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:importance     "2" ;
+        c:name           "Computer-mediated communication" ;
+        c:originalValue  "Computer-mediated communication" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b80c7146-7618-376f-ae4d-838b1285a833> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:importance     "2" ;
+        c:name           "Electronics" ;
+        c:originalValue  "Electronics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae6e6e80-c177-3b47-9ed7-6099774e0f7e> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:importance     "1" ;
+        c:name           "Videotelephony" ;
+        c:originalValue  "Videotelephony" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d8a11f4-1354-3578-984b-942488e27519> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:importance     "2" ;
+        c:name           "Instant messaging" ;
+        c:originalValue  "Instant messaging" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2d807ae3-a92d-3665-b1e3-2cb3f770c848> .
+
+<http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/09957249-ec6f-36f2-9069-e244cbd8d23a> ;
+        c:importance     "2" ;
+        c:name           "Healy" ;
+        c:originalValue  "Healy (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4cebf2f-238b-30ea-a0e6-bae5f8b302b2> .

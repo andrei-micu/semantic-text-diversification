@@ -1,0 +1,137 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance     "2" ;
+        c:name           "Military of North Korea" ;
+        c:originalValue  "Military of North Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14b7c516-47c8-34e0-8562-e0b93fd1b41f> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bf8cd723-6b6d-48cf-14da-542fa511927e" ;
+        c:docDate          "2015-05-30 10:38:59.884" ;
+        c:docTitle         "" ;
+        c:document         "North Korea test-fires submarine missile . North Korea could have a fully operational submarine armed with ballistic missiles within five years, a South Korean defense official said. CNN's Brian Todd reports." ;
+        c:id               "http://id.opencalais.com/Yfc9EKvctggaHzqDtUMU-Q" .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance     "1" ;
+        c:name           "Weapons of mass destruction" ;
+        c:originalValue  "Weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9562e4d9-0ad0-3dde-80ea-ba76fafed720> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance     "2" ;
+        c:name           "North Korea and weapons of mass destruction" ;
+        c:originalValue  "North Korea and weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e2138164-9178-38bc-bad9-9b351683212f> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|AiPgN9+2EyOZwGT4WXt85AnIzpY=|bPZ1bQ2rNkkyGBs7usXp+7JEWDoECjF3qEwteUK8OLCSIGZMiOGWeA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:59.665" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance     "2" ;
+        c:name           "Nuclear program of North Korea" ;
+        c:originalValue  "Nuclear program of North Korea" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70dc4130-2457-301a-b3d4-d58fe6c12df4> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:score           "0.889" .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance     "1" ;
+        c:name           "Submarine" ;
+        c:originalValue  "Submarine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5039f393-83bc-3959-b4db-1718565b806b> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance     "2" ;
+        c:name           "India and weapons of mass destruction" ;
+        c:originalValue  "India and weapons of mass destruction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4daf3be0-3190-3a18-bf8f-664bcf8870c1> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance     "1" ;
+        c:name           "Watercraft" ;
+        c:originalValue  "Watercraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/23acc33c-c2ba-344a-b86c-df31406c39bd> .
+
+<http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/aa444d19-bd28-32ec-9803-91d9e96cb39d> ;
+        c:importance     "2" ;
+        c:name           "Ballistic missiles" ;
+        c:originalValue  "Ballistic missiles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/92ed6444-7f3c-3731-b62a-e1db73a12566> .

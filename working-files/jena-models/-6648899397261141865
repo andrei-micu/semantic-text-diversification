@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "476ff21c-d764-2487-14da-54490734551f" ;
+        c:docDate          "2015-05-30 09:40:43.853" ;
+        c:docTitle         "" ;
+        c:document         "Modi Calls on China to Rethink Stances That Strain Ties to India. After meeting with the Chinese premier in Beijing, Prime Minister Narendra Modi said that improved relations would hinge on how China responds to Indian concerns." ;
+        c:id               "http://id.opencalais.com/d0c2LzUOr5aLFexjrO8NAQ" .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|iqj5bzqOpBtS2gF6x2OC7fZ4QJY=|jAWReUZ042yGLkJbIoR8PlgO1AkAu6HwLv2LRBUxxdc+Kv/LlJ+hYw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:43.635" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:importance     "1" ;
+        c:name           "Narendra Modi" ;
+        c:originalValue  "Narendra Modi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8034c6f3-c441-3e07-a95d-499f0f9da9cd> .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:importance     "2" ;
+        c:name           "Indian society" ;
+        c:originalValue  "Indian society" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/46bbb7e0-564a-3141-bc37-a9a00e266a9d> .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:importance     "2" ;
+        c:name           "Modi" ;
+        c:originalValue  "Modi (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b13d04fb-c331-3f38-8748-381022e867aa> .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:importance     "1" ;
+        c:name           "Personae non gratae" ;
+        c:originalValue  "Personae non gratae" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2081f38c-6d8c-390a-b713-35e144fa8e0d> .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:importance     "1" ;
+        c:name           "Gujarati people" ;
+        c:originalValue  "Gujarati people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c02637f-42f8-3ca3-a876-74406ce5be99> .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:importance     "2" ;
+        c:name           "States and territories of India" ;
+        c:originalValue  "States and territories of India" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e7b02874-d2b9-3530-aee2-7557e0c456b0> .
+
+<http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4a230aef-00f9-3253-a2e7-727c6657c668> ;
+        c:importance     "2" ;
+        c:name           "Indian people" ;
+        c:originalValue  "Indian people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2d0cac89-6f06-339c-b474-177afbcb0521> .

@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:importance     "1" ;
+        c:name           "Elections" ;
+        c:originalValue  "Elections" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2edb7528-a80b-3329-a4a0-271d21fecf2e> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage in the United States" ;
+        c:originalValue  "Same-sex marriage in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bdcd460c-629a-331e-b2c6-af5d5447ab33> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:importance     "2" ;
+        c:name           "Politics" ;
+        c:originalValue  "Politics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:importance     "1" ;
+        c:name           "Referendum" ;
+        c:originalValue  "Referendum" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/804c1316-64fb-3b5c-aaa2-aeb1dc576c7d> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dbaec1de-6583-f5da-14da-548edf932955" ;
+        c:docDate          "2015-05-30 10:45:29.955" ;
+        c:docTitle         "" ;
+        c:document         "Irish Voters Decide Whether To Legalize Same-Sex Marriage. The referendum is expected to pass with more than two-thirds support, 22 years after homosexuality was decriminalized." ;
+        c:id               "http://id.opencalais.com/JSC49GFxHqAIyMIeogWZoQ" .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:importance     "1" ;
+        c:name           "Direct democracy" ;
+        c:originalValue  "Direct democracy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d1ceb9d-e204-3d2f-b093-ed790afe699c> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:importance     "2" ;
+        c:name           "Communism and homosexuality" ;
+        c:originalValue  "Communism and homosexuality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c6b726fe-e43d-3766-b964-7b9bbf16d910> .
+
+<http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2940389c-a6ab-3e68-a3d6-335a306cb919> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nZ+kMyZ4cKq67LvFH0emWWPUnSk=|UnfufryDkoHfXMg/m+IcF6Qjm3cW2T85YwIU/4Scusuy5EFPK/Kiog==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:29.721" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

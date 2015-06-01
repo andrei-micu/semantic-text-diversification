@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:importance     "2" ;
+        c:name           "Neurochemistry" ;
+        c:originalValue  "Neurochemistry" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2cbaf630-be58-3dff-8ecc-8cc2586fc80e> .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:importance     "1" ;
+        c:name           "Cannabis" ;
+        c:originalValue  "Cannabis (drug)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e0408b99-6c30-3a92-b818-7e4de9a9f531> .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:score           "0.800" .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:importance     "2" ;
+        c:name           "Neuropsychology" ;
+        c:originalValue  "Neuropsychology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c5e7ac54-175e-3ba7-b552-b8bb12306c3d> .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:importance     "1" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|icgI44aGbM7I++1+MZnlD/QQXQo=|LRtQkQRWPHb3q1rch8qwgDB6rqkY8kSCgGil2+GGgjFSuEZ8uvyCKw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:40.653" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "def0911b-ada2-f5a7-14da-54cc22d13c98" ;
+        c:docDate          "2015-05-30 09:49:40.793" ;
+        c:docTitle         "" ;
+        c:document         "Is eating marijuana riskier than smoking it?. Edible marijuana products are the toughest ones to ensure consistent potency. \"High Profits\" airs Sundays at 10 p.m. ET/PT." ;
+        c:id               "http://id.opencalais.com/Tu1EUiUQ3GRf81Bg9iCzkg" .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:importance     "1" ;
+        c:name           "Cannabis smoking" ;
+        c:originalValue  "Cannabis smoking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9f1d84d-f547-37da-8119-9acee000d4b3> .
+
+<http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/54ae302c-04d3-3d8b-b0ba-19e47557cd32> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .

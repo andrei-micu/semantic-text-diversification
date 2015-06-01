@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:importance     "1" ;
+        c:name           "International economics" ;
+        c:originalValue  "International economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1aa19897-17a6-383d-b88c-03620358aaa2> .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:importance     "2" ;
+        c:name           "Late-2000s financial crisis" ;
+        c:originalValue  "Late-2000s financial crisis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/955811b2-1532-31d8-8315-82773defa889> .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:importance     "2" ;
+        c:name           "International development" ;
+        c:originalValue  "International development" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5698c398-41dc-3fbd-8b28-0b01d6f76e74> .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:importance     "2" ;
+        c:name           "Financial crises" ;
+        c:originalValue  "Financial crises" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f84e1e8c-5df5-3b4a-9d02-c73262121d76> .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:importance     "2" ;
+        c:name           "International relations" ;
+        c:originalValue  "International relations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/df09f263-c0ac-313a-b475-4bf788f8998c> .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4742bf23-ec66-763a-14da-54bb35749095" ;
+        c:docDate          "2015-05-30 10:48:31.413" ;
+        c:docTitle         "" ;
+        c:document         "Greece hasn't got the money to make June IMF repayment: interior minister. ATHENS/LONDON (Reuters) - Greece cannot make debt repayments to the International Monetary Fund (IMF) next month unless it achieves a deal with creditors, its interior minister said on Sunday, the most explicit remarks yet from Athens about the likelihood of default if talks fail." ;
+        c:id               "http://id.opencalais.com/84jEPuEttjUZXaGMBco7Kw" .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:importance     "1" ;
+        c:name           "International Monetary Fund" ;
+        c:originalValue  "International Monetary Fund" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c201c98-3824-33b7-98ae-06d550b920fb> .
+
+<http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7317c035-97de-3d23-a8ed-cc835beda816> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|haoD9+Izf8H16YeLP0vezuNrlB8=|Bwhzn12ephjLAhaYKDsTHDGPq2iHV3VHWlQUz6uUPHQ5YqA0HJWNdg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:31.319" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

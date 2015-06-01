@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:importance     "2" ;
+        c:name           "Al-Askari Mosque bombing" ;
+        c:originalValue  "2006 al-Askari Mosque bombing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6c8a25e9-5e8a-39e0-998a-8a70ba9eb33d> .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f709a4ef-9ad3-39e7-14da-5485e2323ab1" ;
+        c:docDate          "2015-05-30 10:44:53.086" ;
+        c:docTitle         "" ;
+        c:document         "ISIS Claims Responsibility for Bombing at Saudi Mosque. The attack on Shiites during midday prayers left at least 21 people dead on Friday, and some Saudis on social media rushed to blame Iran." ;
+        c:id               "http://id.opencalais.com/i3iG*mPaX-l2LVJ5kF0FGg" .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:importance     "1" ;
+        c:name           "Mosque" ;
+        c:originalValue  "Mosque" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9af87f06-ec0a-3c19-9b87-6ff6e32d3700> .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:score           "0.878" .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:importance     "2" ;
+        c:name           "Shi'a Islam in Saudi Arabia" ;
+        c:originalValue  "Shi'a Islam in Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f97bf5a1-ceea-3e59-9c34-ba9ce598f367> .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Euvy/n5uhGDtVwS8sg8cTJZ+x+g=|Vl813MQkN6VErpemPxdZCY3UTIZxibuzULNJL1Y2Aa2EhyfU37vjxQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:52.899" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:score           "0.967" .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:importance     "1" ;
+        c:name           "Saudi Arabia" ;
+        c:originalValue  "Saudi Arabia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/287525b4-3bb6-30f6-a8b8-1757b06a0b54> .
+
+<http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b4eec45f-4620-3104-b543-7ab4b77a47b2> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .

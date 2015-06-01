@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "60dc3f8d-909a-acad-14da-53bec3649095" ;
+        c:docDate          "2015-05-30 10:31:17.380" ;
+        c:docTitle         "" ;
+        c:document         "Turning waves into mesmerizing mountains. Australian coalminer-turned -photographer Ray Collins braves perilous conditions in storm-churned oceans to reveal a dreamlike world of frozen waves." ;
+        c:id               "http://id.opencalais.com/MdthK*4vZuaNlYg0s*P2nQ" .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:score           "0.831" .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:importance     "2" ;
+        c:name           "Wind wave" ;
+        c:originalValue  "Wind wave" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/aba7e0c9-d970-3164-a70d-2b5c5fc126b1> .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:importance     "1" ;
+        c:name           "Physical oceanography" ;
+        c:originalValue  "Physical oceanography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ca2cdb5-1e6a-3e49-b59c-5ef417129bea> .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:importance     "1" ;
+        c:name           "Physical geography" ;
+        c:originalValue  "Physical geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/07bc24e7-a33a-34a3-8a5c-23a4b068fccb> .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:importance     "2" ;
+        c:name           "Ocean" ;
+        c:originalValue  "Ocean" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eed861ec-bfed-33ab-93c1-f62163206218> .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:importance     "2" ;
+        c:name           "Water waves" ;
+        c:originalValue  "Water waves" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/22c7de51-9728-3c92-b4e7-4991a57ac1e9> .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LJ7yTXcSQt8SGU5P+1VjwS63MyE=|NZX1fA49kpCpGsUKz6QftVCgJ8xwp1A0qLd6XT1CguZfhaMQeuy7gw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:17.302" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:importance     "1" ;
+        c:name           "Coastal geography" ;
+        c:originalValue  "Coastal geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e60606d7-51f0-3fb1-92ca-61f7b687b8aa> .
+
+<http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/0e2ede7e-db45-38cf-82b3-eccbf06ce6c0> ;
+        c:importance     "2" ;
+        c:name           "Oceanography" ;
+        c:originalValue  "Oceanography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9150285d-b423-3ab2-9bfd-aec1279850df> .

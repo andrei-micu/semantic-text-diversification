@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:importance     "1" ;
+        c:name           "Supreme Court of the United States" ;
+        c:originalValue  "Supreme Court of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/10b96c2a-3598-3d01-b681-ad38ab2c32bf> .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:importance     "2" ;
+        c:name           "John Roberts" ;
+        c:originalValue  "John Roberts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a5fef566-3b1d-3a39-bcca-329449fc8a88> .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:importance     "2" ;
+        c:name           "Sonia Sotomayor" ;
+        c:originalValue  "Sonia Sotomayor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/86167a86-cc34-343d-9187-a07d9b037ec7> .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:score           "0.991" .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|JRif2NT3O1vyQ6DoB7PtPMNLaQg=|fH4SCqMtdUnm0F4kJtImbQWc9Pl86DXz4iViw3MUTu4HwogPVIAc3w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:59.182" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:importance     "1" ;
+        c:name           "United States federal courts" ;
+        c:originalValue  "United States federal courts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b4fdf30d-7d20-38a6-a3c7-2408457df40b> .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:importance     "2" ;
+        c:name           "Sonia Sotomayor Supreme Court nomination" ;
+        c:originalValue  "Sonia Sotomayor Supreme Court nomination" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/58b13099-5789-31cb-a275-2ccdb90d5c34> .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:importance     "2" ;
+        c:name           "Sotomayor" ;
+        c:originalValue  "Sotomayor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/243f7ac4-8aa8-366d-8ef1-90f5e57bba13> .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:score           "0.989" .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "81336fba-c32f-c54b-14da-53c8fce1927e" ;
+        c:docDate          "2015-05-30 10:31:59.276" ;
+        c:docTitle         "" ;
+        c:document         "It's Sotomayor V. Roberts In Supreme Court Death Penalty Drama. Justice Sonia Sotomayor and lawyers arguing in favor of Oklahoma's lethal-injection cocktail got into a clash so pronounced that Chief Justice John Roberts chastised Sotomayor for talking too much." ;
+        c:id               "http://id.opencalais.com/tUbuEwyPUeODn8trxufd2A" .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:importance     "1" ;
+        c:name           "United States courts of appeals" ;
+        c:originalValue  "United States courts of appeals" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7448422c-daea-3ea3-9217-104226626622> .
+
+<http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3e60e734-58aa-393c-84ff-0882bed99dd2> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .

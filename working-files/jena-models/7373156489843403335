@@ -1,0 +1,82 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311> ;
+        c:importance     "1" ;
+        c:name           "Women's interest channels" ;
+        c:originalValue  "Women's interest channels" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b31cc636-5088-3722-b060-636341769bb0> .
+
+<http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0W/TU8AVTAYlcSH8T6GedEI4BE4=|CveWSHZHY+KLNC5Y7idPCnb+f1GNNER0uETW4YOY/7T5xJaCRNyUtQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:28:19.509" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311> ;
+        c:importance     "1" ;
+        c:name           "Lifetime" ;
+        c:originalValue  "Lifetime (TV network)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/649ab06d-45f7-3833-90c6-94a416680382> .
+
+<http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311> ;
+        c:importance     "1" ;
+        c:name           "Lifetime Movie Network" ;
+        c:originalValue  "Lifetime Movie Network" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b431e3ab-942e-3a0c-b63e-88ae5810ecaa> .
+
+<http://d.opencalais.com/dochash-1/6baf38c4-b1e8-3f6f-ab5e-ab06006cb311>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1a7b41f3-260e-c9ee-14da-53935b549095" ;
+        c:docDate          "2015-05-30 10:28:19.805" ;
+        c:docTitle         "" ;
+        c:document         "Lifetime making 'Full House' tell-all movie. Have Mercy! Lifetime has its follow-up to its \"Unauthorized Saved By the Bell\" TV movie: the network is now taking on Full House." ;
+        c:id               "http://id.opencalais.com/qd-X*SiREvEaXdvNfUa0mw" .

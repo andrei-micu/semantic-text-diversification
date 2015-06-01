@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|X2TN9mW87Czk5oMbzWTgwmvoH8g=|Z7bS1upzx2537dwDpOBzPjaTUn1kd0T29Y5MjFvdpDJ1s4q4IR+NNg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:39:33.361" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:score           "0.571" .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "659cee4f-257d-c82f-14da-5437df11df07" ;
+        c:docDate          "2015-05-30 09:39:33.611" ;
+        c:docTitle         "" ;
+        c:document         "Egyptian Court Sentences Ousted President Morsi to Death. Mr. Morsi was sentenced to death over his part in a mass prison break that took place during the 2011 uprising that toppled Hosni Mubarak." ;
+        c:id               "http://id.opencalais.com/z7mzz2ZfeafFkmydHeCt9w" .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:importance     "2" ;
+        c:name           "Arab Spring" ;
+        c:originalValue  "Arab Spring" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fcae5841-a595-3c70-97ed-c0e45e035b41> .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:importance     "1" ;
+        c:name           "Middle East" ;
+        c:originalValue  "Middle East" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d409e4d8-bb09-3dd2-98dc-af04b2734c0a> .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:importance     "1" ;
+        c:name           "Arab world" ;
+        c:originalValue  "Arab world" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/352eb7c6-e587-3070-adf8-d886ff961834> .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:importance     "2" ;
+        c:name           "Egypt" ;
+        c:originalValue  "Egypt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1386121a-b8ec-3151-ae3d-11e81f9940e7> .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:importance     "2" ;
+        c:name           "Hosni Mubarak" ;
+        c:originalValue  "Hosni Mubarak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b148e004-21b8-3ddf-9125-6fad0b5cafed> .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:importance     "1" ;
+        c:name           "Africa" ;
+        c:originalValue  "Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40ba53c0-c97b-3a8d-9376-dccf9e54b90e> .
+
+<http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/6f226708-d13e-3d29-9236-189251624f59> ;
+        c:importance     "2" ;
+        c:name           "Hosni" ;
+        c:originalValue  "Hosni" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dd9ed6d0-55ac-35ee-a045-ef000491812f> .

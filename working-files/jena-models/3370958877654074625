@@ -1,0 +1,131 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "1a46819e-f623-c5e1-4da5-3f73af32f984" ;
+        c:docDate          "2015-05-30 09:35:08.872" ;
+        c:docTitle         "" ;
+        c:document         "He Beat Back Ebola, but It Lurked in an Unlikely Spot. Less than two months after a fight with Ebola nearly ended his life, Dr. Ian Crozier was back in the hospital: His eye was teeming with the virus." ;
+        c:id               "http://id.opencalais.com/aNVh3H1*tzBULNbBGz6mQQ" .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "1" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "2" ;
+        c:name           "Ebola virus disease" ;
+        c:originalValue  "Ebola virus disease" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/48f79aff-9a25-3325-9f92-8dad1f5d3928> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "1" ;
+        c:name           "Biology" ;
+        c:originalValue  "Biology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a4d237aa-c4e9-3f9b-a26f-70199de66284> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "2" ;
+        c:name           "Tropical diseases" ;
+        c:originalValue  "Tropical diseases" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/de6ca103-3e29-39ad-a7da-52f875f7ae72> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "2" ;
+        c:name           "Yambuku" ;
+        c:originalValue  "Yambuku" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2b5c1329-048f-3b66-a76e-e7ab8575a0d2> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "2" ;
+        c:name           "Ebola" ;
+        c:originalValue  "Ebola" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e10a8b7-d0bb-3a47-bbe4-b1ba0d9c5d56> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "2" ;
+        c:name           "Virus" ;
+        c:originalValue  "Virus" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d1fb057a-16a8-3445-b434-00d104844c1f> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|mcviZJrJERSP9G09qsleE18DMZE=|VW0GgWVOOHwhK3Ba2a4IVFOf26s/C0FuKur5SpKFK+WUsAi3PaCFMg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:08.591" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "1" ;
+        c:name           "Microbiology" ;
+        c:originalValue  "Microbiology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/78d7930a-75f4-302b-987f-12305914128b> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "2" ;
+        c:name           "Zoonoses" ;
+        c:originalValue  "Zoonoses" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/77e21de6-dcaf-3364-ad3b-9d2c9ccf0591> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "2" ;
+        c:name           "Mononegavirales" ;
+        c:originalValue  "Mononegavirales" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/49cc7602-990c-3f31-8848-acacf93c8e32> .
+
+<http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8e207e9e-a3f8-3f8c-9a41-a7fe1661c74e> ;
+        c:importance     "2" ;
+        c:name           "The Hot Zone" ;
+        c:originalValue  "The Hot Zone" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/daed8cd0-0348-3509-92b3-63855f6e5fa2> .

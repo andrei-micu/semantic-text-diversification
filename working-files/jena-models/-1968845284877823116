@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:score           "0.783" .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "bc905ada-7d50-e564-14da-543652d32955" ;
+        c:docDate          "2015-05-30 10:39:27.286" ;
+        c:docTitle         "" ;
+        c:document         "Texas Police Were Warned About Gunmen At Muhammad Cartoon Event — And They Weren't. The FBI sent a bulletin that key people never saw, and police say they were already guarding the event as they'd have done if they had seen it." ;
+        c:id               "http://id.opencalais.com/Y0WDKLECdYwz1*zYIaL6kg" .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:importance     "2" ;
+        c:name           "Islam" ;
+        c:originalValue  "Islam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a1906a7-789f-31cd-8bd9-993b383e794a> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:importance     "1" ;
+        c:name           "Criticism of Islam" ;
+        c:originalValue  "Criticism of Islam" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/faa92df4-a75f-3b4a-a09c-9f4b61590725> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:importance     "2" ;
+        c:name           "Religion" ;
+        c:originalValue  "Religion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c9f8418-419c-3a9b-92db-f387fc4fb3d7> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|jN++B5a4bWh2qZCCpBJ0bwu56Hg=|ThvmK5GVRYwtWuB3cVhPrWfSkxM37B+mmGY5XtnRFTwFkVQ/LSlUMg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:27.021" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:importance     "2" ;
+        c:name           "Federal Bureau of Investigation" ;
+        c:originalValue  "Federal Bureau of Investigation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4e3add3-1d4a-307d-bbd0-27107d78bbf7> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:score           "0.904" .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:importance     "1" ;
+        c:name           "Editorial cartooning" ;
+        c:originalValue  "Editorial cartooning" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ce26175c-591e-3277-b70a-55f13bcf6922> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:importance     "2" ;
+        c:name           "Criticism of religion" ;
+        c:originalValue  "Criticism of religion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/764c95d9-9a8c-34bc-8105-14298e49b4ec> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:importance     "1" ;
+        c:name           "Freedom of expression" ;
+        c:originalValue  "Freedom of expression" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5c5968f8-04c2-3539-93bb-6614bd2c48e8> .
+
+<http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/065d3396-a2ab-30f0-a777-89232f15eefc> ;
+        c:importance     "2" ;
+        c:name           "Jyllands-Posten Muhammad cartoons controversy" ;
+        c:originalValue  "Jyllands-Posten Muhammad cartoons controversy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e40d83d7-b745-33e7-8a8d-983bd97f538f> .

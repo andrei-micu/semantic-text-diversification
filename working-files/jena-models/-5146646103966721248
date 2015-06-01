@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7e30f195-8814-3457-8e0e-166bf782485a>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a5733417-a41f-6dac-14da-54cb7c223ab1" ;
+        c:docDate          "2015-05-30 10:49:38.064" ;
+        c:docTitle         "" ;
+        c:document         "'Soul-Sucking Dementor' wasp buzzes to fame. " ;
+        c:id               "http://id.opencalais.com/mOwd5gW687OgKUOiwu9Mqw" .
+
+<http://d.opencalais.com/dochash-1/7e30f195-8814-3457-8e0e-166bf782485a/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7e30f195-8814-3457-8e0e-166bf782485a> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|/9Zk3L+04vihlNR7huZVRCAVEVc=|RolPixmrZZwquuMlZPgYDfJqm7QGJ87ZRhPf6T5CgxfnoM7NfflAtQ==" ;
+        c:submissionDate  "2015-05-30 10:49:37.986" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7e30f195-8814-3457-8e0e-166bf782485a/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7e30f195-8814-3457-8e0e-166bf782485a> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

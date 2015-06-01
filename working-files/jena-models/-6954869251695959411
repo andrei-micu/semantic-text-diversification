@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:score           "0.930" .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:importance     "2" ;
+        c:name           "Family of Barack Obama" ;
+        c:originalValue  "Family of Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61100bdb-b997-3cff-bdf7-62e2836abdd9> .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "6cc5e894-be77-d73b-14da-53f47bc719b3" ;
+        c:docDate          "2015-05-30 10:34:57.714" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: What's kept Obama away from S Dakota?. President Obama's visit to South Dakota now means he has visited every state in the US while serving in the White House." ;
+        c:id               "http://id.opencalais.com/3I7qH6ATxyjE4BJYvQTNfg" .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:importance     "2" ;
+        c:name           "Human migration" ;
+        c:originalValue  "Human migration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bfb396c9-8e39-3429-bebb-8d0e6157e32e> .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:importance     "2" ;
+        c:name           "Barack Obama presidential primary campaign" ;
+        c:originalValue  "Barack Obama presidential primary campaign, 2008" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/315f03dd-8a19-365a-9881-b9a663683d6e> .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:importance     "2" ;
+        c:name           "South Dakota" ;
+        c:originalValue  "South Dakota" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b9caf97a-d3a7-3a88-a974-bbc01d2d51e3> .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|NllEvBTWP0Fle7degv0bWMyKFXI=|B2QAWPgHwKX7GqR0idrZLo8KoQmED7rYbKzJVX3i7jOcea+JUvF67w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:57.340" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:importance     "1" ;
+        c:name           "States of the United States" ;
+        c:originalValue  "States of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/92eeed50-d934-33a2-9599-cd275479f1f3> .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d9022767-90ff-3b9c-8a14-41040bfe9f1f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

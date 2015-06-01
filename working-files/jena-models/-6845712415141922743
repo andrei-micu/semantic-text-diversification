@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:importance     "1" ;
+        c:name           "Isaac Asimov's Robot Series" ;
+        c:originalValue  "Isaac Asimov's Robot Series" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bb6fed76-110b-3f04-8f02-a76661e966b5> .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a10ed2b6-0805-3fae-14da-53e05b01df07" ;
+        c:docDate          "2015-05-30 09:33:35.115" ;
+        c:docTitle         "" ;
+        c:document         "Episode 622: Humans vs. Robots. If you aren't already worried about being replaced by a robot, maybe you should be. Today on the show, three races pit humans against machines." ;
+        c:id               "http://id.opencalais.com/QPoEXJG7V8TJugsc2cvuDw" .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:importance     "1" ;
+        c:name           "Artificial intelligence in fiction" ;
+        c:originalValue  "Artificial intelligence in fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fe2d1947-6053-33c0-a9fa-e7b9dca22e17> .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:importance     "2" ;
+        c:name           "Panic Attack" ;
+        c:originalValue  "Panic Attack (robot)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f526b02f-152f-3c91-81f6-bdff22665b7f> .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:importance     "2" ;
+        c:name           "Fiction" ;
+        c:originalValue  "Fiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8802cc97-e83a-3d7d-b3b5-b3efb8e1d8de> .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|SiL/zpC4PqtdUr9abBgRzInlR4Q=|iM7BjptlunuSl6OD9tdFoYiItQdMcUADFxiZsCjm1M78EVt2FWqPLw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:33:34.896" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:importance     "1" ;
+        c:name           "Robot" ;
+        c:originalValue  "Robot" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/861b0222-8510-3bae-8415-61ac3c53e909> .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:importance     "2" ;
+        c:name           "Cubix" ;
+        c:originalValue  "Cubix" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cb44599d-6d16-3d10-b961-dd73c424df1b> .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:importance     "2" ;
+        c:name           "Literature" ;
+        c:originalValue  "Literature" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6db41d64-4f92-3b28-a0d0-7c209e1530de> .
+
+<http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e6269fdf-4e43-3011-86f7-5e8edf8bbde0> ;
+        c:score           "1.000" .

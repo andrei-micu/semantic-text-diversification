@@ -1,0 +1,136 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:score           "0.952" .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:importance     "2" ;
+        c:name           "Corps" ;
+        c:originalValue  "Corps" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6fb5acc7-2249-3624-942e-fe367922e74e> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:importance     "1" ;
+        c:name           "Hurricane Katrina" ;
+        c:originalValue  "Hurricane Katrina" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1a4cc0a2-a50f-3355-a08c-f3fd729f7d25> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "43505735-c48e-cc9f-14da-54b8850719b3" ;
+        c:docDate          "2015-05-30 10:48:20.491" ;
+        c:docTitle         "" ;
+        c:document         "Decade After Katrina, Pointing Finger More Firmly at Army Corps. An article by experts involved in some previous examinations of the catastrophe contends that fault should fall squarely on the Army Corps of Engineers." ;
+        c:id               "http://id.opencalais.com/t5FdBDFRRVqM5g1*s2kNNg" .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/cat/4>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:score           "0.922" .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:importance     "2" ;
+        c:name           "Military engineering" ;
+        c:originalValue  "Military engineering" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04d1f0a8-66db-3311-a510-6df2bdc6db3c> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:importance     "1" ;
+        c:name           "United States Army Corps of Engineers" ;
+        c:originalValue  "United States Army Corps of Engineers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ce63bc93-a60d-36db-a476-06272cd7e132> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FS3DG2Iu1xs/7WRFqALWF2uJApw=|d7mZsUM8R1C1+UvnQMFIvUUnga1ZK7Kky2jDZ1mAisQXthBxerPoTA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:48:20.304" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:importance     "1" ;
+        c:name           "Atlantic hurricane season" ;
+        c:originalValue  "2005 Atlantic hurricane season" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ba03ce8b-bf5e-35a8-a5aa-f466728ad1a2> .
+
+<http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/644b1ef7-fc36-36ef-a4ed-84ffb001398e> ;
+        c:importance     "2" ;
+        c:name           "Atlantic Ocean" ;
+        c:originalValue  "Atlantic Ocean" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d87ec13d-1d78-3fbe-8587-2e1d51d9fbc4> .

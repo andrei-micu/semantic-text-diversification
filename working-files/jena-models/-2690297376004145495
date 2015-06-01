@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:importance     "1" ;
+        c:name           "Guggenheim Fellows" ;
+        c:originalValue  "Guggenheim Fellows" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/254bf9dc-3828-3f06-824c-0c9865e04ebf> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:importance     "2" ;
+        c:name           "Chairman of the Federal Reserve" ;
+        c:originalValue  "Chairman of the Federal Reserve" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/84506fdd-5281-3986-afef-6afff49d29e1> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:importance     "2" ;
+        c:name           "Bill Gross" ;
+        c:originalValue  "Bill Gross" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/adb1f2dd-9a25-3422-b022-4d07d70e9e83> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "fd85fc7b-96ea-9ba8-14da-53b7fb34551f" ;
+        c:docDate          "2015-05-30 09:30:49.742" ;
+        c:docTitle         "" ;
+        c:document         "Bond giant Pimco hires Ben Bernanke. US bond giant Pimco hires former US Federal Reserve chairman Ben Bernanke after the departure of 'bond king' Bill Gross last year." ;
+        c:id               "http://id.opencalais.com/548-8-R-orNXDrSc5hNtiQ" .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:importance     "1" ;
+        c:name           "Ben Bernanke" ;
+        c:originalValue  "Ben Bernanke" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/49b7d538-002a-32c8-a1e0-a2536a67f6ae> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:importance     "2" ;
+        c:name           "Monetary economics" ;
+        c:originalValue  "Monetary economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a30258a6-6379-3167-81e1-40fb11128d17> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:importance  "1" ;
+        c:name        "Labor" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/2850f40e-34ba-32fe-9907-000d4e6ce566> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:importance     "2" ;
+        c:name           "PIMCO" ;
+        c:originalValue  "PIMCO" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2e965ee2-f135-36e1-a887-17b9c8264859> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Labor> ;
+        c:categoryName    "Labor" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:score           "0.968" .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:importance     "1" ;
+        c:name           "Macroeconomics" ;
+        c:originalValue  "Macroeconomics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32612f14-3cee-36fa-a5ee-c4953c7af66c> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:importance     "2" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e25132e2-c0e6-3e5d-b784-d489f27c9dd5> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|gxI7KGOPC3Ryz/CEt+q2WtAlc9E=|VaEk2MVf44RigU8MRrQ4Q2nL5c0oViOoFpdFPXwbmyOFE/PJjwLMZA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:30:49.539" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:importance     "1" ;
+        c:name           "Arab world" ;
+        c:originalValue  "Arab world" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/352eb7c6-e587-3070-adf8-d886ff961834> .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Hu6oqbSw5iMLyhPDcLMIyWaiB8I=|c/GxQtsKayv6MtU4NTEj5dPLf/91DLLlfWGznJQxGvvzfXSHXi/cJQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:42:06.377" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:importance     "2" ;
+        c:name           "Egypt" ;
+        c:originalValue  "Egypt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1386121a-b8ec-3151-ae3d-11e81f9940e7> .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "498f141e-e651-0b29-14da-545d3a94551f" ;
+        c:docDate          "2015-05-30 09:42:06.533" ;
+        c:docTitle         "" ;
+        c:document         "Court Sentences Egypt's Ousted President to Death. An Egyptian court has sentenced ousted President Mohammed Morsi to death." ;
+        c:id               "http://id.opencalais.com/UwZY6W0q7RrxkY04F1fKag" .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:importance     "2" ;
+        c:name           "Mohamed Morsy" ;
+        c:originalValue  "Mohamed Morsy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59519d13-0ae3-3b8f-84bc-2af5015254e2> .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:importance     "2" ;
+        c:name           "North Africa" ;
+        c:originalValue  "North Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d95ad734-ad18-3166-93a2-388a14f04140> .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:importance     "1" ;
+        c:name           "Middle East" ;
+        c:originalValue  "Middle East" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d409e4d8-bb09-3dd2-98dc-af04b2734c0a> .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/876637d7-06eb-3899-b222-8dab58b14e14> ;
+        c:importance     "2" ;
+        c:name           "Western Asia" ;
+        c:originalValue  "Western Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/631fb2b9-52dc-3d33-b119-8bf56d76a361> .

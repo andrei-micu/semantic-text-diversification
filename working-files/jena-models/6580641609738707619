@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a31ec75a-78c8-2acd-14da-53f692135464" ;
+        c:docDate          "2015-05-30 10:35:06.092" ;
+        c:docTitle         "" ;
+        c:document         "De Blasio tells Rolling Stone New Yorkers don't appreciate him. NEW YORK (Reuters) - Mayor Bill de Blasio said New Yorkers don't appreciate his \"very special\" accomplishments since he took office in January 2014, and criticized the actions of his predecessors and even President Barack Obama, according to a Rolling Stone interview." ;
+        c:id               "http://id.opencalais.com/jC55wfE8aixdSTjHM4z6lg" .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:score           "0.985" .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|g1acSbVZPjzZLnMQivqdZ2JZXbg=|aMpJgxbcNu2LholAcNci3fHCpASUI/b9k4cYWFoGRLRQ1lIOqVQJvg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:35:05.889" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:importance     "1" ;
+        c:name           "Bill de Blasio" ;
+        c:originalValue  "Bill de Blasio" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ab9c506-8031-3fe1-8080-ce2037a80a09> .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:importance     "2" ;
+        c:name           "New York" ;
+        c:originalValue  "New York" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/461159b1-6be8-3031-b1dd-039ee48ba761> .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:importance     "2" ;
+        c:name           "The New Yorker" ;
+        c:originalValue  "The New Yorker" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0f8400bc-fffd-3677-9146-33bbe280ccf7> .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:score           "0.899" .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/98dd1625-2d1c-38e7-b353-a1c48f2833cc> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .

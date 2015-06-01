@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:importance     "2" ;
+        c:name           "Mosul" ;
+        c:originalValue  "Mosul" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e7353744-2c2a-354f-af7d-c01e06d99a8c> .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a9f24960-dd9b-7610-14da-54d61c332f98" ;
+        c:docDate          "2015-05-30 09:50:21.773" ;
+        c:docTitle         "" ;
+        c:document         "Opinion: 220,000 dead. Why are we just talking?. Almost a year on from their dramatic seizure of Mosul, Iraq's second city, the militants of the Islamic State of Iraq and Syria continue to expand the frontiers of their stronghold in the Middle East." ;
+        c:id               "http://id.opencalais.com/2tR7XuFGf5c*5MGf7617og" .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:importance     "1" ;
+        c:name           "Fertile Crescent" ;
+        c:originalValue  "Fertile Crescent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5435af2d-c03d-3907-8586-8f38ab6b08eb> .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:importance     "2" ;
+        c:name           "Iraq" ;
+        c:originalValue  "Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/33ecfc09-2dca-3a72-9cc0-81d284a7bd4f> .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:importance     "2" ;
+        c:name           "Iraqi insurgency" ;
+        c:originalValue  "Iraqi insurgency" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/21e18d4a-5c56-31de-9a44-b846fcbc2f98> .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|H2cck20u+TRZLUh3z/yjbZ9i5SY=|RLfxRpUWepv9dwEOlK0KKTjQQ4g2nAdptLux/pj9Ug3gu5neGMGSgA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:21.507" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:score           "0.895" .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:importance     "1" ;
+        c:name           "Assyria" ;
+        c:originalValue  "Assyria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a3f5fd9-286c-33e5-8f63-bf65b9789850> .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:importance     "2" ;
+        c:name           "British Mandate of Mesopotamia" ;
+        c:originalValue  "British Mandate of Mesopotamia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/46b5b874-3f73-3a55-9b13-e934b826d75f> .
+
+<http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/43589ca0-9631-3e17-a168-54e394e29ae3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

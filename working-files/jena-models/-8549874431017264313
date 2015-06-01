@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:score           "0.959" .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:importance     "2" ;
+        c:name           "Politics of the United States" ;
+        c:originalValue  "Politics of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/450a0fe4-479f-343b-8ca1-2ced72c6b3ef> .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:importance     "1" ;
+        c:name           "Rodham" ;
+        c:originalValue  "Rodham" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/63a3070d-6ed3-3faa-98ff-6e718a21a60e> .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:importance     "2" ;
+        c:name           "Clinton" ;
+        c:originalValue  "Clinton (disambiguation)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eebbb422-e423-387d-b64e-eac39cde1fa8> .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:importance     "1" ;
+        c:name           "Hillary Rodham Clinton" ;
+        c:originalValue  "Hillary Rodham Clinton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fb0c5192-ce8e-3d23-840b-58ee63d9a7d5> .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "501ba0ac-e7e2-c7b1-4da5-4d2bca1927e3" ;
+        c:docDate          "2015-05-30 10:50:07.783" ;
+        c:docTitle         "" ;
+        c:document         "In Carving Niche, Martin O’Malley Pushes Image of Vitality. At 52, former Gov. Martin O’Malley of Maryland aims to contrast himself with the Democratic candidates Hillary Rodham Clinton and Bernie Sanders." ;
+        c:id               "http://id.opencalais.com/WAoOIKZQzHUmAGecIflFUg" .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:importance     "1" ;
+        c:name           "Martin O'Malley" ;
+        c:originalValue  "Martin O'Malley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b599c536-0a27-3cf4-be62-9b1d72ba29fd> .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f0557819-4d51-3592-83d0-cbfa916a9ce7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|t8QoQW7Y7ydnvwg8kkPIzo8mJoQ=|ggePrQTEiE7wuVoRsFA4dRVOSoF79OGt4lA9moHuRKPSMfuAR4Wgsg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:50:07.690" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance     "2" ;
+        c:name           "Reproduction" ;
+        c:originalValue  "Reproduction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6d3b37f8-cdc5-3ba9-aef4-b24d0106ebe2> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance     "2" ;
+        c:name           "Surrogacy laws by country" ;
+        c:originalValue  "Surrogacy laws by country" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9ffd4803-3b53-3494-8dbc-7d594dd82492> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance     "1" ;
+        c:name           "Obstetrics" ;
+        c:originalValue  "Obstetrics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/88719791-00e0-32f8-84d1-b0e7b326c11b> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance     "2" ;
+        c:name           "SNAFU" ;
+        c:originalValue  "SNAFU" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/96e8c82e-c351-386f-951b-0e03e630eb69> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|C2zTbGQ/o1P5UaudrAxQ1G4uqYE=|F9x7Y01IIzsvRdI4sh9vDS2nkDxrjrTyCdYUMxe3L6pTljAp/WP7vg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:35:38.083" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:score           "0.893" .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance     "2" ;
+        c:name           "Behavior" ;
+        c:originalValue  "Behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe1e19-9c21-37dc-af60-02531de42118> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "329eafd3-8e9d-fc21-14da-53fe6e334709" ;
+        c:docDate          "2015-05-30 09:35:38.394" ;
+        c:docTitle         "" ;
+        c:document         "U.S. couple stuck in Mexico due to surrogacy snafu. An American couple who say they have been stuck in Mexico for weeks because officials there won't provide a birth certificate for their son believe a resolution could be close." ;
+        c:id               "http://id.opencalais.com/UgKV3tHVltmCwYVyvfqqIg" .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance     "1" ;
+        c:name           "Pregnancy" ;
+        c:originalValue  "Pregnancy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f44cc8db-9a6c-30f2-b4d8-6d6e3741c36d> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance     "2" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance     "2" ;
+        c:name           "Private Snafu" ;
+        c:originalValue  "Private Snafu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/800c064c-0c3d-3995-87d2-af9d9e54b9e5> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance     "1" ;
+        c:name           "Family" ;
+        c:originalValue  "Family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/411e09d1-56b8-3992-8707-01aa3bb15cfd> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:importance     "2" ;
+        c:name           "Surrogacy" ;
+        c:originalValue  "Surrogacy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d0754ad5-43b0-3ddb-aae3-c8b796cc9373> .
+
+<http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b675a3a6-a358-3962-9161-98f78d11f502> ;
+        c:score           "0.947" .

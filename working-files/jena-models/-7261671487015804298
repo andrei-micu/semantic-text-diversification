@@ -1,0 +1,139 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "1" ;
+        c:name           "Investment banking" ;
+        c:originalValue  "Investment banking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dd85aa3b-6836-39cb-a874-c4e035f3988e> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "2" ;
+        c:name           "Primary dealers" ;
+        c:originalValue  "Primary dealers" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/427712a5-3095-3dc3-ad13-c9b3cd04e1c5> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "2" ;
+        c:name           "Debt" ;
+        c:originalValue  "Debt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/338a8a0b-54e4-34dc-8099-4c0104965d43> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "2" ;
+        c:name           "House of Morgan" ;
+        c:originalValue  "House of Morgan" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1cdf599d-cb8e-3d40-802f-a684c700f181> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "2" ;
+        c:name           "Bankruptcy" ;
+        c:originalValue  "Bankruptcy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/11098114-6034-3b77-962b-32b4b1a0c053> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yz8SXlzWPvY5Wg2ec5PhIUsuJLA=|WrBFVsvEZ2Gt1xm124KAjDfLr9mFtvuQDqfjByDJotKOB5elbYyvdg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:37.212" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "2" ;
+        c:name           "Chase" ;
+        c:originalValue  "Chase (bank)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/25668af9-4c03-35a7-adff-bf20ef0e30b2> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "1" ;
+        c:name           "Financial economics" ;
+        c:originalValue  "Financial economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/56bb9859-75e0-3b28-acdb-61f6b786cc4c> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9eb08b12-723d-517b-14da-53ef91c34709" ;
+        c:docDate          "2015-05-30 09:34:37.680" ;
+        c:docTitle         "" ;
+        c:document         "Bank of America and JPMorgan Chase Agree to Erase Debts From Credit Reports After Bankruptcies. The two banks have agreed to update borrowers’ reports within the next three months to reflect that the debts were canceled." ;
+        c:id               "http://id.opencalais.com/YlUsh3Z4WCtFI-fSjfitTA" .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "2" ;
+        c:name           "Credit" ;
+        c:originalValue  "Credit" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/13584886-5f9e-38e4-adea-41db1696bd11> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "2" ;
+        c:name           "Dow Jones Industrial Average" ;
+        c:originalValue  "Dow Jones Industrial Average" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b82fa4a1-1d29-386e-a327-103788618023> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "2" ;
+        c:name           "Bank of America" ;
+        c:originalValue  "Bank of America" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2619b4f2-75ea-31f2-a66b-1e1d3c19ef19> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "1" ;
+        c:name           "Investment" ;
+        c:originalValue  "Investment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f974021-59af-3718-a6ea-cdb8151cb2c1> .
+
+<http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/270ec12e-28b2-30e4-bd8d-523814294531> ;
+        c:importance     "2" ;
+        c:name           "JPMorgan Chase" ;
+        c:originalValue  "JPMorgan Chase" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8ea5eaa2-d2f0-38cd-9fe0-06008e31e134> .

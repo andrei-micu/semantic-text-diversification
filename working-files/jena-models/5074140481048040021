@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/985a70c7-0197-34fe-acbf-9cb6a0e61aca/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/985a70c7-0197-34fe-acbf-9cb6a0e61aca> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/985a70c7-0197-34fe-acbf-9cb6a0e61aca>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9d0616dc-45f0-a289-14da-53d2091760f9" ;
+        c:docDate          "2015-05-30 10:32:36.303" ;
+        c:docTitle         "" ;
+        c:document         "32 amazing sports photos. " ;
+        c:id               "http://id.opencalais.com/cdUcBZz*9PEOdXwhwNYt8Q" .
+
+<http://d.opencalais.com/dochash-1/985a70c7-0197-34fe-acbf-9cb6a0e61aca/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/985a70c7-0197-34fe-acbf-9cb6a0e61aca> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|WU1wjPW6qIaMdTSEIJt54K6WCXc=|dB7PlG/usCr/78gEFMZvVW+dD+ZoqInK6YNq4dCgLo1TQtG8jqJquw==" ;
+        c:submissionDate  "2015-05-30 10:32:36.241" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

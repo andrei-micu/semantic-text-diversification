@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926> ;
+        c:score           "0.619" .
+
+<http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "829fcf2a-23d4-f686-14da-54778de13c98" ;
+        c:docDate          "2015-05-30 09:43:54.393" ;
+        c:docTitle         "" ;
+        c:document         "Owner of American Pharoah Is Fighting Lawsuit Amid Triple Crown Bid. Ahmed Zayat has been contesting a federal lawsuit brought by a convicted felon that alleges Mr. Zayat has failed to pay a $2 million debt he ran up betting through a website in Costa Rica." ;
+        c:id               "http://id.opencalais.com/EgeTkTdJX-OLGBIxwW-Upw" .
+
+<http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926> ;
+        c:importance     "1" ;
+        c:name           "Ahmed Zayat" ;
+        c:originalValue  "Ahmed Zayat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d44aedb3-bf7b-345c-ab5a-40d1742aad76> .
+
+<http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|TO8JSwJ7VQ+OxlmRa57SNuOZIN0=|kXMSAb7sjb555rYSZalItz1y8HFCJGOXjT+19vwKds+8ZgHkwYS3Hg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:43:54.206" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f837d4a7-2398-3c04-a0fd-048f1e6bf926> ;
+        c:score           "1.000" .

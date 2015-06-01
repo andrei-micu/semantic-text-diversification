@@ -1,0 +1,169 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "2" ;
+        c:name           "Refugee" ;
+        c:originalValue  "Refugee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/172be022-cde9-36c3-8e06-4a676431ae7f> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:score           "0.996" .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance  "2" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "1" ;
+        c:name           "Autobots" ;
+        c:originalValue  "Autobots" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/58eca956-f034-30b9-89e6-c7d14f37949a> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "2" ;
+        c:name           "Refugees of Iraq" ;
+        c:originalValue  "Refugees of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b314035-6f3b-3124-a585-3c4c3fb71b9c> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LepNujByPu48GjvAaFt2UT5tGo0=|TPZyuYaA49g+7c5R2Uii4KNB2Hhxa3wEACV28d9I3S92lnoT1ti++g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:46.952" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "1" ;
+        c:name           "Iraqi diaspora" ;
+        c:originalValue  "Iraqi diaspora" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/95572b2b-97bf-3f85-9db7-557bf941fb13> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "2" ;
+        c:name           "Arwa" ;
+        c:originalValue  "Arwa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2b29cc67-01c5-3c5f-a3d4-b36896a3c143> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "2" ;
+        c:name           "Human geography" ;
+        c:originalValue  "Human geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9417e33-f24b-355b-a31e-64caf28e672f> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8db5d1a2-61da-5418-14da-54846e813c98" ;
+        c:docDate          "2015-05-30 09:44:47.217" ;
+        c:docTitle         "" ;
+        c:document         "Stranded in horrific conditions. Iraqi refugees scrambling to flee from ISIS-controlled Ramadi end up stranded in a sandstorm without shelter. CNN's Arwa Damon reports." ;
+        c:id               "http://id.opencalais.com/NX4Hu8cVh-xITrsJZNHeDg" .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "2" ;
+        c:name           "Human migration" ;
+        c:originalValue  "Human migration" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/bfb396c9-8e39-3429-bebb-8d0e6157e32e> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "2" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "2" ;
+        c:name           "Wreckers" ;
+        c:originalValue  "Wreckers (Transformers)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/31dfd88b-f4ad-3d46-9a4c-c33425016406> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:score           "0.614" .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "2" ;
+        c:name           "Scrambling" ;
+        c:originalValue  "Scrambling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7a1d74a-60c1-33fc-8d0b-be980779fc5b> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "2" ;
+        c:name           "Sandstorm" ;
+        c:originalValue  "Sandstorm (Transformers)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e42703dc-74cc-3c07-9ee7-def6ebb85e90> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:score           "0.795" .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/15>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e443aef4-f75e-30cc-9494-c158c5819573> ;
+        c:importance     "1" ;
+        c:name           "Predacons" ;
+        c:originalValue  "Predacons" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0b1e4d4b-8414-346c-b75a-b54ec58351f2> .

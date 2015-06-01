@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance     "1" ;
+        c:name           "Spaceflight" ;
+        c:originalValue  "Spaceflight" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0a047fab-a818-39e0-b940-49bc12ce74f3> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance     "2" ;
+        c:name           "Progress spacecraft" ;
+        c:originalValue  "Progress spacecraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0df3d073-18c5-33b2-8c69-962a4f0606ab> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance     "2" ;
+        c:name           "Progress M-10M" ;
+        c:originalValue  "Progress M-10M" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6f0f4e40-0e56-3452-bfca-ce8bf2167860> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance     "2" ;
+        c:name           "Manned spacecraft" ;
+        c:originalValue  "Manned spacecraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0787ac91-1a19-3e4b-80d0-efb4b03616bc> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b0895d99-4dfa-6d64-14da-53e766835464" ;
+        c:docDate          "2015-05-30 10:34:03.986" ;
+        c:docTitle         "" ;
+        c:document         "Russian spacecraft 'ceased to exist'. A crewless Russian cargo space ship that had gone astray, has 'ceased to exist,' Russia's space agency said Friday. The bulk of it burned up after re-entering Earth's atmosphere." ;
+        c:id               "http://id.opencalais.com/igzLCSz3gnR86UUIuWCN*A" .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance     "1" ;
+        c:name           "Spacecraft" ;
+        c:originalValue  "Spacecraft" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8218776a-fbb0-3147-8907-0b12e54ecb1a> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance     "2" ;
+        c:name           "Human spaceflight" ;
+        c:originalValue  "Human spaceflight" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b444eba2-7e6a-3422-ba65-8036a4ae5bb2> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance     "2" ;
+        c:name           "Astronautics" ;
+        c:originalValue  "Astronautics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/613f3ed0-7e24-3d3f-954d-a14c95c2088a> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance     "1" ;
+        c:name           "Space technology" ;
+        c:originalValue  "Space technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a8990740-7cb6-3aa9-a27b-93904d73bc40> .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|UgozTC5g93X36+b832lXEEvr1Go=|XeoP6Zsy0hz0El080I6y+wTcu6WFwy/4sPwWrGJD1RItJLe6SWGE6g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:03.752" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e569045c-daff-3a8b-8bc2-7784bf74030e> ;
+        c:importance     "2" ;
+        c:name           "Space stations" ;
+        c:originalValue  "Space stations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59df962b-9483-33d7-a0c9-4169d0ac029a> .

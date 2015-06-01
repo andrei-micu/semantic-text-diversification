@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/aa502718-cd6b-309b-9063-83d9ac3f86dc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/aa502718-cd6b-309b-9063-83d9ac3f86dc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/aa502718-cd6b-309b-9063-83d9ac3f86dc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/aa502718-cd6b-309b-9063-83d9ac3f86dc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|RQFEqfXWZaAvRM3x9uSs/+ada68=|j6HC9AbWo3AqQ72ziGiK+y3XKlpnmkzRJAre5uOwdJRxUP6V/79xCQ==" ;
+        c:submissionDate  "2015-05-30 10:40:44.642" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/aa502718-cd6b-309b-9063-83d9ac3f86dc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "cf2c90cb-dd3a-ff39-14da-544946235464" ;
+        c:docDate          "2015-05-30 10:40:44.705" ;
+        c:docTitle         "" ;
+        c:document         "'CSI' canceled; are your other faves safe?. " ;
+        c:id               "http://id.opencalais.com/4a39KDJNUwdOYDeczXhVyw" .

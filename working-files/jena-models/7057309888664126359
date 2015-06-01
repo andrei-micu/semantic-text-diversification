@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dc0e7e02-5650-39f6-14da-53ea92c35464" ;
+        c:docDate          "2015-05-30 10:34:16.872" ;
+        c:docTitle         "" ;
+        c:document         "Suspect: It wasn't a bank robbery; I asked politely. Police say a Virginia man walked into a bank, handed the teller a note asking for money, and posted video of the incident to Instagram. CNN affiliate WAVY reports." ;
+        c:id               "http://id.opencalais.com/YHON831PiYJDAi6SFqUmXA" .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:importance     "1" ;
+        c:name           "Bank robbery" ;
+        c:originalValue  "Bank robbery" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/97365709-cce7-3623-9d56-2879fbdc4b7c> .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:importance     "2" ;
+        c:name           "Broadcasting" ;
+        c:originalValue  "Broadcasting" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b34d7f12-3071-3017-a7bf-1edff320d3ad> .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:importance     "2" ;
+        c:name           "WAVY-TV" ;
+        c:originalValue  "WAVY-TV" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/637cf14c-1d2b-3bc7-88d8-468262febad6> .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:importance     "1" ;
+        c:name           "Instagram" ;
+        c:originalValue  "Instagram" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab63b26b-ec99-34a0-8f6a-1d7c1c54a6c9> .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|W0dbKW65pbPZpbZy0dc7PxJTFZY=|DCUsxNLcJ4sniLOmgIP+I8nQon9haGm75hvE/5e8nBesiRv+JFUfDw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:16.748" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:importance     "2" ;
+        c:name           "News media" ;
+        c:originalValue  "News media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a1496d5c-78f1-3809-9f60-407215e9a917> .
+
+<http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/e2fa06ae-2022-38e2-ac50-6b45a168f6c3> ;
+        c:importance     "2" ;
+        c:name           "CNN" ;
+        c:originalValue  "CNN" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1b2c6e61-709c-3508-988d-ea6d70c3fb35> .

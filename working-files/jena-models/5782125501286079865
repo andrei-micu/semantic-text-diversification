@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:importance     "2" ;
+        c:name           "Organ transplantation" ;
+        c:originalValue  "Organ transplantation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f347dda5-efe7-312c-b91b-f3311fd04944> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:importance     "1" ;
+        c:name           "Organ transplants" ;
+        c:originalValue  "Organ transplants" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/59c64da1-fd51-3f98-b279-8c3d185b2e08> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "26807629-08a0-2bd0-14da-54c3b8934709" ;
+        c:docDate          "2015-05-30 09:49:06.419" ;
+        c:docTitle         "" ;
+        c:document         "Transplant man meets donor's sister. A woman, whose brother was killed in a car accident, has met the man who was given his face in a pioneering transplant operation." ;
+        c:id               "http://id.opencalais.com/Mtsf6GCtN96pMMbX5*qQXg" .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:score           "0.973" .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:importance     "2" ;
+        c:name           "Transplantation medicine" ;
+        c:originalValue  "Transplantation medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ab56a2e-b070-3f27-82cb-d315eaa9df39> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|drQPu2CWAlDlD0CwAMAnZ80ov9I=|LG53ocP09Jm1LZ3nVnp+2P6xxAYCcEootpNnP4TPLCZSgADklVYPCQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:49:06.185" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:importance     "1" ;
+        c:name           "ER" ;
+        c:originalValue  "ER (season 13)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/66ec1fa1-dba6-3d1b-8ce1-ba0ef8580ee4> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:importance     "1" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:importance     "2" ;
+        c:name           "Face transplant" ;
+        c:originalValue  "Face transplant" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/90b30b9f-cecf-37e8-91c6-5422294754eb> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:importance     "2" ;
+        c:name           "Oral and maxillofacial surgery" ;
+        c:originalValue  "Oral and maxillofacial surgery" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/16a5cd70-8ae3-348e-8b95-30cd47f2109d> .
+
+<http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b9e5f1b7-74da-3b71-b8c4-cac7251cc9b1> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

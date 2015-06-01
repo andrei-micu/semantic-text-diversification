@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:importance     "2" ;
+        c:name           "Preakness, New Jersey" ;
+        c:originalValue  "Preakness, New Jersey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6f28694d-75c8-3c3c-ab9c-1db436239490> .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|0Mp4Oc4kGtew58MYqp7+5FaXYKQ=|FISvNj3JWW61aHR4wV8ETHyk0c6OkD78HpovtOk6wQSFLgK13zJX8g==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:25.782" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:importance     "1" ;
+        c:name           "Sports in Baltimore, Maryland" ;
+        c:originalValue  "Sports in Baltimore, Maryland" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6e5a47b4-64aa-31e6-8a4e-287abb17e81f> .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:score           "0.929" .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:importance     "1" ;
+        c:name           "Horse racing" ;
+        c:originalValue  "Horse racing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a6aec9f-0827-39ea-9e59-e157859ee6d8> .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:importance     "2" ;
+        c:name           "Preakness" ;
+        c:originalValue  "Preakness (horse)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6aeafba6-21a9-3b22-9f68-7fabd1cdbf16> .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "66a5e6e1-a524-cf71-4da5-461f76719b32" ;
+        c:docDate          "2015-05-30 10:42:25.938" ;
+        c:docTitle         "" ;
+        c:document         "Preakness Stakes Run In The Wake Of Baltimore Riots. With today's running of the Preakness Stakes, Baltimore hopes to celebrate a diversion from weeks of protest that roiled the city." ;
+        c:id               "http://id.opencalais.com/7annP9YbfMYdoM34msTPIA" .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:importance     "1" ;
+        c:name           "Pimlico Race Course" ;
+        c:originalValue  "Pimlico Race Course" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/48f5d6ff-a6ff-3253-8473-adea6ce1c2e7> .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c42da927-903a-313c-8058-e2bb0d54cd90> ;
+        c:score           "0.946" .

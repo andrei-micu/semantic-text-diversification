@@ -1,0 +1,154 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "1" ;
+        c:name           "Member states of the United Nations" ;
+        c:originalValue  "Member states of the United Nations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e911935-f6c4-3599-ba32-e28b931005c3> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "2" ;
+        c:name           "Royal Thai Navy" ;
+        c:originalValue  "Royal Thai Navy" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/04e67e33-deab-3f4c-aff3-fc767ef0f7e0> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "10c321a9-5672-5813-14da-54662ad35464" ;
+        c:docDate          "2015-05-30 10:42:43.067" ;
+        c:docTitle         "" ;
+        c:document         "Migrants in 'maritime ping-pong' as Asian nations turn them back. KOH LIPE, Thailand/LANGSA, Indonesia (Reuters) - A boat crammed with migrants was towed out to sea by the Thai navy and then held up by Malaysian vessels on Saturday, the latest round of \"maritime ping-pong\" by Asian states determined not to let asylum seekers come ashore." ;
+        c:id               "http://id.opencalais.com/eE2iIrtVDW0QoauBe-zenA" .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/12>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "2" ;
+        c:name           "Thailand" ;
+        c:originalValue  "Thailand" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/43d98d35-8100-3d72-8328-09d463949643> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "1" ;
+        c:name           "Member states of the Association of Southeast Asian Nations" ;
+        c:originalValue  "Member states of the Association of Southeast Asian Nations" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e02894dd-9031-3b4e-855b-77f38bb090f4> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "2" ;
+        c:name           "Langsa" ;
+        c:originalValue  "Langsa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c7213a1c-01ec-3f3a-8dc0-246e6b4209b6> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/11>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "2" ;
+        c:name           "Malaysia" ;
+        c:originalValue  "Malaysia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7501b1f-9587-3522-b527-f78c7bfa1206> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "1" ;
+        c:name           "Constitutional monarchies" ;
+        c:originalValue  "Constitutional monarchies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/25cb7657-e3ed-3927-a1ad-7a463c90f8a3> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "2" ;
+        c:name           "Satun Province" ;
+        c:originalValue  "Satun Province" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/add94f0d-367d-3daa-ae37-c3eb41e4f19e> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "2" ;
+        c:name           "Lipe" ;
+        c:originalValue  "Lipe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/85512989-cc23-3f36-b025-d208f23703a0> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "2" ;
+        c:name           "Ko Lipe" ;
+        c:originalValue  "Ko Lipe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2588cc48-e1ec-3ff2-894c-226b65ece3d7> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Ty18VzODLyXUC8t/KhYVi9oojvA=|gUU6KsVuSGGemosB6Ghn6TnNLZgoUvSrUoyGLeZZYv/edHCu2jVgkQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:42.989" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/14>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dfa9774b-d637-3aa8-8f23-03f260fd2424> ;
+        c:score           "0.998" .

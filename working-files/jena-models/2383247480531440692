@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b> ;
+        c:importance     "2" ;
+        c:name           "Nationality" ;
+        c:originalValue  "Nationality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8b44aebf-d341-3c29-99c8-2088e1ee35e9> .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9d760715-7106-486f-14da-53e88b135464" ;
+        c:docDate          "2015-05-30 10:34:08.573" ;
+        c:docTitle         "" ;
+        c:document         "Singer Chris Brown's home burglarized. This time it wasn't singer Chris Brown making the news for his own behavior." ;
+        c:id               "http://id.opencalais.com/F6LOK7-9EYeNGtGSFT*Ezw" .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|YJS8MNWme9YF4QtodtYDjEmSxr0=|SVpBeBT4XosGDkt87MnQd15THRNL2q403cTuOxEQEO+fOXUUkXEs6A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:34:08.433" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b> ;
+        c:importance     "1" ;
+        c:name           "Rhythm and blues" ;
+        c:originalValue  "Rhythm and blues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1f50392b-f0c2-31ee-b2b5-0a5e4660af65> .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b> ;
+        c:importance     "1" ;
+        c:name           "Chris Brown" ;
+        c:originalValue  "Chris Brown (American entertainer)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4622f62c-585a-3e0d-a392-863f0c4c7fdf> .
+
+<http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cf51a64c-7f90-395d-b27b-37c8f30ae73b> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

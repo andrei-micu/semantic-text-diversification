@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:importance     "2" ;
+        c:name           "Simon Sinek" ;
+        c:originalValue  "Simon Sinek" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e9e68e8d-ed3e-3f9c-b592-5d670aa13654> .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "df43f437-b4b0-e214-da54-4e7ec13c987b" ;
+        c:docDate          "2015-05-30 09:41:06.262" ;
+        c:docTitle         "" ;
+        c:document         "How Do You Get Your Colleagues To Trust You?. How do you create trust? Management theorist Simon Sinek says it starts with a leader who makes people feel safe." ;
+        c:id               "http://id.opencalais.com/P8RmhTbvWzq3JEbFHCoYlA" .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:score           "0.922" .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:importance     "1" ;
+        c:name           "Social psychology" ;
+        c:originalValue  "Social psychology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/32066238-7c1a-30df-89a5-d406aa065d76> .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:importance     "1" ;
+        c:name           "Law" ;
+        c:originalValue  "Law" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ab9f217f-a2b9-3f0d-92a1-d9c63c80639e> .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:importance     "2" ;
+        c:name           "Trust" ;
+        c:originalValue  "Trust (social sciences)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/338f9e64-a9bf-3758-a2e0-be6b7828d7a3> .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GVt8yaW3+ZYRSyfPzj7GZcLlutM=|RilZhkkIGO29N4N/6Wgasxdrdgw+NuuDwQxjNo6NHx7OTCxmwdarGA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:06.028" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:importance     "2" ;
+        c:name           "Behavior" ;
+        c:originalValue  "Behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe1e19-9c21-37dc-af60-02531de42118> .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:importance     "1" ;
+        c:name           "Ethics" ;
+        c:originalValue  "Ethics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4f579fc5-eed2-3113-a4f8-658e638275f1> .
+
+<http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/dbc30e73-3c78-3b86-b4ed-ebc669eb9d69> ;
+        c:importance     "2" ;
+        c:name           "Safe" ;
+        c:originalValue  "Safe (Westlife song)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/550b09d7-a4b9-319e-8505-0f9206fb024c> .

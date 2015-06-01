@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b6c51616-7c6e-3d32-9f67-0b4d4478b589/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b6c51616-7c6e-3d32-9f67-0b4d4478b589> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Yn2r9jqNWrYQtmJ6QMHtyYQII/M=|VU4rzI2v+JRM6/6lFNjZMTwcyqE68ieRTuTgK21VnALIib+EzQm4IA==" ;
+        c:submissionDate  "2015-05-30 09:46:31.864" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/b6c51616-7c6e-3d32-9f67-0b4d4478b589/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b6c51616-7c6e-3d32-9f67-0b4d4478b589> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/b6c51616-7c6e-3d32-9f67-0b4d4478b589>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "f29b4fc3-594d-a1ff-14da-549e0b81df07" ;
+        c:docDate          "2015-05-30 09:46:31.927" ;
+        c:docTitle         "" ;
+        c:document         "VIDEO: The comedy side of getting to America. What's so funny about illegal immigration?" ;
+        c:id               "http://id.opencalais.com/D*ezaPamZobmP7iNv6rbng" .

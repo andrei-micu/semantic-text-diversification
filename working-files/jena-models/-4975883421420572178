@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f4dd58f3-1ac8-347c-88c6-269951bb2b5d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "eb9f0bd1-5269-de1a-14da-543cad2719b3" ;
+        c:docDate          "2015-05-30 10:39:53.089" ;
+        c:docTitle         "" ;
+        c:document         "Four days, four Jeb Bush answers on Iraq. Jeb Bush's four answers on Iraq war" ;
+        c:id               "http://id.opencalais.com/CgrRncA37sXR80lW4kmKRQ" .
+
+<http://d.opencalais.com/dochash-1/f4dd58f3-1ac8-347c-88c6-269951bb2b5d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f4dd58f3-1ac8-347c-88c6-269951bb2b5d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qwc/kdclJtNLFy7Q+rS08Dd5S8E=|YnHUr6NAJwx11prBBVs/OOrT5J110p8Z/s+7PLhOSJ78qW3fDr+HKA==" ;
+        c:submissionDate  "2015-05-30 10:39:53.042" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f4dd58f3-1ac8-347c-88c6-269951bb2b5d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f4dd58f3-1ac8-347c-88c6-269951bb2b5d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

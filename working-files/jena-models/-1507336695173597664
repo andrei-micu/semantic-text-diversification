@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8dbac671-5612-d4c1-4da5-4101f871d399" ;
+        c:docDate          "2015-05-30 09:36:50.864" ;
+        c:docTitle         "" ;
+        c:document         "At 70, Keith Jarrett Is Learning How To Bottle Inspiration. The jazz pianist is celebrating his birthday with a pair of new releases, one of which documents how his creative process plays out in front of live audiences." ;
+        c:id               "http://id.opencalais.com/QQK0x5ZzS-nE0eApv2pLew" .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:importance     "2" ;
+        c:name           "Miles Davis" ;
+        c:originalValue  "Miles Davis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/78d89575-8ebc-37da-9adf-29e350a01619> .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|dZAjpnzl8pBL7pUk7s1f5FVjHgs=|PBQqhpIxvaE5vRUwrRl98kHgjgQnI/Xi1XLPAKqsTYeIef3gNIeOYg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:50.552" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:importance     "1" ;
+        c:name           "Jazz" ;
+        c:originalValue  "Jazz" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f1a3dc5e-ff70-3a8f-82f8-cb33029af135> .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:importance     "2" ;
+        c:name           "American music" ;
+        c:originalValue  "American music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3e1a2397-31f9-34c6-99fe-dacf637ef357> .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:importance     "1" ;
+        c:name           "Keith Jarrett" ;
+        c:originalValue  "Keith Jarrett" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6056ebf8-65ee-3381-b214-94146507c531> .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:importance     "1" ;
+        c:name           "Music" ;
+        c:originalValue  "Music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/717004c7-f1f3-377e-9fc8-06323551148d> .
+
+<http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/9926ea16-afc9-36d4-870d-de87daf6c5c3> ;
+        c:importance     "2" ;
+        c:name           "Jarrett" ;
+        c:originalValue  "Jarrett (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dd66e8af-d602-385e-9121-199dc8c804ba> .

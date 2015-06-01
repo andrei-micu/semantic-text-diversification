@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200> ;
+        c:importance     "2" ;
+        c:name           "David Hughes" ;
+        c:originalValue  "David Hughes" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e69f95d3-4261-3b89-a447-e9fcadb6db44> .
+
+<http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200> ;
+        c:importance     "1" ;
+        c:name           "Amtrak" ;
+        c:originalValue  "Amtrak" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/620180fd-d75e-31be-838e-e8cb90654b1f> .
+
+<http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|9HQ60cdLST1hEfa5iStCNZElFRY=|JlnNNSt0Me8RySa/HkazNM9fVztwjjNTQYmWVrtl4xq3wc+E6ipiCw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:19.791" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e7c34ac0-e036-7d03-14da-546080f719b3" ;
+        c:docDate          "2015-05-30 10:42:19.978" ;
+        c:docTitle         "" ;
+        c:document         "Amtrak Train May Have Been Struck By Object Before Crash. Federal investigators are still trying to work out how an Amtrak train derailed killing eight people on Tuesday evening. NPR's Scott Simon speaks with former Amtrak President David Hughes." ;
+        c:id               "http://id.opencalais.com/0sJdoDLJMqzyBmtvR*NlPQ" .
+
+<http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200> ;
+        c:importance     "1" ;
+        c:name           "Rail transportation in the United States" ;
+        c:originalValue  "Rail transportation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c130d05b-c224-351c-a231-bf5c867870c0> .
+
+<http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200> ;
+        c:importance     "2" ;
+        c:name           "Open Travel Alliance" ;
+        c:originalValue  "Open Travel Alliance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a27c376-0a42-33df-b535-81ca652288ac> .
+
+<http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/55e7acb2-ee92-3c4d-8db6-931c073a3200> ;
+        c:importance     "1" ;
+        c:name           "Transportation in the United States" ;
+        c:originalValue  "Transportation in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06280394-af41-3ddd-ac2c-6f149bd1e55c> .

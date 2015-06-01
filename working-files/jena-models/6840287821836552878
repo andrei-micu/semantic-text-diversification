@@ -1,0 +1,60 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c> ;
+        c:importance     "1" ;
+        c:name           "Chesapeake Bay" ;
+        c:originalValue  "Chesapeake Bay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/36da8c26-c6d1-34af-9262-d6ed71c685ed> .
+
+<http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Cj1X6PBa5yeaZepGbhxjXzPhEKw=|YBzCC3J52lLjzVpBwRxim6M6SMZ3U04Q8LdiBGETDpC32vDH1T20Fw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:36:07.904" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c> ;
+        c:importance     "1" ;
+        c:name           "Christianity" ;
+        c:originalValue  "Christianity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/20b1bcbb-ca9a-3aaf-b1e7-02cf6c770dc5> .
+
+<http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c> ;
+        c:importance     "2" ;
+        c:name           "Pastor" ;
+        c:originalValue  "Pastor" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/89e38796-594e-3bc9-932a-6320148d22bf> .
+
+<http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c> ;
+        c:importance     "1" ;
+        c:name           "Baltimore" ;
+        c:originalValue  "Baltimore" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d6916416-b018-3a9d-bb81-6c36a9fa4c3e> .
+
+<http://d.opencalais.com/dochash-1/508073e7-e344-369c-9d95-86bf430ac14c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "54fdb851-ef29-0d98-14da-5405b604551f" ;
+        c:docDate          "2015-05-30 09:36:08.060" ;
+        c:docTitle         "" ;
+        c:document         "A New Baltimore Model? 'Officer On The Beat ... Pastor On The Corner'. Baltimore officials want to fix damaged relations between police and residents. Church pastors there have long stepped up to help fill the gap of mistrust, and they hope to play a role in erasing it." ;
+        c:id               "http://id.opencalais.com/sxs5V9S4j8lrYlTwWSbUWQ" .

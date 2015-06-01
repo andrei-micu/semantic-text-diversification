@@ -1,0 +1,130 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:score           "0.864" .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance     "2" ;
+        c:name           "The Championships, Wimbledon" ;
+        c:originalValue  "The Championships, Wimbledon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9d6bfbdf-eab3-3a3e-bfc5-a2b95f00a3bf> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance     "2" ;
+        c:name           "British finalists at Grand Slam tennis tournaments" ;
+        c:originalValue  "British finalists at Grand Slam tennis tournaments" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/237b032b-de01-3f8c-96a5-e967ba3af3be> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance     "1" ;
+        c:name           "BBC Sport" ;
+        c:originalValue  "BBC Sport" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b29932c9-4779-33ca-a2af-a7f9dcd92e25> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance     "2" ;
+        c:name           "Wimbledon F.C." ;
+        c:originalValue  "Wimbledon F.C." ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/57e8ce41-89b2-3fd4-90d0-df39da7b7699> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance     "2" ;
+        c:name           "Wimbledon, London" ;
+        c:originalValue  "Wimbledon, London" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f472d0a-261a-3ea1-b791-d982e72fcbbe> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance     "1" ;
+        c:name           "Sport in the United Kingdom" ;
+        c:originalValue  "Sport in the United Kingdom" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c94c79c-bc97-3378-aabf-66ae22c94218> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8c235aa0-ca85-f384-14da-538aac232f98" ;
+        c:docDate          "2015-05-30 09:27:44.094" ;
+        c:docTitle         "" ;
+        c:document         "Wimbledon bans 'selfie sticks'. The green, green grass of Wimbledon will not be home to selfie sticks, organizers have announced." ;
+        c:id               "http://id.opencalais.com/bbz7gneP89K9jbQ9TPmSWw" .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance     "2" ;
+        c:name           "AFC Wimbledon" ;
+        c:originalValue  "AFC Wimbledon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/041db4c9-6132-3830-9c46-e3e76ca0eece> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|htyeJR7WvzbGXcySbUKZzlrJLMs=|dCcYoEM7AIPK6PN9QqPxYihyDIQu9wU2IulnjAnPOnj+NRCdMMAzHg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:43.938" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance     "1" ;
+        c:name           "London" ;
+        c:originalValue  "London" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ca4f4480-323a-3bab-9b54-56e4a6f29a88> .
+
+<http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d6d51fa2-99b2-3f76-85b8-d9318b2f8ba2> ;
+        c:importance     "2" ;
+        c:name           "Grass" ;
+        c:originalValue  "Grass" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1959172e-1a2f-35bb-933e-54d26641988f> .

@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:importance     "2" ;
+        c:name           "Police brutality in the United States" ;
+        c:originalValue  "Police brutality in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1bb5719f-84f4-34e8-bdd8-2b87a90f539c> .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:importance     "1" ;
+        c:name           "Mississippi" ;
+        c:originalValue  "Mississippi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b70ef3dc-26de-3593-9ac2-049e8d7708a9> .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2f739d82-6df0-7903-14da-54552c74551f" ;
+        c:docDate          "2015-05-30 09:41:33.617" ;
+        c:docTitle         "" ;
+        c:document         "Gun used in Mississippi cop killings found. Authorities have recovered a gun police say was used in the shooting deaths of two police officers in Hattiesburg, Mississippi, said Mayor Johnny Dupree." ;
+        c:id               "http://id.opencalais.com/M3fpNepAOWvtrC7EGHPDSg" .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:importance     "1" ;
+        c:name           "Johnny DuPree" ;
+        c:originalValue  "Johnny DuPree" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b733b819-d0b6-3d71-8bd6-8081a96a3aa7> .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:importance     "2" ;
+        c:name           "Illegal immigration in Mississippi" ;
+        c:originalValue  "Illegal immigration in Mississippi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9f28889c-afd9-336d-b067-6918c91b0446> .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:score           "0.867" .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:importance     "2" ;
+        c:name           "Geography of the United States" ;
+        c:originalValue  "Geography of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/466bf13e-c352-3f3a-82a2-52385ee388ff> .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|2b68zNkiuyWVijNBDY1SAXlJ9Bw=|ZnltOk5t0KRW1aU89XKDYL6fukYimIwFW+Of4GE9mTwK07qsViK4Tg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:33.399" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:importance     "1" ;
+        c:name           "Hattiesburg, Mississippi" ;
+        c:originalValue  "Hattiesburg, Mississippi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/625c4bb5-a428-3abb-94be-1a6f96373fa0> .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/37ddfae2-c85e-360f-acf6-05484959d46c> ;
+        c:score           "0.684" .

@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:score           "0.985" .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:importance     "2" ;
+        c:name           "Ukraine" ;
+        c:originalValue  "Ukraine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ad48dbb1-870b-38ad-b593-d62be5251df0> .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:importance     "1" ;
+        c:name           "Kiev" ;
+        c:originalValue  "Kiev" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a7012909-8e7f-3f5f-9573-47e3057d01be> .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:importance     "1" ;
+        c:name           "Europe" ;
+        c:originalValue  "Europe" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06127e08-a515-3b42-bea4-cc36b1b42b59> .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:importance     "2" ;
+        c:name           "Organization of Ukrainian Nationalists" ;
+        c:originalValue  "Organization of Ukrainian Nationalists" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/60b3a2cd-b79f-30ff-99f8-fabe783a74f8> .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:score           "0.973" .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e21d1558-8f4f-19e3-14da-548bb5623ab1" ;
+        c:docDate          "2015-05-30 10:45:16.883" ;
+        c:docTitle         "" ;
+        c:document         "Fresh fighting erupts in east Ukraine, three Ukrainian soldiers killed. KIEV (Reuters) - Three Ukrainian servicemen have been killed and 12 wounded in the latest clashes between government forces and Russian-backed separatists, further eroding a three-month-old ceasefire, Kiev's military said on Friday." ;
+        c:id               "http://id.opencalais.com/2Rjzf8G4DOqU-QsuhJd1Hg" .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:importance     "2" ;
+        c:name           "Slavic" ;
+        c:originalValue  "Slavic" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/14d19fe0-05cd-336d-a723-5421938171c3> .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:importance     "1" ;
+        c:name           "Second Chechen War" ;
+        c:originalValue  "Second Chechen War" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/47c8922f-46c7-32a9-af54-dc2215a8b3fa> .
+
+<http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/76234b10-7f78-3c17-b00d-37085b0db2e2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|HAXAvm1P2LJi1UBcIR8psayERH8=|eh9taDHipIQzW+RUVgJMwRscL8txFvByT/ERzW9FDFgZvTAERgpbNQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:16.758" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

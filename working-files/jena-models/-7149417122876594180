@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:importance     "2" ;
+        c:name           "Entertainment" ;
+        c:originalValue  "Entertainment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/abe4e499-072d-32c2-9a24-e3d07c641751> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:importance  "2" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4736c902-0495-6a0e-14da-546d0d749095" ;
+        c:docDate          "2015-05-30 10:43:11.409" ;
+        c:docTitle         "" ;
+        c:document         "Is this what gave Letterman his edge?. I appeared numerous times on the Letterman show when he was on NBC. But I can't say I knew David Letterman at all. With Dave, like Conan and Jay, the host and guest don't generally speak that much. The host has a show to do, after all." ;
+        c:id               "http://id.opencalais.com/Zct-fXILwltv3VNG122Dxg" .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:importance     "1" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:importance     "2" ;
+        c:name           "Madonna on Late Show with David Letterman" ;
+        c:originalValue  "Madonna on Late Show with David Letterman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/233f471e-ed06-3c89-9c50-94fff6132343> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:importance     "2" ;
+        c:name           "Conan" ;
+        c:originalValue  "Conan (TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a943842-ed89-3559-8e45-3e0b8fd3e784> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:importance     "1" ;
+        c:name           "Conan O'Brien" ;
+        c:originalValue  "Conan O'Brien" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/58e5f5c6-fb48-3922-9e98-84c2836dee6b> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:score           "0.791" .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:importance     "1" ;
+        c:name           "David Letterman" ;
+        c:originalValue  "David Letterman" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54eef261-5ad0-34ea-935b-60819ce936b6> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:importance     "2" ;
+        c:name           "Tonight Show conflict" ;
+        c:originalValue  "2010 Tonight Show conflict" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/15f73e16-9bf4-37aa-9c40-2ee8b9e08191> .
+
+<http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1a91ced9-7d9e-3dd2-913d-36229564d7ee> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Q11Mo8RtT136ZXdcAHbk/I7FMWw=|IN2XOLfxF/VmeFVcWTHUTEcdhTNPTNvjwfsVltJUSbbwlsY/yTpE4A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:11.191" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

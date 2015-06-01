@@ -1,0 +1,75 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7b5aaea2-6e1a-93d3-14da-53d6e881927e" ;
+        c:docDate          "2015-05-30 10:32:56.356" ;
+        c:docTitle         "" ;
+        c:document         "Former racehorses get a second chance at life. Wooden Phone was never asked whether he wanted to race. Born in 1997, the dull-brown thoroughbred didn't show initial signs of greatness, but the horse would net more than $800,000 in winnings during his career." ;
+        c:id               "http://id.opencalais.com/nCmnmjQ51lk0fBKxI8775g" .
+
+<http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96> ;
+        c:importance     "2" ;
+        c:name           "Thoroughbred" ;
+        c:originalValue  "Thoroughbred" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ae205350-0cc5-3e42-b759-c5219af51bd1> .
+
+<http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96> ;
+        c:importance     "1" ;
+        c:name           "Eclipse Award winners" ;
+        c:originalValue  "Eclipse Award winners" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83fba43b-eafe-308f-8fa0-6493c07629c0> .
+
+<http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96> ;
+        c:importance     "1" ;
+        c:name           "Kentucky Derby winners" ;
+        c:originalValue  "Kentucky Derby winners" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0ab98232-e78f-3c2c-8179-cc2a52e89eb4> .
+
+<http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|is94oHGO18TUcHp/64YwFOIANg4=|STX9wnWxDAP5XaZMqG0jBKCHmPwaglP5fUFvkwJ6XXJyK5U2pj6SnQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:32:56.200" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/ba4a002c-8c95-3c76-a168-a54381249b96> ;
+        c:importance     "1" ;
+        c:name           "Horse racing" ;
+        c:originalValue  "Horse racing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4a6aec9f-0827-39ea-9e59-e157859ee6d8> .

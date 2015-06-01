@@ -1,0 +1,138 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KmDSz0PW+GOHi7R5mogleEWUgi0=|ei9naGzLRq6WiJmejUglZ0nBSfxWocNeRm62XAKmMZYDWEk14S8UHQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:22.469" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance     "2" ;
+        c:name           "Addiction" ;
+        c:originalValue  "Addiction" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/84cfe68f-d3d6-3a3d-8530-6ab3d2d514a2> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Health_Medical_Pharma> ;
+        c:categoryName    "Health_Medical_Pharma" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance     "1" ;
+        c:name           "Medicine" ;
+        c:originalValue  "Medicine" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f34e2d5-9b90-3695-8854-40c95b0b235f> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance     "2" ;
+        c:name           "Sanjay Gupta" ;
+        c:originalValue  "Sanjay Gupta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/365d2412-2a0b-3dc6-823d-47634e3b8763> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance     "2" ;
+        c:name           "Gupta" ;
+        c:originalValue  "Gupta" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e514ce22-721b-3f73-87ff-a80fc16aa09c> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance     "1" ;
+        c:name           "Human behavior" ;
+        c:originalValue  "Human behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/501bdcfb-a62d-3c74-bff3-2b3fc467bc48> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance     "2" ;
+        c:name           "Habits" ;
+        c:originalValue  "Habits" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b20655d3-23dd-3686-a97d-0ff25c872069> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:score           "0.970" .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance     "2" ;
+        c:name           "Behavior" ;
+        c:originalValue  "Behavior" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dcbe1e19-9c21-37dc-af60-02531de42118> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance     "2" ;
+        c:name           "Sanjay" ;
+        c:originalValue  "Sanjay" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2edb9b10-21bb-3c88-83af-695ad565fdf7> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance  "1" ;
+        c:name        "Health_Medical_Pharma" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c94e682b-3612-3fd1-8f6c-10e6567343c2> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance     "2" ;
+        c:name           "Smoking" ;
+        c:originalValue  "Smoking" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e445679b-3275-34bf-a22d-b26ecceb8ea3> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:importance     "1" ;
+        c:name           "Tobacco" ;
+        c:originalValue  "Tobacco" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45eccb36-5f25-3a6d-b2da-97b25c64d7e2> .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e8a019eb-2516-d783-14da-53856e535464" ;
+        c:docDate          "2015-05-30 10:27:22.640" ;
+        c:docTitle         "" ;
+        c:document         "This habit could be as harmful as smoking. Sitting can be dangerous to your health. Dr. Sanjay Gupta tell us how moving more could help us live to 100." ;
+        c:id               "http://id.opencalais.com/o914Z3FgYkj3JMir3ks5VA" .
+
+<http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/10e57165-9d71-325c-906a-c081db12abf9> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

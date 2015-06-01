@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:importance     "2" ;
+        c:name           "FBI Seeking Information – War on Terrorism list" ;
+        c:originalValue  "FBI Seeking Information – War on Terrorism list" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ac601cb0-ee07-3cfe-ba26-80fb7fc5a554> .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:score           "0.871" .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5d3db389-40df-b642-14da-53dd780760f9" ;
+        c:docDate          "2015-05-30 10:33:23.259" ;
+        c:docTitle         "" ;
+        c:document         "FBI sent alert before Texas shooting. The FBI had warned Texas officials several hours before a provocative cartoon contest that a suspected extremist could show up at the event." ;
+        c:id               "http://id.opencalais.com/*azwF5yfEynf8fuMzES4OQ" .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:importance     "1" ;
+        c:name           "Robert Hanssen" ;
+        c:originalValue  "Robert Hanssen" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/50a6b7e7-4eb6-332c-8d78-f69f64a9827f> .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:importance     "1" ;
+        c:name           "Spies" ;
+        c:originalValue  "Spies" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/41b60bd6-83a4-34b6-82f4-fa41ce51b1b9> .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:score           "0.840" .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:importance     "2" ;
+        c:name           "Federal Bureau of Investigation" ;
+        c:originalValue  "Federal Bureau of Investigation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e4e3add3-1d4a-307d-bbd0-27107d78bbf7> .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|BAdeK3C8BTsbtOxO7/63JfN3MO0=|dg3hhLsgq79EmiHFaxAQXejIl4h2xmyj5x6ZwfYA0T1ZlBG4MQEX9Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:33:23.072" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:importance     "1" ;
+        c:name           "Double agents" ;
+        c:originalValue  "Double agents" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b29734b7-2951-314f-a17f-f6d2a5efc958> .
+
+<http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f08052fa-c414-3d53-ace8-74e6acc9db22> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .

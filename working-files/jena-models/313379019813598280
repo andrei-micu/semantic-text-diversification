@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd> ;
+        c:importance     "1" ;
+        c:name           "Cinema of the United States" ;
+        c:originalValue  "Cinema of the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9089feca-c264-3451-b0cf-257f8c8b0635> .
+
+<http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd> ;
+        c:importance     "1" ;
+        c:name           "Katherine Heigl" ;
+        c:originalValue  "Katherine Heigl" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/48764adc-ffc5-36b2-94cb-0329f5fb6aa5> .
+
+<http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd> ;
+        c:importance     "2" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd> ;
+        c:importance     "1" ;
+        c:name           "Aximili-Esgarrouth-Isthill" ;
+        c:originalValue  "Aximili-Esgarrouth-Isthill" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c456dd67-de13-331e-9aac-8fe0e41da535> .
+
+<http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd> ;
+        c:importance     "2" ;
+        c:name           "Izzie Stevens" ;
+        c:originalValue  "Izzie Stevens" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/868ed3d3-8e49-3b9c-a792-9ab47a0f0406> .
+
+<http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "4b16b831-d07a-c077-14da-5419f2013c98" ;
+        c:docDate          "2015-05-30 09:37:31.143" ;
+        c:docTitle         "" ;
+        c:document         "Katherine Heigl, others out of a job: See what shows are canceled. View this list of canceled TV shows to see which ones have gotten the ax." ;
+        c:id               "http://id.opencalais.com/GvbISfuyjBsewy24jeve2A" .
+
+<http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/d944bbf7-8784-34bd-bd2d-a5275d1326dd> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GqJD89Q1PFbwWC4L2j1g4aGZR/o=|aQZ+FxPXf5o/08/fnTcnDySfi+yCEXgnh5NJetpPvta+A5a8Dm8GjQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:37:30.784" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

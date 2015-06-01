@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f> ;
+        c:importance     "2" ;
+        c:name           "World Wide Web" ;
+        c:originalValue  "World Wide Web" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a9234a67-1d5c-3451-83e0-fb48ce4187d8> .
+
+<http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f> ;
+        c:importance     "1" ;
+        c:name           "Baidu" ;
+        c:originalValue  "Baidu" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a299dec3-2f89-37a4-85e5-96a68d7b47a4> .
+
+<http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "602696b0-6c24-857e-14da-548dbf8719b3" ;
+        c:docDate          "2015-05-30 10:45:25.315" ;
+        c:docTitle         "" ;
+        c:document         "Contest for Nokia's HERE seen as a three-way race. NECKARSULM, Germany (Reuters) - The contest for Nokia's maps business has become a three-way race between German carmakers, a consortium including Uber and Baidu, and a third group including China's Tencent and Navinfo, people familiar with the process said." ;
+        c:id               "http://id.opencalais.com/wi9e7c64B1hYKmsJha6waQ" .
+
+<http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f> ;
+        c:importance     "1" ;
+        c:name           "Tencent Holdings" ;
+        c:originalValue  "Tencent Holdings" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/61da7af2-add6-3649-b416-4713a774c6ee> .
+
+<http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f> ;
+        c:importance     "2" ;
+        c:name           "Technology" ;
+        c:originalValue  "Technology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/623b01d7-2221-3867-ad97-cdf343a743f4> .
+
+<http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f> ;
+        c:importance     "2" ;
+        c:name           "Neckarsulm" ;
+        c:originalValue  "Neckarsulm" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/27fe2d84-bef2-3833-8653-0e8e4e891e91> .
+
+<http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|yVkLnSjWZJILhIM4/bHdyOnkzNo=|TPDejvR3fy/pd7m7fgs+fGOmjx9Rxt8sCNcFFPnvACDifwJ7Dmq0LQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:25.112" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f> ;
+        c:importance     "1" ;
+        c:name           "Nokia" ;
+        c:originalValue  "Nokia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0974a7c8-1afe-3ecc-9edf-82fbe096746e> .
+
+<http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f> ;
+        c:importance     "2" ;
+        c:name           "Stock market" ;
+        c:originalValue  "Stock market" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/06fb4dfb-0f17-320f-a936-8a3d8807cef9> .
+
+<http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/28a58c0c-35eb-3b30-83a0-660a62e5618f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

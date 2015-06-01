@@ -1,0 +1,153 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance     "1" ;
+        c:name           "Conservatism" ;
+        c:originalValue  "Conservatism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5f8b0a81-5b19-322c-b977-78df72aa62db> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance     "2" ;
+        c:name           "Brigid" ;
+        c:originalValue  "Brigid" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/26e79f59-f485-3b48-b7c8-b430dc58628f> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Religion_Belief> ;
+        c:categoryName    "Religion_Belief" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:score           "0.975" .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance     "2" ;
+        c:name           "Same-sex marriage" ;
+        c:originalValue  "Same-sex marriage" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/251cd692-8f10-323d-8326-ded2e061d04a> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance     "2" ;
+        c:name           "Sociology" ;
+        c:originalValue  "Sociology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa1414f0-8e54-3eba-bbfe-e4e5b4dcb745> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/13>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance     "2" ;
+        c:name           "Political correctness" ;
+        c:originalValue  "Political correctness" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4d9cc8e0-6cc4-3e8c-acc8-5dd6726ad661> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "baed31cb-a31d-c273-14da-54a427735464" ;
+        c:docDate          "2015-05-30 10:46:57.167" ;
+        c:docTitle         "" ;
+        c:document         "For One Irish Couple, Backing Gay Marriage Is a Matter of Family Values. Brighid and Paddy Whyte are Catholic and have been married nearly 50 years. They made a video to encourage Irish voters to support gay marriage, and it went viral." ;
+        c:id               "http://id.opencalais.com/*AnEAGkK-fs3DXQaX3vsPA" .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/12>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance  "1" ;
+        c:name        "Religion_Belief" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/0e7de1f2-90b5-3758-9b94-113f52371b2e> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance     "1" ;
+        c:name           "Family values" ;
+        c:originalValue  "Family values" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0174e1ad-d4af-3c06-bc72-98364735c6f1> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance     "2" ;
+        c:name           "Spirituality" ;
+        c:originalValue  "Spirituality" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b495724-ebf7-3e8c-b2ea-c39d400b43ab> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/11>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance     "1" ;
+        c:name           "Family" ;
+        c:originalValue  "Family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/411e09d1-56b8-3992-8707-01aa3bb15cfd> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|OxGyyZUP2iAEp0Aw/uf6VUUP68k=|iEhBqUHpyoiUhelpR8FEwlDODbgwIa1HMe8SpgPdV8o0YrWruDwMow==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:56.887" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance     "2" ;
+        c:name           "Religion" ;
+        c:originalValue  "Religion" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4c9f8418-419c-3a9b-92db-f387fc4fb3d7> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/SocialTag/10>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:importance     "2" ;
+        c:name           "Celtic languages" ;
+        c:originalValue  "Celtic languages" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dd6c64ae-beb6-37b6-aa5c-7f813f1dc93a> .
+
+<http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3c0d823b-6fd9-3519-befe-17a2a1affe4f> ;
+        c:score           "0.927" .

@@ -1,0 +1,113 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:importance  "2" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:score           "0.708" .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:importance  "2" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:importance     "1" ;
+        c:name           "Athletics" ;
+        c:originalValue  "Athletics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1cc612e7-8a68-30c9-9186-fc4284cb2b0b> .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "da44cf28-b7a8-5b6b-14da-542e48749095" ;
+        c:docDate          "2015-05-30 10:38:54.180" ;
+        c:docTitle         "" ;
+        c:document         "Nun says Tsarnaev 'genuinely sorry' . She is the last witness called, as the the defense tries to spare the life of the Boston Marathon bomber." ;
+        c:id               "http://id.opencalais.com/eeryPhF8QmNiCe0jNoaDnQ" .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:importance     "2" ;
+        c:name           "Sports" ;
+        c:originalValue  "Sports" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:score           "0.627" .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:importance     "1" ;
+        c:name           "Marathon" ;
+        c:originalValue  "Marathon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d322de36-9af4-3ba9-abae-790f9b39acf9> .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:importance  "2" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|hOpuPLNdsyKSNg1fzzWZ1f/OSA0=|UyQxBEEIcQAT4YW032sSj21MGK1ea2pzMnA3akc+GHb/1hFKhm6SBw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:38:54.087" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:score           "0.733" .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:importance     "2" ;
+        c:name           "Running" ;
+        c:originalValue  "Running" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2c1b3f44-9a99-32fa-9c6d-b33c3a13a182> .
+
+<http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c9bd75d9-6da4-357f-8039-18c89e1e1791> ;
+        c:importance     "1" ;
+        c:name           "Road running" ;
+        c:originalValue  "Road running" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cb113c5d-fe63-3dc0-aa9f-a13e11cd93d1> .

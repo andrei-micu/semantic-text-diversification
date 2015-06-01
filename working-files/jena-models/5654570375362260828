@@ -1,0 +1,74 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Pr4vn/NGiOuy0jzx+cMF6CHv3O0=|DImF3TJIlvWsMt0hFyUMDQ+vkEtdbWZH8FYoXNFIULHDEySKd6/C2A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:49:27.535" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751/SocialTag/4>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751> ;
+        c:importance     "1" ;
+        c:name           "Spelling" ;
+        c:originalValue  "Spelling" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/827366de-a27a-37bd-9096-ef7f117fe374> .
+
+<http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "52ff5fe6-be8d-2701-14da-54c8eef1927e" ;
+        c:docDate          "2015-05-30 10:49:27.676" ;
+        c:docTitle         "" ;
+        c:document         "Why South Asian kids dominate spelling bees. While your kid was at music class, Puthenveedu Jayakrishnan's was learning to spell. FULL STORY" ;
+        c:id               "http://id.opencalais.com/coKbfUjL5*Ahf3QBmj2F0A" .
+
+<http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/69cbdac4-7027-337b-8a92-80ab35aeb751> ;
+        c:importance     "1" ;
+        c:name           "Spelling bee" ;
+        c:originalValue  "Spelling bee" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2042600d-9ca6-3fef-a473-c26fcfb6e03b> .

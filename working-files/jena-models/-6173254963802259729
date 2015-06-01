@@ -1,0 +1,121 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:importance     "1" ;
+        c:name           "Rio de Janeiro" ;
+        c:originalValue  "Rio de Janeiro" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9dc687a4-6ef9-3801-80a1-56637da6757c> .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:importance     "2" ;
+        c:name           "Rio de Janeiro bid for the 2016 Summer Olympics" ;
+        c:originalValue  "Rio de Janeiro bid for the 2016 Summer Olympics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/70afa1fa-7e80-3dbc-9cd9-629cb86b274c> .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:score           "0.701" .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:importance     "2" ;
+        c:name           "Geography of Brazil" ;
+        c:originalValue  "Geography of Brazil" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/8f9dcd34-814c-3da4-ace4-7f2093b4c097> .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:importance  "2" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:score           "0.926" .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:importance     "1" ;
+        c:name           "States of Brazil" ;
+        c:originalValue  "States of Brazil" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7341c1ed-9d6d-30f7-915f-572b49f9ad95> .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "27e9b612-e052-cfcf-14da-540598323ab1" ;
+        c:docDate          "2015-05-30 10:36:07.536" ;
+        c:docTitle         "" ;
+        c:document         "500 days out, Rio risks Olympics cost surge as building lags. RIO DE JANEIRO (Reuters) - With less than 500 days until Rio de Janeiro hosts the Olympic Games, construction of several venues has not started and some major contracts have not even been tendered, setting the stage for a last-minute rush that will likely drive up costs." ;
+        c:id               "http://id.opencalais.com/z0ApXM1tiOV6-PSMCb8mfw" .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|4D2orGrC316xgasUcxVG8RWPW+k=|LQ3Hi5MLmrf+ZDRoKZs76jENjJuUkTVLBFarYEa4xz+5IfnkrQR3hg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:36:07.427" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:importance     "2" ;
+        c:name           "Pan American Games" ;
+        c:originalValue  "2007 Pan American Games" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c52ec7ee-139c-37a8-a040-a6fd368fece5> .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Sports> ;
+        c:categoryName    "Sports" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:score           "0.924" .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:importance     "1" ;
+        c:name           "Summer Olympics bids" ;
+        c:originalValue  "2016 Summer Olympics bids" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c1eb2dee-53b1-34c7-8145-1d23a6805db5> .
+
+<http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/35c11861-0a7e-305d-b649-5d01e90ad480> ;
+        c:importance  "1" ;
+        c:name        "Sports" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/cc263a03-567c-35f0-801a-c834b425dae0> .

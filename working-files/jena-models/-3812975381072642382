@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2b770a9a-2ce3-3c28-a1af-580011959caa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2b770a9a-2ce3-3c28-a1af-580011959caa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|40bO+xx8NukgGx6E/jaMd7AK3NE=|aBuVN6oa1x3lnyomtIdS4C/KIeM/OrZxMZNFAQ3eKVnVeCjDBjJaWA==" ;
+        c:submissionDate  "2015-05-30 09:40:47.758" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2b770a9a-2ce3-3c28-a1af-580011959caa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7d155673-7040-2a14-14da-544a08e1df07" ;
+        c:docDate          "2015-05-30 09:40:47.836" ;
+        c:docTitle         "" ;
+        c:document         "Letterman's cast of characters. David Letterman didn't just have guests on his late-night shows." ;
+        c:id               "http://id.opencalais.com/QJWLlDqe7R5CUMsXZXf0Ug" .
+
+<http://d.opencalais.com/dochash-1/2b770a9a-2ce3-3c28-a1af-580011959caa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2b770a9a-2ce3-3c28-a1af-580011959caa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .

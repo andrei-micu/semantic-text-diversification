@@ -1,0 +1,84 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36> ;
+        c:importance     "2" ;
+        c:name           "Geography of Iraq" ;
+        c:originalValue  "Geography of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d44ae395-23ce-3e2a-aad2-54ec100cbc72> .
+
+<http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36> ;
+        c:importance     "1" ;
+        c:name           "Al Anbar Governorate" ;
+        c:originalValue  "Al Anbar Governorate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f7acef67-1bde-362f-a41c-48c3120ca4f8> .
+
+<http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|maDH/E9zvvmEDWYaoObrGCg8Lvc=|jrjQYiKF0jtk9mQ3sYU1jR0iCvBrkxT0nTzN+JwWf6aC+1OtsiTsng==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:47:58.793" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "e66fb275-0dc2-77ab-14da-54b344949095" ;
+        c:docDate          "2015-05-30 10:47:58.996" ;
+        c:docTitle         "" ;
+        c:document         "Ramadi memories a decade after an encounter with an IED. Hearing the news about Ramadi last week made me light-headed. Made the usual ringing in my ears more pronounced." ;
+        c:id               "http://id.opencalais.com/4V9qbLAfraUGuM95XlI5qw" .
+
+<http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36> ;
+        c:importance     "1" ;
+        c:name           "Ramadi" ;
+        c:originalValue  "Ramadi" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7a14fe0e-d3e7-3c2c-9a6b-129bc843d4ed> .
+
+<http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36> ;
+        c:importance     "2" ;
+        c:name           "Ramadi under U.S. Military Occupation" ;
+        c:originalValue  "Ramadi under U.S. Military Occupation" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/a3535e57-6fd8-3c9f-9af9-6f19bd1ea8e6> .
+
+<http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36> ;
+        c:importance     "2" ;
+        c:name           "Occupation of Iraq" ;
+        c:originalValue  "Occupation of Iraq" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3825fb7d-8a38-39a5-864b-fbcbfcba7d70> .
+
+<http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36> ;
+        c:importance     "1" ;
+        c:name           "Geography of Asia" ;
+        c:originalValue  "Geography of Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/45c50930-6538-3a50-99a2-7746fd3b3a5b> .
+
+<http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/7cbae35d-f419-3fd8-af25-bb9cedd82d36> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

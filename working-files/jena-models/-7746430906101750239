@@ -1,0 +1,129 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:importance     "1" ;
+        c:name           "Climate change" ;
+        c:originalValue  "Climate change" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cedbc608-58fa-3bfe-8652-a58d735c6f75> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:importance     "2" ;
+        c:name           "Climate Change Science Program" ;
+        c:originalValue  "Climate Change Science Program" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/65962485-8ff9-301b-8d0a-2647d00bd493> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/cat/3>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:score           "0.807" .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|eV8Bi2wZKp9MMhDJfmsDgNPHC6E=|SpGXXIMtEISZeIV0lUExTWq/EgEnXm2nKHRG178QTNTPp9532Ugrlg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:27:35.667" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:importance     "2" ;
+        c:name           "Global warming" ;
+        c:originalValue  "Global warming" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/27b9426a-d468-3239-ae5e-4ce8f4ca0d67> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Environment> ;
+        c:categoryName    "Environment" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:importance  "1" ;
+        c:name        "Environment" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:importance     "1" ;
+        c:name           "Climatology" ;
+        c:originalValue  "Climatology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/557e8ffa-8f1b-3dfb-a29b-62aae852918f> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:importance     "1" ;
+        c:name           "Environment" ;
+        c:originalValue  "Environment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5790e09d-909e-3258-9673-96208305e369> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:importance     "2" ;
+        c:name           "Effects of global warming" ;
+        c:originalValue  "Effects of global warming" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ce56f306-9427-34b6-b2cb-9c1535b1cdd2> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Weather> ;
+        c:categoryName    "Weather" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:importance     "2" ;
+        c:name           "Climate history" ;
+        c:originalValue  "Climate history" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/39f72978-5038-3e4e-a9cf-9c4ddd7fc512> .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "dca42d5e-51ff-0cc6-14da-5388a7335464" ;
+        c:docDate          "2015-05-30 10:27:35.885" ;
+        c:docTitle         "" ;
+        c:document         "New Study Links Weather Extremes to Global Warming. Human emissions are responsible for about 75 percent of especially hot days and 18 percent of unusually heavy precipitation, according to a new report." ;
+        c:id               "http://id.opencalais.com/h7yuGzMk1FjiB9X7VmG5nA" .
+
+<http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/07d09624-5f5e-3046-a99c-d9d5cb2045d3> ;
+        c:importance  "1" ;
+        c:name        "Weather" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/f7ebbf37-ce8c-3e0a-9663-a8818c896f03> .

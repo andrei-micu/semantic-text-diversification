@@ -1,0 +1,44 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/2e9089d4-bc56-3031-9681-0c7047e67d97/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2e9089d4-bc56-3031-9681-0c7047e67d97> ;
+        c:importance     "1" ;
+        c:name           "North Texas" ;
+        c:originalValue  "North Texas" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/eb091050-c901-3b74-a5fe-46adccede301> .
+
+<http://d.opencalais.com/dochash-1/2e9089d4-bc56-3031-9681-0c7047e67d97/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/2e9089d4-bc56-3031-9681-0c7047e67d97> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/2e9089d4-bc56-3031-9681-0c7047e67d97>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "9d9c3a20-2e43-ed83-14da-541340135464" ;
+        c:docDate          "2015-05-30 10:37:03.548" ;
+        c:docTitle         "" ;
+        c:document         "Fracking probably causing Texas quakes, study says. Northern Texas has experienced more than 130 temblors -- and their frequency has jumped. FULL STORY" ;
+        c:id               "http://id.opencalais.com/lLbHcaSgtTySy0ft1Lm0ZQ" .
+
+<http://d.opencalais.com/dochash-1/2e9089d4-bc56-3031-9681-0c7047e67d97/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/2e9089d4-bc56-3031-9681-0c7047e67d97> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|ikepoL4qvLRmjNu2i7nmom9WL5k=|SdUtmv2MnL+ngYxGY8krXsGf8FAfpC4reELyvfhAQMAjffrFS+0ZpQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:37:03.361" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/2e9089d4-bc56-3031-9681-0c7047e67d97/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/2e9089d4-bc56-3031-9681-0c7047e67d97> ;
+        c:importance     "1" ;
+        c:name           "Hydraulic fracturing" ;
+        c:originalValue  "Hydraulic fracturing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ff37af2b-ac30-360a-8014-34c9dafc11d3> .

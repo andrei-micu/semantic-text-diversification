@@ -1,0 +1,27 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/ef34c59e-4a54-3133-b3e3-8e884894b164/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/ef34c59e-4a54-3133-b3e3-8e884894b164> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/InputTextTooShort> .
+
+<http://d.opencalais.com/dochash-1/ef34c59e-4a54-3133-b3e3-8e884894b164/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/ef34c59e-4a54-3133-b3e3-8e884894b164> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "InputTextTooShort" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|E/xhsWgwq41peTcJ+KmHhKAiYMg=|PVc8T2d6B7FM+jnpTqm/OQgVo5EnoLKb1WU4eiawicX7S0OUB7TRaQ==" ;
+        c:submissionDate  "2015-05-30 09:42:14.443" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/ef34c59e-4a54-3133-b3e3-8e884894b164>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8e548810-6a20-afcd-14da-545f31c32f98" ;
+        c:docDate          "2015-05-30 09:42:14.521" ;
+        c:docTitle         "" ;
+        c:document         "Holyfield beats Romney in charity boxing match. Call it the Quake on the Lake." ;
+        c:id               "http://id.opencalais.com/5V0uPAREYL9MxP1jVFUgdg" .

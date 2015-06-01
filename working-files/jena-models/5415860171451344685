@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "8310623e-bddf-78d1-14da-53ea1f24551f" ;
+        c:docDate          "2015-05-30 09:34:15.116" ;
+        c:docTitle         "" ;
+        c:document         "Key witness in Michael Brown case arrested. Police have arrested Dorian Johnson, the man who was walking with Michael Brown when he was fatally shot by an officer in Ferguson, Missouri." ;
+        c:id               "http://id.opencalais.com/nG0BCUJ7O60WXWHhHWXwSA" .
+
+<http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|mU4seOOda06Qhfrn6NykhwcUllE=|SUCMQLbUUQrWlPyqBhs0SJ0rWskFeqcCHR0DF+e+tw7OlYgUEEgu8w==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:34:14.898" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065> ;
+        c:importance     "1" ;
+        c:name           "Buchanan family" ;
+        c:originalValue  "Buchanan family" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/81cebcbd-defc-37c4-b302-f109dc0e4ca6> .
+
+<http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/58cc8335-44ff-336b-89a9-fc3faddff065> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .

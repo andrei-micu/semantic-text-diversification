@@ -1,0 +1,58 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GKVVcdcQlsqqFI8Y42KXO16d2Eg=|GDQKaPVYUj4xszzqL7hzHl7rDeseN9BPU1UbOYlGc4gO6w9z7OKMYg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:44:36.089" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/535236d4-52b8-34e9-8a5a-9ce912e6260b>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "56ab2962-2598-76b1-14da-5481c79719b3" ;
+        c:docDate          "2015-05-30 10:44:36.260" ;
+        c:docTitle         "" ;
+        c:document         "Josh Duggar apologizes after molestation report. Reality TV star Josh Duggar issued an apology Thursday after reports surfaced that he allegedly molested girls as a teenager, saying: \"I acted inexcusably.\"" ;
+        c:id               "http://id.opencalais.com/hyexIHRsSHg6lfXKS8gLpQ" .

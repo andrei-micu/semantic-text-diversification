@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:score           "0.931" .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:importance     "1" ;
+        c:name           "Fertile Crescent" ;
+        c:originalValue  "Fertile Crescent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5435af2d-c03d-3907-8586-8f38ab6b08eb> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:importance     "2" ;
+        c:name           "Caliphate" ;
+        c:originalValue  "Caliphate" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/42330927-7c9f-3aca-b3c4-1a704e84a89a> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LtvlYKikKu1KIAjz53vM5pHw+nw=|ggeq1Hu+AgvfooHbbqPNl2ham/cmjuQkUWTLIJEZLez9qlmi3X/SBQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:29:24.336" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:importance     "2" ;
+        c:name           "Western Asia" ;
+        c:originalValue  "Western Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/631fb2b9-52dc-3d33-b119-8bf56d76a361> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:importance     "1" ;
+        c:name           "Levant" ;
+        c:originalValue  "Levant" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3bbb187a-70ce-3a30-b61f-34126b6498f8> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:importance     "2" ;
+        c:name           "Syrian uprising" ;
+        c:originalValue  "2011–2012 Syrian uprising" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5ffa5c76-7418-379b-b3a8-c23eefeeac75> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:importance     "2" ;
+        c:name           "Islamism" ;
+        c:originalValue  "Islamism" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fae5a677-bf4d-3e0a-894d-b2ca51bcadb1> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a626c1b0-07f1-278f-14da-53a32f01927e" ;
+        c:docDate          "2015-05-30 10:29:24.524" ;
+        c:docTitle         "" ;
+        c:document         "Islamic State has killed over 2,000 off battlefield since June: monitor. BEIRUT (Reuters) - Ultra-radical Islamic State insurgents have killed at least 2,154 people off the battlefield in Syria since the end of June when the group declared a caliphate in territory it controls, a Syrian human rights monitor said on Tuesday." ;
+        c:id               "http://id.opencalais.com/T*vugbLinpOdNC0dviu6ew" .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:importance     "2" ;
+        c:name           "Syria" ;
+        c:originalValue  "Syria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34e250e7-a386-38cf-8d7b-6b45399ed952> .
+
+<http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/c2637901-e485-3ac9-b975-792f5940bf6d> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .

@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c> ;
+        c:importance     "2" ;
+        c:name           "Protests in Egypt" ;
+        c:originalValue  "Protests in Egypt" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fc8f4679-9246-371a-a33d-46ef5cd2488e> .
+
+<http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c> ;
+        c:importance     "1" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c> ;
+        c:importance     "1" ;
+        c:name           "Barack Obama" ;
+        c:originalValue  "Barack Obama" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67379953-4d14-3fbc-8b87-6c23b89a5e5f> .
+
+<http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|GxY9cz6hDqQfvK+tiCT30NmlDx0=|CCwXyazsrGN2CO3db5+p60px9j1xxOl75T4m2r3cCceF5OatIfNv3Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:29:30.471" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c> ;
+        c:importance  "1" ;
+        c:name        "Social Issues" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/7677911f-f579-309a-9299-bb737b9e23b5> .
+
+<http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c> ;
+        c:importance     "2" ;
+        c:name           "Illinois" ;
+        c:originalValue  "Illinois" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ebd47408-2014-3965-889f-07fdd7809fbe> .
+
+<http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/SocialIssues> ;
+        c:categoryName    "Social Issues" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a043d091-0368-70c3-14da-53a4ae732f98" ;
+        c:docDate          "2015-05-30 09:29:30.627" ;
+        c:docTitle         "" ;
+        c:document         "'Criminals' Taking Advantage Of Situation In Baltimore, Obama Says. The president said \"there's no excuse for the kind of violence\" that has erupted after peaceful protests following the death of a black man who suffered a serious spine injury while in police custody." ;
+        c:id               "http://id.opencalais.com/JLzDZ7ClL0MOZ9Czfh*qoQ" .
+
+<http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5ef2cbf0-9396-3d60-8929-d03c19a8c61c> ;
+        c:importance     "1" ;
+        c:name           "Luo people" ;
+        c:originalValue  "Luo people" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b61bde35-f8fd-3d58-bfd6-cfcded6a5921> .

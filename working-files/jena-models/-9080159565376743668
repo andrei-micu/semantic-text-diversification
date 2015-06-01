@@ -1,0 +1,92 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f> ;
+        c:importance     "2" ;
+        c:name           "Private equity" ;
+        c:originalValue  "Private equity" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/9a366e1d-5973-354f-b860-6092d855f8f3> .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f> ;
+        c:importance     "2" ;
+        c:name           "Dot-com bubble" ;
+        c:originalValue  "Dot-com bubble" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2df9b872-bff2-30ed-9efd-e7d4bcfe7f44> .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Ncif2+Ovp1yLLdAQsqKHFKe9ZQo=|eycrxA+wWBNVMMhUXQQ3ftb9Rs873oH5jlzOLxWgO472F+uoYeOGQA==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:16.406" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f> ;
+        c:importance     "1" ;
+        c:name           "Geography of California" ;
+        c:originalValue  "Geography of California" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/637c5164-c035-34de-88dc-88bc9287ec8f> .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "c5ff33db-7db9-0cda-14da-548b9f61927e" ;
+        c:docDate          "2015-05-30 10:45:16.515" ;
+        c:docTitle         "" ;
+        c:document         "Overvalued in Silicon Valley, but Don’t Say ‘Tech Bubble’. The tech industry’s venture capitalists admit to a certain amount of “frothiness” in start-up investments, but they studiously avoid another word. Bubble." ;
+        c:id               "http://id.opencalais.com/o2BKocc*AEOFHPVwdX9DxQ" .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f> ;
+        c:importance     "2" ;
+        c:name           "Economic bubbles" ;
+        c:originalValue  "Economic bubbles" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4fade80f-5a8b-3a83-9884-462f9f5cd50d> .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f> ;
+        c:importance     "1" ;
+        c:name           "Investment" ;
+        c:originalValue  "Investment" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7f974021-59af-3718-a6ea-cdb8151cb2c1> .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f> ;
+        c:importance     "2" ;
+        c:name           "Silicon Valley" ;
+        c:originalValue  "Silicon Valley" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2937d49f-78a7-3b5a-95fb-f06f634e7b9b> .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f> ;
+        c:importance     "1" ;
+        c:name           "Economics" ;
+        c:originalValue  "Economics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0bff9abd-58cd-318b-bd21-797d0c010138> .
+
+<http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/1ed7d48d-7467-3045-8a4d-e8d74c6c0f7f> ;
+        c:importance     "2" ;
+        c:name           "Venture capital" ;
+        c:originalValue  "Venture capital" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6c6a267-a115-3674-8e2a-6de4bacd6695> .

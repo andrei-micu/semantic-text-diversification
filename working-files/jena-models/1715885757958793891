@@ -1,0 +1,106 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:importance     "2" ;
+        c:name           "The Hollywood Reporter" ;
+        c:originalValue  "The Hollywood Reporter" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/6b0646c6-314b-3db8-9e44-df1c2fc7da93> .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Y1D4DGnWjzzuoTAulcybjTq74B0=|ZfemfsNyiyh9OJrmxHSMQlEnrdk0Vsa246pZaqD7F/dZF8PIBNhNVw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:50:18.968" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:importance     "1" ;
+        c:name           "Finke" ;
+        c:originalValue  "Finke (surname)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e3249c4a-ae7a-379d-91dd-4756458fb16f> .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:importance     "2" ;
+        c:name           "Publishing" ;
+        c:originalValue  "Publishing" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1ba7b8fb-0e34-3daf-8c13-5d12b195640a> .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:score           "0.929" .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:importance     "1" ;
+        c:name           "Mass media" ;
+        c:originalValue  "Mass media" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c8372098-cb83-3f4f-a0a7-d2f29778bc39> .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2d94acd9-5a09-7262-14da-54d57c913c98" ;
+        c:docDate          "2015-05-30 09:50:19.312" ;
+        c:docTitle         "" ;
+        c:document         "Nikki Finke, Feared Hollywood Reporter, Turns to Fiction. Barred by a settlement from practicing journalism about the entertainment industry online, Ms. Finke is writing fiction for her new website, Hollywood Dementia." ;
+        c:id               "http://id.opencalais.com/4wDplI8SpGzIR1LPW36lcw" .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:importance     "1" ;
+        c:name           "Nikki Finke" ;
+        c:originalValue  "Nikki Finke" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5fdc82a1-69ac-39bb-a69e-b2678633feee> .
+
+<http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/8f2fab34-96a2-3cfd-a2b0-c6918a138bcb> ;
+        c:importance     "2" ;
+        c:name           "Deadline.com" ;
+        c:originalValue  "Deadline.com" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/17bb3552-00bf-3b51-8d49-d2855d6360c6> .

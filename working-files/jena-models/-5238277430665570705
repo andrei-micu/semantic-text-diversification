@@ -1,0 +1,58 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "21ffe07c-a8c3-68aa-14da-549c38b653ed" ;
+        c:docDate          "2015-05-30 09:46:24.597" ;
+        c:docTitle         "" ;
+        c:document         "What vets really think of your weekend plans. As a wounded veteran who served two tours in Iraq, I've been asked to give speeches at Memorial Day celebrations. It's one of the hardest jobs I've ever done." ;
+        c:id               "http://id.opencalais.com/GZomBnArYDlF2sIPJRLHtg" .
+
+<http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|BQ0moge2rVffjFHs+UEh0o6CC8s=|IOtBJkngdzU/42KNLitcX6eU4olJ/630tuspspbapOnZAwQj6Vlc7Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:46:24.395" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93/SocialTag/1>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93> ;
+        c:importance  "1" ;
+        c:name        "Hospitality_Recreation" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/debc7308-3688-3aa7-9779-79570504ea25> .
+
+<http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Hospitality_Recreation> ;
+        c:categoryName    "Hospitality_Recreation" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/cc116ef6-6df4-31ac-92c0-f9cf77f4fd93> ;
+        c:score           "0.895" .

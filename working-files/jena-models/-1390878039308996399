@@ -1,0 +1,98 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "340be965-e7e3-6c83-14da-545629e653ed" ;
+        c:docDate          "2015-05-30 09:41:37.625" ;
+        c:docTitle         "" ;
+        c:document         "Avon shares seesaw amid bid hoax. In a wild session of trading, shares of cosmetics firm Avon whipsaw after mysterious reports of a takeover offer." ;
+        c:id               "http://id.opencalais.com/Oj8-TnwmEIUk4AVEKX9FMA" .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:importance     "1" ;
+        c:name           "SeeSaw" ;
+        c:originalValue  "SeeSaw (Internet television)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/37755d46-8a63-3fa5-8e2f-b9838cb50d32> .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|FEjwyvC6WgiprMWB2f8Oml4JJvI=|HLMQx6BQEbMjYHRsLR9oya7OrzqHQIVWE+UwlM6mJJiY50QrqzR7sw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:41:37.438" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:importance     "1" ;
+        c:name           "Mergers and acquisitions" ;
+        c:originalValue  "Mergers and acquisitions" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/2226c12a-87ad-3f85-939f-32f714cdf220> .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:importance  "1" ;
+        c:name        "Business_Finance" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/c1bf4420-4b56-3ef2-a429-06a6098bf2ef> .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:importance     "2" ;
+        c:name           "Avon" ;
+        c:originalValue  "Avon" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e690a6b7-f470-3679-bf96-02fadcc4757f> .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:importance     "1" ;
+        c:name           "Corporate finance" ;
+        c:originalValue  "Corporate finance" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e3bed591-ad6d-30db-b70a-c02c5ae755bd> .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/SocialTag/7>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Business_Finance> ;
+        c:categoryName    "Business_Finance" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/4c668e35-bd5f-3390-aeef-c635e168d6bc> ;
+        c:importance     "2" ;
+        c:name           "Takeover" ;
+        c:originalValue  "Takeover" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/58876eee-ac73-3346-b061-350ff5f19159> .

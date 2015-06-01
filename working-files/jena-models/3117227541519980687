@@ -1,0 +1,83 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1> ;
+        c:importance     "1" ;
+        c:name           "La Ciotat" ;
+        c:originalValue  "La Ciotat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7d394f63-00e3-3c2d-b281-fe495895a363> .
+
+<http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1> ;
+        c:importance     "2" ;
+        c:name           "Films" ;
+        c:originalValue  "1895 films" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/fa43c959-9228-3a22-998d-873ce33bc634> .
+
+<http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "307c3c31-7df2-394d-14da-54331dd719b3" ;
+        c:docDate          "2015-05-30 10:39:14.104" ;
+        c:docTitle         "" ;
+        c:document         "Still Playing: The Theater That Saw The Birth Of Cinema. Not far from the film festival in Cannes is a town with even deeper ties to cinema. La Ciotat is home to the oldest working movie house in the world and was used by the inventors of moving pictures." ;
+        c:id               "http://id.opencalais.com/r2ASKrvyH40CeFhdFJ-INQ" .
+
+<http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|Z4qvLWObBfVCo2jTBAalpDp4IPc=|Yged5/ScoCW931e6G2SxEwXMhu6OXybqgNY6nuLMChhzwOCW+hTqUQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:39:13.885" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1> ;
+        c:importance     "1" ;
+        c:name           "Visual arts" ;
+        c:originalValue  "Visual arts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0cfde7f0-993d-3ff3-9cf1-276f5f92a47d> .
+
+<http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1> ;
+        c:importance     "2" ;
+        c:name           "L'Arrivée d'un train en gare de La Ciotat" ;
+        c:originalValue  "L'Arrivée d'un train en gare de La Ciotat" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/19a1325f-909f-32e2-9ebc-beea6244619a> .
+
+<http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1> ;
+        c:importance     "1" ;
+        c:name           "Movie theater" ;
+        c:originalValue  "Movie theater" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/000a63ee-3f07-3b43-9f00-6aea2e83728f> .
+
+<http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/94c9b53b-5578-3e97-a3fa-b78d3a13e3d1> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .

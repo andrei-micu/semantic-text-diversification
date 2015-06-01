@@ -1,0 +1,90 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710/SocialTag/5>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "a0237da0-3f91-3c91-4da5-4986af32955e" ;
+        c:docDate          "2015-05-30 10:46:09.049" ;
+        c:docTitle         "" ;
+        c:document         "Cops: D.C. suspect had help. The five people arrested along with the suspect have been questioned and released. FULL STORY" ;
+        c:id               "http://id.opencalais.com/91Z26lv8c1hrgunPv7ZboQ" .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710> ;
+        c:importance     "1" ;
+        c:name           "Television in the United States" ;
+        c:originalValue  "Television in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/83a6c674-6b15-3eca-b7d0-43d8c4953fde> .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Law_Crime> ;
+        c:categoryName    "Law_Crime" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710> ;
+        c:importance     "1" ;
+        c:name           "COPS" ;
+        c:originalValue  "COPS (TV series)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/dd06943c-994c-369f-a736-632ffdf982e4> .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710> ;
+        c:importance  "1" ;
+        c:name        "Law_Crime" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/ea31334e-799c-3064-82e9-c2772a373029> .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710> ;
+        c:importance     "2" ;
+        c:name           "Television" ;
+        c:originalValue  "Television" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c3ea3c80-5e7d-34bf-ac59-df36234d1eb3> .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|I1OpDgoza8+MienisaV8BGsXits=|GeQs2Unmbw+LmNb3vMB5Oh7LbDk4L3Ot/KBVtsYWlxUK7GTeXVGyRw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:46:08.815" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710> ;
+        c:importance     "1" ;
+        c:name           "Law enforcement in the United States" ;
+        c:originalValue  "Law enforcement in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4bb1f596-8ecd-3da5-b765-0535fd29c114> .
+
+<http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/91156174-b99b-3d97-9c21-ce0317e71710> ;
+        c:score           "1.000" .

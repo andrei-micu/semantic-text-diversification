@@ -1,0 +1,114 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|MqqlqAoaQ0OzokiuneUgKjEt7dE=|P+wrtfjTTXX9mBXLpmOyIrDBTZ4TEm9OGL8a61rjHM8sgEOrQXnV5A==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:43:40.294" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:importance     "1" ;
+        c:name           "Africa" ;
+        c:originalValue  "Africa" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/40ba53c0-c97b-3a8d-9376-dccf9e54b90e> .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:importance     "2" ;
+        c:name           "Stone tool" ;
+        c:originalValue  "Stone tool" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/30fe69c0-cbe0-39d6-8c24-a11e418d46cc> .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "b94df544-c24f-29b1-4da5-4742861927e3" ;
+        c:docDate          "2015-05-30 10:43:40.497" ;
+        c:docTitle         "" ;
+        c:document         "Scientists: Oldest stone tools found in Kenya . Archaeologists have made a discovery that may mean our school text books have to be re-written." ;
+        c:id               "http://id.opencalais.com/ukud5qbskveUKSf8zsk0aQ" .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Education> ;
+        c:categoryName    "Education" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:importance     "2" ;
+        c:name           "Archaeology" ;
+        c:originalValue  "Archaeology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/cd73e452-e49a-3cc8-84ee-c71d74e0236a> .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:importance     "1" ;
+        c:name           "Culture" ;
+        c:originalValue  "Culture" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/54d0ac54-8ccc-3c01-84f0-cfe9f270be52> .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:importance  "1" ;
+        c:name        "Education" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/86535ce7-f4cf-3df9-914e-6c00fb68cb9f> .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:score           "0.992" .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:importance     "1" ;
+        c:name           "Anthropology" ;
+        c:originalValue  "Anthropology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0c8c0449-0aaf-3203-bb7d-f00c7864205c> .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:importance     "2" ;
+        c:name           "Kenya" ;
+        c:originalValue  "Kenya" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e7467ff3-5908-3a31-95e3-9e10a0e460c5> .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:importance     "2" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/5845d36a-f963-398d-b893-9b91886dc771> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .

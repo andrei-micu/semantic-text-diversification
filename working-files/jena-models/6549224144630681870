@@ -1,0 +1,99 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:importance     "1" ;
+        c:name           "Manila" ;
+        c:originalValue  "Manila" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5ad405dd-4aa7-38eb-a45f-f0acacb6b22b> .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/SocialTag/8>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:importance  "1" ;
+        c:name        "Disaster_Accident" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/bee5e7b3-8c6e-3509-8e68-843c0c09e634> .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:importance     "1" ;
+        c:name           "Cities in the Philippines" ;
+        c:originalValue  "Cities in the Philippines" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/67b2f75c-debd-393b-b997-27ed2ddda34e> .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:importance     "2" ;
+        c:name           "Trade union" ;
+        c:originalValue  "Trade union" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c1caf9fc-a35a-3b4e-a228-7965c9a3153b> .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:importance     "2" ;
+        c:name           "Philippines" ;
+        c:originalValue  "Philippines" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7ab0642b-c858-3c4e-a847-663a1d19a991> .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Disaster_Accident> ;
+        c:categoryName    "Disaster_Accident" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:score           "0.825" .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:importance     "2" ;
+        c:name           "Earth" ;
+        c:originalValue  "Earth" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d052cc83-af4a-37f3-9941-d41e42d45362> .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:importance     "1" ;
+        c:name           "Political geography" ;
+        c:originalValue  "Political geography" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1be17f2-ed47-36d8-84ad-d93a76ff0166> .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|wFOiIu8DoMSpAc4Asvb19dOtKwk=|XafwucF1JWWfc80BK1BF89j78a0y1hlExy6kEs02enntC5zDmj604Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:42:21.101" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7> ;
+        c:importance     "2" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/afc7ecbf-5668-3efa-a40b-62db41692fe7>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "7e8c7aa3-d52c-d6f7-14da-5460d2d23ab1" ;
+        c:docDate          "2015-05-30 10:42:21.225" ;
+        c:docTitle         "" ;
+        c:document         "Factory fire puts spotlight on working conditions in Philippines. MANILA (Reuters) - A fire that killed 72 people in a rubber slipper factory in the Philippines on Wednesday has shone a spotlight on what trade unions say are the often unsafe working conditions in Southeast Asia's fastest-growing country." ;
+        c:id               "http://id.opencalais.com/csvGwogUT6v3XZT9cTsTvA" .

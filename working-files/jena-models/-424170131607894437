@@ -1,0 +1,66 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Technology_Internet> ;
+        c:categoryName    "Technology_Internet" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126> ;
+        c:score           "0.953" .
+
+<http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|KQgYTsys5o/3/1sREl9AywKBinQ=|VEPCexyO4/c3QnIxwSIpQNwavGZAPMxzaggh84mIHrFMsomB5ikk8Q==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:39:43.463" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126/SocialTag/3>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126> ;
+        c:importance  "1" ;
+        c:name        "Technology_Internet" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/9a43d517-9eb2-377f-86fe-ebe665ef5477> .
+
+<http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126> ;
+        c:importance     "1" ;
+        c:name           "Blanck Mass" ;
+        c:originalValue  "Blanck Mass" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/37d69cf7-4520-3f20-8e0a-97e89aa0bf9f> .
+
+<http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/247b7b26-296e-3342-96cc-3bbd39ad2126>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "96429057-8fc6-20bb-14da-543a56771d39" ;
+        c:docDate          "2015-05-30 09:39:43.697" ;
+        c:docTitle         "" ;
+        c:document         "Songs We Love: Blanck Mass, 'Dead Format'. Benjamin John Power, one-half of the Olympic-scoring electronic duo F*** Buttons, takes a stab at dance music and draws blood." ;
+        c:id               "http://id.opencalais.com/DpaZJU6CM*CGUxS0qlDsKQ" .

@@ -1,0 +1,122 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:importance     "1" ;
+        c:name           "Fertile Crescent" ;
+        c:originalValue  "Fertile Crescent" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5435af2d-c03d-3907-8586-8f38ab6b08eb> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:importance     "2" ;
+        c:name           "Terrorism in Syria" ;
+        c:originalValue  "Terrorism in Syria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0e418fe1-e286-3cd6-b661-3a8df543e089> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:importance  "1" ;
+        c:name        "War_Conflict" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/b73e2e61-9ebb-3fe1-8353-c72fc0791e41> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/War_Conflict> ;
+        c:categoryName    "War_Conflict" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:importance     "2" ;
+        c:name           "Palmyra" ;
+        c:originalValue  "Palmyra" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/285d8837-5179-35bf-b053-a498cf4e432d> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:importance     "1" ;
+        c:name           "Syria" ;
+        c:originalValue  "Syria" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/34e250e7-a386-38cf-8d7b-6b45399ed952> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:importance     "2" ;
+        c:name           "Free Syrian Army" ;
+        c:originalValue  "Free Syrian Army" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/470d11bc-3748-3948-a775-46925cdf5957> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:importance     "1" ;
+        c:name           "Asia" ;
+        c:originalValue  "Asia" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/feba65f8-aab8-372a-ba8c-a1825752c7b9> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:importance     "2" ;
+        c:name           "Beirut" ;
+        c:originalValue  "Beirut" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/ee3de2da-1cda-35e7-bb05-1b00164368a0> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:importance     "2" ;
+        c:name           "Palmyra, New Jersey" ;
+        c:originalValue  "Palmyra, New Jersey" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/f797d543-2e6e-3541-a3ee-427f5818e9ef> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|LaUX3t9GwsMoMGZKBnxFI3fhaQM=|VvR/PlHJ/9ouov8Z+Lsg/FRdPEJRSwI2n9TkuRjPGrEeGXGGmdFdxw==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:44:21.070" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/3af347de-26c3-3104-b6fd-d55243d69efa>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "2afc9266-2423-cf4d-14da-547e1ce13c98" ;
+        c:docDate          "2015-05-30 09:44:21.398" ;
+        c:docTitle         "" ;
+        c:document         "Islamic State seizes ancient Palmyra city from Syrian forces. BEIRUT (Reuters) - Islamic State insurgents stormed the historic Syrian city of Palmyra on Wednesday, fighting off pro-government forces who withdrew after evacuating most of the civilian population, state television said." ;
+        c:id               "http://id.opencalais.com/AMEcCW1RG4LwO46LI3S3nw" .

@@ -1,0 +1,107 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:importance     "2" ;
+        c:name           "Revolving Door" ;
+        c:originalValue  "Revolving Door (advertisement)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/d0682bd2-c29e-3478-90a6-3ef6a586b21d> .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:importance     "1" ;
+        c:name           "Michael Dukakis" ;
+        c:originalValue  "Michael Dukakis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7c3a866f-add2-328d-b510-e2b09c151e80> .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:score           "0.669" .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:importance     "2" ;
+        c:name           "Dukakis" ;
+        c:originalValue  "Dukakis" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/90fa95d2-76f7-3850-9efd-02a4daeea87c> .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "232b645f-e473-0efa-14da-5489f0c23ab1" ;
+        c:docDate          "2015-05-30 10:45:09.625" ;
+        c:docTitle         "" ;
+        c:document         "The Ad That Ushered In An Era Of Tough-On-Crime Politics. In 1988, an attack ad about Gov. Michael Dukakis granting \"weekend prison passes\" to murderers upended the presidential race." ;
+        c:id               "http://id.opencalais.com/dxdi6YW92BpEhvV3-sp-Kw" .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/SocialTag/9>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:importance  "2" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:importance     "1" ;
+        c:name           "Attack ad" ;
+        c:originalValue  "Attack ad" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/202f8752-d96c-3638-87e4-a8ce05695013> .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:importance     "2" ;
+        c:name           "United States" ;
+        c:originalValue  "United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/359e9bfd-d04d-3ee5-931a-c69b04eac8d2> .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:importance     "2" ;
+        c:name           "Education in the United States" ;
+        c:originalValue  "Education in the United States" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/319dac9e-f5e1-3ee8-90bc-227f07cc45ee> .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:importance     "1" ;
+        c:name           "Massachusetts" ;
+        c:originalValue  "Massachusetts" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/adb682b0-294c-3698-bc2f-afbe25cb8e72> .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|VUvsfwKN4tDy5DZFPyFNKPt2PF0=|aXA0v6B8UDU+KB+OtyGrIsU6v/ODvKP1e6PlZclux2SOkOd/G515pQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:45:09.516" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/a313a19c-afc7-3377-9ba8-af8ce3fb1407> ;
+        c:importance     "2" ;
+        c:name           "Willie Horton" ;
+        c:originalValue  "Willie Horton" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b323c664-c979-3551-9347-1724c648559a> .

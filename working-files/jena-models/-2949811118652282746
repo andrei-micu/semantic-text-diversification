@@ -1,0 +1,91 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6> ;
+        c:importance     "1" ;
+        c:name           "Van Morrison" ;
+        c:originalValue  "Van Morrison" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/318592d1-5b8d-3e47-b5fb-397703da2b48> .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|nQL3D5lnv8MTrbH3gvghTFEKEMw=|XvcNPX4VgHy0PszkWHHGE25zfB+LPm3Qc3n5CpM/ietJADG13ZJfRQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 10:31:22.591" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6> ;
+        c:importance     "2" ;
+        c:name           "British music" ;
+        c:originalValue  "British music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5841e7d2-c63f-3eef-8440-12cb1c449717> .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Entertainment_Culture> ;
+        c:categoryName    "Entertainment_Culture" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6> ;
+        c:score           "1.000" .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6> ;
+        c:importance     "1" ;
+        c:name           "Blues" ;
+        c:originalValue  "Blues" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/90d37ee3-e4fe-3548-b839-feade09154b2> .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "62ca2da4-c12e-1856-14da-53c00df49095" ;
+        c:docDate          "2015-05-30 10:31:22.778" ;
+        c:docTitle         "" ;
+        c:document         "Singer of classic rock anthem dies. When 19-year-old Jack Ely stepped into a Portland, Oregon, studio in 1963 to sing vocals on a low-budget cover of a little-known garage-rock song, he had no idea he was making music history." ;
+        c:id               "http://id.opencalais.com/uJWNADQE0iD*AFmlo32fsw" .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6> ;
+        c:importance     "1" ;
+        c:name           "Them" ;
+        c:originalValue  "Them (band)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/28e5b97b-19b9-383d-9cdd-c3e488ff838f> .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6/SocialTag/6>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6> ;
+        c:importance  "1" ;
+        c:name        "Entertainment_Culture" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/68a5e7ae-0246-3aed-a1fb-a22ca7e9ac3c> .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6/cat/2>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6> ;
+        c:score           "0.525" .
+
+<http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/281f2d5e-65b6-3367-9d1d-332eb4f419a6> ;
+        c:importance     "2" ;
+        c:name           "Rock music" ;
+        c:originalValue  "Rock music" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4e5c6e1b-e8d0-3a19-8a76-4d603de5cff2> .

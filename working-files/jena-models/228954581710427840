@@ -1,0 +1,51 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "5e4058f7-65c5-5f98-14da-544cd9913c98" ;
+        c:docDate          "2015-05-30 09:40:59.569" ;
+        c:docTitle         "" ;
+        c:document         "Ayelet Shaked, Israel’s New Justice Minister, Shrugs Off Critics in Her Path. Ms. Shaked has been called the Michele M. Bachmann of Israeli politics and the most prominent politician “who could star in a calendar hanging in garages.”" ;
+        c:id               "http://id.opencalais.com/4Ww0iahP617ARQuGKv3xeQ" .
+
+<http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2/SocialTag/2>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2> ;
+        c:importance  "1" ;
+        c:name        "Politics" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/5e6b0d94-4f12-3589-953e-16a1ff786c9f> .
+
+<http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/Politics> ;
+        c:categoryName    "Politics" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2> ;
+        c:score           "0.912" .
+
+<http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2> ;
+        c:importance     "1" ;
+        c:name           "Shaked" ;
+        c:originalValue  "Shaked" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/7453c39a-ac0f-3f36-83ca-36676e324968> .
+
+<http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/b8b8e818-d12f-3a4d-b23a-cdc2828bada2> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|qYAZ1R3aWD4IR/bwFIC1w3/i4Oo=|S23mCn/NZKi3UH5sd+P1q9XFcA10FIbpoeDxTiz9+GEYhZGCHMsASg==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:40:59.289" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .

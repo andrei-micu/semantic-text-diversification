@@ -1,0 +1,115 @@
+@prefix c:     <http://s.opencalais.com/1/pred/> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/SocialTag/2>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:importance     "1" ;
+        c:name           "Clocks" ;
+        c:originalValue  "Clocks" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/4fcb7a96-cfa3-3b1d-9992-3cc635622748> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/SocialTag/7>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:importance     "2" ;
+        c:name           "Paddle" ;
+        c:originalValue  "Paddle (game controller)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/0642c4ec-7fbf-39b8-8bb0-51c9a1e01612> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/SocialTag/5>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:importance     "2" ;
+        c:name           "Watch" ;
+        c:originalValue  "Watch" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/e1de98ce-0174-3cfd-ac88-17bc146a4fc7> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/SocialTag/10>
+        a             <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId       <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:importance  "1" ;
+        c:name        "Human Interest" ;
+        c:socialtag   <http://d.opencalais.com/genericHasher-1/437fce1a-70dd-305a-b936-6d4478cc93a3> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/cat/1>
+        a                 <http://s.opencalais.com/1/type/cat/DocCat> ;
+        c:category        <http://d.opencalais.com/cat/Calais/HumanInterest> ;
+        c:categoryName    "Human Interest" ;
+        c:classifierName  "Calais" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:score           "0.887" .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/lid/DefaultLangId>
+        a        <http://s.opencalais.com/1/type/lid/DefaultLangId> ;
+        c:docId  <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:lang   <http://d.opencalais.com/lid/DefaultLangId/English> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/SocialTag/3>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:importance     "1" ;
+        c:name           "Measurement" ;
+        c:originalValue  "Measurement" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/1cf2a1b7-e4b2-3b20-8ec9-7890a842935a> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/SocialTag/8>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:importance     "2" ;
+        c:name           "Geneva" ;
+        c:originalValue  "Geneva" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c6ed0416-800c-3113-8dab-91e6c32aff8c> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/meta>
+        a                 <http://s.opencalais.com/1/type/sys/DocInfoMeta> ;
+        c:contentType     "text/xml" ;
+        c:docId           <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:emVer           "7.1.1103.5" ;
+        c:langIdVer       "DefaultLangId" ;
+        c:language        "English" ;
+        c:processingVer   "CalaisJob01" ;
+        c:signature       "digestalg-1|T7EP/Sug7/wGydbikERm2G6TAzc=|PzQ24G5FLN0PsdD7IZqzxhmam/KLORu6SQoSwlTLqtgmth7fnCktrQ==" ;
+        c:stagsVer        "8.0.OpenCalais-SNAPSHOT-b13-2012-06-14_23:22:25" ;
+        c:submissionDate  "2015-05-30 09:27:19.965" ;
+        c:submitterCode   "785e7754-246a-af60-9c5d-855d23748149" .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb>
+        a                  <http://s.opencalais.com/1/type/sys/DocInfo> ;
+        c:calaisRequestID  "985d9565-6812-8984-14da-5384d1d653ed" ;
+        c:docDate          "2015-05-30 09:27:20.121" ;
+        c:docTitle         "" ;
+        c:document         "Why are these watches worth a million dollars?. Get your paddles ready! Four watches at an upcoming auction in Geneva could break the $1 million mark. Here's why." ;
+        c:id               "http://id.opencalais.com/vUyCpYYN9QeyZ3eihct*eA" .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/SocialTag/1>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:importance     "1" ;
+        c:name           "Horology" ;
+        c:originalValue  "Horology" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/3f4f2d05-6114-3ea1-b077-29374d52f468> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/SocialTag/6>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:importance     "2" ;
+        c:name           "Dollar coin" ;
+        c:originalValue  "Dollar coin (United States)" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/5fce1b59-5f3b-3de8-aeb6-34b26107f164> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/SocialTag/4>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:importance     "2" ;
+        c:name           "Time" ;
+        c:originalValue  "Time" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/b6b8b06b-cafe-3738-ae57-3e142e318f6a> .
+
+<http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb/SocialTag/9>
+        a                <http://s.opencalais.com/1/type/tag/SocialTag> ;
+        c:docId          <http://d.opencalais.com/dochash-1/f2b968a4-82a5-3435-bbd5-5edf97d74beb> ;
+        c:importance     "2" ;
+        c:name           "Physics" ;
+        c:originalValue  "Physics" ;
+        c:socialtag      <http://d.opencalais.com/genericHasher-1/c39764eb-3814-300c-a1c3-ad74ab22337d> .
